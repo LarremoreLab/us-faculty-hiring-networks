@@ -1,0 +1,225 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+Arizona State University,Arizona State University,Field,Geology,9,1,7
+"Stony Brook University, State University of New York",Arizona State University,Field,Geology,2,1,1
+"University of Arizona, The",Brown University,Field,Geology,3,1,2
+"University of Tennessee, The",Brown University,Field,Geology,3,1,2
+California Institute of Technology,California Institute of Technology,Field,Geology,7,1,5
+Cornell University,California Institute of Technology,Field,Geology,2,1,1
+Harvard University,California Institute of Technology,Field,Geology,3,1,2
+Johns Hopkins University,California Institute of Technology,Field,Geology,2,1,1
+Massachusetts Institute of Technology,California Institute of Technology,Field,Geology,7,3,3
+Northwestern University,California Institute of Technology,Field,Geology,3,1,2
+Purdue University,California Institute of Technology,Field,Geology,3,1,1
+University of Alaska Fairbanks,California Institute of Technology,Field,Geology,2,1,1
+"University of California, Davis",California Institute of Technology,Field,Geology,5,2,3
+"University of California, Santa Cruz",California Institute of Technology,Field,Geology,5,1,2
+University of Washington,California Institute of Technology,Field,Geology,3,1,2
+Lehman College (CUNY),"City University of New York, The",Field,Geology,2,1,1
+Clemson University,Clemson University,Field,Geology,4,1,3
+University of Houston,Colorado School of Mines,Field,Geology,3,1,2
+George Mason University,Colorado State University,Field,Geology,2,1,1
+Columbia University,Columbia University,Field,Geology,12,3,8
+Duke University,Columbia University,Field,Geology,2,1,1
+Rutgers - New Brunswick,Columbia University,Field,Geology,6,1,5
+Tulane University,Columbia University,Field,Geology,2,1,1
+University of Alaska Fairbanks,Columbia University,Field,Geology,2,1,1
+"University of Maryland, College Park",Columbia University,Field,Geology,2,1,1
+University of Southern California,Columbia University,Field,Geology,3,1,2
+University of South Carolina,Cornell University,Field,Geology,2,1,1
+Arizona State University,Dartmouth College,Field,Geology,2,1,1
+Washington State University,Dartmouth College,Field,Geology,2,1,1
+Arizona State University,Harvard University,Field,Geology,2,1,1
+Columbia University,Harvard University,Field,Geology,7,1,5
+Johns Hopkins University,Harvard University,Field,Geology,4,1,3
+Massachusetts Institute of Technology,Harvard University,Field,Geology,7,1,6
+"University of California, Santa Barbara",Harvard University,Field,Geology,3,1,2
+University of Michigan,Harvard University,Field,Geology,3,1,1
+"University of Tennessee, The",Harvard University,Field,Geology,2,1,1
+Indiana University - Bloomington,Indiana University - Bloomington,Field,Geology,4,1,3
+"University of Iowa, The",Johns Hopkins University,Field,Geology,3,2,1
+University of Pittsburgh,Johns Hopkins University,Field,Geology,2,1,1
+Kent State University,Kent State University,Field,Geology,3,2,1
+Loma Linda University,Loma Linda University,Field,Geology,7,1,6
+Auburn University,Louisiana State University,Field,Geology,2,1,1
+University of Louisiana at Lafayette,Louisiana State University,Field,Geology,3,2,1
+Arizona State University,Massachusetts Institute of Technology,Field,Geology,7,1,6
+Boise State University,Massachusetts Institute of Technology,Field,Geology,4,1,2
+Brown University,Massachusetts Institute of Technology,Field,Geology,4,1,3
+California Institute of Technology,Massachusetts Institute of Technology,Field,Geology,4,1,3
+Case Western Reserve University,Massachusetts Institute of Technology,Field,Geology,2,1,1
+Columbia University,Massachusetts Institute of Technology,Field,Geology,4,1,3
+Cornell University,Massachusetts Institute of Technology,Field,Geology,2,1,1
+Florida State University,Massachusetts Institute of Technology,Field,Geology,5,1,4
+George Mason University,Massachusetts Institute of Technology,Field,Geology,3,1,1
+Harvard University,Massachusetts Institute of Technology,Field,Geology,4,1,3
+Oregon State University,Massachusetts Institute of Technology,Field,Geology,9,2,7
+Tulane University,Massachusetts Institute of Technology,Field,Geology,3,2,1
+"University of Chicago, The",Massachusetts Institute of Technology,Field,Geology,4,1,3
+University of Colorado Boulder,Massachusetts Institute of Technology,Field,Geology,5,1,4
+"University of Minnesota, Twin Cities",Massachusetts Institute of Technology,Field,Geology,4,1,3
+University of New Hampshire,Massachusetts Institute of Technology,Field,Geology,4,3,1
+"University of New Mexico, The",Massachusetts Institute of Technology,Field,Geology,3,2,1
+University of Oregon,Massachusetts Institute of Technology,Field,Geology,3,1,2
+University of South Carolina,Massachusetts Institute of Technology,Field,Geology,2,1,1
+University of Washington,Massachusetts Institute of Technology,Field,Geology,3,1,2
+Yale University,Massachusetts Institute of Technology,Field,Geology,3,1,1
+George Mason University,Michigan State University,Field,Geology,2,1,1
+University of Colorado Boulder,Michigan State University,Field,Geology,2,1,1
+Mississippi State University,Mississippi State University,Field,Geology,2,1,1
+Colorado School of Mines,Missouri University of Science and Technology,Field,Geology,2,1,1
+George Mason University,North Carolina State University,Field,Geology,2,1,1
+University of Texas Arlington,Northwestern University,Field,Geology,2,1,1
+George Mason University,"Ohio State University, The",Field,Geology,2,1,1
+Texas Tech University,"Ohio State University, The",Field,Geology,2,1,1
+"University of Maine, The","Ohio State University, The",Field,Geology,3,1,2
+Kent State University,Oregon State University,Field,Geology,2,1,1
+Oregon State University,Oregon State University,Field,Geology,23,6,15
+"Binghamton University, State University of New York","Pennsylvania State University, The",Field,Geology,2,1,1
+Cleveland State University,"Pennsylvania State University, The",Field,Geology,2,1,1
+Missouri University of Science and Technology,"Pennsylvania State University, The",Field,Geology,2,1,1
+Southern Illinois University Carbondale,"Pennsylvania State University, The",Field,Geology,2,1,1
+"Stony Brook University, State University of New York","Pennsylvania State University, The",Field,Geology,2,1,1
+Syracuse University,"Pennsylvania State University, The",Field,Geology,2,1,1
+"University of California, Santa Cruz","Pennsylvania State University, The",Field,Geology,2,1,1
+West Virginia University,"Pennsylvania State University, The",Field,Geology,6,1,4
+Arizona State University,Princeton University,Field,Geology,3,1,2
+"Pennsylvania State University, The",Princeton University,Field,Geology,4,1,3
+South Dakota School of Mines & Technology,Princeton University,Field,Geology,2,1,1
+University of Pennsylvania,Princeton University,Field,Geology,2,1,1
+Ball State University,Purdue University,Field,Geology,2,1,1
+West Virginia University,Rutgers - New Brunswick,Field,Geology,2,1,1
+Colorado State University,Stanford University,Field,Geology,2,1,1
+Cornell University,Stanford University,Field,Geology,3,2,1
+Indiana University - Bloomington,Stanford University,Field,Geology,2,1,1
+"Ohio State University, The",Stanford University,Field,Geology,2,1,1
+Oregon State University,Stanford University,Field,Geology,5,1,4
+Princeton University,Stanford University,Field,Geology,2,1,1
+Stanford University,Stanford University,Field,Geology,9,3,6
+Temple University,Stanford University,Field,Geology,2,1,1
+Texas A&M University,Stanford University,Field,Geology,3,1,2
+University of Alaska Fairbanks,Stanford University,Field,Geology,2,1,1
+"University of California, Irvine",Stanford University,Field,Geology,4,1,3
+University of Idaho,Stanford University,Field,Geology,2,1,1
+University of Notre Dame,Stanford University,Field,Geology,2,1,1
+University of Texas Arlington,Stanford University,Field,Geology,2,1,1
+University of Washington,Stanford University,Field,Geology,2,1,1
+West Virginia University,Stanford University,Field,Geology,2,1,1
+Purdue University,"Stony Brook University, State University of New York",Field,Geology,3,1,2
+Rutgers  - Newark,"Stony Brook University, State University of New York",Field,Geology,2,1,1
+Tufts University,Syracuse University,Field,Geology,2,1,1
+West Virginia University,Syracuse University,Field,Geology,2,1,1
+Texas A&M University,Texas A&M University,Field,Geology,5,3,2
+Syracuse University,"University at Albany, State University of New York",Field,Geology,2,1,1
+University of Alaska Fairbanks,University of Alaska Fairbanks,Field,Geology,2,1,1
+Southern Methodist University,"University of Arizona, The",Field,Geology,3,1,2
+"University of Alabama, The","University of Arizona, The",Field,Geology,3,1,1
+"University of Arizona, The","University of Arizona, The",Field,Geology,7,1,5
+University of Houston,"University of Arizona, The",Field,Geology,2,1,1
+University of Oklahoma,"University of Arizona, The",Field,Geology,3,1,2
+University of Rhode Island,"University of Arizona, The",Field,Geology,2,1,1
+University of Rochester,"University of Arizona, The",Field,Geology,3,1,2
+Arizona State University,"University of California, Berkeley",Field,Geology,4,1,3
+Brown University,"University of California, Berkeley",Field,Geology,2,1,1
+Massachusetts Institute of Technology,"University of California, Berkeley",Field,Geology,3,1,2
+"Pennsylvania State University, The","University of California, Berkeley",Field,Geology,4,1,3
+Stanford University,"University of California, Berkeley",Field,Geology,5,2,3
+"University of California, Los Angeles","University of California, Berkeley",Field,Geology,3,1,2
+"University of California, Santa Cruz","University of California, Berkeley",Field,Geology,3,1,2
+University of Illinois at Urbana-Champaign,"University of California, Berkeley",Field,Geology,2,1,1
+"University of Maryland, College Park","University of California, Berkeley",Field,Geology,2,1,1
+University of Oregon,"University of California, Berkeley",Field,Geology,8,2,6
+"University of Texas at Austin, The","University of California, Berkeley",Field,Geology,4,1,3
+"University of Utah, The","University of California, Berkeley",Field,Geology,6,1,5
+University of Washington,"University of California, Berkeley",Field,Geology,4,1,3
+Northeastern University,"University of California, Davis",Field,Geology,2,1,1
+Vanderbilt University,"University of California, Davis",Field,Geology,2,1,1
+Arizona State University,"University of California, Los Angeles",Field,Geology,3,1,2
+Iowa State University,"University of California, Los Angeles",Field,Geology,2,1,1
+Missouri University of Science and Technology,"University of California, Los Angeles",Field,Geology,2,1,1
+"University of California, Davis","University of California, Los Angeles",Field,Geology,2,1,1
+University of Pittsburgh,"University of California, Los Angeles",Field,Geology,2,1,1
+"University of Texas at Austin, The","University of California, Los Angeles",Field,Geology,3,1,2
+Vanderbilt University,"University of California, Los Angeles",Field,Geology,2,1,1
+Oregon State University,"University of California, San Diego",Field,Geology,5,1,4
+"University of California, Irvine","University of California, San Diego",Field,Geology,2,1,1
+University of Florida,"University of California, San Diego",Field,Geology,2,1,1
+University of Hawaii,"University of California, San Diego",Field,Geology,3,2,1
+"University of Texas at El Paso, The","University of California, San Diego",Field,Geology,2,1,1
+University of Wisconsin - Milwaukee,"University of California, San Diego",Field,Geology,2,1,1
+Oregon State University,"University of California, Santa Barbara",Field,Geology,3,1,2
+"University of California, Davis","University of California, Santa Barbara",Field,Geology,3,1,2
+New Mexico Institute of Mining and Technology,"University of California, Santa Cruz",Field,Geology,2,1,1
+"Pennsylvania State University, The","University of California, Santa Cruz",Field,Geology,2,1,1
+University of Colorado Boulder,"University of California, Santa Cruz",Field,Geology,2,1,1
+"University of Utah, The","University of California, Santa Cruz",Field,Geology,3,1,2
+Indiana University - Bloomington,University of Colorado Boulder,Field,Geology,3,1,2
+Oregon State University,University of Colorado Boulder,Field,Geology,3,1,2
+University of Arkansas,University of Colorado Boulder,Field,Geology,3,1,2
+University of Colorado Boulder,University of Colorado Boulder,Field,Geology,5,2,2
+University of Massachusetts Amherst,University of Colorado Boulder,Field,Geology,5,1,3
+"University of Nevada, Reno",University of Colorado Boulder,Field,Geology,2,1,1
+University of Louisville,University of Florida,Field,Geology,2,1,1
+Georgia State University,University of Georgia,Field,Geology,3,2,1
+Oregon State University,University of Hawaii,Field,Geology,4,1,3
+South Dakota School of Mines & Technology,University of Illinois at Urbana-Champaign,Field,Geology,2,1,1
+Stanford University,University of Illinois at Urbana-Champaign,Field,Geology,2,1,1
+University of North Carolina Charlotte,University of Illinois at Urbana-Champaign,Field,Geology,3,1,2
+"University of Texas at Austin, The",University of Illinois at Urbana-Champaign,Field,Geology,2,1,1
+Texas Tech University,"University of Iowa, The",Field,Geology,2,1,1
+Ohio University,"University of Kansas, The",Field,Geology,2,1,1
+University of Arkansas,"University of Kansas, The",Field,Geology,2,1,1
+West Virginia University,"University of Kansas, The",Field,Geology,2,1,1
+Florida International University,University of Kentucky,Field,Geology,2,1,1
+"University of Maine, The","University of Maine, The",Field,Geology,6,1,5
+Northwestern University,University of Michigan,Field,Geology,3,1,2
+"University of Arizona, The",University of Michigan,Field,Geology,4,2,2
+"University of California, Santa Cruz",University of Michigan,Field,Geology,2,1,1
+University of Florida,University of Michigan,Field,Geology,2,1,1
+North Dakota State University,"University of Minnesota, Twin Cities",Field,Geology,2,1,1
+South Dakota School of Mines & Technology,"University of Minnesota, Twin Cities",Field,Geology,2,1,1
+University of Arkansas,University of Nebraska - Lincoln,Field,Geology,2,1,1
+University of New Hampshire,University of New Hampshire,Field,Geology,4,2,2
+University of Massachusetts Amherst,"University of New Mexico, The",Field,Geology,2,1,1
+Utah State University,"University of New Mexico, The",Field,Geology,3,1,2
+Baylor University,University of Oklahoma,Field,Geology,2,1,1
+Purdue University,University of Oklahoma,Field,Geology,5,1,4
+New Mexico State University,University of Oregon,Field,Geology,2,1,1
+University of Hawaii,University of Oregon,Field,Geology,2,1,1
+East Carolina University,University of South Florida,Field,Geology,2,1,1
+University of South Florida,University of South Florida,Field,Geology,5,1,3
+Arizona State University,University of Southern California,Field,Geology,3,1,2
+University of Wisconsin - Milwaukee,University of Southern California,Field,Geology,2,1,1
+"University of Tennessee, The","University of Tennessee, The",Field,Geology,2,1,1
+"Ohio State University, The","University of Texas at Austin, The",Field,Geology,3,1,2
+Texas A&M University,"University of Texas at Austin, The",Field,Geology,5,1,4
+"University of Kansas, The","University of Texas at Austin, The",Field,Geology,5,2,3
+University of Kentucky,"University of Texas at Austin, The",Field,Geology,2,1,1
+"University of Tennessee, The","University of Texas at Austin, The",Field,Geology,2,1,1
+"University of Texas at Austin, The","University of Texas at Austin, The",Field,Geology,2,1,1
+Johns Hopkins University,"University of Utah, The",Field,Geology,2,1,1
+University of Michigan,"University of Utah, The",Field,Geology,2,1,1
+"University of Texas at El Paso, The","University of Utah, The",Field,Geology,3,1,1
+"University of Utah, The","University of Utah, The",Field,Geology,2,1,1
+Utah State University,"University of Utah, The",Field,Geology,2,1,1
+Georgia Institute of Technology,University of Washington,Field,Geology,2,1,1
+Montana State University,University of Washington,Field,Geology,2,1,1
+Oregon State University,University of Washington,Field,Geology,17,3,14
+Princeton University,University of Washington,Field,Geology,2,1,1
+University of Alaska Fairbanks,University of Washington,Field,Geology,4,1,3
+"University of California, Santa Cruz",University of Washington,Field,Geology,2,1,1
+University of Colorado Boulder,University of Washington,Field,Geology,2,1,1
+"University of Minnesota, Twin Cities",University of Washington,Field,Geology,2,1,1
+University of North Carolina Charlotte,University of Washington,Field,Geology,3,1,2
+"University of Texas at Austin, The",University of Washington,Field,Geology,2,1,1
+University of Washington,University of Washington,Field,Geology,9,2,7
+Washington State University,University of Washington,Field,Geology,4,1,3
+Florida State University,University of Wisconsin - Madison,Field,Geology,3,1,2
+South Dakota School of Mines & Technology,University of Wisconsin - Madison,Field,Geology,3,1,2
+Temple University,University of Wisconsin - Madison,Field,Geology,2,1,1
+"University of New Mexico, The",University of Wyoming,Field,Geology,2,1,1
+South Dakota School of Mines & Technology,Utah State University,Field,Geology,3,2,1
+Southern Methodist University,Virginia Polytechnic Institute and State University,Field,Geology,2,1,1
+University of Oklahoma,Virginia Polytechnic Institute and State University,Field,Geology,2,1,1
+Michigan State University,Yale University,Field,Geology,2,1,1
+"University of Chicago, The",Yale University,Field,Geology,4,1,3
+Washington University in St. Louis,Yale University,Field,Geology,2,1,1

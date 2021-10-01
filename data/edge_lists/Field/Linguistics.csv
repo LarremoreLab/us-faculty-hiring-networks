@@ -1,0 +1,93 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+"University of Kansas, The",Brown University,Field,Linguistics,2,1,1
+University of Oklahoma,Columbia University,Field,Linguistics,2,1,1
+Indiana University - Bloomington,Cornell University,Field,Linguistics,3,1,2
+"Stony Brook University, State University of New York",Cornell University,Field,Linguistics,2,1,1
+"University of Vermont, The",Cornell University,Field,Linguistics,2,1,1
+Florida State University,Florida State University,Field,Linguistics,2,1,1
+Gallaudet University,Gallaudet University,Field,Linguistics,5,3,1
+Michigan State University,Georgetown University,Field,Linguistics,3,2,1
+Brown University,Harvard University,Field,Linguistics,6,2,2
+Massachusetts Institute of Technology,Harvard University,Field,Linguistics,2,1,1
+University of Massachusetts Amherst,Harvard University,Field,Linguistics,2,1,1
+Florida State University,Indiana University - Bloomington,Field,Linguistics,2,1,1
+University of Pittsburgh,Indiana University - Bloomington,Field,Linguistics,2,1,1
+Massachusetts Institute of Technology,Massachusetts Institute of Technology,Field,Linguistics,9,2,6
+New York University,Massachusetts Institute of Technology,Field,Linguistics,6,1,4
+Rutgers - New Brunswick,Massachusetts Institute of Technology,Field,Linguistics,4,1,3
+Stanford University,Massachusetts Institute of Technology,Field,Linguistics,4,1,3
+"University of Arizona, The",Massachusetts Institute of Technology,Field,Linguistics,5,3,1
+University of Connecticut,Massachusetts Institute of Technology,Field,Linguistics,5,2,3
+"University of Maryland, College Park",Massachusetts Institute of Technology,Field,Linguistics,6,1,5
+University of Massachusetts Amherst,Massachusetts Institute of Technology,Field,Linguistics,6,2,4
+University of Pennsylvania,Massachusetts Institute of Technology,Field,Linguistics,5,1,4
+University of Southern California,Massachusetts Institute of Technology,Field,Linguistics,4,3,1
+Michigan State University,Michigan State University,Field,Linguistics,8,6,2
+Florida State University,Princeton University,Field,Linguistics,2,1,1
+Brown University,Stanford University,Field,Linguistics,5,1,4
+Northwestern University,Stanford University,Field,Linguistics,3,1,2
+"Ohio State University, The",Stanford University,Field,Linguistics,5,4,1
+Brigham Young University,"University of Arizona, The",Field,Linguistics,2,1,1
+"University of Montana, Missoula","University of Arizona, The",Field,Linguistics,4,1,2
+Brown University,"University of California, Berkeley",Field,Linguistics,4,1,2
+Florida State University,"University of California, Berkeley",Field,Linguistics,3,2,1
+Gallaudet University,"University of California, Berkeley",Field,Linguistics,2,1,1
+Massachusetts Institute of Technology,"University of California, Berkeley",Field,Linguistics,3,1,2
+Syracuse University,"University of California, Berkeley",Field,Linguistics,2,1,1
+"University at Buffalo, State University of New York","University of California, Berkeley",Field,Linguistics,5,1,4
+"University of California, Berkeley","University of California, Berkeley",Field,Linguistics,4,2,1
+"University of California, Santa Barbara","University of California, Berkeley",Field,Linguistics,3,2,1
+"University of Chicago, The","University of California, Berkeley",Field,Linguistics,3,2,1
+University of Colorado Boulder,"University of California, Berkeley",Field,Linguistics,4,2,2
+University of Oklahoma,"University of California, Berkeley",Field,Linguistics,4,3,1
+University of Pittsburgh,"University of California, Berkeley",Field,Linguistics,2,1,1
+University of Wisconsin - Milwaukee,"University of California, Berkeley",Field,Linguistics,2,1,1
+Florida State University,"University of California, Los Angeles",Field,Linguistics,3,2,1
+Harvard University,"University of California, Los Angeles",Field,Linguistics,2,1,1
+"Stony Brook University, State University of New York","University of California, Los Angeles",Field,Linguistics,4,2,2
+University of Hawaii,"University of California, Los Angeles",Field,Linguistics,3,1,2
+University of Illinois at Urbana-Champaign,"University of California, Los Angeles",Field,Linguistics,2,1,1
+University of Massachusetts Amherst,"University of California, Los Angeles",Field,Linguistics,2,1,1
+University of North Carolina at Chapel Hill,"University of California, Los Angeles",Field,Linguistics,3,1,2
+University of Oregon,"University of California, Los Angeles",Field,Linguistics,2,1,1
+University of Washington,"University of California, Los Angeles",Field,Linguistics,2,1,1
+Brown University,"University of California, San Diego",Field,Linguistics,2,1,1
+Rice University,"University of California, Santa Barbara",Field,Linguistics,2,1,1
+University of Hawaii,"University of California, Santa Barbara",Field,Linguistics,2,1,1
+Stanford University,"University of California, Santa Cruz",Field,Linguistics,3,1,2
+Indiana University - Bloomington,"University of Chicago, The",Field,Linguistics,2,1,1
+"University of Chicago, The","University of Chicago, The",Field,Linguistics,3,1,1
+Florida Atlantic University,University of Colorado Boulder,Field,Linguistics,2,1,1
+University of Colorado Boulder,University of Colorado Boulder,Field,Linguistics,5,3,2
+West Virginia University,University of Georgia,Field,Linguistics,2,1,1
+Georgetown University,University of Hawaii,Field,Linguistics,2,1,1
+Brigham Young University,University of Illinois at Urbana-Champaign,Field,Linguistics,3,2,1
+Florida State University,University of Illinois at Urbana-Champaign,Field,Linguistics,5,2,3
+University of Delaware,University of Illinois at Urbana-Champaign,Field,Linguistics,3,1,1
+University of Illinois at Urbana-Champaign,University of Illinois at Urbana-Champaign,Field,Linguistics,4,1,3
+University of Southern California,University of Illinois at Urbana-Champaign,Field,Linguistics,2,1,1
+Florida State University,University of Kentucky,Field,Linguistics,2,1,1
+Michigan State University,"University of Maryland, College Park",Field,Linguistics,3,2,1
+"University of Kansas, The","University of Maryland, College Park",Field,Linguistics,2,1,1
+Cornell University,University of Massachusetts Amherst,Field,Linguistics,3,2,1
+"Stony Brook University, State University of New York",University of Massachusetts Amherst,Field,Linguistics,3,1,2
+"University of California, Santa Cruz",University of Massachusetts Amherst,Field,Linguistics,5,3,1
+University of North Carolina at Chapel Hill,University of Massachusetts Amherst,Field,Linguistics,2,1,1
+University of Rochester,University of Massachusetts Amherst,Field,Linguistics,3,1,2
+Michigan State University,University of Michigan,Field,Linguistics,3,2,1
+Syracuse University,University of Michigan,Field,Linguistics,2,1,1
+"University of California, Berkeley",University of Michigan,Field,Linguistics,2,1,1
+"University of New Mexico, The","University of New Mexico, The",Field,Linguistics,4,2,2
+"University of Texas at El Paso, The","University of New Mexico, The",Field,Linguistics,2,1,1
+Massachusetts Institute of Technology,University of Pennsylvania,Field,Linguistics,3,1,2
+Michigan State University,University of Pennsylvania,Field,Linguistics,2,1,1
+New York University,University of Pennsylvania,Field,Linguistics,3,1,2
+University of Illinois at Chicago,University of Pennsylvania,Field,Linguistics,2,1,1
+Yale University,University of Pennsylvania,Field,Linguistics,2,1,1
+"University of Vermont, The",University of Pittsburgh,Field,Linguistics,4,1,3
+University of Southern California,University of Southern California,Field,Linguistics,2,1,1
+"University of Minnesota, Twin Cities","University of Texas at Austin, The",Field,Linguistics,2,1,1
+University of Oklahoma,"University of Texas at Austin, The",Field,Linguistics,3,1,2
+"University of Texas at El Paso, The","University of Texas at Austin, The",Field,Linguistics,3,1,2
+University of Oklahoma,Yale University,Field,Linguistics,2,1,1
+"University of Vermont, The",Yale University,Field,Linguistics,2,1,1

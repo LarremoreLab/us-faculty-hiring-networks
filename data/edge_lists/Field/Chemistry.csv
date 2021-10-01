@@ -1,0 +1,293 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+Arizona State University,Arizona State University,Field,Chemistry,5,1,3
+University of Missouri,Arizona State University,Field,Chemistry,2,1,1
+Ball State University,Bowling Green State University,Field,Chemistry,2,1,1
+Brigham Young University,Brigham Young University,Field,Chemistry,3,1,2
+Duke University,California Institute of Technology,Field,Chemistry,3,1,2
+"Stony Brook University, State University of New York",California Institute of Technology,Field,Chemistry,3,1,2
+"University of California, Los Angeles",California Institute of Technology,Field,Chemistry,4,1,3
+"University of California, Riverside",California Institute of Technology,Field,Chemistry,5,1,4
+University of Colorado Boulder,California Institute of Technology,Field,Chemistry,4,1,3
+University of Florida,California Institute of Technology,Field,Chemistry,3,1,2
+University of Georgia,California Institute of Technology,Field,Chemistry,3,1,2
+University of Massachusetts Amherst,California Institute of Technology,Field,Chemistry,2,1,1
+"University of Minnesota, Twin Cities",California Institute of Technology,Field,Chemistry,6,1,5
+University of North Carolina at Chapel Hill,California Institute of Technology,Field,Chemistry,2,1,1
+University of Rochester,California Institute of Technology,Field,Chemistry,2,1,1
+"University of Texas at Austin, The",California Institute of Technology,Field,Chemistry,3,1,2
+"University of Utah, The",California Institute of Technology,Field,Chemistry,2,1,1
+Wayne State University,California Institute of Technology,Field,Chemistry,5,4,1
+Baruch College (CUNY),"City University of New York, The",Field,Chemistry,2,1,1
+Fordham University,"City University of New York, The",Field,Chemistry,2,1,1
+North Carolina State University,Clemson University,Field,Chemistry,2,1,1
+"University of Southern Mississippi, The",Clemson University,Field,Chemistry,2,1,1
+Brown University,Columbia University,Field,Chemistry,3,1,2
+California Institute of Technology,Columbia University,Field,Chemistry,3,1,1
+Georgia Institute of Technology,Columbia University,Field,Chemistry,2,1,1
+New York University,Columbia University,Field,Chemistry,2,1,1
+University of Delaware,Columbia University,Field,Chemistry,6,2,4
+"University of Maine, The",Columbia University,Field,Chemistry,2,1,1
+University of Pennsylvania,Columbia University,Field,Chemistry,3,1,2
+University of Rochester,Columbia University,Field,Chemistry,3,1,2
+University of Wyoming,Columbia University,Field,Chemistry,2,1,1
+Miami University,Cornell University,Field,Chemistry,3,1,2
+"Ohio State University, The",Cornell University,Field,Chemistry,2,1,1
+Rutgers - New Brunswick,Cornell University,Field,Chemistry,3,1,1
+"Stony Brook University, State University of New York",Cornell University,Field,Chemistry,3,1,2
+Texas A&M University,Cornell University,Field,Chemistry,2,1,1
+"University of California, Berkeley",Cornell University,Field,Chemistry,4,1,3
+"University of California, San Diego",Cornell University,Field,Chemistry,2,1,1
+University of Michigan,Cornell University,Field,Chemistry,2,1,1
+University of Oregon,Cornell University,Field,Chemistry,2,1,1
+Northeastern University,Duke University,Field,Chemistry,2,1,1
+Wake Forest University,Duke University,Field,Chemistry,2,1,1
+University of South Carolina,Emory University,Field,Chemistry,2,1,1
+Washington State University,Florida State University,Field,Chemistry,2,1,1
+Fordham University,Fordham University,Field,Chemistry,3,1,1
+Georgetown University,George Washington University,Field,Chemistry,2,1,1
+North Carolina State University,Georgia Institute of Technology,Field,Chemistry,2,1,1
+Rice University,Georgia Institute of Technology,Field,Chemistry,2,1,1
+University of Central Florida,Georgia Institute of Technology,Field,Chemistry,2,1,1
+University of Kentucky,Georgia Institute of Technology,Field,Chemistry,3,1,2
+Dartmouth College,Harvard University,Field,Chemistry,2,1,1
+Harvard University,Harvard University,Field,Chemistry,5,1,4
+Johns Hopkins University,Harvard University,Field,Chemistry,3,1,1
+Northwestern University,Harvard University,Field,Chemistry,3,1,2
+Princeton University,Harvard University,Field,Chemistry,5,1,4
+"University of California, Santa Barbara",Harvard University,Field,Chemistry,2,1,1
+University of Delaware,Harvard University,Field,Chemistry,3,1,2
+University of Florida,Harvard University,Field,Chemistry,3,1,2
+University of Illinois at Urbana-Champaign,Harvard University,Field,Chemistry,4,1,3
+"University of Iowa, The",Harvard University,Field,Chemistry,2,1,1
+"University of Minnesota, Twin Cities",Harvard University,Field,Chemistry,5,1,4
+University of Notre Dame,Harvard University,Field,Chemistry,2,1,1
+University of South Carolina,Harvard University,Field,Chemistry,2,1,1
+University of Washington,Harvard University,Field,Chemistry,5,1,4
+Illinois Institute of Technology,Illinois Institute of Technology,Field,Chemistry,6,2,3
+Vanderbilt University,Indiana University - Bloomington,Field,Chemistry,2,1,1
+Iowa State University,Iowa State University,Field,Chemistry,3,1,2
+"University of North Dakota, The",Iowa State University,Field,Chemistry,2,1,1
+Virginia Polytechnic Institute and State University,Iowa State University,Field,Chemistry,2,1,1
+Georgia Institute of Technology,Johns Hopkins University,Field,Chemistry,2,1,1
+Howard University,Johns Hopkins University,Field,Chemistry,2,1,1
+Indiana University - Bloomington,Johns Hopkins University,Field,Chemistry,2,1,1
+Texas State University,Johns Hopkins University,Field,Chemistry,2,1,1
+"University of California, San Diego",Johns Hopkins University,Field,Chemistry,2,1,1
+University of Central Florida,Johns Hopkins University,Field,Chemistry,2,1,1
+Texas Southern University,Louisiana State University,Field,Chemistry,3,2,1
+Brandeis University,Massachusetts Institute of Technology,Field,Chemistry,2,1,1
+California Institute of Technology,Massachusetts Institute of Technology,Field,Chemistry,4,1,3
+Massachusetts Institute of Technology,Massachusetts Institute of Technology,Field,Chemistry,5,2,3
+Montana State University,Massachusetts Institute of Technology,Field,Chemistry,2,1,1
+Northeastern University,Massachusetts Institute of Technology,Field,Chemistry,4,1,2
+Northwestern University,Massachusetts Institute of Technology,Field,Chemistry,2,1,1
+"Ohio State University, The",Massachusetts Institute of Technology,Field,Chemistry,3,1,2
+Temple University,Massachusetts Institute of Technology,Field,Chemistry,2,1,1
+Tufts University,Massachusetts Institute of Technology,Field,Chemistry,3,1,1
+"University of California, Irvine",Massachusetts Institute of Technology,Field,Chemistry,3,1,2
+"University of California, Los Angeles",Massachusetts Institute of Technology,Field,Chemistry,3,1,2
+"University of California, San Diego",Massachusetts Institute of Technology,Field,Chemistry,4,1,3
+University of Colorado Boulder,Massachusetts Institute of Technology,Field,Chemistry,8,1,7
+University of Denver,Massachusetts Institute of Technology,Field,Chemistry,2,1,1
+University of Illinois at Urbana-Champaign,Massachusetts Institute of Technology,Field,Chemistry,4,1,3
+University of Massachusetts Amherst,Massachusetts Institute of Technology,Field,Chemistry,5,2,3
+University of South Carolina,Massachusetts Institute of Technology,Field,Chemistry,4,1,3
+University of Southern California,Massachusetts Institute of Technology,Field,Chemistry,2,1,1
+University of Washington,Massachusetts Institute of Technology,Field,Chemistry,5,3,2
+University of Wisconsin - Madison,Massachusetts Institute of Technology,Field,Chemistry,3,1,2
+Yale University,Massachusetts Institute of Technology,Field,Chemistry,4,1,3
+Florida A&M University,Michigan State University,Field,Chemistry,2,1,1
+Michigan State University,Michigan State University,Field,Chemistry,3,1,1
+Missouri University of Science and Technology,Michigan State University,Field,Chemistry,2,1,1
+Ohio University,Michigan State University,Field,Chemistry,3,2,1
+University of Colorado Boulder,Michigan State University,Field,Chemistry,2,1,1
+University of Oklahoma,Michigan State University,Field,Chemistry,2,1,1
+New Mexico Institute of Mining and Technology,New Mexico State University,Field,Chemistry,2,1,1
+North Carolina State University,North Carolina State University,Field,Chemistry,19,4,15
+Georgia Institute of Technology,Northwestern University,Field,Chemistry,2,1,1
+Illinois Institute of Technology,Northwestern University,Field,Chemistry,2,1,1
+Northwestern University,Northwestern University,Field,Chemistry,6,4,2
+"University of Minnesota, Twin Cities",Northwestern University,Field,Chemistry,3,2,1
+University of Pittsburgh,Northwestern University,Field,Chemistry,2,1,1
+University of South Carolina,Northwestern University,Field,Chemistry,2,1,1
+Wesleyan University,Northwestern University,Field,Chemistry,2,1,1
+University of Massachusetts Lowell,"Ohio State University, The",Field,Chemistry,2,1,1
+University of Notre Dame,"Ohio State University, The",Field,Chemistry,2,1,1
+North Carolina State University,"Pennsylvania State University, The",Field,Chemistry,4,2,1
+"Pennsylvania State University, The","Pennsylvania State University, The",Field,Chemistry,4,1,3
+"University of Cincinnati, The","Pennsylvania State University, The",Field,Chemistry,2,1,1
+"University of Minnesota, Twin Cities","Pennsylvania State University, The",Field,Chemistry,3,1,2
+University of Pittsburgh,"Pennsylvania State University, The",Field,Chemistry,3,1,2
+University of South Florida,"Pennsylvania State University, The",Field,Chemistry,4,1,3
+Wayne State University,"Pennsylvania State University, The",Field,Chemistry,2,1,1
+New Jersey Institute of Technology,Princeton University,Field,Chemistry,2,1,1
+South Dakota School of Mines & Technology,Princeton University,Field,Chemistry,2,1,1
+"Stony Brook University, State University of New York",Princeton University,Field,Chemistry,2,1,1
+"University of California, Los Angeles",Princeton University,Field,Chemistry,3,1,2
+University of Washington,Princeton University,Field,Chemistry,2,1,1
+Indiana University - Bloomington,Purdue University,Field,Chemistry,3,1,2
+Miami University,Purdue University,Field,Chemistry,3,1,1
+North Dakota State University,Purdue University,Field,Chemistry,3,1,2
+"Ohio State University, The",Purdue University,Field,Chemistry,3,1,1
+Purdue University,Purdue University,Field,Chemistry,5,2,2
+"University of Alabama, The",Purdue University,Field,Chemistry,3,1,2
+Fordham University,Rutgers - New Brunswick,Field,Chemistry,3,2,1
+New Jersey Institute of Technology,Rutgers - New Brunswick,Field,Chemistry,2,1,1
+Rutgers - New Brunswick,Rutgers - New Brunswick,Field,Chemistry,5,1,4
+Boston College,Stanford University,Field,Chemistry,5,1,2
+Cornell University,Stanford University,Field,Chemistry,5,1,3
+Purdue University,Stanford University,Field,Chemistry,2,1,1
+"University of California, Berkeley",Stanford University,Field,Chemistry,3,1,1
+University of Illinois at Urbana-Champaign,Stanford University,Field,Chemistry,5,2,3
+"University of Maryland, College Park",Stanford University,Field,Chemistry,3,1,2
+University of Notre Dame,Stanford University,Field,Chemistry,3,1,1
+Stevens Institute of Technology,Stevens Institute of Technology,Field,Chemistry,3,2,1
+Illinois Institute of Technology,"Stony Brook University, State University of New York",Field,Chemistry,2,1,1
+Oklahoma State University,Texas A&M University,Field,Chemistry,2,1,1
+"University of Alabama, The",Texas A&M University,Field,Chemistry,2,1,1
+University of Michigan,Texas A&M University,Field,Chemistry,2,1,1
+Arizona State University,Texas Tech University,Field,Chemistry,2,1,1
+Syracuse University,Tufts University,Field,Chemistry,2,1,1
+"University at Albany, State University of New York","University at Albany, State University of New York",Field,Chemistry,2,1,1
+"University of Akron, The","University at Buffalo, State University of New York",Field,Chemistry,2,1,1
+University of Missouri,"University at Buffalo, State University of New York",Field,Chemistry,2,1,1
+University of Alaska Fairbanks,University of Alaska Fairbanks,Field,Chemistry,3,1,1
+University of Memphis,"University of Arizona, The",Field,Chemistry,2,1,1
+University of Nebraska - Lincoln,"University of Arizona, The",Field,Chemistry,2,1,1
+Brown University,"University of California, Berkeley",Field,Chemistry,3,1,1
+California Institute of Technology,"University of California, Berkeley",Field,Chemistry,4,1,3
+Colorado State University,"University of California, Berkeley",Field,Chemistry,6,3,3
+Columbia University,"University of California, Berkeley",Field,Chemistry,4,3,1
+Cornell University,"University of California, Berkeley",Field,Chemistry,8,1,7
+Duke University,"University of California, Berkeley",Field,Chemistry,4,1,3
+Georgia Institute of Technology,"University of California, Berkeley",Field,Chemistry,6,3,3
+Indiana University - Bloomington,"University of California, Berkeley",Field,Chemistry,3,1,1
+Iowa State University,"University of California, Berkeley",Field,Chemistry,2,1,1
+Massachusetts Institute of Technology,"University of California, Berkeley",Field,Chemistry,9,5,4
+Northwestern University,"University of California, Berkeley",Field,Chemistry,8,1,6
+"Pennsylvania State University, The","University of California, Berkeley",Field,Chemistry,6,1,5
+Princeton University,"University of California, Berkeley",Field,Chemistry,3,1,1
+Rice University,"University of California, Berkeley",Field,Chemistry,2,1,1
+Rutgers - New Brunswick,"University of California, Berkeley",Field,Chemistry,5,2,3
+San Diego State University,"University of California, Berkeley",Field,Chemistry,3,1,2
+Stanford University,"University of California, Berkeley",Field,Chemistry,4,2,2
+"Stony Brook University, State University of New York","University of California, Berkeley",Field,Chemistry,5,2,3
+"University of California, Davis","University of California, Berkeley",Field,Chemistry,6,2,2
+"University of California, Irvine","University of California, Berkeley",Field,Chemistry,5,2,2
+"University of California, Los Angeles","University of California, Berkeley",Field,Chemistry,5,1,2
+"University of California, Merced","University of California, Berkeley",Field,Chemistry,2,1,1
+"University of California, San Diego","University of California, Berkeley",Field,Chemistry,6,1,5
+"University of Chicago, The","University of California, Berkeley",Field,Chemistry,7,1,6
+University of Colorado Boulder,"University of California, Berkeley",Field,Chemistry,7,3,4
+University of Illinois at Chicago,"University of California, Berkeley",Field,Chemistry,3,1,2
+University of Illinois at Urbana-Champaign,"University of California, Berkeley",Field,Chemistry,3,1,2
+"University of Iowa, The","University of California, Berkeley",Field,Chemistry,2,1,1
+"University of Kansas, The","University of California, Berkeley",Field,Chemistry,4,2,2
+"University of Maryland, College Park","University of California, Berkeley",Field,Chemistry,3,1,2
+University of Massachusetts Amherst,"University of California, Berkeley",Field,Chemistry,3,1,2
+University of Michigan,"University of California, Berkeley",Field,Chemistry,6,3,2
+"University of Minnesota, Twin Cities","University of California, Berkeley",Field,Chemistry,5,2,3
+University of North Carolina at Chapel Hill,"University of California, Berkeley",Field,Chemistry,4,2,2
+University of Oregon,"University of California, Berkeley",Field,Chemistry,6,2,4
+University of Pennsylvania,"University of California, Berkeley",Field,Chemistry,5,2,3
+"University of Toledo, The","University of California, Berkeley",Field,Chemistry,2,1,1
+University of Virginia,"University of California, Berkeley",Field,Chemistry,2,1,1
+University of Washington,"University of California, Berkeley",Field,Chemistry,6,1,5
+Ball State University,"University of California, Davis",Field,Chemistry,2,1,1
+George Mason University,"University of California, Davis",Field,Chemistry,3,1,2
+Washington State University,"University of California, Davis",Field,Chemistry,2,1,1
+"University of California, Davis","University of California, Irvine",Field,Chemistry,3,1,2
+University of Delaware,"University of California, Irvine",Field,Chemistry,3,1,2
+"University of California, Davis","University of California, Los Angeles",Field,Chemistry,2,1,1
+"University of California, Los Angeles","University of California, Los Angeles",Field,Chemistry,5,2,3
+"University of California, Santa Barbara","University of California, Los Angeles",Field,Chemistry,2,1,1
+University of Virginia,"University of California, Los Angeles",Field,Chemistry,2,1,1
+University of Wisconsin - Madison,"University of California, Los Angeles",Field,Chemistry,3,1,2
+"University of California, Riverside","University of California, Riverside",Field,Chemistry,2,1,1
+Arizona State University,"University of California, San Diego",Field,Chemistry,3,1,2
+University of Michigan,"University of California, San Diego",Field,Chemistry,2,1,1
+"University of California, San Diego","University of California, San Francisco",Field,Chemistry,3,1,1
+California Institute of Technology,"University of California, Santa Barbara",Field,Chemistry,2,1,1
+"University of Nevada, Las Vegas","University of California, Santa Barbara",Field,Chemistry,2,1,1
+Washington University in St. Louis,"University of California, Santa Barbara",Field,Chemistry,2,1,1
+Northwestern University,"University of Chicago, The",Field,Chemistry,2,1,1
+Rutgers  - Newark,"University of Chicago, The",Field,Chemistry,2,1,1
+University of North Carolina at Chapel Hill,"University of Chicago, The",Field,Chemistry,3,1,1
+Purdue University,University of Colorado Boulder,Field,Chemistry,3,1,2
+"Stony Brook University, State University of New York",University of Colorado Boulder,Field,Chemistry,2,1,1
+University of Colorado Boulder,University of Colorado Boulder,Field,Chemistry,10,2,6
+University of Florida,University of Florida,Field,Chemistry,3,1,2
+Ohio University,University of Houston,Field,Chemistry,2,1,1
+University of Florida,University of Illinois at Chicago,Field,Chemistry,2,1,1
+University of Illinois at Chicago,University of Illinois at Chicago,Field,Chemistry,3,1,1
+Brandeis University,University of Illinois at Urbana-Champaign,Field,Chemistry,2,1,1
+Georgia Institute of Technology,University of Illinois at Urbana-Champaign,Field,Chemistry,2,1,1
+Indiana University - Bloomington,University of Illinois at Urbana-Champaign,Field,Chemistry,3,1,2
+Northwestern University,University of Illinois at Urbana-Champaign,Field,Chemistry,2,1,1
+"Ohio State University, The",University of Illinois at Urbana-Champaign,Field,Chemistry,4,1,3
+Princeton University,University of Illinois at Urbana-Champaign,Field,Chemistry,2,1,1
+South Dakota School of Mines & Technology,University of Illinois at Urbana-Champaign,Field,Chemistry,2,1,1
+Texas A&M University,University of Illinois at Urbana-Champaign,Field,Chemistry,2,1,1
+University of Arkansas,University of Illinois at Urbana-Champaign,Field,Chemistry,2,1,1
+"University of Maryland, College Park",University of Illinois at Urbana-Champaign,Field,Chemistry,3,1,2
+University of Notre Dame,University of Illinois at Urbana-Champaign,Field,Chemistry,3,1,1
+"University of Minnesota, Twin Cities","University of Iowa, The",Field,Chemistry,2,1,1
+University of Louisville,University of Louisville,Field,Chemistry,4,3,1
+Southern Illinois University Carbondale,"University of Maryland Baltimore, The",Field,Chemistry,2,1,1
+University of Connecticut,University of Massachusetts Amherst,Field,Chemistry,3,1,1
+Florida International University,University of Miami,Field,Chemistry,2,1,1
+Brigham Young University,University of Michigan,Field,Chemistry,3,1,2
+Clemson University,University of Michigan,Field,Chemistry,3,1,2
+Ohio University,University of Michigan,Field,Chemistry,2,1,1
+University of Florida,University of Michigan,Field,Chemistry,2,1,1
+University of Michigan,University of Michigan,Field,Chemistry,3,1,2
+South Dakota School of Mines & Technology,"University of Minnesota, Twin Cities",Field,Chemistry,2,1,1
+"University of California, Davis","University of Minnesota, Twin Cities",Field,Chemistry,2,1,1
+"Binghamton University, State University of New York",University of North Carolina at Chapel Hill,Field,Chemistry,3,1,2
+Duke University,University of North Carolina at Chapel Hill,Field,Chemistry,3,1,2
+East Carolina University,University of North Carolina at Chapel Hill,Field,Chemistry,5,1,4
+"University of Arizona, The",University of North Carolina at Chapel Hill,Field,Chemistry,2,1,1
+"University of New Mexico, The",University of North Carolina at Chapel Hill,Field,Chemistry,3,1,2
+University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill,Field,Chemistry,5,1,3
+University of Virginia,University of North Carolina at Chapel Hill,Field,Chemistry,2,1,1
+University of Connecticut,University of Notre Dame,Field,Chemistry,2,1,1
+University of South Carolina,University of Notre Dame,Field,Chemistry,3,1,2
+University of Denver,University of Oregon,Field,Chemistry,2,1,1
+University of Michigan,University of Oregon,Field,Chemistry,2,1,1
+Louisiana State University,University of Pennsylvania,Field,Chemistry,2,1,1
+Rutgers University-Camden,University of Pennsylvania,Field,Chemistry,2,1,1
+"University of Arizona, The",University of Pennsylvania,Field,Chemistry,2,1,1
+University of Colorado Boulder,University of Pittsburgh,Field,Chemistry,3,1,2
+Texas State University,"University of Southern Mississippi, The",Field,Chemistry,2,1,1
+Auburn University,"University of Texas at Austin, The",Field,Chemistry,4,1,3
+Duke University,"University of Texas at Austin, The",Field,Chemistry,2,1,1
+Mississippi State University,"University of Texas at Austin, The",Field,Chemistry,2,1,1
+"University of Arizona, The","University of Texas at Austin, The",Field,Chemistry,2,1,1
+University of Illinois at Urbana-Champaign,"University of Texas at Austin, The",Field,Chemistry,3,1,2
+University of Oklahoma,"University of Texas at Austin, The",Field,Chemistry,3,1,2
+University of South Carolina,"University of Texas at Austin, The",Field,Chemistry,2,1,1
+"University of Texas at El Paso, The","University of Texas at Austin, The",Field,Chemistry,2,1,1
+"University of South Dakota, The",University of Virginia,Field,Chemistry,2,1,1
+Oakland University,University of Washington,Field,Chemistry,2,1,1
+"University of California, Merced",University of Washington,Field,Chemistry,2,1,1
+University of Idaho,University of Washington,Field,Chemistry,2,1,1
+Colorado State University,University of Wisconsin - Madison,Field,Chemistry,2,1,1
+Illinois Institute of Technology,University of Wisconsin - Madison,Field,Chemistry,4,1,3
+Indiana University - Bloomington,University of Wisconsin - Madison,Field,Chemistry,3,2,1
+Montana State University,University of Wisconsin - Madison,Field,Chemistry,3,1,2
+"Ohio State University, The",University of Wisconsin - Madison,Field,Chemistry,4,2,2
+South Dakota School of Mines & Technology,University of Wisconsin - Madison,Field,Chemistry,3,1,2
+"University of Iowa, The",University of Wisconsin - Madison,Field,Chemistry,2,1,1
+"University of Minnesota, Twin Cities",University of Wisconsin - Madison,Field,Chemistry,4,1,2
+Wake Forest University,University of Wisconsin - Madison,Field,Chemistry,3,1,1
+South Dakota School of Mines & Technology,Utah State University,Field,Chemistry,3,2,1
+Vanderbilt University,Vanderbilt University,Field,Chemistry,12,6,6
+Ohio University,Virginia Polytechnic Institute and State University,Field,Chemistry,2,1,1
+Virginia Polytechnic Institute and State University,Virginia Polytechnic Institute and State University,Field,Chemistry,3,2,1
+Washington University in St. Louis,Washington University in St. Louis,Field,Chemistry,2,1,1
+Oakland University,Wayne State University,Field,Chemistry,3,1,2
+California Institute of Technology,Yale University,Field,Chemistry,4,1,3
+Georgetown University,Yale University,Field,Chemistry,3,1,2
+Michigan State University,Yale University,Field,Chemistry,2,1,1
+University of Colorado Boulder,Yale University,Field,Chemistry,7,2,3
+University of Massachusetts Amherst,Yale University,Field,Chemistry,3,1,2

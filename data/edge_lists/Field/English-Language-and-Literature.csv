@@ -1,0 +1,891 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+Arizona State University,Arizona State University,Field,English Language and Literature,4,2,2
+"University of New Mexico, The",Arizona State University,Field,English Language and Literature,3,2,1
+Ball State University,Ball State University,Field,English Language and Literature,12,7,5
+Texas Tech University,Ball State University,Field,English Language and Literature,2,1,1
+"University at Albany, State University of New York","Binghamton University, State University of New York",Field,English Language and Literature,2,1,1
+Virginia Commonwealth University,"Binghamton University, State University of New York",Field,English Language and Literature,2,1,1
+Boston University,Boston University,Field,English Language and Literature,2,1,1
+University of Arkansas,Boston University,Field,English Language and Literature,2,1,1
+Kent State University,Bowling Green State University,Field,English Language and Literature,3,1,2
+"College of William & Mary, The",Brandeis University,Field,English Language and Literature,3,1,1
+University of South Carolina,Brandeis University,Field,English Language and Literature,2,1,1
+Brigham Young University,Brigham Young University,Field,English Language and Literature,3,1,2
+Arizona State University,Brown University,Field,English Language and Literature,3,1,2
+"Binghamton University, State University of New York",Brown University,Field,English Language and Literature,2,1,1
+Fordham University,Brown University,Field,English Language and Literature,2,1,1
+Indiana University - Bloomington,Brown University,Field,English Language and Literature,4,1,3
+Louisiana State University,Brown University,Field,English Language and Literature,2,1,1
+Michigan State University,Brown University,Field,English Language and Literature,2,1,1
+Northeastern University,Brown University,Field,English Language and Literature,3,2,1
+"Pennsylvania State University, The",Brown University,Field,English Language and Literature,2,1,1
+Rice University,Brown University,Field,English Language and Literature,3,2,1
+Rutgers  - Newark,Brown University,Field,English Language and Literature,3,1,2
+Southern Methodist University,Brown University,Field,English Language and Literature,2,1,1
+"University of California, Davis",Brown University,Field,English Language and Literature,2,1,1
+"University of California, Los Angeles",Brown University,Field,English Language and Literature,3,2,1
+University of Florida,Brown University,Field,English Language and Literature,2,1,1
+University of New Hampshire,Brown University,Field,English Language and Literature,2,1,1
+University of Rochester,Brown University,Field,English Language and Literature,2,1,1
+University of Washington,Brown University,Field,English Language and Literature,2,1,1
+Georgia Institute of Technology,Carnegie Mellon University,Field,English Language and Literature,3,1,1
+Baruch College (CUNY),"City University of New York, The",Field,English Language and Literature,6,1,5
+John Jay College of Criminal Justice (CUNY),"City University of New York, The",Field,English Language and Literature,7,2,5
+Lehman College (CUNY),"City University of New York, The",Field,English Language and Literature,3,1,2
+North Dakota State University,"City University of New York, The",Field,English Language and Literature,2,1,1
+"University of Alabama, The","City University of New York, The",Field,English Language and Literature,2,1,1
+"University of Chicago, The","City University of New York, The",Field,English Language and Literature,2,1,1
+University of North Carolina Charlotte,"City University of New York, The",Field,English Language and Literature,2,1,1
+Wake Forest University,"City University of New York, The",Field,English Language and Literature,3,1,1
+Colorado State University,Colorado State University,Field,English Language and Literature,2,1,1
+Baruch College (CUNY),Columbia University,Field,English Language and Literature,6,5,1
+"Binghamton University, State University of New York",Columbia University,Field,English Language and Literature,3,1,2
+Boston College,Columbia University,Field,English Language and Literature,2,1,1
+Boston University,Columbia University,Field,English Language and Literature,5,2,3
+Brooklyn College (CUNY),Columbia University,Field,English Language and Literature,12,4,7
+City College (CUNY),Columbia University,Field,English Language and Literature,6,2,3
+Claremont Graduate University,Columbia University,Field,English Language and Literature,2,1,1
+Columbia University,Columbia University,Field,English Language and Literature,2,1,1
+Duke University,Columbia University,Field,English Language and Literature,3,2,1
+Florida Atlantic University,Columbia University,Field,English Language and Literature,3,1,2
+Fordham University,Columbia University,Field,English Language and Literature,4,2,2
+George Mason University,Columbia University,Field,English Language and Literature,2,1,1
+Georgetown University,Columbia University,Field,English Language and Literature,3,2,1
+Georgia State University,Columbia University,Field,English Language and Literature,2,1,1
+Harvard University,Columbia University,Field,English Language and Literature,2,1,1
+John Jay College of Criminal Justice (CUNY),Columbia University,Field,English Language and Literature,7,4,1
+Lehman College (CUNY),Columbia University,Field,English Language and Literature,6,2,4
+New York University,Columbia University,Field,English Language and Literature,8,5,3
+"Pennsylvania State University, The",Columbia University,Field,English Language and Literature,3,1,2
+Princeton University,Columbia University,Field,English Language and Literature,3,2,1
+Rutgers  - Newark,Columbia University,Field,English Language and Literature,5,4,1
+Rutgers - New Brunswick,Columbia University,Field,English Language and Literature,7,2,5
+"Stony Brook University, State University of New York",Columbia University,Field,English Language and Literature,5,1,4
+Temple University,Columbia University,Field,English Language and Literature,2,1,1
+"University of California, Berkeley",Columbia University,Field,English Language and Literature,2,1,1
+"University of California, Irvine",Columbia University,Field,English Language and Literature,4,2,2
+"University of California, Los Angeles",Columbia University,Field,English Language and Literature,3,1,2
+"University of California, Riverside",Columbia University,Field,English Language and Literature,3,2,1
+"University of Chicago, The",Columbia University,Field,English Language and Literature,4,2,2
+"University of Iowa, The",Columbia University,Field,English Language and Literature,2,1,1
+University of Kentucky,Columbia University,Field,English Language and Literature,2,1,1
+University of Massachusetts Amherst,Columbia University,Field,English Language and Literature,3,2,1
+University of Michigan,Columbia University,Field,English Language and Literature,4,1,3
+University of New Hampshire,Columbia University,Field,English Language and Literature,2,1,1
+University of North Carolina at Chapel Hill,Columbia University,Field,English Language and Literature,3,1,1
+"University of North Carolina at Greensboro, The",Columbia University,Field,English Language and Literature,2,1,1
+University of Notre Dame,Columbia University,Field,English Language and Literature,4,1,3
+University of Pittsburgh,Columbia University,Field,English Language and Literature,4,2,2
+University of South Florida,Columbia University,Field,English Language and Literature,2,1,1
+"University of Tennessee, The",Columbia University,Field,English Language and Literature,2,1,1
+"University of Texas at Austin, The",Columbia University,Field,English Language and Literature,6,4,2
+University of Virginia,Columbia University,Field,English Language and Literature,7,3,4
+University of Washington,Columbia University,Field,English Language and Literature,3,1,2
+University of Wisconsin - Madison,Columbia University,Field,English Language and Literature,6,4,2
+Vanderbilt University,Columbia University,Field,English Language and Literature,3,2,1
+Washington University in St. Louis,Columbia University,Field,English Language and Literature,2,1,1
+"Binghamton University, State University of New York",Cornell University,Field,English Language and Literature,2,1,1
+Brandeis University,Cornell University,Field,English Language and Literature,2,1,1
+Brown University,Cornell University,Field,English Language and Literature,3,1,1
+Clemson University,Cornell University,Field,English Language and Literature,3,2,1
+"College of William & Mary, The",Cornell University,Field,English Language and Literature,3,2,1
+Columbia University,Cornell University,Field,English Language and Literature,3,2,1
+Cornell University,Cornell University,Field,English Language and Literature,2,1,1
+Dartmouth College,Cornell University,Field,English Language and Literature,2,1,1
+Duke University,Cornell University,Field,English Language and Literature,3,2,1
+George Mason University,Cornell University,Field,English Language and Literature,2,1,1
+George Washington University,Cornell University,Field,English Language and Literature,3,1,2
+Oklahoma State University,Cornell University,Field,English Language and Literature,2,1,1
+Southern Methodist University,Cornell University,Field,English Language and Literature,3,2,1
+Tufts University,Cornell University,Field,English Language and Literature,2,1,1
+"University at Buffalo, State University of New York",Cornell University,Field,English Language and Literature,2,1,1
+"University of California, Santa Barbara",Cornell University,Field,English Language and Literature,3,1,2
+"University of Chicago, The",Cornell University,Field,English Language and Literature,2,1,1
+University of Colorado Boulder,Cornell University,Field,English Language and Literature,4,2,2
+University of Connecticut,Cornell University,Field,English Language and Literature,4,1,3
+University of Florida,Cornell University,Field,English Language and Literature,3,2,1
+University of Illinois at Urbana-Champaign,Cornell University,Field,English Language and Literature,4,1,3
+University of Miami,Cornell University,Field,English Language and Literature,4,3,1
+"University of Montana, Missoula",Cornell University,Field,English Language and Literature,2,1,1
+University of North Carolina at Chapel Hill,Cornell University,Field,English Language and Literature,2,1,1
+University of Oklahoma,Cornell University,Field,English Language and Literature,4,1,3
+University of Pennsylvania,Cornell University,Field,English Language and Literature,3,1,1
+"University of Texas at Austin, The",Cornell University,Field,English Language and Literature,7,4,3
+University of Wisconsin - Madison,Cornell University,Field,English Language and Literature,2,1,1
+University of Wisconsin - Milwaukee,Cornell University,Field,English Language and Literature,2,1,1
+Vanderbilt University,Cornell University,Field,English Language and Literature,4,2,1
+Yale University,Cornell University,Field,English Language and Literature,4,2,1
+Duke University,Duke University,Field,English Language and Literature,2,1,1
+Howard University,Duke University,Field,English Language and Literature,2,1,1
+Lehigh University,Duke University,Field,English Language and Literature,2,1,1
+North Carolina State University,Duke University,Field,English Language and Literature,4,2,2
+Rutgers - New Brunswick,Duke University,Field,English Language and Literature,4,2,2
+Southern Illinois University Carbondale,Duke University,Field,English Language and Literature,3,1,2
+Texas A&M University,Duke University,Field,English Language and Literature,3,1,2
+"University of California, Davis",Duke University,Field,English Language and Literature,3,2,1
+University of Colorado Boulder,Duke University,Field,English Language and Literature,2,1,1
+University of Florida,Duke University,Field,English Language and Literature,3,1,2
+University of Illinois at Chicago,Duke University,Field,English Language and Literature,3,1,2
+University of Illinois at Urbana-Champaign,Duke University,Field,English Language and Literature,2,1,1
+University of Louisville,Duke University,Field,English Language and Literature,2,1,1
+University of Michigan,Duke University,Field,English Language and Literature,4,2,2
+University of Missouri,Duke University,Field,English Language and Literature,2,1,1
+University of North Carolina at Chapel Hill,Duke University,Field,English Language and Literature,3,1,1
+University of Oregon,Duke University,Field,English Language and Literature,2,1,1
+University of Pennsylvania,Duke University,Field,English Language and Literature,3,1,1
+University of South Carolina,Duke University,Field,English Language and Literature,3,2,1
+Virginia Commonwealth University,Duke University,Field,English Language and Literature,3,2,1
+Washington University in St. Louis,Duke University,Field,English Language and Literature,3,2,1
+Clemson University,Emory University,Field,English Language and Literature,3,1,2
+Florida A&M University,Emory University,Field,English Language and Literature,2,1,1
+Georgia State University,Emory University,Field,English Language and Literature,2,1,1
+"Ohio State University, The",Emory University,Field,English Language and Literature,2,1,1
+"University of North Carolina at Greensboro, The",Emory University,Field,English Language and Literature,2,1,1
+Florida A&M University,Florida State University,Field,English Language and Literature,19,15,2
+George Mason University,George Mason University,Field,English Language and Literature,11,4,4
+Boston College,Harvard University,Field,English Language and Literature,6,3,3
+Brooklyn College (CUNY),Harvard University,Field,English Language and Literature,5,4,1
+Dartmouth College,Harvard University,Field,English Language and Literature,2,1,1
+Fordham University,Harvard University,Field,English Language and Literature,5,2,3
+George Washington University,Harvard University,Field,English Language and Literature,3,1,2
+Harvard University,Harvard University,Field,English Language and Literature,5,2,3
+Louisiana State University,Harvard University,Field,English Language and Literature,3,2,1
+"Pennsylvania State University, The",Harvard University,Field,English Language and Literature,4,3,1
+Rutgers - New Brunswick,Harvard University,Field,English Language and Literature,5,3,2
+"University of California, Davis",Harvard University,Field,English Language and Literature,5,1,4
+"University of California, Irvine",Harvard University,Field,English Language and Literature,2,1,1
+"University of California, Los Angeles",Harvard University,Field,English Language and Literature,4,1,3
+"University of California, Santa Barbara",Harvard University,Field,English Language and Literature,3,1,2
+"University of Chicago, The",Harvard University,Field,English Language and Literature,5,3,1
+University of Colorado Boulder,Harvard University,Field,English Language and Literature,2,1,1
+University of Connecticut,Harvard University,Field,English Language and Literature,2,1,1
+University of Houston,Harvard University,Field,English Language and Literature,3,2,1
+University of Massachusetts Amherst,Harvard University,Field,English Language and Literature,2,1,1
+University of Massachusetts Boston,Harvard University,Field,English Language and Literature,3,1,2
+"University of Minnesota, Twin Cities",Harvard University,Field,English Language and Literature,3,2,1
+"University of Montana, Missoula",Harvard University,Field,English Language and Literature,2,1,1
+University of New Hampshire,Harvard University,Field,English Language and Literature,2,1,1
+University of North Carolina at Chapel Hill,Harvard University,Field,English Language and Literature,5,1,3
+University of Pennsylvania,Harvard University,Field,English Language and Literature,5,1,3
+University of South Carolina,Harvard University,Field,English Language and Literature,3,2,1
+"University of Texas at Austin, The",Harvard University,Field,English Language and Literature,4,1,3
+"University of Texas at Dallas, The",Harvard University,Field,English Language and Literature,3,1,1
+University of Virginia,Harvard University,Field,English Language and Literature,3,1,2
+Washington University in St. Louis,Harvard University,Field,English Language and Literature,2,1,1
+Yale University,Harvard University,Field,English Language and Literature,3,1,2
+East Carolina University,Illinois State University,Field,English Language and Literature,2,1,1
+Arizona State University,Indiana University - Bloomington,Field,English Language and Literature,3,2,1
+Brigham Young University,Indiana University - Bloomington,Field,English Language and Literature,3,1,1
+Brooklyn College (CUNY),Indiana University - Bloomington,Field,English Language and Literature,2,1,1
+George Mason University,Indiana University - Bloomington,Field,English Language and Literature,2,1,1
+Indiana University - Bloomington,Indiana University - Bloomington,Field,English Language and Literature,2,1,1
+Michigan State University,Indiana University - Bloomington,Field,English Language and Literature,5,2,2
+North Carolina State University,Indiana University - Bloomington,Field,English Language and Literature,2,1,1
+"Ohio State University, The",Indiana University - Bloomington,Field,English Language and Literature,4,3,1
+Old Dominion University,Indiana University - Bloomington,Field,English Language and Literature,2,1,1
+Purdue University,Indiana University - Bloomington,Field,English Language and Literature,3,1,2
+Texas A&M Kingsville,Indiana University - Bloomington,Field,English Language and Literature,3,2,1
+University of Georgia,Indiana University - Bloomington,Field,English Language and Literature,4,2,2
+University of Louisiana at Lafayette,Indiana University - Bloomington,Field,English Language and Literature,3,1,1
+University of Louisville,Indiana University - Bloomington,Field,English Language and Literature,3,1,2
+"University of Minnesota, Twin Cities",Indiana University - Bloomington,Field,English Language and Literature,3,2,1
+"University of Montana, Missoula",Indiana University - Bloomington,Field,English Language and Literature,2,1,1
+"University of North Carolina at Greensboro, The",Indiana University - Bloomington,Field,English Language and Literature,3,2,1
+"University of North Dakota, The",Indiana University - Bloomington,Field,English Language and Literature,4,1,3
+University of North Texas,Indiana University - Bloomington,Field,English Language and Literature,2,1,1
+University of Notre Dame,Indiana University - Bloomington,Field,English Language and Literature,3,2,1
+University of Pittsburgh,Indiana University - Bloomington,Field,English Language and Literature,2,1,1
+"University of South Dakota, The",Indiana University - Bloomington,Field,English Language and Literature,3,1,2
+"University of Southern Mississippi, The",Indiana University - Bloomington,Field,English Language and Literature,2,1,1
+University of Washington,Indiana University - Bloomington,Field,English Language and Literature,2,1,1
+Utah State University,Indiana University - Bloomington,Field,English Language and Literature,3,1,2
+Western Michigan University,Indiana University - Bloomington,Field,English Language and Literature,3,2,1
+North Dakota State University,Iowa State University,Field,English Language and Literature,2,1,1
+Case Western Reserve University,Johns Hopkins University,Field,English Language and Literature,3,1,2
+"College of William & Mary, The",Johns Hopkins University,Field,English Language and Literature,3,1,1
+Columbia University,Johns Hopkins University,Field,English Language and Literature,3,1,2
+Florida State University,Johns Hopkins University,Field,English Language and Literature,2,1,1
+Fordham University,Johns Hopkins University,Field,English Language and Literature,2,1,1
+George Mason University,Johns Hopkins University,Field,English Language and Literature,3,2,1
+Northwestern University,Johns Hopkins University,Field,English Language and Literature,2,1,1
+"Ohio State University, The",Johns Hopkins University,Field,English Language and Literature,5,3,2
+Rutgers - New Brunswick,Johns Hopkins University,Field,English Language and Literature,3,1,1
+Stanford University,Johns Hopkins University,Field,English Language and Literature,3,2,1
+Syracuse University,Johns Hopkins University,Field,English Language and Literature,2,1,1
+Texas Christian University,Johns Hopkins University,Field,English Language and Literature,2,1,1
+"University at Buffalo, State University of New York",Johns Hopkins University,Field,English Language and Literature,4,3,1
+"University of Arizona, The",Johns Hopkins University,Field,English Language and Literature,3,1,2
+"University of Chicago, The",Johns Hopkins University,Field,English Language and Literature,2,1,1
+University of Florida,Johns Hopkins University,Field,English Language and Literature,2,1,1
+University of Houston,Johns Hopkins University,Field,English Language and Literature,2,1,1
+University of Illinois at Chicago,Johns Hopkins University,Field,English Language and Literature,2,1,1
+University of Illinois at Urbana-Champaign,Johns Hopkins University,Field,English Language and Literature,2,1,1
+"University of Mississippi, The",Johns Hopkins University,Field,English Language and Literature,2,1,1
+University of North Carolina at Chapel Hill,Johns Hopkins University,Field,English Language and Literature,4,1,3
+Yale University,Johns Hopkins University,Field,English Language and Literature,3,1,2
+Kent State University,Kent State University,Field,English Language and Literature,12,7,4
+"Ohio State University, The",Kent State University,Field,English Language and Literature,2,1,1
+Ohio University,Kent State University,Field,English Language and Literature,3,2,1
+Bowling Green State University,Lehigh University,Field,English Language and Literature,2,1,1
+Louisiana Tech University,Louisiana State University,Field,English Language and Literature,3,1,1
+Northern Illinois University,Louisiana State University,Field,English Language and Literature,2,1,1
+University of Louisiana at Lafayette,Louisiana State University,Field,English Language and Literature,4,1,3
+Texas Tech University,Loyola University Chicago,Field,English Language and Literature,2,1,1
+Georgia Institute of Technology,Massachusetts Institute of Technology,Field,English Language and Literature,2,1,1
+Indiana University of Pennsylvania,Miami University,Field,English Language and Literature,2,1,1
+University of Dayton,Miami University,Field,English Language and Literature,2,1,1
+Illinois State University,Michigan State University,Field,English Language and Literature,4,1,2
+North Carolina State University,Michigan State University,Field,English Language and Literature,3,2,1
+University of Massachusetts Boston,Michigan State University,Field,English Language and Literature,2,1,1
+"University of Texas at El Paso, The",Michigan State University,Field,English Language and Literature,2,1,1
+Middle Tennessee State University,Middle Tennessee State University,Field,English Language and Literature,4,3,1
+Morgan State University,Morgan State University,Field,English Language and Literature,2,1,1
+Ball State University,New Mexico State University,Field,English Language and Literature,4,1,3
+New Mexico State University,New Mexico State University,Field,English Language and Literature,3,1,1
+Virginia Polytechnic Institute and State University,New Mexico State University,Field,English Language and Literature,2,1,1
+Baruch College (CUNY),New York University,Field,English Language and Literature,4,2,2
+Brandeis University,New York University,Field,English Language and Literature,2,1,1
+Brooklyn College (CUNY),New York University,Field,English Language and Literature,8,4,4
+Brown University,New York University,Field,English Language and Literature,2,1,1
+City College (CUNY),New York University,Field,English Language and Literature,6,5,1
+Colorado State University,New York University,Field,English Language and Literature,3,1,1
+Drexel University,New York University,Field,English Language and Literature,2,1,1
+George Mason University,New York University,Field,English Language and Literature,5,3,1
+Michigan State University,New York University,Field,English Language and Literature,2,1,1
+New York University,New York University,Field,English Language and Literature,2,1,1
+"Pennsylvania State University, The",New York University,Field,English Language and Literature,2,1,1
+Rutgers  - Newark,New York University,Field,English Language and Literature,2,1,1
+Texas Tech University,New York University,Field,English Language and Literature,2,1,1
+University of Colorado Boulder,New York University,Field,English Language and Literature,2,1,1
+University of Pittsburgh,New York University,Field,English Language and Literature,4,2,1
+"University of Texas at El Paso, The",New York University,Field,English Language and Literature,3,1,2
+University of Wisconsin - Madison,New York University,Field,English Language and Literature,2,1,1
+West Virginia University,New York University,Field,English Language and Literature,3,2,1
+Colorado State University,Northern Arizona University,Field,English Language and Literature,2,1,1
+Northern Arizona University,Northern Arizona University,Field,English Language and Literature,4,3,1
+Loyola University Chicago,Northwestern University,Field,English Language and Literature,2,1,1
+Ohio University,Northwestern University,Field,English Language and Literature,2,1,1
+"University at Albany, State University of New York",Northwestern University,Field,English Language and Literature,2,1,1
+University of Arkansas,Northwestern University,Field,English Language and Literature,2,1,1
+University of Illinois at Urbana-Champaign,Northwestern University,Field,English Language and Literature,2,1,1
+University of Pittsburgh,Northwestern University,Field,English Language and Literature,3,2,1
+University of South Carolina,Northwestern University,Field,English Language and Literature,3,1,2
+"University of Texas at Austin, The",Northwestern University,Field,English Language and Literature,2,1,1
+Colorado State University,"Ohio State University, The",Field,English Language and Literature,3,2,1
+Florida State University,"Ohio State University, The",Field,English Language and Literature,2,1,1
+Georgia State University,"Ohio State University, The",Field,English Language and Literature,2,1,1
+Indiana University-Purdue University Indianapolis,"Ohio State University, The",Field,English Language and Literature,2,1,1
+Marquette University,"Ohio State University, The",Field,English Language and Literature,2,1,1
+Miami University,"Ohio State University, The",Field,English Language and Literature,2,1,1
+Middle Tennessee State University,"Ohio State University, The",Field,English Language and Literature,3,1,2
+Northern Arizona University,"Ohio State University, The",Field,English Language and Literature,2,1,1
+"Ohio State University, The","Ohio State University, The",Field,English Language and Literature,7,5,2
+"Pennsylvania State University, The","Ohio State University, The",Field,English Language and Literature,2,1,1
+Purdue University,"Ohio State University, The",Field,English Language and Literature,3,2,1
+Texas Christian University,"Ohio State University, The",Field,English Language and Literature,2,1,1
+University of Houston,"Ohio State University, The",Field,English Language and Literature,2,1,1
+University of Louisville,"Ohio State University, The",Field,English Language and Literature,3,2,1
+"University of Nevada, Las Vegas","Ohio State University, The",Field,English Language and Literature,3,2,1
+"University of Nevada, Reno","Ohio State University, The",Field,English Language and Literature,2,1,1
+University of Oklahoma,"Ohio State University, The",Field,English Language and Literature,2,1,1
+Northern Illinois University,Ohio University,Field,English Language and Literature,2,1,1
+Ohio University,Ohio University,Field,English Language and Literature,4,1,2
+East Carolina University,"Pennsylvania State University, The",Field,English Language and Literature,3,1,2
+Iowa State University,"Pennsylvania State University, The",Field,English Language and Literature,3,1,2
+Mississippi State University,"Pennsylvania State University, The",Field,English Language and Literature,2,1,1
+"Pennsylvania State University, The","Pennsylvania State University, The",Field,English Language and Literature,5,4,1
+Texas A&M University,"Pennsylvania State University, The",Field,English Language and Literature,4,1,3
+Texas Christian University,"Pennsylvania State University, The",Field,English Language and Literature,2,1,1
+"University at Buffalo, State University of New York","Pennsylvania State University, The",Field,English Language and Literature,2,1,1
+"University of Arizona, The","Pennsylvania State University, The",Field,English Language and Literature,2,1,1
+University of Arkansas,"Pennsylvania State University, The",Field,English Language and Literature,3,2,1
+University of Delaware,"Pennsylvania State University, The",Field,English Language and Literature,2,1,1
+University of Louisville,"Pennsylvania State University, The",Field,English Language and Literature,3,1,2
+"University of Maryland, College Park","Pennsylvania State University, The",Field,English Language and Literature,2,1,1
+University of South Carolina,"Pennsylvania State University, The",Field,English Language and Literature,3,1,2
+University of South Florida,"Pennsylvania State University, The",Field,English Language and Literature,3,1,1
+Virginia Polytechnic Institute and State University,"Pennsylvania State University, The",Field,English Language and Literature,3,2,1
+Boston University,Princeton University,Field,English Language and Literature,2,1,1
+Columbia University,Princeton University,Field,English Language and Literature,2,1,1
+Fordham University,Princeton University,Field,English Language and Literature,4,2,2
+Indiana University - Bloomington,Princeton University,Field,English Language and Literature,2,1,1
+Johns Hopkins University,Princeton University,Field,English Language and Literature,2,1,1
+New York University,Princeton University,Field,English Language and Literature,3,2,1
+"Pennsylvania State University, The",Princeton University,Field,English Language and Literature,2,1,1
+Rutgers - New Brunswick,Princeton University,Field,English Language and Literature,2,1,1
+Southern Methodist University,Princeton University,Field,English Language and Literature,2,1,1
+Stanford University,Princeton University,Field,English Language and Literature,2,1,1
+"University of California, Berkeley",Princeton University,Field,English Language and Literature,4,2,2
+University of Connecticut,Princeton University,Field,English Language and Literature,2,1,1
+"University of Maine, The",Princeton University,Field,English Language and Literature,2,1,1
+University of Michigan,Princeton University,Field,English Language and Literature,3,2,1
+"University of Mississippi, The",Princeton University,Field,English Language and Literature,6,1,5
+University of North Carolina at Chapel Hill,Princeton University,Field,English Language and Literature,2,1,1
+"University of Tennessee, The",Princeton University,Field,English Language and Literature,2,1,1
+"University of Texas at Austin, The",Princeton University,Field,English Language and Literature,2,1,1
+"University of Vermont, The",Princeton University,Field,English Language and Literature,2,1,1
+University of Wyoming,Princeton University,Field,English Language and Literature,2,1,1
+Arizona State University,Purdue University,Field,English Language and Literature,5,2,3
+Ball State University,Purdue University,Field,English Language and Literature,4,2,2
+Bowling Green State University,Purdue University,Field,English Language and Literature,2,1,1
+North Carolina State University,Purdue University,Field,English Language and Literature,2,1,1
+Old Dominion University,Purdue University,Field,English Language and Literature,2,1,1
+Purdue University,Purdue University,Field,English Language and Literature,4,1,3
+Saint Louis University,Purdue University,Field,English Language and Literature,3,1,2
+"University of Alabama at Birmingham, The",Purdue University,Field,English Language and Literature,4,2,2
+"University of Arizona, The",Purdue University,Field,English Language and Literature,3,2,1
+University of Memphis,Purdue University,Field,English Language and Literature,2,1,1
+"University of New Orleans, The",Purdue University,Field,English Language and Literature,2,1,1
+University of North Carolina Charlotte,Purdue University,Field,English Language and Literature,3,1,2
+University of South Florida,Purdue University,Field,English Language and Literature,5,2,2
+"University of Texas at El Paso, The",Purdue University,Field,English Language and Literature,3,2,1
+Western Michigan University,Purdue University,Field,English Language and Literature,4,2,2
+North Carolina State University,Rensselaer Polytechnic Institute,Field,English Language and Literature,4,2,2
+Syracuse University,Rice University,Field,English Language and Literature,2,1,1
+Indiana University of Pennsylvania,Rutgers - New Brunswick,Field,English Language and Literature,2,1,1
+Rutgers - New Brunswick,Rutgers - New Brunswick,Field,English Language and Literature,2,1,1
+"Stony Brook University, State University of New York",Rutgers - New Brunswick,Field,English Language and Literature,2,1,1
+"University of California, Los Angeles",Rutgers - New Brunswick,Field,English Language and Literature,2,1,1
+University of Connecticut,Rutgers - New Brunswick,Field,English Language and Literature,5,1,3
+"University of Maryland, College Park",Rutgers - New Brunswick,Field,English Language and Literature,4,2,2
+"University of Montana, Missoula",Rutgers - New Brunswick,Field,English Language and Literature,2,1,1
+University of North Carolina Charlotte,Rutgers - New Brunswick,Field,English Language and Literature,2,1,1
+Wayne State University,Rutgers - New Brunswick,Field,English Language and Literature,3,1,1
+Missouri University of Science and Technology,Saint Louis University,Field,English Language and Literature,2,1,1
+Harvard University,Stanford University,Field,English Language and Literature,4,1,2
+Indiana University - Bloomington,Stanford University,Field,English Language and Literature,4,3,1
+Johns Hopkins University,Stanford University,Field,English Language and Literature,2,1,1
+Miami University,Stanford University,Field,English Language and Literature,4,3,1
+"Ohio State University, The",Stanford University,Field,English Language and Literature,4,1,3
+Rutgers - New Brunswick,Stanford University,Field,English Language and Literature,3,1,2
+Stanford University,Stanford University,Field,English Language and Literature,3,1,2
+"University at Buffalo, State University of New York",Stanford University,Field,English Language and Literature,4,1,2
+"University of Arizona, The",Stanford University,Field,English Language and Literature,3,1,1
+"University of California, Berkeley",Stanford University,Field,English Language and Literature,6,2,4
+"University of California, Los Angeles",Stanford University,Field,English Language and Literature,7,3,4
+"University of California, Santa Barbara",Stanford University,Field,English Language and Literature,5,2,3
+"University of Cincinnati, The",Stanford University,Field,English Language and Literature,2,1,1
+University of Georgia,Stanford University,Field,English Language and Literature,2,1,1
+University of Hawaii,Stanford University,Field,English Language and Literature,4,1,3
+University of Massachusetts Amherst,Stanford University,Field,English Language and Literature,3,1,2
+University of Michigan,Stanford University,Field,English Language and Literature,7,4,3
+"University of Nevada, Las Vegas",Stanford University,Field,English Language and Literature,2,1,1
+University of Oregon,Stanford University,Field,English Language and Literature,3,2,1
+University of Pennsylvania,Stanford University,Field,English Language and Literature,3,1,2
+University of Southern California,Stanford University,Field,English Language and Literature,4,3,1
+"University of Texas at Austin, The",Stanford University,Field,English Language and Literature,5,2,3
+"University of Texas at Dallas, The",Stanford University,Field,English Language and Literature,4,2,2
+"University of Texas at San Antonio, The",Stanford University,Field,English Language and Literature,2,1,1
+"University of Utah, The",Stanford University,Field,English Language and Literature,3,1,2
+University of Virginia,Stanford University,Field,English Language and Literature,3,1,2
+Florida Atlantic University,"Stony Brook University, State University of New York",Field,English Language and Literature,2,1,1
+University of South Carolina,"Stony Brook University, State University of New York",Field,English Language and Literature,2,1,1
+Michigan State University,Syracuse University,Field,English Language and Literature,2,1,1
+Northern Arizona University,Syracuse University,Field,English Language and Literature,2,1,1
+University of Houston,Syracuse University,Field,English Language and Literature,4,1,2
+Drexel University,Temple University,Field,English Language and Literature,4,1,3
+"Pennsylvania State University, The",Temple University,Field,English Language and Literature,3,2,1
+Auburn University,Texas Tech University,Field,English Language and Literature,2,1,1
+Texas State University,Texas Tech University,Field,English Language and Literature,2,1,1
+Texas Woman's University,Texas Tech University,Field,English Language and Literature,3,2,1
+Baylor University,Tulane University,Field,English Language and Literature,2,1,1
+"University at Buffalo, State University of New York","University at Albany, State University of New York",Field,English Language and Literature,3,1,2
+Ball State University,"University at Buffalo, State University of New York",Field,English Language and Literature,3,1,2
+Miami University,"University at Buffalo, State University of New York",Field,English Language and Literature,3,1,2
+Michigan State University,"University at Buffalo, State University of New York",Field,English Language and Literature,3,1,2
+Mississippi State University,"University at Buffalo, State University of New York",Field,English Language and Literature,3,1,2
+"Pennsylvania State University, The","University at Buffalo, State University of New York",Field,English Language and Literature,2,1,1
+"University at Buffalo, State University of New York","University at Buffalo, State University of New York",Field,English Language and Literature,2,1,1
+"University of California, Berkeley","University at Buffalo, State University of New York",Field,English Language and Literature,2,1,1
+University of Colorado Boulder,"University at Buffalo, State University of New York",Field,English Language and Literature,3,2,1
+"University of Maine, The","University at Buffalo, State University of New York",Field,English Language and Literature,2,1,1
+University of South Florida,"University at Buffalo, State University of New York",Field,English Language and Literature,2,1,1
+University of Wyoming,"University at Buffalo, State University of New York",Field,English Language and Literature,2,1,1
+"University of Akron, The","University of Akron, The",Field,English Language and Literature,5,3,2
+Ball State University,"University of Alabama, The",Field,English Language and Literature,5,2,3
+Kent State University,"University of Alabama, The",Field,English Language and Literature,2,1,1
+Arizona State University,"University of Arizona, The",Field,English Language and Literature,4,2,2
+Brigham Young University,"University of Arizona, The",Field,English Language and Literature,3,1,2
+John Jay College of Criminal Justice (CUNY),"University of Arizona, The",Field,English Language and Literature,2,1,1
+Northern Arizona University,"University of Arizona, The",Field,English Language and Literature,3,2,1
+Oregon State University,"University of Arizona, The",Field,English Language and Literature,2,1,1
+"University of Alabama at Birmingham, The","University of Arizona, The",Field,English Language and Literature,3,1,2
+"University of Arizona, The","University of Arizona, The",Field,English Language and Literature,3,2,1
+University of Hawaii,"University of Arizona, The",Field,English Language and Literature,2,1,1
+University of Houston,"University of Arizona, The",Field,English Language and Literature,5,1,3
+University of Memphis,"University of Arizona, The",Field,English Language and Literature,2,1,1
+"University of Texas at El Paso, The","University of Arizona, The",Field,English Language and Literature,2,1,1
+Washington State University,"University of Arizona, The",Field,English Language and Literature,2,1,1
+"University of Mississippi, The",University of Arkansas,Field,English Language and Literature,2,1,1
+"Binghamton University, State University of New York","University of California, Berkeley",Field,English Language and Literature,4,3,1
+Cornell University,"University of California, Berkeley",Field,English Language and Literature,9,5,3
+Georgetown University,"University of California, Berkeley",Field,English Language and Literature,3,1,1
+Indiana University - Bloomington,"University of California, Berkeley",Field,English Language and Literature,4,3,1
+Johns Hopkins University,"University of California, Berkeley",Field,English Language and Literature,2,1,1
+New York University,"University of California, Berkeley",Field,English Language and Literature,5,4,1
+Northwestern University,"University of California, Berkeley",Field,English Language and Literature,4,2,1
+Ohio University,"University of California, Berkeley",Field,English Language and Literature,2,1,1
+"Pennsylvania State University, The","University of California, Berkeley",Field,English Language and Literature,3,1,2
+Purdue University,"University of California, Berkeley",Field,English Language and Literature,2,1,1
+Rutgers - New Brunswick,"University of California, Berkeley",Field,English Language and Literature,5,3,2
+"Stony Brook University, State University of New York","University of California, Berkeley",Field,English Language and Literature,2,1,1
+Temple University,"University of California, Berkeley",Field,English Language and Literature,4,1,3
+Tufts University,"University of California, Berkeley",Field,English Language and Literature,5,2,3
+"University at Albany, State University of New York","University of California, Berkeley",Field,English Language and Literature,2,1,1
+"University of Arizona, The","University of California, Berkeley",Field,English Language and Literature,4,3,1
+"University of California, Berkeley","University of California, Berkeley",Field,English Language and Literature,6,3,3
+"University of California, Irvine","University of California, Berkeley",Field,English Language and Literature,8,5,3
+"University of California, Los Angeles","University of California, Berkeley",Field,English Language and Literature,6,4,2
+"University of California, Riverside","University of California, Berkeley",Field,English Language and Literature,4,2,2
+"University of Chicago, The","University of California, Berkeley",Field,English Language and Literature,4,1,3
+University of Colorado Boulder,"University of California, Berkeley",Field,English Language and Literature,7,5,2
+University of Connecticut,"University of California, Berkeley",Field,English Language and Literature,4,1,3
+University of Delaware,"University of California, Berkeley",Field,English Language and Literature,2,1,1
+University of Florida,"University of California, Berkeley",Field,English Language and Literature,2,1,1
+University of Hawaii,"University of California, Berkeley",Field,English Language and Literature,4,3,1
+University of Illinois at Chicago,"University of California, Berkeley",Field,English Language and Literature,2,1,1
+"University of Iowa, The","University of California, Berkeley",Field,English Language and Literature,3,1,2
+"University of Maryland, College Park","University of California, Berkeley",Field,English Language and Literature,6,2,3
+University of Massachusetts Boston,"University of California, Berkeley",Field,English Language and Literature,2,1,1
+University of Miami,"University of California, Berkeley",Field,English Language and Literature,2,1,1
+University of Michigan,"University of California, Berkeley",Field,English Language and Literature,6,1,4
+"University of New Mexico, The","University of California, Berkeley",Field,English Language and Literature,2,1,1
+University of Oregon,"University of California, Berkeley",Field,English Language and Literature,3,2,1
+University of Pennsylvania,"University of California, Berkeley",Field,English Language and Literature,4,1,3
+University of South Carolina,"University of California, Berkeley",Field,English Language and Literature,3,1,1
+"University of Southern Mississippi, The","University of California, Berkeley",Field,English Language and Literature,2,1,1
+University of Washington,"University of California, Berkeley",Field,English Language and Literature,4,2,2
+University of Wisconsin - Madison,"University of California, Berkeley",Field,English Language and Literature,2,1,1
+University of Wisconsin - Milwaukee,"University of California, Berkeley",Field,English Language and Literature,4,1,3
+Wayne State University,"University of California, Berkeley",Field,English Language and Literature,2,1,1
+Indiana University of Pennsylvania,"University of California, Irvine",Field,English Language and Literature,2,1,1
+"Pennsylvania State University, The","University of California, Irvine",Field,English Language and Literature,2,1,1
+Southern Methodist University,"University of California, Irvine",Field,English Language and Literature,2,1,1
+Tulane University,"University of California, Irvine",Field,English Language and Literature,2,1,1
+University of Illinois at Chicago,"University of California, Irvine",Field,English Language and Literature,2,1,1
+"University of Kansas, The","University of California, Irvine",Field,English Language and Literature,2,1,1
+"University of Maryland, College Park","University of California, Irvine",Field,English Language and Literature,2,1,1
+University of South Carolina,"University of California, Irvine",Field,English Language and Literature,3,1,2
+"University of Utah, The","University of California, Irvine",Field,English Language and Literature,2,1,1
+Arizona State University,"University of California, Los Angeles",Field,English Language and Literature,3,1,2
+Brigham Young University,"University of California, Los Angeles",Field,English Language and Literature,3,2,1
+Dartmouth College,"University of California, Los Angeles",Field,English Language and Literature,2,1,1
+Fordham University,"University of California, Los Angeles",Field,English Language and Literature,3,1,2
+Georgetown University,"University of California, Los Angeles",Field,English Language and Literature,3,2,1
+Louisiana State University,"University of California, Los Angeles",Field,English Language and Literature,3,1,2
+"Ohio State University, The","University of California, Los Angeles",Field,English Language and Literature,2,1,1
+Oklahoma State University,"University of California, Los Angeles",Field,English Language and Literature,2,1,1
+Oregon State University,"University of California, Los Angeles",Field,English Language and Literature,2,1,1
+Princeton University,"University of California, Los Angeles",Field,English Language and Literature,2,1,1
+"University of Alabama, The","University of California, Los Angeles",Field,English Language and Literature,4,1,3
+University of Michigan,"University of California, Los Angeles",Field,English Language and Literature,3,2,1
+University of Missouri,"University of California, Los Angeles",Field,English Language and Literature,4,2,1
+University of Notre Dame,"University of California, Los Angeles",Field,English Language and Literature,2,1,1
+University of Oregon,"University of California, Los Angeles",Field,English Language and Literature,4,2,2
+University of Southern California,"University of California, Los Angeles",Field,English Language and Literature,2,1,1
+"University of Texas at Austin, The","University of California, Los Angeles",Field,English Language and Literature,2,1,1
+"University of Texas at Dallas, The","University of California, Los Angeles",Field,English Language and Literature,2,1,1
+University of Wisconsin - Milwaukee,"University of California, Los Angeles",Field,English Language and Literature,2,1,1
+Yale University,"University of California, Los Angeles",Field,English Language and Literature,2,1,1
+University of Illinois at Urbana-Champaign,"University of California, San Diego",Field,English Language and Literature,2,1,1
+University of North Carolina at Chapel Hill,"University of California, San Diego",Field,English Language and Literature,3,1,1
+"University of Texas at Dallas, The","University of California, San Diego",Field,English Language and Literature,2,1,1
+Columbia University,"University of California, Santa Barbara",Field,English Language and Literature,2,1,1
+George Mason University,"University of California, Santa Barbara",Field,English Language and Literature,2,1,1
+Oklahoma State University,"University of California, Santa Barbara",Field,English Language and Literature,2,1,1
+Old Dominion University,"University of California, Santa Barbara",Field,English Language and Literature,2,1,1
+Purdue University,"University of California, Santa Barbara",Field,English Language and Literature,2,1,1
+"University of California, Santa Barbara","University of California, Santa Barbara",Field,English Language and Literature,2,1,1
+"University of Utah, The","University of California, Santa Barbara",Field,English Language and Literature,2,1,1
+Tufts University,"University of California, Santa Cruz",Field,English Language and Literature,2,1,1
+Brigham Young University,"University of Chicago, The",Field,English Language and Literature,3,1,2
+Columbia University,"University of Chicago, The",Field,English Language and Literature,2,1,1
+Dartmouth College,"University of Chicago, The",Field,English Language and Literature,4,1,3
+Miami University,"University of Chicago, The",Field,English Language and Literature,4,2,2
+Michigan State University,"University of Chicago, The",Field,English Language and Literature,3,1,2
+New York University,"University of Chicago, The",Field,English Language and Literature,2,1,1
+North Carolina State University,"University of Chicago, The",Field,English Language and Literature,4,1,3
+Northern Illinois University,"University of Chicago, The",Field,English Language and Literature,2,1,1
+Northwestern University,"University of Chicago, The",Field,English Language and Literature,4,3,1
+Princeton University,"University of Chicago, The",Field,English Language and Literature,2,1,1
+Purdue University,"University of Chicago, The",Field,English Language and Literature,4,3,1
+Rutgers - New Brunswick,"University of Chicago, The",Field,English Language and Literature,2,1,1
+Texas Tech University,"University of Chicago, The",Field,English Language and Literature,2,1,1
+Tufts University,"University of Chicago, The",Field,English Language and Literature,3,2,1
+"University of Alabama, The","University of Chicago, The",Field,English Language and Literature,2,1,1
+"University of California, Riverside","University of Chicago, The",Field,English Language and Literature,2,1,1
+"University of California, Santa Barbara","University of Chicago, The",Field,English Language and Literature,2,1,1
+"University of Chicago, The","University of Chicago, The",Field,English Language and Literature,3,1,2
+University of Florida,"University of Chicago, The",Field,English Language and Literature,2,1,1
+University of Georgia,"University of Chicago, The",Field,English Language and Literature,3,1,2
+University of Louisville,"University of Chicago, The",Field,English Language and Literature,5,1,3
+"University of Maryland, College Park","University of Chicago, The",Field,English Language and Literature,3,1,2
+University of Michigan,"University of Chicago, The",Field,English Language and Literature,3,2,1
+"University of New Mexico, The","University of Chicago, The",Field,English Language and Literature,3,1,2
+University of North Carolina at Chapel Hill,"University of Chicago, The",Field,English Language and Literature,2,1,1
+"University of Tennessee, The","University of Chicago, The",Field,English Language and Literature,2,1,1
+"University of Texas at Austin, The","University of Chicago, The",Field,English Language and Literature,4,1,3
+"University of Texas at Dallas, The","University of Chicago, The",Field,English Language and Literature,4,2,1
+"University of Utah, The","University of Chicago, The",Field,English Language and Literature,2,1,1
+University of Virginia,"University of Chicago, The",Field,English Language and Literature,6,2,4
+Wayne State University,"University of Chicago, The",Field,English Language and Literature,2,1,1
+University of Central Florida,"University of Cincinnati, The",Field,English Language and Literature,2,1,1
+"University of Cincinnati, The","University of Cincinnati, The",Field,English Language and Literature,2,1,1
+University of Connecticut,University of Connecticut,Field,English Language and Literature,3,1,2
+University of Dallas,University of Dallas,Field,English Language and Literature,3,1,2
+Arizona State University,University of Delaware,Field,English Language and Literature,2,1,1
+"Pennsylvania State University, The",University of Delaware,Field,English Language and Literature,3,2,1
+University of North Texas,University of Denver,Field,English Language and Literature,2,1,1
+Florida International University,University of Florida,Field,English Language and Literature,2,1,1
+Washington State University,University of Florida,Field,English Language and Literature,2,1,1
+University of Louisiana at Lafayette,University of Georgia,Field,English Language and Literature,2,1,1
+University of Hawaii,University of Hawaii,Field,English Language and Literature,8,5,2
+Montana State University,University of Houston,Field,English Language and Literature,2,1,1
+Rice University,University of Houston,Field,English Language and Literature,2,1,1
+University of North Texas,University of Houston,Field,English Language and Literature,2,1,1
+Western Michigan University,University of Houston,Field,English Language and Literature,2,1,1
+South Dakota State University,University of Illinois at Chicago,Field,English Language and Literature,2,1,1
+University of Illinois at Urbana-Champaign,University of Illinois at Chicago,Field,English Language and Literature,2,1,1
+University of Washington,University of Illinois at Chicago,Field,English Language and Literature,2,1,1
+Ball State University,University of Illinois at Urbana-Champaign,Field,English Language and Literature,2,1,1
+Brigham Young University,University of Illinois at Urbana-Champaign,Field,English Language and Literature,3,2,1
+Cornell University,University of Illinois at Urbana-Champaign,Field,English Language and Literature,2,1,1
+Florida State University,University of Illinois at Urbana-Champaign,Field,English Language and Literature,2,1,1
+Iowa State University,University of Illinois at Urbana-Champaign,Field,English Language and Literature,6,3,3
+Morgan State University,University of Illinois at Urbana-Champaign,Field,English Language and Literature,2,1,1
+Old Dominion University,University of Illinois at Urbana-Champaign,Field,English Language and Literature,3,2,1
+Purdue University,University of Illinois at Urbana-Champaign,Field,English Language and Literature,3,2,1
+"University of Alabama at Birmingham, The",University of Illinois at Urbana-Champaign,Field,English Language and Literature,2,1,1
+"University of Alabama, The",University of Illinois at Urbana-Champaign,Field,English Language and Literature,2,1,1
+"University of Cincinnati, The",University of Illinois at Urbana-Champaign,Field,English Language and Literature,3,2,1
+University of Colorado Boulder,University of Illinois at Urbana-Champaign,Field,English Language and Literature,3,1,1
+University of Missouri,University of Illinois at Urbana-Champaign,Field,English Language and Literature,2,1,1
+"University of Montana, Missoula",University of Illinois at Urbana-Champaign,Field,English Language and Literature,2,1,1
+"University of Southern Mississippi, The",University of Illinois at Urbana-Champaign,Field,English Language and Literature,2,1,1
+University of Washington,University of Illinois at Urbana-Champaign,Field,English Language and Literature,2,1,1
+Virginia Commonwealth University,University of Illinois at Urbana-Champaign,Field,English Language and Literature,2,1,1
+Virginia Polytechnic Institute and State University,University of Illinois at Urbana-Champaign,Field,English Language and Literature,2,1,1
+Clemson University,"University of Iowa, The",Field,English Language and Literature,2,1,1
+Colorado State University,"University of Iowa, The",Field,English Language and Literature,3,2,1
+Florida Atlantic University,"University of Iowa, The",Field,English Language and Literature,2,1,1
+Florida State University,"University of Iowa, The",Field,English Language and Literature,4,1,3
+George Mason University,"University of Iowa, The",Field,English Language and Literature,3,2,1
+Iowa State University,"University of Iowa, The",Field,English Language and Literature,3,2,1
+Louisiana State University,"University of Iowa, The",Field,English Language and Literature,3,1,2
+Northern Arizona University,"University of Iowa, The",Field,English Language and Literature,2,1,1
+Northern Illinois University,"University of Iowa, The",Field,English Language and Literature,2,1,1
+"Ohio State University, The","University of Iowa, The",Field,English Language and Literature,2,1,1
+Oregon State University,"University of Iowa, The",Field,English Language and Literature,3,2,1
+Southern Illinois University Carbondale,"University of Iowa, The",Field,English Language and Literature,3,1,2
+"University of Alabama, The","University of Iowa, The",Field,English Language and Literature,2,1,1
+"University of Arizona, The","University of Iowa, The",Field,English Language and Literature,3,2,1
+"University of Cincinnati, The","University of Iowa, The",Field,English Language and Literature,3,1,2
+"University of Iowa, The","University of Iowa, The",Field,English Language and Literature,4,2,1
+University of Louisville,"University of Iowa, The",Field,English Language and Literature,4,2,2
+University of Massachusetts Amherst,"University of Iowa, The",Field,English Language and Literature,2,1,1
+University of Memphis,"University of Iowa, The",Field,English Language and Literature,2,1,1
+"University of Mississippi, The","University of Iowa, The",Field,English Language and Literature,3,2,1
+"University of Nevada, Las Vegas","University of Iowa, The",Field,English Language and Literature,3,1,2
+University of North Texas,"University of Iowa, The",Field,English Language and Literature,2,1,1
+University of Oklahoma,"University of Iowa, The",Field,English Language and Literature,2,1,1
+"University of Texas at Austin, The","University of Iowa, The",Field,English Language and Literature,2,1,1
+"University of Utah, The","University of Iowa, The",Field,English Language and Literature,2,1,1
+University of Wisconsin - Madison,"University of Iowa, The",Field,English Language and Literature,4,3,1
+University of Wyoming,"University of Iowa, The",Field,English Language and Literature,2,1,1
+Virginia Polytechnic Institute and State University,"University of Iowa, The",Field,English Language and Literature,3,2,1
+Florida International University,"University of Kansas, The",Field,English Language and Literature,2,1,1
+Kansas State University,"University of Kansas, The",Field,English Language and Literature,2,1,1
+"University of Kansas, The","University of Kansas, The",Field,English Language and Literature,4,3,1
+"University of New Mexico, The","University of Kansas, The",Field,English Language and Literature,2,1,1
+Middle Tennessee State University,University of Kentucky,Field,English Language and Literature,2,1,1
+Texas Tech University,University of Kentucky,Field,English Language and Literature,2,1,1
+"Ohio State University, The",University of Louisville,Field,English Language and Literature,2,1,1
+Clemson University,"University of Maryland, College Park",Field,English Language and Literature,2,1,1
+George Mason University,"University of Maryland, College Park",Field,English Language and Literature,3,2,1
+Howard University,"University of Maryland, College Park",Field,English Language and Literature,2,1,1
+Northern Illinois University,"University of Maryland, College Park",Field,English Language and Literature,2,1,1
+"University of California, Irvine","University of Maryland, College Park",Field,English Language and Literature,2,1,1
+University of Central Florida,"University of Maryland, College Park",Field,English Language and Literature,2,1,1
+"University of Maryland, College Park","University of Maryland, College Park",Field,English Language and Literature,2,1,1
+West Virginia University,"University of Maryland, College Park",Field,English Language and Literature,2,1,1
+University of Connecticut,University of Massachusetts Amherst,Field,English Language and Literature,4,1,3
+"University of Texas at Austin, The",University of Massachusetts Amherst,Field,English Language and Literature,2,1,1
+Washington State University,University of Massachusetts Amherst,Field,English Language and Literature,2,1,1
+Kent State University,University of Miami,Field,English Language and Literature,2,1,1
+George Washington University,University of Michigan,Field,English Language and Literature,2,1,1
+Georgia Institute of Technology,University of Michigan,Field,English Language and Literature,2,1,1
+Indiana University of Pennsylvania,University of Michigan,Field,English Language and Literature,2,1,1
+Indiana University-Purdue University Indianapolis,University of Michigan,Field,English Language and Literature,2,1,1
+Lehigh University,University of Michigan,Field,English Language and Literature,2,1,1
+"Ohio State University, The",University of Michigan,Field,English Language and Literature,2,1,1
+Ohio University,University of Michigan,Field,English Language and Literature,4,3,1
+Purdue University,University of Michigan,Field,English Language and Literature,3,1,2
+Southern Illinois University Carbondale,University of Michigan,Field,English Language and Literature,2,1,1
+"Stony Brook University, State University of New York",University of Michigan,Field,English Language and Literature,2,1,1
+University of Illinois at Chicago,University of Michigan,Field,English Language and Literature,3,1,2
+University of Massachusetts Boston,University of Michigan,Field,English Language and Literature,3,1,2
+University of Michigan,University of Michigan,Field,English Language and Literature,3,2,1
+"University of Minnesota, Twin Cities",University of Michigan,Field,English Language and Literature,3,2,1
+University of Missouri,University of Michigan,Field,English Language and Literature,3,1,2
+"University of Montana, Missoula",University of Michigan,Field,English Language and Literature,3,1,2
+University of Nebraska - Lincoln,University of Michigan,Field,English Language and Literature,2,1,1
+University of Pittsburgh,University of Michigan,Field,English Language and Literature,3,1,2
+"University of Tennessee, The",University of Michigan,Field,English Language and Literature,2,1,1
+University of Washington,University of Michigan,Field,English Language and Literature,3,2,1
+University of Wisconsin - Madison,University of Michigan,Field,English Language and Literature,3,1,2
+Utah State University,University of Michigan,Field,English Language and Literature,5,2,3
+Virginia Polytechnic Institute and State University,University of Michigan,Field,English Language and Literature,3,1,1
+Wake Forest University,University of Michigan,Field,English Language and Literature,2,1,1
+Georgetown University,"University of Minnesota, Twin Cities",Field,English Language and Literature,2,1,1
+Texas Christian University,"University of Minnesota, Twin Cities",Field,English Language and Literature,2,1,1
+University of Alaska Fairbanks,"University of Minnesota, Twin Cities",Field,English Language and Literature,2,1,1
+University of Massachusetts Amherst,"University of Minnesota, Twin Cities",Field,English Language and Literature,2,1,1
+"University of Montana, Missoula","University of Minnesota, Twin Cities",Field,English Language and Literature,2,1,1
+University of Nebraska - Lincoln,"University of Minnesota, Twin Cities",Field,English Language and Literature,2,1,1
+"University of Texas at Austin, The","University of Minnesota, Twin Cities",Field,English Language and Literature,2,1,1
+Washington University in St. Louis,"University of Minnesota, Twin Cities",Field,English Language and Literature,2,1,1
+West Virginia University,"University of Minnesota, Twin Cities",Field,English Language and Literature,4,1,3
+Lehigh University,University of Missouri,Field,English Language and Literature,2,1,1
+Mississippi State University,University of Missouri,Field,English Language and Literature,2,1,1
+"University of Montana, Missoula","University of Montana, Missoula",Field,English Language and Literature,3,2,1
+Indiana University of Pennsylvania,University of Nebraska - Lincoln,Field,English Language and Literature,3,2,1
+Utah State University,University of Nebraska - Lincoln,Field,English Language and Literature,2,1,1
+"University of New Mexico, The","University of Nevada, Reno",Field,English Language and Literature,2,1,1
+University of New Hampshire,University of New Hampshire,Field,English Language and Literature,4,3,1
+North Dakota State University,"University of New Mexico, The",Field,English Language and Literature,2,1,1
+"University of New Mexico, The","University of New Mexico, The",Field,English Language and Literature,3,2,1
+Auburn University,University of North Carolina at Chapel Hill,Field,English Language and Literature,3,2,1
+Florida A&M University,University of North Carolina at Chapel Hill,Field,English Language and Literature,2,1,1
+Florida Atlantic University,University of North Carolina at Chapel Hill,Field,English Language and Literature,2,1,1
+Mississippi State University,University of North Carolina at Chapel Hill,Field,English Language and Literature,2,1,1
+"Pennsylvania State University, The",University of North Carolina at Chapel Hill,Field,English Language and Literature,3,1,1
+Texas A&M Corpus Christi,University of North Carolina at Chapel Hill,Field,English Language and Literature,2,1,1
+University of Delaware,University of North Carolina at Chapel Hill,Field,English Language and Literature,2,1,1
+University of Missouri,University of North Carolina at Chapel Hill,Field,English Language and Literature,2,1,1
+University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill,Field,English Language and Literature,7,2,5
+"University of North Carolina at Greensboro, The",University of North Carolina at Chapel Hill,Field,English Language and Literature,3,2,1
+University of North Texas,University of North Carolina at Chapel Hill,Field,English Language and Literature,2,1,1
+University of South Carolina,University of North Carolina at Chapel Hill,Field,English Language and Literature,5,1,4
+Utah State University,University of North Carolina at Chapel Hill,Field,English Language and Literature,3,2,1
+Virginia Polytechnic Institute and State University,University of North Carolina at Chapel Hill,Field,English Language and Literature,4,2,1
+"Ohio State University, The",University of Notre Dame,Field,English Language and Literature,4,1,2
+Texas Woman's University,University of Notre Dame,Field,English Language and Literature,2,1,1
+University of Central Florida,University of Notre Dame,Field,English Language and Literature,2,1,1
+University of Illinois at Urbana-Champaign,University of Notre Dame,Field,English Language and Literature,2,1,1
+Wayne State University,University of Notre Dame,Field,English Language and Literature,2,1,1
+Oklahoma State University,University of Oklahoma,Field,English Language and Literature,3,1,1
+University of Colorado Boulder,University of Oregon,Field,English Language and Literature,2,1,1
+University of Illinois at Urbana-Champaign,University of Oregon,Field,English Language and Literature,2,1,1
+"University of Montana, Missoula",University of Oregon,Field,English Language and Literature,2,1,1
+Utah State University,University of Oregon,Field,English Language and Literature,2,1,1
+Arizona State University,University of Pennsylvania,Field,English Language and Literature,3,1,2
+Case Western Reserve University,University of Pennsylvania,Field,English Language and Literature,2,1,1
+Clemson University,University of Pennsylvania,Field,English Language and Literature,2,1,1
+Cleveland State University,University of Pennsylvania,Field,English Language and Literature,2,1,1
+"College of William & Mary, The",University of Pennsylvania,Field,English Language and Literature,2,1,1
+Columbia University,University of Pennsylvania,Field,English Language and Literature,3,2,1
+Cornell University,University of Pennsylvania,Field,English Language and Literature,2,1,1
+Florida State University,University of Pennsylvania,Field,English Language and Literature,4,2,1
+George Washington University,University of Pennsylvania,Field,English Language and Literature,4,1,3
+Lehigh University,University of Pennsylvania,Field,English Language and Literature,2,1,1
+Louisiana State University,University of Pennsylvania,Field,English Language and Literature,5,2,2
+Miami University,University of Pennsylvania,Field,English Language and Literature,2,1,1
+Morgan State University,University of Pennsylvania,Field,English Language and Literature,2,1,1
+Northwestern University,University of Pennsylvania,Field,English Language and Literature,3,1,2
+"Ohio State University, The",University of Pennsylvania,Field,English Language and Literature,3,2,1
+"Pennsylvania State University, The",University of Pennsylvania,Field,English Language and Literature,4,3,1
+Rice University,University of Pennsylvania,Field,English Language and Literature,3,2,1
+Rutgers University-Camden,University of Pennsylvania,Field,English Language and Literature,2,1,1
+Texas A&M University,University of Pennsylvania,Field,English Language and Literature,2,1,1
+"University at Buffalo, State University of New York",University of Pennsylvania,Field,English Language and Literature,5,1,4
+"University of California, Berkeley",University of Pennsylvania,Field,English Language and Literature,6,2,3
+"University of Cincinnati, The",University of Pennsylvania,Field,English Language and Literature,2,1,1
+University of Colorado Boulder,University of Pennsylvania,Field,English Language and Literature,2,1,1
+University of Delaware,University of Pennsylvania,Field,English Language and Literature,5,3,2
+University of Hawaii,University of Pennsylvania,Field,English Language and Literature,3,1,2
+University of Illinois at Urbana-Champaign,University of Pennsylvania,Field,English Language and Literature,3,1,2
+University of Louisville,University of Pennsylvania,Field,English Language and Literature,2,1,1
+University of New Hampshire,University of Pennsylvania,Field,English Language and Literature,3,1,2
+"University of Texas at Austin, The",University of Pennsylvania,Field,English Language and Literature,2,1,1
+University of Virginia,University of Pennsylvania,Field,English Language and Literature,3,2,1
+University of Wisconsin - Madison,University of Pennsylvania,Field,English Language and Literature,2,1,1
+Virginia Commonwealth University,University of Pennsylvania,Field,English Language and Literature,4,2,2
+Washington University in St. Louis,University of Pennsylvania,Field,English Language and Literature,3,2,1
+Yale University,University of Pennsylvania,Field,English Language and Literature,2,1,1
+Carnegie Mellon University,University of Pittsburgh,Field,English Language and Literature,3,2,1
+Duquesne University,University of Pittsburgh,Field,English Language and Literature,2,1,1
+Indiana University of Pennsylvania,University of Pittsburgh,Field,English Language and Literature,5,3,1
+University of Connecticut,University of Pittsburgh,Field,English Language and Literature,2,1,1
+University of Miami,University of Pittsburgh,Field,English Language and Literature,2,1,1
+University of Pittsburgh,University of Pittsburgh,Field,English Language and Literature,7,4,3
+Oklahoma State University,University of Rochester,Field,English Language and Literature,2,1,1
+University of Pittsburgh,University of Rochester,Field,English Language and Literature,3,1,2
+New Mexico State University,University of South Carolina,Field,English Language and Literature,2,1,1
+"Pennsylvania State University, The",University of South Carolina,Field,English Language and Literature,2,1,1
+University of North Carolina Charlotte,University of South Carolina,Field,English Language and Literature,2,1,1
+"University of South Dakota, The","University of South Dakota, The",Field,English Language and Literature,2,1,1
+Arizona State University,University of Southern California,Field,English Language and Literature,3,2,1
+Brigham Young University,University of Southern California,Field,English Language and Literature,5,1,4
+Indiana University of Pennsylvania,University of Southern California,Field,English Language and Literature,2,1,1
+"University of Texas at Dallas, The",University of Southern California,Field,English Language and Literature,3,2,1
+East Carolina University,"University of Tennessee, The",Field,English Language and Literature,3,1,2
+Middle Tennessee State University,"University of Tennessee, The",Field,English Language and Literature,5,4,1
+North Carolina State University,"University of Tennessee, The",Field,English Language and Literature,2,1,1
+Texas A&M Corpus Christi,University of Texas Arlington,Field,English Language and Literature,2,1,1
+Ball State University,"University of Texas at Austin, The",Field,English Language and Literature,4,2,2
+Brigham Young University,"University of Texas at Austin, The",Field,English Language and Literature,5,1,4
+East Carolina University,"University of Texas at Austin, The",Field,English Language and Literature,2,1,1
+Georgia State University,"University of Texas at Austin, The",Field,English Language and Literature,2,1,1
+Indiana University - Bloomington,"University of Texas at Austin, The",Field,English Language and Literature,2,1,1
+Miami University,"University of Texas at Austin, The",Field,English Language and Literature,2,1,1
+Michigan State University,"University of Texas at Austin, The",Field,English Language and Literature,2,1,1
+"Ohio State University, The","University of Texas at Austin, The",Field,English Language and Literature,3,2,1
+Ohio University,"University of Texas at Austin, The",Field,English Language and Literature,2,1,1
+Old Dominion University,"University of Texas at Austin, The",Field,English Language and Literature,2,1,1
+Rutgers University-Camden,"University of Texas at Austin, The",Field,English Language and Literature,2,1,1
+Texas A&M University,"University of Texas at Austin, The",Field,English Language and Literature,4,1,2
+Texas State University,"University of Texas at Austin, The",Field,English Language and Literature,2,1,1
+Texas Woman's University,"University of Texas at Austin, The",Field,English Language and Literature,2,1,1
+Tulane University,"University of Texas at Austin, The",Field,English Language and Literature,2,1,1
+"University at Albany, State University of New York","University of Texas at Austin, The",Field,English Language and Literature,2,1,1
+"University of Arizona, The","University of Texas at Austin, The",Field,English Language and Literature,3,2,1
+University of Florida,"University of Texas at Austin, The",Field,English Language and Literature,2,1,1
+University of Hawaii,"University of Texas at Austin, The",Field,English Language and Literature,4,2,2
+University of Houston,"University of Texas at Austin, The",Field,English Language and Literature,2,1,1
+University of Kentucky,"University of Texas at Austin, The",Field,English Language and Literature,3,2,1
+University of Louisiana at Lafayette,"University of Texas at Austin, The",Field,English Language and Literature,2,1,1
+University of Michigan,"University of Texas at Austin, The",Field,English Language and Literature,3,2,1
+University of Notre Dame,"University of Texas at Austin, The",Field,English Language and Literature,2,1,1
+University of Oregon,"University of Texas at Austin, The",Field,English Language and Literature,4,1,3
+University of South Carolina,"University of Texas at Austin, The",Field,English Language and Literature,5,2,3
+University of Washington,"University of Texas at Austin, The",Field,English Language and Literature,2,1,1
+University of Wisconsin - Milwaukee,"University of Texas at Austin, The",Field,English Language and Literature,2,1,1
+"University of Texas at Dallas, The","University of Texas at Dallas, The",Field,English Language and Literature,4,2,2
+"University of Toledo, The","University of Toledo, The",Field,English Language and Literature,2,1,1
+Bowling Green State University,"University of Utah, The",Field,English Language and Literature,2,1,1
+Brigham Young University,"University of Utah, The",Field,English Language and Literature,5,1,3
+Northern Arizona University,"University of Utah, The",Field,English Language and Literature,2,1,1
+"Ohio State University, The","University of Utah, The",Field,English Language and Literature,2,1,1
+Texas State University,"University of Utah, The",Field,English Language and Literature,2,1,1
+"University of Utah, The","University of Utah, The",Field,English Language and Literature,2,1,1
+Bowling Green State University,University of Virginia,Field,English Language and Literature,3,2,1
+Colorado State University,University of Virginia,Field,English Language and Literature,2,1,1
+East Carolina University,University of Virginia,Field,English Language and Literature,3,1,2
+Florida State University,University of Virginia,Field,English Language and Literature,4,1,3
+George Mason University,University of Virginia,Field,English Language and Literature,4,2,2
+George Washington University,University of Virginia,Field,English Language and Literature,2,1,1
+Kent State University,University of Virginia,Field,English Language and Literature,3,1,2
+Loyola University Chicago,University of Virginia,Field,English Language and Literature,4,1,2
+New York University,University of Virginia,Field,English Language and Literature,2,1,1
+North Carolina State University,University of Virginia,Field,English Language and Literature,4,1,3
+Northwestern University,University of Virginia,Field,English Language and Literature,2,1,1
+"Ohio State University, The",University of Virginia,Field,English Language and Literature,3,2,1
+Oregon State University,University of Virginia,Field,English Language and Literature,2,1,1
+"Pennsylvania State University, The",University of Virginia,Field,English Language and Literature,3,1,2
+Rutgers University-Camden,University of Virginia,Field,English Language and Literature,2,1,1
+Syracuse University,University of Virginia,Field,English Language and Literature,2,1,1
+Texas A&M University,University of Virginia,Field,English Language and Literature,2,1,1
+University of Colorado Boulder,University of Virginia,Field,English Language and Literature,2,1,1
+University of Delaware,University of Virginia,Field,English Language and Literature,2,1,1
+University of Georgia,University of Virginia,Field,English Language and Literature,2,1,1
+University of Illinois at Urbana-Champaign,University of Virginia,Field,English Language and Literature,2,1,1
+"University of Iowa, The",University of Virginia,Field,English Language and Literature,3,1,2
+University of Kentucky,University of Virginia,Field,English Language and Literature,5,3,1
+"University of North Carolina at Greensboro, The",University of Virginia,Field,English Language and Literature,2,1,1
+University of Notre Dame,University of Virginia,Field,English Language and Literature,3,1,1
+University of Pennsylvania,University of Virginia,Field,English Language and Literature,2,1,1
+"University of Tennessee, The",University of Virginia,Field,English Language and Literature,3,1,2
+University of Virginia,University of Virginia,Field,English Language and Literature,7,3,4
+Utah State University,University of Virginia,Field,English Language and Literature,2,1,1
+Virginia Commonwealth University,University of Virginia,Field,English Language and Literature,6,4,2
+Virginia Polytechnic Institute and State University,University of Virginia,Field,English Language and Literature,2,1,1
+Florida International University,University of Washington,Field,English Language and Literature,2,1,1
+George Mason University,University of Washington,Field,English Language and Literature,4,1,3
+"Ohio State University, The",University of Washington,Field,English Language and Literature,2,1,1
+University of Idaho,University of Washington,Field,English Language and Literature,2,1,1
+"University of Maryland, College Park",University of Washington,Field,English Language and Literature,3,2,1
+University of North Texas,University of Washington,Field,English Language and Literature,2,1,1
+"University of Texas at Austin, The",University of Washington,Field,English Language and Literature,2,1,1
+University of Washington,University of Washington,Field,English Language and Literature,2,1,1
+Washington State University,University of Washington,Field,English Language and Literature,4,1,2
+Arizona State University,University of Wisconsin - Madison,Field,English Language and Literature,3,2,1
+Baruch College (CUNY),University of Wisconsin - Madison,Field,English Language and Literature,3,1,2
+Brigham Young University,University of Wisconsin - Madison,Field,English Language and Literature,3,1,2
+Clemson University,University of Wisconsin - Madison,Field,English Language and Literature,3,1,2
+Florida International University,University of Wisconsin - Madison,Field,English Language and Literature,2,1,1
+Indiana University-Purdue University Indianapolis,University of Wisconsin - Madison,Field,English Language and Literature,2,1,1
+John Jay College of Criminal Justice (CUNY),University of Wisconsin - Madison,Field,English Language and Literature,2,1,1
+Louisiana State University,University of Wisconsin - Madison,Field,English Language and Literature,2,1,1
+Michigan State University,University of Wisconsin - Madison,Field,English Language and Literature,2,1,1
+Middle Tennessee State University,University of Wisconsin - Madison,Field,English Language and Literature,3,1,2
+Purdue University,University of Wisconsin - Madison,Field,English Language and Literature,2,1,1
+Texas A&M University,University of Wisconsin - Madison,Field,English Language and Literature,2,1,1
+Texas State University,University of Wisconsin - Madison,Field,English Language and Literature,2,1,1
+Texas Tech University,University of Wisconsin - Madison,Field,English Language and Literature,2,1,1
+"University of California, Davis",University of Wisconsin - Madison,Field,English Language and Literature,2,1,1
+University of Colorado Boulder,University of Wisconsin - Madison,Field,English Language and Literature,2,1,1
+University of Florida,University of Wisconsin - Madison,Field,English Language and Literature,2,1,1
+University of Illinois at Urbana-Champaign,University of Wisconsin - Madison,Field,English Language and Literature,2,1,1
+"University of Nevada, Reno",University of Wisconsin - Madison,Field,English Language and Literature,3,1,1
+University of New Hampshire,University of Wisconsin - Madison,Field,English Language and Literature,2,1,1
+University of Notre Dame,University of Wisconsin - Madison,Field,English Language and Literature,3,1,2
+University of South Carolina,University of Wisconsin - Madison,Field,English Language and Literature,2,1,1
+University of South Florida,University of Wisconsin - Madison,Field,English Language and Literature,2,1,1
+University of Southern California,University of Wisconsin - Madison,Field,English Language and Literature,3,2,1
+"University of Texas at Dallas, The",University of Wisconsin - Madison,Field,English Language and Literature,3,2,1
+University of Virginia,University of Wisconsin - Madison,Field,English Language and Literature,2,1,1
+University of Washington,University of Wisconsin - Madison,Field,English Language and Literature,3,1,2
+Utah State University,University of Wisconsin - Madison,Field,English Language and Literature,2,1,1
+George Mason University,University of Wisconsin - Milwaukee,Field,English Language and Literature,2,1,1
+"University of Cincinnati, The",University of Wisconsin - Milwaukee,Field,English Language and Literature,2,1,1
+Kansas State University,Vanderbilt University,Field,English Language and Literature,2,1,1
+Middle Tennessee State University,Vanderbilt University,Field,English Language and Literature,5,2,2
+Mississippi State University,Vanderbilt University,Field,English Language and Literature,2,1,1
+"University of Tennessee, The",Vanderbilt University,Field,English Language and Literature,2,1,1
+Virginia Polytechnic Institute and State University,Virginia Polytechnic Institute and State University,Field,English Language and Literature,2,1,1
+"University of North Dakota, The",Washington University in St. Louis,Field,English Language and Literature,2,1,1
+Boston College,Yale University,Field,English Language and Literature,7,2,5
+Brooklyn College (CUNY),Yale University,Field,English Language and Literature,4,2,2
+Brown University,Yale University,Field,English Language and Literature,4,2,2
+Cleveland State University,Yale University,Field,English Language and Literature,2,1,1
+"College of William & Mary, The",Yale University,Field,English Language and Literature,2,1,1
+Columbia University,Yale University,Field,English Language and Literature,7,4,2
+Cornell University,Yale University,Field,English Language and Literature,7,4,3
+Duke University,Yale University,Field,English Language and Literature,4,1,3
+Fordham University,Yale University,Field,English Language and Literature,3,2,1
+George Mason University,Yale University,Field,English Language and Literature,3,1,2
+Harvard University,Yale University,Field,English Language and Literature,6,3,3
+Johns Hopkins University,Yale University,Field,English Language and Literature,2,1,1
+Louisiana State University,Yale University,Field,English Language and Literature,3,1,2
+Marquette University,Yale University,Field,English Language and Literature,2,1,1
+Michigan State University,Yale University,Field,English Language and Literature,5,2,3
+Northwestern University,Yale University,Field,English Language and Literature,5,2,3
+"Ohio State University, The",Yale University,Field,English Language and Literature,6,2,4
+Princeton University,Yale University,Field,English Language and Literature,3,2,1
+Purdue University,Yale University,Field,English Language and Literature,2,1,1
+Rutgers - New Brunswick,Yale University,Field,English Language and Literature,4,2,2
+Stanford University,Yale University,Field,English Language and Literature,4,2,2
+"Stony Brook University, State University of New York",Yale University,Field,English Language and Literature,4,2,2
+"University of California, Berkeley",Yale University,Field,English Language and Literature,8,4,2
+"University of California, Davis",Yale University,Field,English Language and Literature,3,2,1
+"University of California, Irvine",Yale University,Field,English Language and Literature,4,2,2
+"University of California, Santa Barbara",Yale University,Field,English Language and Literature,2,1,1
+"University of Chicago, The",Yale University,Field,English Language and Literature,4,1,3
+University of Houston,Yale University,Field,English Language and Literature,2,1,1
+"University of Iowa, The",Yale University,Field,English Language and Literature,2,1,1
+University of Kentucky,Yale University,Field,English Language and Literature,2,1,1
+"University of Maryland, College Park",Yale University,Field,English Language and Literature,4,3,1
+University of Miami,Yale University,Field,English Language and Literature,3,2,1
+"University of Minnesota, Twin Cities",Yale University,Field,English Language and Literature,4,1,3
+"University of Nevada, Las Vegas",Yale University,Field,English Language and Literature,2,1,1
+University of Pennsylvania,Yale University,Field,English Language and Literature,4,3,1
+University of Pittsburgh,Yale University,Field,English Language and Literature,2,1,1
+University of Rochester,Yale University,Field,English Language and Literature,2,1,1
+University of South Carolina,Yale University,Field,English Language and Literature,3,2,1
+University of Southern California,Yale University,Field,English Language and Literature,3,2,1
+"University of Texas at Austin, The",Yale University,Field,English Language and Literature,4,2,2
+"University of Vermont, The",Yale University,Field,English Language and Literature,3,2,1
+University of Virginia,Yale University,Field,English Language and Literature,14,4,9
+Vanderbilt University,Yale University,Field,English Language and Literature,3,1,2
+Wake Forest University,Yale University,Field,English Language and Literature,2,1,1
+Yale University,Yale University,Field,English Language and Literature,12,5,6

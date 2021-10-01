@@ -1,0 +1,167 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+Andrews University,Andrews University,Field,Educational Psychology,4,3,1
+Arizona State University,Arizona State University,Field,Educational Psychology,6,4,2
+Texas A&M University,Arizona State University,Field,Educational Psychology,4,1,1
+"University of Minnesota, Twin Cities",Arizona State University,Field,Educational Psychology,2,1,1
+"University of Nevada, Las Vegas",Arizona State University,Field,Educational Psychology,2,1,1
+"University of Texas at San Antonio, The",Arizona State University,Field,Educational Psychology,2,1,1
+Ball State University,Ball State University,Field,Educational Psychology,4,3,1
+"University of Texas at San Antonio, The","College of William & Mary, The",Field,Educational Psychology,2,1,1
+Arizona State University,Columbia University,Field,Educational Psychology,2,1,1
+"University at Albany, State University of New York",Columbia University,Field,Educational Psychology,4,1,2
+"Pennsylvania State University, The",Cornell University,Field,Educational Psychology,2,1,1
+"University of Texas at Austin, The",Duke University,Field,Educational Psychology,2,1,1
+Florida State University,Florida State University,Field,Educational Psychology,6,3,2
+Mississippi State University,Florida State University,Field,Educational Psychology,2,1,1
+Texas State University,Georgia State University,Field,Educational Psychology,2,1,1
+University of Illinois at Urbana-Champaign,Harvard University,Field,Educational Psychology,2,1,1
+Indiana University - Bloomington,Indiana University - Bloomington,Field,Educational Psychology,4,2,2
+North Carolina State University,Indiana University - Bloomington,Field,Educational Psychology,2,1,1
+University of Illinois at Urbana-Champaign,Indiana University - Bloomington,Field,Educational Psychology,2,1,1
+"University of Tennessee, The",Indiana University - Bloomington,Field,Educational Psychology,3,2,1
+"University of Texas at Austin, The",Indiana University - Bloomington,Field,Educational Psychology,2,1,1
+University of Memphis,Loyola University Chicago,Field,Educational Psychology,2,1,1
+Michigan State University,Michigan State University,Field,Educational Psychology,10,4,4
+University of Idaho,Michigan State University,Field,Educational Psychology,2,1,1
+University of Miami,Michigan State University,Field,Educational Psychology,2,1,1
+University of South Florida,Michigan State University,Field,Educational Psychology,2,1,1
+Mississippi State University,Mississippi State University,Field,Educational Psychology,6,3,2
+North Carolina State University,North Carolina State University,Field,Educational Psychology,2,1,1
+Northern Arizona University,Northern Arizona University,Field,Educational Psychology,2,1,1
+Northern Illinois University,Northern Illinois University,Field,Educational Psychology,3,2,1
+University of Colorado Boulder,Northwestern University,Field,Educational Psychology,3,2,1
+Georgia State University,"Ohio State University, The",Field,Educational Psychology,3,1,2
+Miami University,"Ohio State University, The",Field,Educational Psychology,2,1,1
+"Ohio State University, The","Ohio State University, The",Field,Educational Psychology,9,5,4
+Temple University,"Ohio State University, The",Field,Educational Psychology,3,2,1
+"University at Albany, State University of New York","Ohio State University, The",Field,Educational Psychology,2,1,1
+"Ohio State University, The",Ohio University,Field,Educational Psychology,3,1,1
+"Pennsylvania State University, The","Pennsylvania State University, The",Field,Educational Psychology,11,7,4
+Teachers College Columbia University,"Pennsylvania State University, The",Field,Educational Psychology,2,1,1
+University of Idaho,"Pennsylvania State University, The",Field,Educational Psychology,2,1,1
+University of Colorado Boulder,Stanford University,Field,Educational Psychology,7,3,4
+University of Illinois at Urbana-Champaign,Stanford University,Field,Educational Psychology,2,1,1
+University of Missouri,Stanford University,Field,Educational Psychology,2,1,1
+Michigan State University,Syracuse University,Field,Educational Psychology,2,1,1
+University of Connecticut,Syracuse University,Field,Educational Psychology,2,1,1
+Temple University,Temple University,Field,Educational Psychology,2,1,1
+Texas A&M Corpus Christi,Texas A&M Corpus Christi,Field,Educational Psychology,2,1,1
+University of Memphis,Texas A&M Corpus Christi,Field,Educational Psychology,2,1,1
+Northern Arizona University,Texas A&M University,Field,Educational Psychology,2,1,1
+"University of Texas at San Antonio, The",Texas A&M University,Field,Educational Psychology,4,1,2
+Texas Tech University,Texas Tech University,Field,Educational Psychology,9,7,2
+"University of Texas at San Antonio, The",Texas Tech University,Field,Educational Psychology,2,1,1
+"University at Buffalo, State University of New York","University at Buffalo, State University of New York",Field,Educational Psychology,2,1,1
+University of Memphis,"University of Alabama, The",Field,Educational Psychology,2,1,1
+Mississippi State University,University of Arkansas,Field,Educational Psychology,2,1,1
+University of Colorado Boulder,"University of California, Berkeley",Field,Educational Psychology,7,3,3
+University of the Pacific,"University of California, Berkeley",Field,Educational Psychology,2,1,1
+Indiana University - Bloomington,"University of California, Los Angeles",Field,Educational Psychology,3,2,1
+"Ohio State University, The","University of California, Los Angeles",Field,Educational Psychology,3,2,1
+University of Colorado Boulder,"University of California, Los Angeles",Field,Educational Psychology,4,2,1
+Texas Tech University,"University of California, Riverside",Field,Educational Psychology,2,1,1
+University of Missouri,"University of California, Santa Barbara",Field,Educational Psychology,2,1,1
+Florida State University,"University of Chicago, The",Field,Educational Psychology,2,1,1
+Michigan State University,"University of Chicago, The",Field,Educational Psychology,6,3,3
+Northern Illinois University,"University of Chicago, The",Field,Educational Psychology,3,1,2
+University of Illinois at Chicago,"University of Chicago, The",Field,Educational Psychology,2,1,1
+"Ohio State University, The","University of Cincinnati, The",Field,Educational Psychology,2,1,1
+University of Colorado Boulder,University of Colorado Boulder,Field,Educational Psychology,10,5,4
+University of Kentucky,University of Colorado Boulder,Field,Educational Psychology,2,1,1
+Arizona State University,University of Connecticut,Field,Educational Psychology,3,1,1
+University of Connecticut,University of Connecticut,Field,Educational Psychology,7,4,1
+University of Illinois at Chicago,University of Connecticut,Field,Educational Psychology,2,1,1
+Georgia State University,University of Florida,Field,Educational Psychology,3,2,1
+"Pennsylvania State University, The",University of Florida,Field,Educational Psychology,2,1,1
+Indiana University - Bloomington,University of Georgia,Field,Educational Psychology,2,1,1
+North Carolina State University,University of Georgia,Field,Educational Psychology,3,2,1
+Texas State University,University of Georgia,Field,Educational Psychology,5,1,3
+University of Florida,University of Georgia,Field,Educational Psychology,2,1,1
+"University of Tennessee, The",University of Georgia,Field,Educational Psychology,4,1,3
+Texas A&M University,University of Houston,Field,Educational Psychology,2,1,1
+University of Houston,University of Houston,Field,Educational Psychology,5,4,1
+University of Idaho,University of Idaho,Field,Educational Psychology,2,1,1
+"Ohio State University, The",University of Illinois at Urbana-Champaign,Field,Educational Psychology,2,1,1
+"Pennsylvania State University, The",University of Illinois at Urbana-Champaign,Field,Educational Psychology,2,1,1
+"University of Alabama, The",University of Illinois at Urbana-Champaign,Field,Educational Psychology,2,1,1
+University of Georgia,University of Illinois at Urbana-Champaign,Field,Educational Psychology,4,1,1
+University of Illinois at Urbana-Champaign,University of Illinois at Urbana-Champaign,Field,Educational Psychology,2,1,1
+"University of Minnesota, Twin Cities",University of Illinois at Urbana-Champaign,Field,Educational Psychology,3,1,2
+"University of Missouri - Kansas City, The",University of Illinois at Urbana-Champaign,Field,Educational Psychology,2,1,1
+University of South Carolina,University of Illinois at Urbana-Champaign,Field,Educational Psychology,5,2,2
+New Mexico State University,"University of Iowa, The",Field,Educational Psychology,5,4,1
+Southern Illinois University Carbondale,"University of Iowa, The",Field,Educational Psychology,2,1,1
+University of Oklahoma,"University of Iowa, The",Field,Educational Psychology,2,1,1
+Oklahoma State University,"University of Kansas, The",Field,Educational Psychology,2,1,1
+Ball State University,"University of Maryland, College Park",Field,Educational Psychology,3,1,1
+"Pennsylvania State University, The","University of Maryland, College Park",Field,Educational Psychology,5,2,3
+"University at Albany, State University of New York",University of Massachusetts Amherst,Field,Educational Psychology,2,1,1
+University of South Carolina,University of Massachusetts Amherst,Field,Educational Psychology,3,1,1
+"University of Tennessee, The",University of Memphis,Field,Educational Psychology,2,1,1
+Arizona State University,University of Michigan,Field,Educational Psychology,4,1,3
+Indiana University - Bloomington,University of Michigan,Field,Educational Psychology,2,1,1
+"Ohio State University, The",University of Michigan,Field,Educational Psychology,7,4,3
+Temple University,University of Michigan,Field,Educational Psychology,2,1,1
+University of Houston,University of Michigan,Field,Educational Psychology,2,1,1
+University of South Carolina,University of Michigan,Field,Educational Psychology,5,4,1
+"University of Minnesota, Twin Cities","University of Minnesota, Twin Cities",Field,Educational Psychology,8,5,3
+Mississippi State University,"University of Mississippi, The",Field,Educational Psychology,2,1,1
+Texas A&M University,University of Missouri,Field,Educational Psychology,3,1,2
+"University of Kansas, The",University of Missouri,Field,Educational Psychology,2,1,1
+"University of Minnesota, Twin Cities",University of Missouri,Field,Educational Psychology,2,1,1
+University of Missouri,University of Missouri,Field,Educational Psychology,5,3,1
+Oklahoma State University,University of Nebraska - Lincoln,Field,Educational Psychology,3,1,2
+"Pennsylvania State University, The",University of Nebraska - Lincoln,Field,Educational Psychology,2,1,1
+"University of Nevada, Las Vegas","University of New Mexico, The",Field,Educational Psychology,2,1,1
+"University of Texas at El Paso, The","University of New Mexico, The",Field,Educational Psychology,2,1,1
+"University of Tennessee, The","University of North Carolina at Greensboro, The",Field,Educational Psychology,4,2,1
+Texas State University,University of North Texas,Field,Educational Psychology,4,2,2
+University of Georgia,University of Notre Dame,Field,Educational Psychology,2,1,1
+University of Oklahoma,University of Oklahoma,Field,Educational Psychology,3,2,1
+Arizona State University,University of Oregon,Field,Educational Psychology,3,1,2
+Texas A&M University,University of Oregon,Field,Educational Psychology,4,2,2
+University of Connecticut,University of Oregon,Field,Educational Psychology,3,2,1
+"University of Minnesota, Twin Cities",University of Oregon,Field,Educational Psychology,2,1,1
+Temple University,University of Pennsylvania,Field,Educational Psychology,3,2,1
+"Ohio State University, The",University of Pittsburgh,Field,Educational Psychology,2,1,1
+"University of Tennessee, The","University of Tennessee, The",Field,Educational Psychology,3,1,2
+Arizona State University,"University of Texas at Austin, The",Field,Educational Psychology,2,1,1
+Florida State University,"University of Texas at Austin, The",Field,Educational Psychology,2,1,1
+"Ohio State University, The","University of Texas at Austin, The",Field,Educational Psychology,2,1,1
+Texas A&M University,"University of Texas at Austin, The",Field,Educational Psychology,4,3,1
+Texas State University,"University of Texas at Austin, The",Field,Educational Psychology,9,5,4
+Texas Tech University,"University of Texas at Austin, The",Field,Educational Psychology,4,2,1
+University of Houston,"University of Texas at Austin, The",Field,Educational Psychology,3,1,1
+"University of Kansas, The","University of Texas at Austin, The",Field,Educational Psychology,2,1,1
+University of Nebraska - Lincoln,"University of Texas at Austin, The",Field,Educational Psychology,2,1,1
+University of South Florida,"University of Texas at Austin, The",Field,Educational Psychology,2,1,1
+"University of Texas at San Antonio, The","University of Texas at Austin, The",Field,Educational Psychology,3,1,2
+Texas A&M University,"University of Utah, The",Field,Educational Psychology,2,1,1
+North Carolina State University,University of Virginia,Field,Educational Psychology,5,1,3
+"Pennsylvania State University, The",University of Virginia,Field,Educational Psychology,2,1,1
+Arizona State University,University of Washington,Field,Educational Psychology,2,1,1
+Arizona State University,University of Wisconsin - Madison,Field,Educational Psychology,2,1,1
+Florida State University,University of Wisconsin - Madison,Field,Educational Psychology,2,1,1
+Indiana University - Bloomington,University of Wisconsin - Madison,Field,Educational Psychology,3,1,1
+Michigan State University,University of Wisconsin - Madison,Field,Educational Psychology,6,1,4
+Northern Illinois University,University of Wisconsin - Madison,Field,Educational Psychology,3,1,2
+"Ohio State University, The",University of Wisconsin - Madison,Field,Educational Psychology,3,1,2
+"Pennsylvania State University, The",University of Wisconsin - Madison,Field,Educational Psychology,4,2,2
+Temple University,University of Wisconsin - Madison,Field,Educational Psychology,2,1,1
+"University at Albany, State University of New York",University of Wisconsin - Madison,Field,Educational Psychology,2,1,1
+"University at Buffalo, State University of New York",University of Wisconsin - Madison,Field,Educational Psychology,3,1,2
+University of Connecticut,University of Wisconsin - Madison,Field,Educational Psychology,3,1,2
+"University of Texas at Austin, The",University of Wisconsin - Madison,Field,Educational Psychology,2,1,1
+"University of Utah, The",University of Wisconsin - Madison,Field,Educational Psychology,2,1,1
+University of Wisconsin - Milwaukee,University of Wisconsin - Madison,Field,Educational Psychology,6,4,2
+University of Idaho,Utah State University,Field,Educational Psychology,3,2,1
+University of Oklahoma,Utah State University,Field,Educational Psychology,2,1,1
+Indiana University - Bloomington,Vanderbilt University,Field,Educational Psychology,2,1,1
+North Carolina State University,Vanderbilt University,Field,Educational Psychology,3,1,1
+University of Connecticut,Vanderbilt University,Field,Educational Psychology,3,1,1
+"University of Minnesota, Twin Cities",Vanderbilt University,Field,Educational Psychology,4,2,1
+"University of Tennessee, The",Vanderbilt University,Field,Educational Psychology,2,1,1
+University of South Carolina,Virginia Polytechnic Institute and State University,Field,Educational Psychology,2,1,1
+"University of Tennessee, The",Virginia Polytechnic Institute and State University,Field,Educational Psychology,2,1,1
+Andrews University,Western Michigan University,Field,Educational Psychology,3,1,2
+"Ohio State University, The",Western Michigan University,Field,Educational Psychology,2,1,1

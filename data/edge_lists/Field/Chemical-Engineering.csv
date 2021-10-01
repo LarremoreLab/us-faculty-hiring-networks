@@ -1,0 +1,120 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+Missouri University of Science and Technology,Arizona State University,Field,Chemical Engineering,2,1,1
+Clemson University,Auburn University,Field,Chemical Engineering,2,1,1
+Arizona State University,California Institute of Technology,Field,Chemical Engineering,3,1,1
+Cornell University,California Institute of Technology,Field,Chemical Engineering,6,1,5
+Iowa State University,California Institute of Technology,Field,Chemical Engineering,2,1,1
+"Ohio State University, The",California Institute of Technology,Field,Chemical Engineering,3,1,2
+"University of California, Berkeley",California Institute of Technology,Field,Chemical Engineering,4,1,3
+"University of California, Irvine",California Institute of Technology,Field,Chemical Engineering,5,2,3
+"University of California, Los Angeles",California Institute of Technology,Field,Chemical Engineering,2,1,1
+"University of California, Riverside",California Institute of Technology,Field,Chemical Engineering,2,1,1
+"University of Minnesota, Twin Cities",California Institute of Technology,Field,Chemical Engineering,3,1,1
+University of Southern California,California Institute of Technology,Field,Chemical Engineering,5,1,2
+University of Kentucky,Carnegie Mellon University,Field,Chemical Engineering,2,1,1
+Case Western Reserve University,Case Western Reserve University,Field,Chemical Engineering,4,1,2
+Michigan State University,Case Western Reserve University,Field,Chemical Engineering,3,1,2
+Mississippi State University,Clemson University,Field,Chemical Engineering,2,1,1
+California Institute of Technology,Columbia University,Field,Chemical Engineering,3,1,1
+Northeastern University,Columbia University,Field,Chemical Engineering,2,1,1
+Rutgers - New Brunswick,Columbia University,Field,Chemical Engineering,2,1,1
+"University of Minnesota, Twin Cities",Cornell University,Field,Chemical Engineering,2,1,1
+"University of Texas at Austin, The",Cornell University,Field,Chemical Engineering,2,1,1
+Illinois Institute of Technology,Illinois Institute of Technology,Field,Chemical Engineering,3,1,2
+Michigan State University,Iowa State University,Field,Chemical Engineering,3,1,1
+Princeton University,Johns Hopkins University,Field,Chemical Engineering,2,1,1
+California Institute of Technology,Massachusetts Institute of Technology,Field,Chemical Engineering,4,1,3
+Massachusetts Institute of Technology,Massachusetts Institute of Technology,Field,Chemical Engineering,6,2,3
+New York University,Massachusetts Institute of Technology,Field,Chemical Engineering,2,1,1
+Northeastern University,Massachusetts Institute of Technology,Field,Chemical Engineering,3,1,2
+Texas A&M University,Massachusetts Institute of Technology,Field,Chemical Engineering,2,1,1
+Tufts University,Massachusetts Institute of Technology,Field,Chemical Engineering,4,1,2
+"University of California, Berkeley",Massachusetts Institute of Technology,Field,Chemical Engineering,4,1,1
+"University of California, Davis",Massachusetts Institute of Technology,Field,Chemical Engineering,3,1,2
+"University of California, Irvine",Massachusetts Institute of Technology,Field,Chemical Engineering,3,1,2
+University of Delaware,Massachusetts Institute of Technology,Field,Chemical Engineering,6,1,4
+University of Wisconsin - Madison,Massachusetts Institute of Technology,Field,Chemical Engineering,4,1,3
+Yale University,Massachusetts Institute of Technology,Field,Chemical Engineering,2,1,1
+Michigan State University,Michigan State University,Field,Chemical Engineering,6,1,3
+Montana State University,Montana State University,Field,Chemical Engineering,5,3,2
+Iowa State University,North Carolina State University,Field,Chemical Engineering,2,1,1
+Louisiana State University,North Carolina State University,Field,Chemical Engineering,3,1,2
+"University of Alabama, The",North Carolina State University,Field,Chemical Engineering,3,1,1
+University of Dayton,North Carolina State University,Field,Chemical Engineering,2,1,1
+"University of California, Los Angeles",Northwestern University,Field,Chemical Engineering,2,1,1
+University of Pittsburgh,Northwestern University,Field,Chemical Engineering,3,1,2
+Washington State University,Northwestern University,Field,Chemical Engineering,2,1,1
+"Ohio State University, The","Ohio State University, The",Field,Chemical Engineering,3,1,2
+Oklahoma State University,Oklahoma State University,Field,Chemical Engineering,3,1,2
+Oklahoma State University,"Pennsylvania State University, The",Field,Chemical Engineering,2,1,1
+"Pennsylvania State University, The",Princeton University,Field,Chemical Engineering,2,1,1
+"University of California, Davis",Princeton University,Field,Chemical Engineering,3,1,2
+Auburn University,Purdue University,Field,Chemical Engineering,2,1,1
+Northeastern University,Rensselaer Polytechnic Institute,Field,Chemical Engineering,4,1,3
+Georgia Institute of Technology,Rice University,Field,Chemical Engineering,2,1,1
+"University of Arizona, The",Stanford University,Field,Chemical Engineering,4,1,3
+"University of California, Davis",Stanford University,Field,Chemical Engineering,4,2,2
+"University of California, Irvine",Stanford University,Field,Chemical Engineering,3,1,1
+University of South Carolina,Stanford University,Field,Chemical Engineering,2,1,1
+Georgia Institute of Technology,Syracuse University,Field,Chemical Engineering,2,1,1
+Texas A&M University,Texas A&M University,Field,Chemical Engineering,2,1,1
+"University of Arizona, The","University of Arizona, The",Field,Chemical Engineering,2,1,1
+University of Arkansas,University of Arkansas,Field,Chemical Engineering,3,1,2
+California Institute of Technology,"University of California, Berkeley",Field,Chemical Engineering,4,1,3
+Drexel University,"University of California, Berkeley",Field,Chemical Engineering,2,1,1
+Massachusetts Institute of Technology,"University of California, Berkeley",Field,Chemical Engineering,6,1,3
+"Pennsylvania State University, The","University of California, Berkeley",Field,Chemical Engineering,3,1,2
+"University of California, Davis","University of California, Berkeley",Field,Chemical Engineering,5,1,4
+"University of California, Irvine","University of California, Berkeley",Field,Chemical Engineering,3,1,2
+University of Colorado Boulder,"University of California, Berkeley",Field,Chemical Engineering,6,1,4
+"University of Minnesota, Twin Cities","University of California, Berkeley",Field,Chemical Engineering,4,1,3
+University of Pennsylvania,"University of California, Berkeley",Field,Chemical Engineering,2,1,1
+"University of Texas at Austin, The","University of California, Berkeley",Field,Chemical Engineering,6,2,4
+Montana State University,"University of California, Los Angeles",Field,Chemical Engineering,2,1,1
+Texas A&M University,"University of California, Los Angeles",Field,Chemical Engineering,3,1,2
+California Institute of Technology,"University of California, Santa Barbara",Field,Chemical Engineering,2,1,1
+University of Colorado Boulder,"University of California, Santa Barbara",Field,Chemical Engineering,2,1,1
+Colorado School of Mines,University of Colorado Boulder,Field,Chemical Engineering,3,1,1
+Montana State University,University of Colorado Boulder,Field,Chemical Engineering,2,1,1
+University of Colorado Boulder,University of Colorado Boulder,Field,Chemical Engineering,6,2,4
+Lehigh University,University of Delaware,Field,Chemical Engineering,5,1,4
+Tulane University,University of Delaware,Field,Chemical Engineering,3,1,2
+"University of California, Santa Barbara",University of Delaware,Field,Chemical Engineering,2,1,1
+University of Houston,University of Houston,Field,Chemical Engineering,4,1,1
+"Ohio State University, The",University of Illinois at Urbana-Champaign,Field,Chemical Engineering,4,1,2
+Oklahoma State University,University of Illinois at Urbana-Champaign,Field,Chemical Engineering,4,1,3
+Tulane University,University of Illinois at Urbana-Champaign,Field,Chemical Engineering,2,1,1
+University of Illinois at Urbana-Champaign,University of Illinois at Urbana-Champaign,Field,Chemical Engineering,2,1,1
+"University of Kansas, The",University of Illinois at Urbana-Champaign,Field,Chemical Engineering,2,1,1
+University of Massachusetts Amherst,University of Illinois at Urbana-Champaign,Field,Chemical Engineering,2,1,1
+"University of Minnesota, Twin Cities",University of Illinois at Urbana-Champaign,Field,Chemical Engineering,3,2,1
+University of Notre Dame,University of Illinois at Urbana-Champaign,Field,Chemical Engineering,5,1,3
+"University of Texas at Austin, The",University of Illinois at Urbana-Champaign,Field,Chemical Engineering,2,1,1
+"University of Tulsa, The",University of Illinois at Urbana-Champaign,Field,Chemical Engineering,2,1,1
+"University of Kansas, The","University of Kansas, The",Field,Chemical Engineering,4,1,3
+Michigan Technological University,University of Massachusetts Amherst,Field,Chemical Engineering,2,1,1
+Wayne State University,University of Michigan,Field,Chemical Engineering,4,1,1
+Syracuse University,"University of Minnesota, Twin Cities",Field,Chemical Engineering,2,1,1
+Texas A&M University,"University of Minnesota, Twin Cities",Field,Chemical Engineering,2,1,1
+Tufts University,"University of Minnesota, Twin Cities",Field,Chemical Engineering,4,1,2
+University of Colorado Boulder,"University of Minnesota, Twin Cities",Field,Chemical Engineering,3,1,2
+University of Pennsylvania,"University of Minnesota, Twin Cities",Field,Chemical Engineering,2,1,1
+"University of New Mexico, The","University of New Mexico, The",Field,Chemical Engineering,6,2,2
+Columbia University,University of Pennsylvania,Field,Chemical Engineering,2,1,1
+University of Michigan,University of Pennsylvania,Field,Chemical Engineering,4,3,1
+Yale University,University of Pennsylvania,Field,Chemical Engineering,2,1,1
+Ohio University,University of South Carolina,Field,Chemical Engineering,2,1,1
+Kansas State University,"University of Texas at Austin, The",Field,Chemical Engineering,2,1,1
+Northeastern University,"University of Texas at Austin, The",Field,Chemical Engineering,2,1,1
+University of Arkansas,"University of Texas at Austin, The",Field,Chemical Engineering,2,1,1
+"University of California, Berkeley","University of Texas at Austin, The",Field,Chemical Engineering,2,1,1
+"University of Maryland, Baltimore County","University of Texas at Austin, The",Field,Chemical Engineering,2,1,1
+"University of Utah, The","University of Utah, The",Field,Chemical Engineering,6,1,4
+Oregon State University,University of Washington,Field,Chemical Engineering,2,1,1
+Illinois Institute of Technology,University of Wisconsin - Madison,Field,Chemical Engineering,3,1,2
+Syracuse University,University of Wisconsin - Madison,Field,Chemical Engineering,2,1,1
+"University of Maine, The",University of Wisconsin - Madison,Field,Chemical Engineering,3,1,2
+"University of Minnesota, Twin Cities",University of Wisconsin - Madison,Field,Chemical Engineering,2,1,1
+University of Kentucky,Vanderbilt University,Field,Chemical Engineering,3,1,2
+University of Nebraska - Lincoln,Virginia Polytechnic Institute and State University,Field,Chemical Engineering,3,1,2
+California Institute of Technology,Yale University,Field,Chemical Engineering,4,1,3

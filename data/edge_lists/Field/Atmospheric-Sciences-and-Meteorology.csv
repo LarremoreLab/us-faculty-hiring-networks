@@ -1,0 +1,89 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+Arizona State University,Arizona State University,Field,Atmospheric Sciences and Meteorology,9,1,7
+"University of Minnesota, Twin Cities",Arizona State University,Field,Atmospheric Sciences and Meteorology,2,1,1
+California Institute of Technology,California Institute of Technology,Field,Atmospheric Sciences and Meteorology,7,1,5
+Colorado State University,California Institute of Technology,Field,Atmospheric Sciences and Meteorology,2,1,1
+Cornell University,California Institute of Technology,Field,Atmospheric Sciences and Meteorology,2,1,1
+Harvard University,California Institute of Technology,Field,Atmospheric Sciences and Meteorology,3,1,2
+Massachusetts Institute of Technology,California Institute of Technology,Field,Atmospheric Sciences and Meteorology,7,3,3
+Northwestern University,California Institute of Technology,Field,Atmospheric Sciences and Meteorology,3,1,2
+Purdue University,California Institute of Technology,Field,Atmospheric Sciences and Meteorology,3,1,1
+University of Houston,Colorado School of Mines,Field,Atmospheric Sciences and Meteorology,3,1,2
+Colorado State University,Colorado State University,Field,Atmospheric Sciences and Meteorology,3,1,1
+Utah State University,Cornell University,Field,Atmospheric Sciences and Meteorology,3,1,2
+Arizona State University,Dartmouth College,Field,Atmospheric Sciences and Meteorology,2,1,1
+Old Dominion University,Florida State University,Field,Atmospheric Sciences and Meteorology,3,1,1
+Arizona State University,Harvard University,Field,Atmospheric Sciences and Meteorology,2,1,1
+Massachusetts Institute of Technology,Harvard University,Field,Atmospheric Sciences and Meteorology,7,1,6
+University of Colorado Boulder,Harvard University,Field,Atmospheric Sciences and Meteorology,2,1,1
+University of Michigan,Harvard University,Field,Atmospheric Sciences and Meteorology,4,2,2
+University of Pittsburgh,Johns Hopkins University,Field,Atmospheric Sciences and Meteorology,2,1,1
+Arizona State University,Massachusetts Institute of Technology,Field,Atmospheric Sciences and Meteorology,7,1,6
+California Institute of Technology,Massachusetts Institute of Technology,Field,Atmospheric Sciences and Meteorology,4,1,3
+Cornell University,Massachusetts Institute of Technology,Field,Atmospheric Sciences and Meteorology,2,1,1
+Florida State University,Massachusetts Institute of Technology,Field,Atmospheric Sciences and Meteorology,5,1,4
+George Mason University,Massachusetts Institute of Technology,Field,Atmospheric Sciences and Meteorology,3,1,1
+Harvard University,Massachusetts Institute of Technology,Field,Atmospheric Sciences and Meteorology,4,1,3
+Oregon State University,Massachusetts Institute of Technology,Field,Atmospheric Sciences and Meteorology,9,2,7
+"Stony Brook University, State University of New York",Massachusetts Institute of Technology,Field,Atmospheric Sciences and Meteorology,6,2,4
+"University of Maryland, College Park",Massachusetts Institute of Technology,Field,Atmospheric Sciences and Meteorology,2,1,1
+University of Michigan,Massachusetts Institute of Technology,Field,Atmospheric Sciences and Meteorology,3,1,2
+"University of Minnesota, Twin Cities",Massachusetts Institute of Technology,Field,Atmospheric Sciences and Meteorology,4,1,3
+University of Colorado Boulder,Michigan State University,Field,Atmospheric Sciences and Meteorology,2,1,1
+University of Missouri,Michigan State University,Field,Atmospheric Sciences and Meteorology,2,1,1
+George Mason University,North Carolina State University,Field,Atmospheric Sciences and Meteorology,2,1,1
+North Carolina State University,North Carolina State University,Field,Atmospheric Sciences and Meteorology,4,1,2
+Old Dominion University,North Carolina State University,Field,Atmospheric Sciences and Meteorology,2,1,1
+Oregon State University,Oregon State University,Field,Atmospheric Sciences and Meteorology,23,6,15
+Arizona State University,Princeton University,Field,Atmospheric Sciences and Meteorology,3,1,2
+Cornell University,Stanford University,Field,Atmospheric Sciences and Meteorology,3,2,1
+Oregon State University,Stanford University,Field,Atmospheric Sciences and Meteorology,5,1,4
+Purdue University,"Stony Brook University, State University of New York",Field,Atmospheric Sciences and Meteorology,3,1,2
+North Carolina State University,Texas A&M University,Field,Atmospheric Sciences and Meteorology,2,1,1
+University of Oklahoma,Texas A&M University,Field,Atmospheric Sciences and Meteorology,2,1,1
+"University at Albany, State University of New York","University at Albany, State University of New York",Field,Atmospheric Sciences and Meteorology,2,1,1
+"University of Arizona, The","University of Arizona, The",Field,Atmospheric Sciences and Meteorology,4,1,2
+University of Houston,"University of Arizona, The",Field,Atmospheric Sciences and Meteorology,2,1,1
+Arizona State University,"University of California, Berkeley",Field,Atmospheric Sciences and Meteorology,4,1,3
+Massachusetts Institute of Technology,"University of California, Berkeley",Field,Atmospheric Sciences and Meteorology,3,1,2
+University of Colorado Boulder,"University of California, Berkeley",Field,Atmospheric Sciences and Meteorology,2,1,1
+"University of Minnesota, Twin Cities","University of California, Berkeley",Field,Atmospheric Sciences and Meteorology,5,1,3
+University of Washington,"University of California, Berkeley",Field,Atmospheric Sciences and Meteorology,2,1,1
+Utah State University,"University of California, Davis",Field,Atmospheric Sciences and Meteorology,2,1,1
+Arizona State University,"University of California, Los Angeles",Field,Atmospheric Sciences and Meteorology,3,1,2
+Iowa State University,"University of California, Los Angeles",Field,Atmospheric Sciences and Meteorology,2,1,1
+University of Michigan,"University of California, Los Angeles",Field,Atmospheric Sciences and Meteorology,2,1,1
+University of Pittsburgh,"University of California, Los Angeles",Field,Atmospheric Sciences and Meteorology,2,1,1
+Oregon State University,"University of California, San Diego",Field,Atmospheric Sciences and Meteorology,5,1,4
+"Stony Brook University, State University of New York","University of California, San Diego",Field,Atmospheric Sciences and Meteorology,2,1,1
+University of Rhode Island,"University of California, San Diego",Field,Atmospheric Sciences and Meteorology,3,2,1
+Oregon State University,"University of California, Santa Barbara",Field,Atmospheric Sciences and Meteorology,3,1,2
+Oregon State University,University of Colorado Boulder,Field,Atmospheric Sciences and Meteorology,3,1,2
+University of Colorado Boulder,University of Colorado Boulder,Field,Atmospheric Sciences and Meteorology,6,2,2
+Oregon State University,University of Hawaii,Field,Atmospheric Sciences and Meteorology,4,1,3
+"Stony Brook University, State University of New York","University of Maryland, College Park",Field,Atmospheric Sciences and Meteorology,4,1,2
+"University of Maryland, College Park","University of Maryland, College Park",Field,Atmospheric Sciences and Meteorology,6,1,3
+University of Miami,University of Miami,Field,Atmospheric Sciences and Meteorology,4,2,2
+North Carolina State University,University of Michigan,Field,Atmospheric Sciences and Meteorology,2,1,1
+Northwestern University,University of Michigan,Field,Atmospheric Sciences and Meteorology,3,1,2
+"University of Arizona, The",University of Michigan,Field,Atmospheric Sciences and Meteorology,2,1,1
+University of Michigan,University of Michigan,Field,Atmospheric Sciences and Meteorology,7,2,5
+University of Rhode Island,University of Michigan,Field,Atmospheric Sciences and Meteorology,2,1,1
+"University of Minnesota, Twin Cities","University of Minnesota, Twin Cities",Field,Atmospheric Sciences and Meteorology,9,1,8
+University of Missouri,"University of Minnesota, Twin Cities",Field,Atmospheric Sciences and Meteorology,2,1,1
+"Pennsylvania State University, The",University of Oklahoma,Field,Atmospheric Sciences and Meteorology,3,1,2
+Purdue University,University of Oklahoma,Field,Atmospheric Sciences and Meteorology,5,1,4
+University of Illinois at Urbana-Champaign,University of Oklahoma,Field,Atmospheric Sciences and Meteorology,2,1,1
+University of Rhode Island,University of Rhode Island,Field,Atmospheric Sciences and Meteorology,7,3,4
+Arizona State University,University of Southern California,Field,Atmospheric Sciences and Meteorology,3,1,2
+"Stony Brook University, State University of New York",University of Southern California,Field,Atmospheric Sciences and Meteorology,2,1,1
+Colorado State University,University of Washington,Field,Atmospheric Sciences and Meteorology,6,3,3
+Georgia Institute of Technology,University of Washington,Field,Atmospheric Sciences and Meteorology,2,1,1
+Oregon State University,University of Washington,Field,Atmospheric Sciences and Meteorology,17,3,14
+"University of Minnesota, Twin Cities",University of Washington,Field,Atmospheric Sciences and Meteorology,2,1,1
+University of Washington,University of Washington,Field,Atmospheric Sciences and Meteorology,7,2,5
+University of Wisconsin - Madison,University of Washington,Field,Atmospheric Sciences and Meteorology,5,1,4
+Florida State University,University of Wisconsin - Madison,Field,Atmospheric Sciences and Meteorology,3,1,2
+Texas A&M University,University of Wisconsin - Madison,Field,Atmospheric Sciences and Meteorology,3,1,2
+"University of Minnesota, Twin Cities",University of Wisconsin - Madison,Field,Atmospheric Sciences and Meteorology,5,2,2
+"Stony Brook University, State University of New York",Yale University,Field,Atmospheric Sciences and Meteorology,5,1,3

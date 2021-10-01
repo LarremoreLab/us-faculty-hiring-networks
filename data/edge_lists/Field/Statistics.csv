@@ -1,0 +1,119 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+Air Force Institute of Technology,Air Force Institute of Technology,Field,Statistics,6,1,5
+Texas Tech University,Arizona State University,Field,Statistics,3,1,1
+University of Louisiana at Lafayette,Arizona State University,Field,Statistics,2,1,1
+"University of Vermont, The",Boston University,Field,Statistics,2,1,1
+"Ohio State University, The",Carnegie Mellon University,Field,Statistics,3,2,1
+Colorado State University,Colorado State University,Field,Statistics,6,2,3
+Montana State University,Colorado State University,Field,Statistics,3,2,1
+New York University,Columbia University,Field,Statistics,8,4,4
+Rutgers - New Brunswick,Columbia University,Field,Statistics,4,1,2
+Iowa State University,Cornell University,Field,Statistics,4,1,1
+Mississippi State University,Cornell University,Field,Statistics,2,1,1
+New York University,Cornell University,Field,Statistics,2,1,1
+University of Connecticut,Cornell University,Field,Statistics,2,1,1
+"University of Nevada, Reno",Cornell University,Field,Statistics,2,1,1
+University of Pennsylvania,Cornell University,Field,Statistics,4,1,3
+Washington University in St. Louis,Cornell University,Field,Statistics,2,1,1
+"Ohio State University, The",Duke University,Field,Statistics,2,1,1
+"University of California, Santa Cruz",Duke University,Field,Statistics,2,1,1
+Virginia Polytechnic Institute and State University,Duke University,Field,Statistics,4,1,3
+University of North Carolina at Chapel Hill,Georgia Institute of Technology,Field,Statistics,2,1,1
+Baruch College (CUNY),Georgia State University,Field,Statistics,2,1,1
+Boston University,Harvard University,Field,Statistics,9,1,7
+Duke University,Harvard University,Field,Statistics,2,1,1
+Georgetown University,Harvard University,Field,Statistics,2,1,1
+Iowa State University,Iowa State University,Field,Statistics,5,3,2
+Montana State University,Iowa State University,Field,Statistics,2,1,1
+North Carolina State University,Iowa State University,Field,Statistics,3,1,1
+University of Nebraska - Lincoln,Iowa State University,Field,Statistics,5,1,1
+Boston University,Johns Hopkins University,Field,Statistics,2,1,1
+Louisiana Tech University,Louisiana State University,Field,Statistics,3,1,1
+Boston University,Massachusetts Institute of Technology,Field,Statistics,3,1,2
+Florida International University,Michigan State University,Field,Statistics,3,1,1
+Kansas State University,Michigan State University,Field,Statistics,5,1,2
+Michigan State University,Michigan State University,Field,Statistics,3,1,1
+Colorado State University,Montana State University,Field,Statistics,2,1,1
+Montana State University,Montana State University,Field,Statistics,3,1,1
+Baruch College (CUNY),New York University,Field,Statistics,7,2,4
+New York University,New York University,Field,Statistics,4,2,2
+University of Wyoming,New York University,Field,Statistics,3,1,1
+Air Force Institute of Technology,North Carolina State University,Field,Statistics,3,1,2
+North Carolina State University,North Carolina State University,Field,Statistics,5,4,1
+Marquette University,Northwestern University,Field,Statistics,2,1,1
+"University of Vermont, The","Ohio State University, The",Field,Statistics,3,1,2
+Oklahoma State University,Oklahoma State University,Field,Statistics,2,1,1
+Carnegie Mellon University,"Pennsylvania State University, The",Field,Statistics,2,1,1
+Missouri University of Science and Technology,"Pennsylvania State University, The",Field,Statistics,2,1,1
+Marquette University,Purdue University,Field,Statistics,3,1,1
+Oakland University,Purdue University,Field,Statistics,3,1,1
+Purdue University,Purdue University,Field,Statistics,6,1,3
+"University of New Mexico, The",Purdue University,Field,Statistics,2,1,1
+Baruch College (CUNY),Rutgers - New Brunswick,Field,Statistics,2,1,1
+Portland State University,Rutgers - New Brunswick,Field,Statistics,2,1,1
+Columbia University,Stanford University,Field,Statistics,7,1,5
+"Pennsylvania State University, The",Stanford University,Field,Statistics,3,1,1
+Stanford University,Stanford University,Field,Statistics,5,1,3
+"Stony Brook University, State University of New York",Stanford University,Field,Statistics,4,1,3
+"University of California, Berkeley",Stanford University,Field,Statistics,4,2,2
+University of North Carolina at Chapel Hill,Stanford University,Field,Statistics,2,1,1
+University of Pennsylvania,Stanford University,Field,Statistics,9,1,3
+University of Washington,Stanford University,Field,Statistics,2,1,1
+Loyola University Chicago,"University of California, Berkeley",Field,Statistics,3,1,2
+Oregon State University,"University of California, Berkeley",Field,Statistics,3,1,1
+"University at Albany, State University of New York","University of California, Berkeley",Field,Statistics,2,1,1
+"University of California, Davis","University of California, Berkeley",Field,Statistics,5,1,4
+"University of California, Los Angeles","University of California, Berkeley",Field,Statistics,4,1,3
+"University of Chicago, The","University of California, Berkeley",Field,Statistics,6,2,3
+University of Michigan,"University of California, Berkeley",Field,Statistics,8,1,5
+University of Wisconsin - Madison,"University of California, Berkeley",Field,Statistics,5,1,1
+Utah State University,"University of California, Berkeley",Field,Statistics,3,1,2
+Arizona State University,"University of California, Davis",Field,Statistics,2,1,1
+University of Alaska Fairbanks,"University of California, Los Angeles",Field,Statistics,2,1,1
+"University of Vermont, The","University of California, Los Angeles",Field,Statistics,3,1,1
+Portland State University,"University of California, San Diego",Field,Statistics,2,1,1
+"University of Nevada, Reno","University of California, Santa Barbara",Field,Statistics,2,1,1
+Virginia Polytechnic Institute and State University,"University of California, Santa Cruz",Field,Statistics,2,1,1
+New York University,"University of Chicago, The",Field,Statistics,2,1,1
+North Carolina State University,"University of Chicago, The",Field,Statistics,3,1,2
+South Dakota State University,University of Colorado Boulder,Field,Statistics,2,1,1
+Loyola University Chicago,University of Connecticut,Field,Statistics,2,1,1
+University of Louisiana at Lafayette,University of Florida,Field,Statistics,2,1,1
+University of North Carolina Charlotte,University of Georgia,Field,Statistics,3,1,1
+University of Notre Dame,University of Houston,Field,Statistics,2,1,1
+Wichita State University,University of Illinois at Urbana-Champaign,Field,Statistics,2,1,1
+Iowa State University,"University of Iowa, The",Field,Statistics,2,1,1
+University of Kentucky,University of Kentucky,Field,Statistics,7,3,2
+University of Louisiana at Lafayette,University of Louisiana at Lafayette,Field,Statistics,3,2,1
+American University,"University of Maryland, College Park",Field,Statistics,2,1,1
+Arizona State University,"University of Maryland, College Park",Field,Statistics,2,1,1
+Colorado State University,University of Michigan,Field,Statistics,2,1,1
+Fordham University,University of Michigan,Field,Statistics,2,1,1
+Georgetown University,University of Michigan,Field,Statistics,2,1,1
+University of Illinois at Chicago,University of Michigan,Field,Statistics,3,1,2
+University of North Carolina Charlotte,University of Michigan,Field,Statistics,2,1,1
+West Virginia University,University of Michigan,Field,Statistics,2,1,1
+Arizona State University,"University of Minnesota, Twin Cities",Field,Statistics,2,1,1
+Baruch College (CUNY),"University of Minnesota, Twin Cities",Field,Statistics,2,1,1
+"Pennsylvania State University, The","University of Minnesota, Twin Cities",Field,Statistics,3,1,1
+University of Massachusetts Amherst,"University of Minnesota, Twin Cities",Field,Statistics,3,1,2
+"University of New Mexico, The",University of Missouri,Field,Statistics,2,1,1
+University of Nebraska - Lincoln,University of Nebraska - Lincoln,Field,Statistics,2,1,1
+Michigan State University,University of North Carolina at Chapel Hill,Field,Statistics,2,1,1
+North Carolina State University,University of North Carolina at Chapel Hill,Field,Statistics,3,1,1
+University of Kentucky,University of Pittsburgh,Field,Statistics,2,1,1
+Oklahoma State University,University of South Carolina,Field,Statistics,2,1,1
+Texas Tech University,"University of Tennessee, The",Field,Statistics,3,1,2
+Temple University,"University of Texas at Austin, The",Field,Statistics,2,1,1
+Colorado School of Mines,"University of Utah, The",Field,Statistics,2,1,1
+Utah State University,"University of Utah, The",Field,Statistics,2,1,1
+Colorado State University,University of Washington,Field,Statistics,3,1,1
+Montana State University,University of Washington,Field,Statistics,2,1,1
+"Pennsylvania State University, The",University of Washington,Field,Statistics,4,1,1
+Portland State University,University of Washington,Field,Statistics,2,1,1
+University of Alaska Fairbanks,University of Washington,Field,Statistics,3,1,2
+"Ohio State University, The",University of Wisconsin - Madison,Field,Statistics,2,1,1
+Purdue University,University of Wisconsin - Madison,Field,Statistics,5,1,1
+Montana State University,Virginia Polytechnic Institute and State University,Field,Statistics,2,1,1
+"University of Maine, The",Wayne State University,Field,Statistics,2,1,1
+"University of New Mexico, The",Yale University,Field,Statistics,2,1,1

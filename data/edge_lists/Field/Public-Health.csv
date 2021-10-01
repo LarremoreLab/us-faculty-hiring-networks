@@ -1,0 +1,345 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+Albert Einstein College of Medicine of Yeshiva University,Albert Einstein College of Medicine of Yeshiva University,Field,Public Health,6,2,4
+Weill Medical College of Cornell University,Albert Einstein College of Medicine of Yeshiva University,Field,Public Health,2,1,1
+Texas A&M Health Science Center,Baylor College of Medicine,Field,Public Health,3,1,1
+Boston University,Boston University,Field,Public Health,18,8,10
+Columbia University,Boston University,Field,Public Health,2,1,1
+Johns Hopkins University,Boston University,Field,Public Health,3,2,1
+Oregon State University,Boston University,Field,Public Health,2,1,1
+Tufts University,Boston University,Field,Public Health,3,2,1
+Boston University,Brandeis University,Field,Public Health,4,3,1
+Brown University,Brandeis University,Field,Public Health,4,2,2
+Boston University,Brown University,Field,Public Health,2,1,1
+Brown University,Brown University,Field,Public Health,8,5,1
+Columbia University,Brown University,Field,Public Health,3,2,1
+"University of Vermont, The",Brown University,Field,Public Health,3,2,1
+Weill Medical College of Cornell University,Brown University,Field,Public Health,3,1,1
+Harvard University,California Institute of Technology,Field,Public Health,2,1,1
+Case Western Reserve University,Case Western Reserve University,Field,Public Health,13,5,4
+Johns Hopkins University,Case Western Reserve University,Field,Public Health,4,3,1
+Kent State University,Case Western Reserve University,Field,Public Health,3,2,1
+Washington University in St. Louis,Case Western Reserve University,Field,Public Health,2,1,1
+Albert Einstein College of Medicine of Yeshiva University,"City University of New York, The",Field,Public Health,2,1,1
+Columbia University,"City University of New York, The",Field,Public Health,4,2,2
+Albert Einstein College of Medicine of Yeshiva University,Columbia University,Field,Public Health,11,6,4
+Boston University,Columbia University,Field,Public Health,3,1,2
+Columbia University,Columbia University,Field,Public Health,26,16,6
+Emory University,Columbia University,Field,Public Health,3,2,1
+Icahn School of Medicine at Mount Sinai,Columbia University,Field,Public Health,13,5,5
+University of Massachusetts Amherst,Columbia University,Field,Public Health,2,1,1
+Weill Medical College of Cornell University,Columbia University,Field,Public Health,9,4,5
+Yale University,Columbia University,Field,Public Health,4,2,2
+Brown University,Cornell University,Field,Public Health,3,1,2
+University of Michigan,Cornell University,Field,Public Health,2,1,1
+Johns Hopkins University,Drexel University,Field,Public Health,3,2,1
+Brown University,Duke University,Field,Public Health,2,1,1
+Indiana University - Bloomington,Duke University,Field,Public Health,3,1,1
+Johns Hopkins University,Duke University,Field,Public Health,6,5,1
+University of North Carolina at Chapel Hill,Duke University,Field,Public Health,3,1,2
+Washington University in St. Louis,Duke University,Field,Public Health,2,1,1
+East Carolina University,East Carolina University,Field,Public Health,2,1,1
+Emory University,Emory University,Field,Public Health,11,10,1
+"University of Nevada, Reno",Emory University,Field,Public Health,3,1,2
+Florida A&M University,Florida A&M University,Field,Public Health,2,1,1
+Florida A&M University,Florida State University,Field,Public Health,16,5,9
+University of Florida,Florida State University,Field,Public Health,2,1,1
+George Mason University,George Mason University,Field,Public Health,6,4,2
+George Mason University,George Washington University,Field,Public Health,3,1,2
+George Washington University,George Washington University,Field,Public Health,2,1,1
+Johns Hopkins University,George Washington University,Field,Public Health,3,1,1
+"University of Texas Health Science Center at Houston, The",George Washington University,Field,Public Health,2,1,1
+Clemson University,Georgia State University,Field,Public Health,3,2,1
+Albert Einstein College of Medicine of Yeshiva University,Harvard University,Field,Public Health,4,1,2
+Boston University,Harvard University,Field,Public Health,21,10,10
+Brown University,Harvard University,Field,Public Health,12,2,7
+Columbia University,Harvard University,Field,Public Health,11,8,2
+Emory University,Harvard University,Field,Public Health,4,3,1
+George Mason University,Harvard University,Field,Public Health,3,1,1
+Harvard University,Harvard University,Field,Public Health,58,26,25
+Icahn School of Medicine at Mount Sinai,Harvard University,Field,Public Health,6,3,2
+Indiana University - Bloomington,Harvard University,Field,Public Health,8,2,3
+Johns Hopkins University,Harvard University,Field,Public Health,14,7,7
+Oregon State University,Harvard University,Field,Public Health,3,1,1
+"Pennsylvania State University, The",Harvard University,Field,Public Health,2,1,1
+Tufts University,Harvard University,Field,Public Health,8,6,1
+"University of California, Los Angeles",Harvard University,Field,Public Health,4,1,3
+University of Kentucky,Harvard University,Field,Public Health,2,1,1
+University of Massachusetts Lowell,Harvard University,Field,Public Health,5,2,3
+University of Miami,Harvard University,Field,Public Health,2,1,1
+University of Michigan,Harvard University,Field,Public Health,5,3,2
+"University of Minnesota, Twin Cities",Harvard University,Field,Public Health,8,5,3
+University of North Carolina at Chapel Hill,Harvard University,Field,Public Health,4,1,1
+University of Washington,Harvard University,Field,Public Health,8,3,3
+Weill Medical College of Cornell University,Harvard University,Field,Public Health,7,3,2
+Yale University,Harvard University,Field,Public Health,12,6,6
+Indiana University - Bloomington,Indiana University - Bloomington,Field,Public Health,16,6,8
+Albert Einstein College of Medicine of Yeshiva University,Johns Hopkins University,Field,Public Health,9,3,5
+Brown University,Johns Hopkins University,Field,Public Health,7,3,3
+Columbia University,Johns Hopkins University,Field,Public Health,6,2,1
+Emory University,Johns Hopkins University,Field,Public Health,3,2,1
+George Washington University,Johns Hopkins University,Field,Public Health,5,3,1
+Harvard University,Johns Hopkins University,Field,Public Health,4,2,2
+Johns Hopkins University,Johns Hopkins University,Field,Public Health,98,52,39
+Oregon State University,Johns Hopkins University,Field,Public Health,3,2,1
+San Diego State University,Johns Hopkins University,Field,Public Health,2,1,1
+"University at Albany, State University of New York",Johns Hopkins University,Field,Public Health,3,2,1
+"University of California, Berkeley",Johns Hopkins University,Field,Public Health,2,1,1
+"University of California, Davis",Johns Hopkins University,Field,Public Health,4,2,1
+"University of California, Los Angeles",Johns Hopkins University,Field,Public Health,6,4,2
+"University of Maryland, College Park",Johns Hopkins University,Field,Public Health,4,2,1
+University of Michigan,Johns Hopkins University,Field,Public Health,2,1,1
+University of North Carolina Charlotte,Johns Hopkins University,Field,Public Health,3,1,2
+University of Pittsburgh,Johns Hopkins University,Field,Public Health,7,4,3
+University of Washington,Johns Hopkins University,Field,Public Health,6,3,1
+University of Wisconsin - Madison,Johns Hopkins University,Field,Public Health,7,2,2
+Wake Forest University,Johns Hopkins University,Field,Public Health,8,5,1
+Yale University,Johns Hopkins University,Field,Public Health,2,1,1
+Loyola University Chicago,Loyola University Chicago,Field,Public Health,3,1,2
+University of Michigan,Michigan State University,Field,Public Health,2,1,1
+Icahn School of Medicine at Mount Sinai,New York Medical College,Field,Public Health,2,1,1
+Albert Einstein College of Medicine of Yeshiva University,New York University,Field,Public Health,4,3,1
+Columbia University,New York University,Field,Public Health,6,5,1
+Harvard University,New York University,Field,Public Health,2,1,1
+"University of California, Berkeley",New York University,Field,Public Health,2,1,1
+Weill Medical College of Cornell University,New York University,Field,Public Health,6,4,2
+Emory University,Northwestern University,Field,Public Health,2,1,1
+University of Illinois at Chicago,Northwestern University,Field,Public Health,2,1,1
+University of Louisville,Northwestern University,Field,Public Health,2,1,1
+Ohio University,"Ohio State University, The",Field,Public Health,3,2,1
+University of South Carolina,"Ohio State University, The",Field,Public Health,2,1,1
+Old Dominion University,Old Dominion University,Field,Public Health,3,2,1
+Brown University,"Pennsylvania State University, The",Field,Public Health,3,1,2
+Johns Hopkins University,"Pennsylvania State University, The",Field,Public Health,2,1,1
+New York University,"Pennsylvania State University, The",Field,Public Health,3,1,1
+"University of California, Irvine","Pennsylvania State University, The",Field,Public Health,2,1,1
+"University of North Carolina at Greensboro, The","Pennsylvania State University, The",Field,Public Health,3,1,2
+University of Pennsylvania,"Pennsylvania State University, The",Field,Public Health,4,2,2
+University of Washington,"Pennsylvania State University, The",Field,Public Health,2,1,1
+Harvard University,Princeton University,Field,Public Health,2,1,1
+Indiana University - Bloomington,Purdue University,Field,Public Health,2,1,1
+"University of Minnesota, Twin Cities",Purdue University,Field,Public Health,2,1,1
+Weill Medical College of Cornell University,Rutgers - New Brunswick,Field,Public Health,2,1,1
+Johns Hopkins University,Saint Louis University,Field,Public Health,2,1,1
+Saint Louis University,Saint Louis University,Field,Public Health,2,1,1
+Southern Illinois University Carbondale,Southern Illinois University Carbondale,Field,Public Health,3,2,1
+Harvard University,Stanford University,Field,Public Health,5,1,3
+Stanford University,Stanford University,Field,Public Health,7,4,3
+"University of Arizona, The",Stanford University,Field,Public Health,2,1,1
+"University of Minnesota, Twin Cities",Stanford University,Field,Public Health,3,1,2
+University of North Carolina at Chapel Hill,"Stony Brook University, State University of New York",Field,Public Health,2,1,1
+Indiana University - Bloomington,Syracuse University,Field,Public Health,5,1,4
+"University of Maryland, College Park",Syracuse University,Field,Public Health,3,1,2
+University of North Carolina Charlotte,Syracuse University,Field,Public Health,2,1,1
+University of Pennsylvania,Temple University,Field,Public Health,2,1,1
+East Carolina University,Texas A&M University,Field,Public Health,4,2,1
+Indiana University - Bloomington,Texas A&M University,Field,Public Health,4,3,1
+Texas State University,Texas A&M University,Field,Public Health,2,1,1
+Johns Hopkins University,Tufts University,Field,Public Health,3,1,2
+Tufts University,Tufts University,Field,Public Health,8,5,3
+University of Washington,Tufts University,Field,Public Health,2,1,1
+Johns Hopkins University,Tulane University,Field,Public Health,2,1,1
+Tulane University,Tulane University,Field,Public Health,6,2,4
+"University of Minnesota, Twin Cities",Tulane University,Field,Public Health,3,1,2
+University of Pittsburgh,Tulane University,Field,Public Health,2,1,1
+Kent State University,"University of Akron, The",Field,Public Health,3,2,1
+Boston University,"University of Alabama at Birmingham, The",Field,Public Health,2,1,1
+Indiana University-Purdue University Indianapolis,"University of Alabama at Birmingham, The",Field,Public Health,4,2,2
+"University of Alabama at Birmingham, The","University of Alabama at Birmingham, The",Field,Public Health,2,1,1
+"University of Nevada, Las Vegas","University of Alabama at Birmingham, The",Field,Public Health,2,1,1
+University of South Florida,"University of Alabama at Birmingham, The",Field,Public Health,2,1,1
+East Carolina University,"University of Alabama, The",Field,Public Health,2,1,1
+Indiana University - Bloomington,"University of Arizona, The",Field,Public Health,3,1,2
+"University of Arizona, The","University of Arizona, The",Field,Public Health,10,5,5
+Harvard University,"University of California, Berkeley",Field,Public Health,6,5,1
+"University of California, Berkeley","University of California, Berkeley",Field,Public Health,18,10,7
+"University of California, Los Angeles","University of California, Berkeley",Field,Public Health,6,2,4
+"University of Minnesota, Twin Cities","University of California, Berkeley",Field,Public Health,4,3,1
+"University of Montana, Missoula","University of California, Berkeley",Field,Public Health,2,1,1
+"University of Nevada, Reno","University of California, Berkeley",Field,Public Health,3,2,1
+University of South Carolina,"University of California, Berkeley",Field,Public Health,2,1,1
+University of Washington,"University of California, Berkeley",Field,Public Health,4,1,3
+"University of Minnesota, Twin Cities","University of California, Davis",Field,Public Health,2,1,1
+"University of Nevada, Reno","University of California, Davis",Field,Public Health,2,1,1
+University of Washington,"University of California, Davis",Field,Public Health,2,1,1
+"University of California, Irvine","University of California, Irvine",Field,Public Health,2,1,1
+Columbia University,"University of California, Los Angeles",Field,Public Health,2,1,1
+Drexel University,"University of California, Los Angeles",Field,Public Health,2,1,1
+Medical College of Wisconsin,"University of California, Los Angeles",Field,Public Health,2,1,1
+San Diego State University,"University of California, Los Angeles",Field,Public Health,4,3,1
+"University of California, Davis","University of California, Los Angeles",Field,Public Health,4,2,2
+"University of California, Los Angeles","University of California, Los Angeles",Field,Public Health,8,5,2
+University of Illinois at Chicago,"University of California, Los Angeles",Field,Public Health,2,1,1
+University of Memphis,"University of California, Los Angeles",Field,Public Health,2,1,1
+"University of Nevada, Reno","University of California, Los Angeles",Field,Public Health,2,1,1
+Weill Medical College of Cornell University,"University of California, Los Angeles",Field,Public Health,2,1,1
+Brown University,"University of California, San Diego",Field,Public Health,2,1,1
+San Diego State University,"University of California, San Diego",Field,Public Health,2,1,1
+University of Washington,"University of California, San Diego",Field,Public Health,3,1,2
+"University of California, Berkeley","University of California, San Francisco",Field,Public Health,4,3,1
+"University of California, San Francisco","University of California, San Francisco",Field,Public Health,8,6,1
+University of Pennsylvania,"University of California, San Francisco",Field,Public Health,3,1,1
+University of Washington,"University of California, San Francisco",Field,Public Health,4,3,1
+Columbia University,"University of Chicago, The",Field,Public Health,4,2,2
+Harvard University,"University of Chicago, The",Field,Public Health,4,2,2
+Indiana University - Bloomington,"University of Chicago, The",Field,Public Health,4,2,1
+Johns Hopkins University,"University of Chicago, The",Field,Public Health,7,5,2
+University of Washington,"University of Chicago, The",Field,Public Health,3,1,2
+"University of Cincinnati, The","University of Cincinnati, The",Field,Public Health,6,3,2
+University of Colorado Denver,University of Colorado Boulder,Field,Public Health,5,4,1
+University of Colorado Denver,University of Colorado Denver,Field,Public Health,6,4,2
+Johns Hopkins University,University of Connecticut,Field,Public Health,2,1,1
+"University of Vermont, The",University of Connecticut,Field,Public Health,2,1,1
+Brown University,University of Florida,Field,Public Health,2,1,1
+University of Florida,University of Florida,Field,Public Health,11,3,7
+University of South Florida,University of Florida,Field,Public Health,4,3,1
+Indiana University - Bloomington,University of Georgia,Field,Public Health,5,2,3
+University of Georgia,University of Georgia,Field,Public Health,5,4,1
+University of Hawaii,University of Hawaii,Field,Public Health,4,2,1
+Johns Hopkins University,University of Illinois at Chicago,Field,Public Health,4,2,1
+University of Illinois at Chicago,University of Illinois at Chicago,Field,Public Health,24,14,8
+Indiana University - Bloomington,University of Illinois at Urbana-Champaign,Field,Public Health,2,1,1
+"University of California, Davis","University of Iowa, The",Field,Public Health,2,1,1
+"University of Iowa, The","University of Iowa, The",Field,Public Health,4,2,2
+"University of Kansas, The","University of Kansas, The",Field,Public Health,9,3,4
+University of South Florida,"University of Kansas, The",Field,Public Health,2,1,1
+Texas State University,University of Kentucky,Field,Public Health,3,2,1
+University of Kentucky,University of Kentucky,Field,Public Health,10,5,3
+Wake Forest University,University of Kentucky,Field,Public Health,2,1,1
+University of Louisville,University of Louisville,Field,Public Health,2,1,1
+Johns Hopkins University,"University of Maryland, College Park",Field,Public Health,3,2,1
+University of Wisconsin - Milwaukee,"University of Maryland, College Park",Field,Public Health,2,1,1
+Tufts University,University of Massachusetts Amherst,Field,Public Health,2,1,1
+University of Massachusetts Amherst,University of Massachusetts Amherst,Field,Public Health,2,1,1
+University of Massachusetts Lowell,University of Massachusetts Lowell,Field,Public Health,5,3,2
+Johns Hopkins University,University of Medicine and Dentistry of New Jersey,Field,Public Health,2,1,1
+Albert Einstein College of Medicine of Yeshiva University,University of Miami,Field,Public Health,2,1,1
+Columbia University,University of Miami,Field,Public Health,2,1,1
+Florida A&M University,University of Miami,Field,Public Health,3,1,2
+"University of California, San Francisco",University of Miami,Field,Public Health,2,1,1
+University of Miami,University of Miami,Field,Public Health,10,3,7
+Boston University,University of Michigan,Field,Public Health,4,1,3
+Columbia University,University of Michigan,Field,Public Health,3,1,2
+Emory University,University of Michigan,Field,Public Health,4,2,2
+Harvard University,University of Michigan,Field,Public Health,5,3,1
+Indiana University - Bloomington,University of Michigan,Field,Public Health,4,1,2
+Johns Hopkins University,University of Michigan,Field,Public Health,8,1,7
+"Pennsylvania State University, The",University of Michigan,Field,Public Health,3,1,2
+"University at Albany, State University of New York",University of Michigan,Field,Public Health,3,1,2
+University of Colorado Denver,University of Michigan,Field,Public Health,2,1,1
+University of Illinois at Chicago,University of Michigan,Field,Public Health,3,1,2
+University of Michigan,University of Michigan,Field,Public Health,10,6,3
+"University of Minnesota, Twin Cities",University of Michigan,Field,Public Health,2,1,1
+University of North Carolina at Chapel Hill,University of Michigan,Field,Public Health,5,3,1
+University of Pennsylvania,University of Michigan,Field,Public Health,4,3,1
+University of Washington,University of Michigan,Field,Public Health,4,2,2
+University of Wisconsin - Milwaukee,University of Michigan,Field,Public Health,3,2,1
+Wake Forest University,University of Michigan,Field,Public Health,4,2,2
+Washington University in St. Louis,University of Michigan,Field,Public Health,6,1,2
+"University of Minnesota, Twin Cities","University of Minnesota, Twin Cities",Field,Public Health,21,13,5
+University of Rochester,"University of Minnesota, Twin Cities",Field,Public Health,2,1,1
+University of South Florida,"University of Minnesota, Twin Cities",Field,Public Health,2,1,1
+"University of Kansas, The","University of Missouri - Kansas City, The",Field,Public Health,2,1,1
+"University of Montana, Missoula","University of Montana, Missoula",Field,Public Health,3,2,1
+Brown University,"University of New Mexico, The",Field,Public Health,2,1,1
+New Mexico State University,"University of New Mexico, The",Field,Public Health,2,1,1
+Albert Einstein College of Medicine of Yeshiva University,University of North Carolina at Chapel Hill,Field,Public Health,3,1,1
+Boston University,University of North Carolina at Chapel Hill,Field,Public Health,2,1,1
+Brown University,University of North Carolina at Chapel Hill,Field,Public Health,3,2,1
+East Carolina University,University of North Carolina at Chapel Hill,Field,Public Health,3,2,1
+Emory University,University of North Carolina at Chapel Hill,Field,Public Health,5,3,1
+Indiana University - Bloomington,University of North Carolina at Chapel Hill,Field,Public Health,5,2,2
+Indiana University-Purdue University Indianapolis,University of North Carolina at Chapel Hill,Field,Public Health,2,1,1
+Johns Hopkins University,University of North Carolina at Chapel Hill,Field,Public Health,7,5,2
+Kent State University,University of North Carolina at Chapel Hill,Field,Public Health,3,1,2
+Oregon State University,University of North Carolina at Chapel Hill,Field,Public Health,3,2,1
+Tulane University,University of North Carolina at Chapel Hill,Field,Public Health,3,1,2
+"University of California, Berkeley",University of North Carolina at Chapel Hill,Field,Public Health,3,1,2
+"University of California, Irvine",University of North Carolina at Chapel Hill,Field,Public Health,2,1,1
+"University of Iowa, The",University of North Carolina at Chapel Hill,Field,Public Health,3,1,2
+"University of Kansas, The",University of North Carolina at Chapel Hill,Field,Public Health,3,1,2
+University of Kentucky,University of North Carolina at Chapel Hill,Field,Public Health,2,1,1
+"University of Minnesota, Twin Cities",University of North Carolina at Chapel Hill,Field,Public Health,5,3,2
+"University of Nevada, Reno",University of North Carolina at Chapel Hill,Field,Public Health,2,1,1
+University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill,Field,Public Health,46,31,11
+"University of North Carolina at Greensboro, The",University of North Carolina at Chapel Hill,Field,Public Health,3,2,1
+University of South Florida,University of North Carolina at Chapel Hill,Field,Public Health,4,2,2
+University of Virginia,University of North Carolina at Chapel Hill,Field,Public Health,3,2,1
+University of Washington,University of North Carolina at Chapel Hill,Field,Public Health,10,6,4
+University of Wisconsin - Milwaukee,University of North Carolina at Chapel Hill,Field,Public Health,3,2,1
+Wake Forest University,University of North Carolina at Chapel Hill,Field,Public Health,6,3,2
+Washington University in St. Louis,University of North Carolina at Chapel Hill,Field,Public Health,4,3,1
+East Carolina University,"University of North Carolina at Greensboro, The",Field,Public Health,3,1,2
+Wake Forest University,"University of North Carolina at Greensboro, The",Field,Public Health,3,1,1
+North Dakota State University,University of Notre Dame,Field,Public Health,3,1,2
+University of Oklahoma,University of Oklahoma,Field,Public Health,2,1,1
+Boston University,University of Pennsylvania,Field,Public Health,2,1,1
+Columbia University,University of Pennsylvania,Field,Public Health,4,1,2
+Emory University,University of Pennsylvania,Field,Public Health,4,3,1
+Harvard University,University of Pennsylvania,Field,Public Health,6,1,5
+Indiana University - Bloomington,University of Pennsylvania,Field,Public Health,4,2,2
+Johns Hopkins University,University of Pennsylvania,Field,Public Health,9,3,6
+Medical College of Wisconsin,University of Pennsylvania,Field,Public Health,2,1,1
+Northern Illinois University,University of Pennsylvania,Field,Public Health,2,1,1
+Tulane University,University of Pennsylvania,Field,Public Health,3,1,1
+University of Michigan,University of Pennsylvania,Field,Public Health,4,1,3
+"University of Minnesota, Twin Cities",University of Pennsylvania,Field,Public Health,3,1,2
+University of Pennsylvania,University of Pennsylvania,Field,Public Health,29,27,1
+University of the Sciences in Philadelphia,University of Pennsylvania,Field,Public Health,2,1,1
+Albert Einstein College of Medicine of Yeshiva University,University of Pittsburgh,Field,Public Health,2,1,1
+Case Western Reserve University,University of Pittsburgh,Field,Public Health,2,1,1
+Johns Hopkins University,University of Pittsburgh,Field,Public Health,3,1,2
+Kent State University,University of Pittsburgh,Field,Public Health,2,1,1
+"University of Maryland, College Park",University of Pittsburgh,Field,Public Health,2,1,1
+"University of Minnesota, Twin Cities",University of Pittsburgh,Field,Public Health,2,1,1
+University of Pittsburgh,University of Pittsburgh,Field,Public Health,18,8,9
+University of South Florida,University of Pittsburgh,Field,Public Health,3,1,1
+Brown University,University of Rhode Island,Field,Public Health,3,1,1
+Johns Hopkins University,University of Rochester,Field,Public Health,6,2,3
+"University of Vermont, The",University of Rochester,Field,Public Health,3,1,2
+Clemson University,University of South Carolina,Field,Public Health,5,4,1
+Emory University,University of South Carolina,Field,Public Health,2,1,1
+George Mason University,University of South Carolina,Field,Public Health,2,1,1
+Ohio University,University of South Carolina,Field,Public Health,2,1,1
+"University of Nevada, Las Vegas",University of South Carolina,Field,Public Health,2,1,1
+University of South Florida,University of South Florida,Field,Public Health,21,13,8
+"University of Texas Health Science Center at Houston, The","University of Texas Health Science Center at Houston, The",Field,Public Health,8,5,1
+Boston University,"University of Texas at Austin, The",Field,Public Health,2,1,1
+Florida International University,"University of Texas at Austin, The",Field,Public Health,2,1,1
+"University of Texas Health Science Center at Houston, The","University of Texas at Austin, The",Field,Public Health,5,2,3
+"University of Toledo, The","University of Toledo, The",Field,Public Health,5,2,3
+Brigham Young University,"University of Utah, The",Field,Public Health,4,1,3
+"University of Minnesota, Twin Cities","University of Utah, The",Field,Public Health,2,1,1
+"University of Vermont, The","University of Vermont, The",Field,Public Health,17,12,5
+University of Virginia,University of Virginia,Field,Public Health,5,4,1
+University of North Carolina at Chapel Hill,University of Washington,Field,Public Health,2,1,1
+University of Washington,University of Washington,Field,Public Health,48,29,18
+University of Wisconsin - Milwaukee,University of Washington,Field,Public Health,2,1,1
+Weill Medical College of Cornell University,University of Washington,Field,Public Health,2,1,1
+Johns Hopkins University,University of Wisconsin - Madison,Field,Public Health,5,1,4
+Medical College of Wisconsin,University of Wisconsin - Madison,Field,Public Health,2,1,1
+University of Colorado Denver,University of Wisconsin - Madison,Field,Public Health,6,3,3
+"University of Minnesota, Twin Cities",University of Wisconsin - Madison,Field,Public Health,3,2,1
+University of South Florida,University of Wisconsin - Madison,Field,Public Health,2,1,1
+University of Virginia,University of Wisconsin - Madison,Field,Public Health,2,1,1
+University of Wisconsin - Madison,University of Wisconsin - Madison,Field,Public Health,9,3,5
+Johns Hopkins University,Virginia Commonwealth University,Field,Public Health,2,1,1
+University of Virginia,Virginia Commonwealth University,Field,Public Health,3,2,1
+Virginia Commonwealth University,Virginia Commonwealth University,Field,Public Health,2,1,1
+East Carolina University,Virginia Polytechnic Institute and State University,Field,Public Health,2,1,1
+Brown University,Wake Forest University,Field,Public Health,2,1,1
+Saint Louis University,Washington University in St. Louis,Field,Public Health,2,1,1
+Washington University in St. Louis,Washington University in St. Louis,Field,Public Health,11,7,3
+Washington University in St. Louis,Wayne State University,Field,Public Health,2,1,1
+Albert Einstein College of Medicine of Yeshiva University,Weill Medical College of Cornell University,Field,Public Health,2,1,1
+Harvard University,Weill Medical College of Cornell University,Field,Public Health,2,1,1
+Icahn School of Medicine at Mount Sinai,Weill Medical College of Cornell University,Field,Public Health,2,1,1
+Johns Hopkins University,Weill Medical College of Cornell University,Field,Public Health,2,1,1
+Weill Medical College of Cornell University,Weill Medical College of Cornell University,Field,Public Health,5,1,4
+Albert Einstein College of Medicine of Yeshiva University,Yale University,Field,Public Health,3,1,1
+Columbia University,Yale University,Field,Public Health,4,2,2
+George Mason University,Yale University,Field,Public Health,2,1,1
+Icahn School of Medicine at Mount Sinai,Yale University,Field,Public Health,2,1,1
+"University of California, Berkeley",Yale University,Field,Public Health,2,1,1
+University of North Carolina at Chapel Hill,Yale University,Field,Public Health,3,1,1
+Weill Medical College of Cornell University,Yale University,Field,Public Health,2,1,1
+Yale University,Yale University,Field,Public Health,19,6,12

@@ -1,0 +1,701 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+Ball State University,Arizona State University,Field,History,2,1,1
+Texas A&M University,Boston College,Field,History,2,1,1
+Purdue University,Boston University,Field,History,3,2,1
+Indiana University - Bloomington,Brandeis University,Field,History,3,1,2
+University of Hawaii,Brandeis University,Field,History,2,1,1
+Miami University,Brown University,Field,History,4,1,2
+Michigan State University,Brown University,Field,History,2,1,1
+Southern Illinois University Carbondale,Brown University,Field,History,2,1,1
+"University of Chicago, The",Brown University,Field,History,2,1,1
+University of Florida,Brown University,Field,History,2,1,1
+University of Notre Dame,Brown University,Field,History,3,2,1
+University of Wisconsin - Madison,Brown University,Field,History,2,1,1
+"University of Nevada, Las Vegas",Carnegie Mellon University,Field,History,2,1,1
+"University of Nevada, Las Vegas","City University of New York, The",Field,History,3,2,1
+Middle Tennessee State University,"College of William & Mary, The",Field,History,3,1,1
+Arizona State University,Columbia University,Field,History,3,2,1
+Baruch College (CUNY),Columbia University,Field,History,4,2,2
+Boston College,Columbia University,Field,History,4,2,2
+Brown University,Columbia University,Field,History,4,2,1
+City College (CUNY),Columbia University,Field,History,5,3,2
+"College of William & Mary, The",Columbia University,Field,History,3,1,2
+Columbia University,Columbia University,Field,History,11,6,5
+Cornell University,Columbia University,Field,History,5,4,1
+Drew University,Columbia University,Field,History,3,2,1
+Fordham University,Columbia University,Field,History,3,1,2
+George Mason University,Columbia University,Field,History,3,1,2
+George Washington University,Columbia University,Field,History,5,2,3
+Harvard University,Columbia University,Field,History,5,2,3
+Johns Hopkins University,Columbia University,Field,History,5,2,3
+Lehman College (CUNY),Columbia University,Field,History,3,1,2
+New York University,Columbia University,Field,History,2,1,1
+"Ohio State University, The",Columbia University,Field,History,6,1,5
+Oregon State University,Columbia University,Field,History,2,1,1
+"Pennsylvania State University, The",Columbia University,Field,History,4,3,1
+Princeton University,Columbia University,Field,History,3,2,1
+Rutgers  - Newark,Columbia University,Field,History,2,1,1
+Rutgers - New Brunswick,Columbia University,Field,History,9,5,3
+Stanford University,Columbia University,Field,History,3,1,2
+"Stony Brook University, State University of New York",Columbia University,Field,History,2,1,1
+Temple University,Columbia University,Field,History,2,1,1
+Texas A&M University,Columbia University,Field,History,2,1,1
+Tufts University,Columbia University,Field,History,3,1,1
+"University of California, Berkeley",Columbia University,Field,History,6,2,4
+"University of California, Los Angeles",Columbia University,Field,History,4,1,3
+"University of California, San Diego",Columbia University,Field,History,5,4,1
+"University of Chicago, The",Columbia University,Field,History,5,1,4
+University of Connecticut,Columbia University,Field,History,7,1,6
+University of Delaware,Columbia University,Field,History,4,2,2
+University of Hawaii,Columbia University,Field,History,2,1,1
+University of Houston,Columbia University,Field,History,3,1,2
+University of Massachusetts Boston,Columbia University,Field,History,3,1,2
+University of Massachusetts Lowell,Columbia University,Field,History,2,1,1
+University of Miami,Columbia University,Field,History,4,2,1
+University of Michigan,Columbia University,Field,History,7,2,4
+"University of Mississippi, The",Columbia University,Field,History,2,1,1
+University of Pennsylvania,Columbia University,Field,History,4,2,2
+University of Pittsburgh,Columbia University,Field,History,3,1,2
+University of Southern California,Columbia University,Field,History,4,1,3
+"University of Texas at Austin, The",Columbia University,Field,History,3,2,1
+University of Virginia,Columbia University,Field,History,3,1,2
+University of Wisconsin - Madison,Columbia University,Field,History,7,3,4
+Western Michigan University,Columbia University,Field,History,2,1,1
+Yale University,Columbia University,Field,History,6,2,4
+American University,Cornell University,Field,History,2,1,1
+Cornell University,Cornell University,Field,History,3,1,1
+Rice University,Cornell University,Field,History,3,1,2
+Rutgers - New Brunswick,Cornell University,Field,History,4,3,1
+Southern Methodist University,Cornell University,Field,History,2,1,1
+"University of California, Los Angeles",Cornell University,Field,History,3,1,2
+"University of California, Santa Cruz",Cornell University,Field,History,2,1,1
+University of North Carolina at Chapel Hill,Cornell University,Field,History,2,1,1
+University of Oklahoma,Cornell University,Field,History,2,1,1
+"University of Texas at Austin, The",Cornell University,Field,History,3,1,2
+University of Wisconsin - Milwaukee,Cornell University,Field,History,2,1,1
+Virginia Polytechnic Institute and State University,Cornell University,Field,History,2,1,1
+Wayne State University,Cornell University,Field,History,3,2,1
+Auburn University,Duke University,Field,History,3,1,2
+Emory University,Duke University,Field,History,2,1,1
+Georgia State University,Duke University,Field,History,2,1,1
+New York University,Duke University,Field,History,2,1,1
+Texas A&M University,Duke University,Field,History,2,1,1
+University of Florida,Duke University,Field,History,3,1,2
+"University of North Carolina at Greensboro, The",Duke University,Field,History,2,1,1
+University of Rhode Island,Duke University,Field,History,2,1,1
+University of Virginia,Duke University,Field,History,2,1,1
+Auburn University,Emory University,Field,History,2,1,1
+George Mason University,Emory University,Field,History,2,1,1
+Georgia State University,Emory University,Field,History,3,2,1
+Rice University,Emory University,Field,History,2,1,1
+"University of Alabama at Birmingham, The",Emory University,Field,History,3,1,2
+"University of Missouri - Kansas City, The",Emory University,Field,History,3,2,1
+University of South Carolina,Emory University,Field,History,2,1,1
+Florida A&M University,Florida A&M University,Field,History,2,1,1
+Florida A&M University,Florida State University,Field,History,16,5,9
+University of Central Florida,Florida State University,Field,History,5,1,4
+George Mason University,George Mason University,Field,History,2,1,1
+Purdue University,Georgetown University,Field,History,2,1,1
+American University,Harvard University,Field,History,4,1,3
+Arizona State University,Harvard University,Field,History,3,1,1
+Boston College,Harvard University,Field,History,5,1,2
+Brandeis University,Harvard University,Field,History,3,1,2
+Brown University,Harvard University,Field,History,9,3,4
+Carnegie Mellon University,Harvard University,Field,History,3,1,2
+"Catholic University of America, The",Harvard University,Field,History,2,1,1
+"College of William & Mary, The",Harvard University,Field,History,7,1,5
+Columbia University,Harvard University,Field,History,11,3,8
+Cornell University,Harvard University,Field,History,6,1,4
+Drew University,Harvard University,Field,History,2,1,1
+Duke University,Harvard University,Field,History,3,1,2
+Florida State University,Harvard University,Field,History,3,1,2
+George Mason University,Harvard University,Field,History,3,1,2
+Georgetown University,Harvard University,Field,History,7,1,5
+Harvard University,Harvard University,Field,History,11,4,6
+Indiana University - Bloomington,Harvard University,Field,History,4,1,2
+Johns Hopkins University,Harvard University,Field,History,2,1,1
+Lehman College (CUNY),Harvard University,Field,History,3,1,2
+Massachusetts Institute of Technology,Harvard University,Field,History,5,2,3
+New York University,Harvard University,Field,History,3,2,1
+North Carolina State University,Harvard University,Field,History,2,1,1
+Northwestern University,Harvard University,Field,History,5,1,4
+"Ohio State University, The",Harvard University,Field,History,2,1,1
+Oregon State University,Harvard University,Field,History,3,2,1
+Princeton University,Harvard University,Field,History,7,3,4
+Rutgers - New Brunswick,Harvard University,Field,History,6,2,3
+Saint Louis University,Harvard University,Field,History,2,1,1
+Sam Houston State University,Harvard University,Field,History,2,1,1
+Stanford University,Harvard University,Field,History,9,3,4
+"Stony Brook University, State University of New York",Harvard University,Field,History,3,1,2
+Temple University,Harvard University,Field,History,3,2,1
+Tufts University,Harvard University,Field,History,6,2,3
+"University at Buffalo, State University of New York",Harvard University,Field,History,2,1,1
+"University of California, Berkeley",Harvard University,Field,History,10,5,5
+"University of California, San Diego",Harvard University,Field,History,6,1,5
+"University of California, Santa Cruz",Harvard University,Field,History,4,1,3
+"University of Chicago, The",Harvard University,Field,History,7,1,5
+University of Colorado Boulder,Harvard University,Field,History,3,1,2
+University of Connecticut,Harvard University,Field,History,3,1,2
+University of Houston,Harvard University,Field,History,2,1,1
+University of Illinois at Urbana-Champaign,Harvard University,Field,History,3,1,2
+"University of Maryland, College Park",Harvard University,Field,History,4,1,3
+University of Massachusetts Boston,Harvard University,Field,History,3,1,1
+University of Michigan,Harvard University,Field,History,6,1,4
+"University of Minnesota, Twin Cities",Harvard University,Field,History,2,1,1
+"University of Mississippi, The",Harvard University,Field,History,4,2,2
+University of Missouri,Harvard University,Field,History,2,1,1
+University of Missouri - St. Louis,Harvard University,Field,History,2,1,1
+University of North Carolina at Chapel Hill,Harvard University,Field,History,6,1,5
+University of Notre Dame,Harvard University,Field,History,4,1,3
+University of Pennsylvania,Harvard University,Field,History,12,4,7
+University of Pittsburgh,Harvard University,Field,History,4,1,3
+"University of Tennessee, The",Harvard University,Field,History,3,1,2
+"University of Texas at Austin, The",Harvard University,Field,History,2,1,1
+"University of Texas at Dallas, The",Harvard University,Field,History,3,1,1
+University of Virginia,Harvard University,Field,History,4,1,3
+University of Washington,Harvard University,Field,History,4,1,3
+Vanderbilt University,Harvard University,Field,History,7,2,4
+Virginia Polytechnic Institute and State University,Harvard University,Field,History,2,1,1
+Wake Forest University,Harvard University,Field,History,3,2,1
+Washington University in St. Louis,Harvard University,Field,History,6,3,3
+Western Michigan University,Harvard University,Field,History,2,1,1
+Yale University,Harvard University,Field,History,12,5,7
+Michigan State University,Howard University,Field,History,2,1,1
+Morgan State University,Howard University,Field,History,5,2,3
+Arizona State University,Indiana University - Bloomington,Field,History,3,2,1
+Ball State University,Indiana University - Bloomington,Field,History,4,2,1
+Michigan State University,Indiana University - Bloomington,Field,History,2,1,1
+Texas Christian University,Indiana University - Bloomington,Field,History,2,1,1
+University of Houston,Indiana University - Bloomington,Field,History,3,2,1
+"University of Kansas, The",Indiana University - Bloomington,Field,History,2,1,1
+"University of New Mexico, The",Indiana University - Bloomington,Field,History,2,1,1
+Virginia Commonwealth University,Indiana University - Bloomington,Field,History,3,1,2
+Wake Forest University,Indiana University - Bloomington,Field,History,2,1,1
+Duke University,Johns Hopkins University,Field,History,3,1,2
+George Mason University,Johns Hopkins University,Field,History,4,3,1
+Indiana University - Bloomington,Johns Hopkins University,Field,History,2,1,1
+Iowa State University,Johns Hopkins University,Field,History,2,1,1
+John Jay College of Criminal Justice (CUNY),Johns Hopkins University,Field,History,3,2,1
+Johns Hopkins University,Johns Hopkins University,Field,History,6,3,3
+Michigan State University,Johns Hopkins University,Field,History,3,2,1
+New York University,Johns Hopkins University,Field,History,2,1,1
+Texas A&M University,Johns Hopkins University,Field,History,3,1,1
+Texas State University,Johns Hopkins University,Field,History,3,2,1
+"University of California, Los Angeles",Johns Hopkins University,Field,History,2,1,1
+"University of California, Santa Cruz",Johns Hopkins University,Field,History,3,2,1
+University of Oklahoma,Johns Hopkins University,Field,History,4,2,2
+University of South Carolina,Johns Hopkins University,Field,History,2,1,1
+"University of Texas at Austin, The",Johns Hopkins University,Field,History,5,1,4
+Washington University in St. Louis,Johns Hopkins University,Field,History,2,1,1
+Sam Houston State University,Kansas State University,Field,History,2,1,1
+Kent State University,Kent State University,Field,History,2,1,1
+"University of Texas at Tyler, The",Louisiana State University,Field,History,2,1,1
+Loyola University Chicago,Loyola University Chicago,Field,History,2,1,1
+Harvard University,Massachusetts Institute of Technology,Field,History,2,1,1
+Michigan State University,Michigan State University,Field,History,4,1,2
+Northwestern University,Michigan State University,Field,History,2,1,1
+Boston College,New York University,Field,History,4,3,1
+City College (CUNY),New York University,Field,History,2,1,1
+Drexel University,New York University,Field,History,2,1,1
+Emory University,New York University,Field,History,2,1,1
+Fordham University,New York University,Field,History,2,1,1
+"Stony Brook University, State University of New York",New York University,Field,History,2,1,1
+"University of California, Irvine",New York University,Field,History,3,2,1
+"University of California, San Diego",New York University,Field,History,3,1,2
+"University of California, Santa Barbara",New York University,Field,History,3,2,1
+Boston College,Northwestern University,Field,History,3,1,2
+Columbia University,Northwestern University,Field,History,3,1,2
+Georgetown University,Northwestern University,Field,History,2,1,1
+Loyola University Chicago,Northwestern University,Field,History,2,1,1
+New York University,Northwestern University,Field,History,2,1,1
+Temple University,Northwestern University,Field,History,2,1,1
+Texas Tech University,Northwestern University,Field,History,2,1,1
+"University of California, Santa Barbara",Northwestern University,Field,History,2,1,1
+University of Connecticut,Northwestern University,Field,History,2,1,1
+"University of Mississippi, The",Northwestern University,Field,History,3,2,1
+University of South Florida,Northwestern University,Field,History,2,1,1
+University of Wisconsin - Madison,Northwestern University,Field,History,2,1,1
+Drexel University,"Ohio State University, The",Field,History,2,1,1
+Kansas State University,"Ohio State University, The",Field,History,3,1,2
+"Ohio State University, The","Ohio State University, The",Field,History,6,3,3
+Rice University,"Ohio State University, The",Field,History,2,1,1
+University of Arkansas,"Ohio State University, The",Field,History,2,1,1
+"University of Utah, The","Ohio State University, The",Field,History,3,2,1
+Old Dominion University,"Pennsylvania State University, The",Field,History,2,1,1
+Princeton Theological Seminary,Princeton Theological Seminary,Field,History,3,1,2
+Arizona State University,Princeton University,Field,History,3,1,1
+"Binghamton University, State University of New York",Princeton University,Field,History,3,1,2
+Boston University,Princeton University,Field,History,2,1,1
+"Catholic University of America, The",Princeton University,Field,History,4,2,2
+City College (CUNY),Princeton University,Field,History,4,2,2
+Clemson University,Princeton University,Field,History,4,1,2
+Columbia University,Princeton University,Field,History,4,1,3
+Cornell University,Princeton University,Field,History,2,1,1
+Indiana University - Bloomington,Princeton University,Field,History,4,1,3
+Johns Hopkins University,Princeton University,Field,History,3,1,2
+Lehman College (CUNY),Princeton University,Field,History,3,2,1
+Louisiana State University,Princeton University,Field,History,3,1,1
+Miami University,Princeton University,Field,History,2,1,1
+Michigan State University,Princeton University,Field,History,2,1,1
+"Ohio State University, The",Princeton University,Field,History,3,2,1
+Ohio University,Princeton University,Field,History,3,2,1
+Princeton University,Princeton University,Field,History,6,2,4
+Rice University,Princeton University,Field,History,3,2,1
+Rutgers  - Newark,Princeton University,Field,History,3,2,1
+Rutgers - New Brunswick,Princeton University,Field,History,4,1,1
+Syracuse University,Princeton University,Field,History,2,1,1
+"University of California, Berkeley",Princeton University,Field,History,8,3,5
+"University of California, Davis",Princeton University,Field,History,3,1,1
+"University of California, Los Angeles",Princeton University,Field,History,6,1,4
+"University of California, Santa Barbara",Princeton University,Field,History,4,1,3
+"University of Chicago, The",Princeton University,Field,History,2,1,1
+University of Colorado Boulder,Princeton University,Field,History,2,1,1
+University of Connecticut,Princeton University,Field,History,2,1,1
+"University of Kansas, The",Princeton University,Field,History,4,1,2
+University of Kentucky,Princeton University,Field,History,2,1,1
+"University of Maryland, Baltimore County",Princeton University,Field,History,2,1,1
+University of Michigan,Princeton University,Field,History,5,1,4
+"University of Minnesota, Twin Cities",Princeton University,Field,History,3,1,2
+"University of Mississippi, The",Princeton University,Field,History,3,2,1
+University of North Carolina Charlotte,Princeton University,Field,History,3,2,1
+University of Notre Dame,Princeton University,Field,History,3,1,2
+University of Pennsylvania,Princeton University,Field,History,2,1,1
+University of Pittsburgh,Princeton University,Field,History,2,1,1
+University of Rhode Island,Princeton University,Field,History,2,1,1
+University of South Carolina,Princeton University,Field,History,3,2,1
+University of Virginia,Princeton University,Field,History,5,2,3
+University of Wisconsin - Madison,Princeton University,Field,History,3,2,1
+Vanderbilt University,Princeton University,Field,History,7,2,5
+Sam Houston State University,Rice University,Field,History,3,1,1
+Columbia University,Rutgers - New Brunswick,Field,History,2,1,1
+Mississippi State University,Rutgers - New Brunswick,Field,History,2,1,1
+University of Illinois at Chicago,Rutgers - New Brunswick,Field,History,2,1,1
+University of South Florida,Rutgers - New Brunswick,Field,History,2,1,1
+"University of Southern Mississippi, The",Rutgers - New Brunswick,Field,History,2,1,1
+Virginia Polytechnic Institute and State University,Rutgers - New Brunswick,Field,History,5,3,2
+Case Western Reserve University,Stanford University,Field,History,2,1,1
+"Catholic University of America, The",Stanford University,Field,History,2,1,1
+Cornell University,Stanford University,Field,History,2,1,1
+Emory University,Stanford University,Field,History,7,3,3
+George Mason University,Stanford University,Field,History,2,1,1
+Georgetown University,Stanford University,Field,History,6,1,4
+Harvard University,Stanford University,Field,History,4,3,1
+Johns Hopkins University,Stanford University,Field,History,5,2,3
+New Mexico State University,Stanford University,Field,History,3,1,1
+New York University,Stanford University,Field,History,2,1,1
+"Ohio State University, The",Stanford University,Field,History,4,3,1
+Princeton University,Stanford University,Field,History,3,1,2
+"Stony Brook University, State University of New York",Stanford University,Field,History,2,1,1
+Syracuse University,Stanford University,Field,History,2,1,1
+"University of California, Berkeley",Stanford University,Field,History,3,1,2
+"University of California, Davis",Stanford University,Field,History,8,3,4
+"University of California, Los Angeles",Stanford University,Field,History,5,2,2
+"University of California, San Diego",Stanford University,Field,History,2,1,1
+"University of Chicago, The",Stanford University,Field,History,4,2,2
+University of Connecticut,Stanford University,Field,History,2,1,1
+University of Florida,Stanford University,Field,History,3,1,2
+University of Michigan,Stanford University,Field,History,6,3,3
+"University of New Mexico, The",Stanford University,Field,History,2,1,1
+University of North Carolina at Chapel Hill,Stanford University,Field,History,3,1,2
+"University of North Carolina at Greensboro, The",Stanford University,Field,History,2,1,1
+University of Oregon,Stanford University,Field,History,3,1,2
+University of Southern California,Stanford University,Field,History,4,2,2
+"University of Texas at Austin, The",Stanford University,Field,History,4,2,1
+"University of Texas at Dallas, The",Stanford University,Field,History,4,2,2
+University of Washington,Stanford University,Field,History,4,2,2
+University of Wisconsin - Madison,Stanford University,Field,History,2,1,1
+Wake Forest University,Stanford University,Field,History,2,1,1
+Yale University,Stanford University,Field,History,4,3,1
+Kansas State University,"Stony Brook University, State University of New York",Field,History,2,1,1
+"Ohio State University, The","Stony Brook University, State University of New York",Field,History,3,1,2
+"University at Albany, State University of New York","Stony Brook University, State University of New York",Field,History,2,1,1
+University of South Florida,Syracuse University,Field,History,2,1,1
+Sam Houston State University,Texas A&M University,Field,History,2,1,1
+University of Virginia,Tufts University,Field,History,2,1,1
+University of Louisiana at Lafayette,Tulane University,Field,History,2,1,1
+"University of Texas at El Paso, The",Tulane University,Field,History,2,1,1
+Middle Tennessee State University,"University of Alabama, The",Field,History,2,1,1
+Arizona State University,"University of Arizona, The",Field,History,2,1,1
+Northern Arizona University,"University of Arizona, The",Field,History,2,1,1
+"University of Arizona, The","University of Arizona, The",Field,History,2,1,1
+"University of Texas at El Paso, The","University of Arizona, The",Field,History,2,1,1
+Boston College,"University of California, Berkeley",Field,History,4,3,1
+Boston University,"University of California, Berkeley",Field,History,9,4,5
+Brown University,"University of California, Berkeley",Field,History,6,2,3
+Claremont Graduate University,"University of California, Berkeley",Field,History,5,4,1
+Columbia University,"University of California, Berkeley",Field,History,5,2,3
+Cornell University,"University of California, Berkeley",Field,History,8,1,5
+Drexel University,"University of California, Berkeley",Field,History,2,1,1
+Emory University,"University of California, Berkeley",Field,History,5,3,2
+Fordham University,"University of California, Berkeley",Field,History,3,2,1
+Harvard University,"University of California, Berkeley",Field,History,4,1,3
+Massachusetts Institute of Technology,"University of California, Berkeley",Field,History,2,1,1
+New Mexico State University,"University of California, Berkeley",Field,History,2,1,1
+Northern Illinois University,"University of California, Berkeley",Field,History,3,2,1
+Northwestern University,"University of California, Berkeley",Field,History,4,2,2
+"Ohio State University, The","University of California, Berkeley",Field,History,3,1,2
+Princeton University,"University of California, Berkeley",Field,History,3,2,1
+Purdue University,"University of California, Berkeley",Field,History,2,1,1
+Rutgers - New Brunswick,"University of California, Berkeley",Field,History,2,1,1
+Stanford University,"University of California, Berkeley",Field,History,7,6,1
+"Stony Brook University, State University of New York","University of California, Berkeley",Field,History,3,1,2
+Syracuse University,"University of California, Berkeley",Field,History,2,1,1
+"University at Buffalo, State University of New York","University of California, Berkeley",Field,History,2,1,1
+"University of California, Berkeley","University of California, Berkeley",Field,History,9,2,6
+"University of California, Davis","University of California, Berkeley",Field,History,6,4,2
+"University of California, Irvine","University of California, Berkeley",Field,History,6,2,3
+"University of California, Los Angeles","University of California, Berkeley",Field,History,4,1,3
+"University of California, San Francisco","University of California, Berkeley",Field,History,3,2,1
+"University of California, Santa Barbara","University of California, Berkeley",Field,History,5,3,2
+"University of California, Santa Cruz","University of California, Berkeley",Field,History,7,3,4
+University of Colorado Boulder,"University of California, Berkeley",Field,History,7,2,4
+University of Connecticut,"University of California, Berkeley",Field,History,4,1,2
+University of Hawaii,"University of California, Berkeley",Field,History,5,3,2
+"University of Kansas, The","University of California, Berkeley",Field,History,2,1,1
+University of Massachusetts Amherst,"University of California, Berkeley",Field,History,5,2,3
+University of Michigan,"University of California, Berkeley",Field,History,6,2,4
+"University of Minnesota, Twin Cities","University of California, Berkeley",Field,History,3,2,1
+"University of Nevada, Las Vegas","University of California, Berkeley",Field,History,5,2,2
+University of New Hampshire,"University of California, Berkeley",Field,History,4,2,2
+"University of New Mexico, The","University of California, Berkeley",Field,History,2,1,1
+University of North Carolina at Chapel Hill,"University of California, Berkeley",Field,History,2,1,1
+University of Oklahoma,"University of California, Berkeley",Field,History,2,1,1
+University of South Carolina,"University of California, Berkeley",Field,History,3,1,2
+University of Southern California,"University of California, Berkeley",Field,History,5,2,3
+University of Washington,"University of California, Berkeley",Field,History,7,2,5
+University of Wisconsin - Madison,"University of California, Berkeley",Field,History,7,1,6
+University of Wisconsin - Milwaukee,"University of California, Berkeley",Field,History,4,1,2
+Yale University,"University of California, Berkeley",Field,History,8,3,5
+"University of Missouri - Kansas City, The","University of California, Davis",Field,History,2,1,1
+Virginia Commonwealth University,"University of California, Davis",Field,History,2,1,1
+Central Michigan University,"University of California, Irvine",Field,History,2,1,1
+Boston University,"University of California, Los Angeles",Field,History,4,1,3
+City College (CUNY),"University of California, Los Angeles",Field,History,2,1,1
+Duke University,"University of California, Los Angeles",Field,History,2,1,1
+Florida State University,"University of California, Los Angeles",Field,History,2,1,1
+Middle Tennessee State University,"University of California, Los Angeles",Field,History,3,2,1
+Rutgers - New Brunswick,"University of California, Los Angeles",Field,History,2,1,1
+"University at Albany, State University of New York","University of California, Los Angeles",Field,History,2,1,1
+"University of Arizona, The","University of California, Los Angeles",Field,History,3,2,1
+"University of California, Davis","University of California, Los Angeles",Field,History,4,1,3
+"University of California, Irvine","University of California, Los Angeles",Field,History,5,3,1
+"University of California, Los Angeles","University of California, Los Angeles",Field,History,8,4,4
+"University of California, San Diego","University of California, Los Angeles",Field,History,4,1,3
+"University of California, Santa Barbara","University of California, Los Angeles",Field,History,7,4,3
+"University of California, Santa Cruz","University of California, Los Angeles",Field,History,5,2,2
+University of Colorado Boulder,"University of California, Los Angeles",Field,History,3,2,1
+University of Georgia,"University of California, Los Angeles",Field,History,2,1,1
+"University of Iowa, The","University of California, Los Angeles",Field,History,2,1,1
+University of Louisville,"University of California, Los Angeles",Field,History,4,1,3
+University of Massachusetts Amherst,"University of California, Los Angeles",Field,History,2,1,1
+"University of Minnesota, Twin Cities","University of California, Los Angeles",Field,History,3,2,1
+"University of Mississippi, The","University of California, Los Angeles",Field,History,2,1,1
+"University of Nevada, Las Vegas","University of California, Los Angeles",Field,History,2,1,1
+"University of New Mexico, The","University of California, Los Angeles",Field,History,3,1,2
+University of Oklahoma,"University of California, Los Angeles",Field,History,4,2,2
+"University of Texas at Dallas, The","University of California, Los Angeles",Field,History,2,1,1
+"University of Texas at San Antonio, The","University of California, Los Angeles",Field,History,4,2,2
+"University of Utah, The","University of California, Los Angeles",Field,History,2,1,1
+University of Wyoming,"University of California, Los Angeles",Field,History,2,1,1
+Utah State University,"University of California, Los Angeles",Field,History,2,1,1
+Rutgers - New Brunswick,"University of California, Riverside",Field,History,2,1,1
+"University of New Mexico, The","University of California, San Diego",Field,History,2,1,1
+University of North Carolina at Chapel Hill,"University of California, San Diego",Field,History,2,1,1
+"University of Texas at Dallas, The","University of California, San Diego",Field,History,2,1,1
+"University of California, San Francisco","University of California, San Francisco",Field,History,6,5,1
+Cleveland State University,"University of California, Santa Barbara",Field,History,2,1,1
+"Ohio State University, The","University of California, Santa Barbara",Field,History,3,1,1
+"University of Tennessee, The","University of California, Santa Barbara",Field,History,2,1,1
+Texas A&M Corpus Christi,"University of California, Santa Cruz",Field,History,2,1,1
+American University,"University of Chicago, The",Field,History,3,1,2
+Arizona State University,"University of Chicago, The",Field,History,6,2,4
+Auburn University,"University of Chicago, The",Field,History,2,1,1
+Baruch College (CUNY),"University of Chicago, The",Field,History,2,1,1
+"Binghamton University, State University of New York","University of Chicago, The",Field,History,7,2,4
+Boston College,"University of Chicago, The",Field,History,3,1,1
+Brigham Young University,"University of Chicago, The",Field,History,6,4,2
+"Catholic University of America, The","University of Chicago, The",Field,History,2,1,1
+Claremont Graduate University,"University of Chicago, The",Field,History,3,1,2
+"College of William & Mary, The","University of Chicago, The",Field,History,4,3,1
+Florida State University,"University of Chicago, The",Field,History,2,1,1
+George Mason University,"University of Chicago, The",Field,History,3,1,2
+Louisiana State University,"University of Chicago, The",Field,History,3,1,1
+Loyola University Chicago,"University of Chicago, The",Field,History,2,1,1
+Michigan State University,"University of Chicago, The",Field,History,5,2,3
+New Jersey Institute of Technology,"University of Chicago, The",Field,History,2,1,1
+Northwestern University,"University of Chicago, The",Field,History,2,1,1
+Old Dominion University,"University of Chicago, The",Field,History,2,1,1
+Rutgers  - Newark,"University of Chicago, The",Field,History,4,1,3
+Rutgers - New Brunswick,"University of Chicago, The",Field,History,3,1,2
+Southern Methodist University,"University of Chicago, The",Field,History,2,1,1
+Stanford University,"University of Chicago, The",Field,History,3,1,2
+Syracuse University,"University of Chicago, The",Field,History,3,1,2
+Temple University,"University of Chicago, The",Field,History,6,1,5
+Texas Tech University,"University of Chicago, The",Field,History,2,1,1
+"University of Arizona, The","University of Chicago, The",Field,History,3,2,1
+"University of California, Los Angeles","University of Chicago, The",Field,History,6,1,4
+"University of California, Riverside","University of Chicago, The",Field,History,5,2,2
+"University of California, San Diego","University of Chicago, The",Field,History,5,1,3
+"University of California, Santa Cruz","University of Chicago, The",Field,History,3,1,2
+"University of Chicago, The","University of Chicago, The",Field,History,8,1,7
+University of Houston,"University of Chicago, The",Field,History,2,1,1
+University of Illinois at Chicago,"University of Chicago, The",Field,History,3,1,2
+"University of Kansas, The","University of Chicago, The",Field,History,4,1,3
+University of Louisville,"University of Chicago, The",Field,History,2,1,1
+"University of Maryland, College Park","University of Chicago, The",Field,History,3,1,2
+University of Massachusetts Amherst,"University of Chicago, The",Field,History,6,3,3
+University of Massachusetts Boston,"University of Chicago, The",Field,History,2,1,1
+University of Memphis,"University of Chicago, The",Field,History,2,1,1
+University of Michigan,"University of Chicago, The",Field,History,5,2,2
+"University of New Mexico, The","University of Chicago, The",Field,History,2,1,1
+University of North Carolina Charlotte,"University of Chicago, The",Field,History,3,1,2
+University of Notre Dame,"University of Chicago, The",Field,History,4,1,2
+University of Oklahoma,"University of Chicago, The",Field,History,3,1,2
+University of Oregon,"University of Chicago, The",Field,History,3,1,2
+University of Pittsburgh,"University of Chicago, The",Field,History,4,1,2
+University of Southern California,"University of Chicago, The",Field,History,3,1,2
+"University of Texas at Austin, The","University of Chicago, The",Field,History,3,2,1
+"University of Texas at Dallas, The","University of Chicago, The",Field,History,4,2,1
+University of Wisconsin - Madison,"University of Chicago, The",Field,History,4,1,2
+Vanderbilt University,"University of Chicago, The",Field,History,4,1,3
+Washington University in St. Louis,"University of Chicago, The",Field,History,3,2,1
+University of Colorado Denver,University of Colorado Boulder,Field,History,2,1,1
+Auburn University,University of Delaware,Field,History,2,1,1
+University of Louisville,University of Florida,Field,History,2,1,1
+University of Texas Arlington,University of Florida,Field,History,2,1,1
+East Carolina University,University of Georgia,Field,History,2,1,1
+Mississippi State University,University of Georgia,Field,History,2,1,1
+University of Georgia,University of Georgia,Field,History,2,1,1
+Texas A&M University,University of Houston,Field,History,3,1,2
+Texas State University,University of Houston,Field,History,2,1,1
+Arizona State University,University of Illinois at Urbana-Champaign,Field,History,3,1,2
+Georgia State University,University of Illinois at Urbana-Champaign,Field,History,2,1,1
+Texas State University,University of Illinois at Urbana-Champaign,Field,History,2,1,1
+Texas Tech University,University of Illinois at Urbana-Champaign,Field,History,3,1,2
+University of Dayton,"University of Iowa, The",Field,History,2,1,1
+Washington State University,"University of Iowa, The",Field,History,2,1,1
+Marquette University,University of Kentucky,Field,History,2,1,1
+University of Kentucky,University of Kentucky,Field,History,2,1,1
+"University of Maine, The","University of Maine, The",Field,History,4,1,3
+Iowa State University,"University of Maryland, College Park",Field,History,2,1,1
+Morgan State University,"University of Maryland, College Park",Field,History,3,1,2
+Ohio University,"University of Maryland, College Park",Field,History,2,1,1
+Texas A&M University,"University of Maryland, College Park",Field,History,2,1,1
+Western Michigan University,"University of Maryland, College Park",Field,History,2,1,1
+Arkansas State University,University of Memphis,Field,History,2,1,1
+Florida A&M University,University of Miami,Field,History,3,1,2
+Michigan State University,University of Miami,Field,History,2,1,1
+Carnegie Mellon University,University of Michigan,Field,History,3,1,2
+Claremont Graduate University,University of Michigan,Field,History,2,1,1
+Columbia University,University of Michigan,Field,History,2,1,1
+Emory University,University of Michigan,Field,History,3,1,2
+George Mason University,University of Michigan,Field,History,2,1,1
+Georgia Institute of Technology,University of Michigan,Field,History,2,1,1
+Indiana University - Bloomington,University of Michigan,Field,History,5,1,4
+Loyola University Chicago,University of Michigan,Field,History,2,1,1
+Michigan State University,University of Michigan,Field,History,6,2,3
+Montana State University,University of Michigan,Field,History,2,1,1
+New York University,University of Michigan,Field,History,4,3,1
+Northern Illinois University,University of Michigan,Field,History,4,1,3
+Northwestern University,University of Michigan,Field,History,2,1,1
+"Ohio State University, The",University of Michigan,Field,History,5,1,2
+Purdue University,University of Michigan,Field,History,2,1,1
+Rutgers - New Brunswick,University of Michigan,Field,History,3,2,1
+Stanford University,University of Michigan,Field,History,3,2,1
+"University at Buffalo, State University of New York",University of Michigan,Field,History,3,2,1
+"University of California, Davis",University of Michigan,Field,History,3,2,1
+"University of California, San Diego",University of Michigan,Field,History,4,2,2
+"University of California, Santa Barbara",University of Michigan,Field,History,3,1,1
+"University of Cincinnati, The",University of Michigan,Field,History,2,1,1
+University of Georgia,University of Michigan,Field,History,2,1,1
+University of Illinois at Chicago,University of Michigan,Field,History,3,1,1
+University of Illinois at Urbana-Champaign,University of Michigan,Field,History,5,2,3
+"University of Maryland, College Park",University of Michigan,Field,History,3,1,2
+University of Memphis,University of Michigan,Field,History,2,1,1
+University of Michigan,University of Michigan,Field,History,3,2,1
+"University of Minnesota, Twin Cities",University of Michigan,Field,History,4,2,2
+"University of Nevada, Las Vegas",University of Michigan,Field,History,3,1,2
+University of North Carolina at Chapel Hill,University of Michigan,Field,History,3,1,2
+University of Notre Dame,University of Michigan,Field,History,3,1,2
+University of Pennsylvania,University of Michigan,Field,History,4,3,1
+University of South Carolina,University of Michigan,Field,History,2,1,1
+University of Southern California,University of Michigan,Field,History,3,1,2
+"University of Southern Mississippi, The",University of Michigan,Field,History,3,1,2
+Vanderbilt University,University of Michigan,Field,History,4,1,3
+Virginia Polytechnic Institute and State University,University of Michigan,Field,History,4,3,1
+Carnegie Mellon University,"University of Minnesota, Twin Cities",Field,History,3,1,2
+Colorado State University,"University of Minnesota, Twin Cities",Field,History,2,1,1
+Oklahoma State University,"University of Minnesota, Twin Cities",Field,History,2,1,1
+University of Michigan,"University of Minnesota, Twin Cities",Field,History,2,1,1
+"University of Minnesota, Twin Cities","University of Minnesota, Twin Cities",Field,History,3,1,2
+"University of Texas at Austin, The","University of Minnesota, Twin Cities",Field,History,2,1,1
+University of Wisconsin - Madison,"University of Minnesota, Twin Cities",Field,History,2,1,1
+University of Wisconsin - Milwaukee,"University of Minnesota, Twin Cities",Field,History,3,1,1
+Wayne State University,"University of Minnesota, Twin Cities",Field,History,5,2,2
+Missouri University of Science and Technology,University of Missouri,Field,History,5,3,1
+Texas Tech University,University of Missouri,Field,History,2,1,1
+"University of New Mexico, The","University of New Mexico, The",Field,History,3,1,1
+"College of William & Mary, The",University of North Carolina at Chapel Hill,Field,History,2,1,1
+George Mason University,University of North Carolina at Chapel Hill,Field,History,4,2,2
+Marquette University,University of North Carolina at Chapel Hill,Field,History,3,1,2
+Mississippi State University,University of North Carolina at Chapel Hill,Field,History,2,1,1
+Texas A&M University,University of North Carolina at Chapel Hill,Field,History,4,1,3
+University of Georgia,University of North Carolina at Chapel Hill,Field,History,5,1,4
+"University of Maryland, College Park",University of North Carolina at Chapel Hill,Field,History,3,1,2
+University of Massachusetts Amherst,University of North Carolina at Chapel Hill,Field,History,2,1,1
+"University of Mississippi, The",University of North Carolina at Chapel Hill,Field,History,3,2,1
+University of North Carolina Charlotte,University of North Carolina at Chapel Hill,Field,History,3,1,2
+University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill,Field,History,3,1,2
+"University of North Carolina at Greensboro, The",University of North Carolina at Chapel Hill,Field,History,2,1,1
+Baylor University,University of Notre Dame,Field,History,2,1,1
+Marquette University,University of Notre Dame,Field,History,2,1,1
+"University of Alabama, The",University of Notre Dame,Field,History,3,1,2
+Washington State University,University of Oregon,Field,History,2,1,1
+Arizona State University,University of Pennsylvania,Field,History,3,2,1
+Columbia University,University of Pennsylvania,Field,History,3,1,2
+Drew University,University of Pennsylvania,Field,History,2,1,1
+George Mason University,University of Pennsylvania,Field,History,3,1,2
+Indiana University - Bloomington,University of Pennsylvania,Field,History,4,1,3
+New York University,University of Pennsylvania,Field,History,2,1,1
+Northwestern University,University of Pennsylvania,Field,History,2,1,1
+"Pennsylvania State University, The",University of Pennsylvania,Field,History,2,1,1
+Princeton University,University of Pennsylvania,Field,History,5,1,4
+Rutgers University-Camden,University of Pennsylvania,Field,History,3,1,2
+"Stony Brook University, State University of New York",University of Pennsylvania,Field,History,3,2,1
+"University of California, Santa Cruz",University of Pennsylvania,Field,History,2,1,1
+University of Dayton,University of Pennsylvania,Field,History,2,1,1
+University of Delaware,University of Pennsylvania,Field,History,3,2,1
+University of Illinois at Chicago,University of Pennsylvania,Field,History,2,1,1
+University of Miami,University of Pennsylvania,Field,History,2,1,1
+University of Michigan,University of Pennsylvania,Field,History,4,2,2
+"University of Vermont, The",University of Pennsylvania,Field,History,2,1,1
+University of Wisconsin - Milwaukee,University of Pennsylvania,Field,History,4,2,2
+Vanderbilt University,University of Pennsylvania,Field,History,3,2,1
+University of Pittsburgh,University of Pittsburgh,Field,History,3,1,2
+University of Oklahoma,University of Rochester,Field,History,2,1,1
+"University of New Mexico, The",University of South Carolina,Field,History,2,1,1
+"University of Texas at Dallas, The",University of Southern California,Field,History,3,2,1
+Baylor University,"University of Texas at Austin, The",Field,History,4,2,2
+Iowa State University,"University of Texas at Austin, The",Field,History,3,1,1
+Northern Arizona University,"University of Texas at Austin, The",Field,History,2,1,1
+Texas State University,"University of Texas at Austin, The",Field,History,4,1,3
+"University of California, Irvine","University of Texas at Austin, The",Field,History,3,2,1
+"University of California, Santa Cruz","University of Texas at Austin, The",Field,History,2,1,1
+University of Houston,"University of Texas at Austin, The",Field,History,2,1,1
+University of Texas Arlington,"University of Texas at Austin, The",Field,History,2,1,1
+Utah State University,"University of Texas at Austin, The",Field,History,4,3,1
+Virginia Polytechnic Institute and State University,"University of Texas at Austin, The",Field,History,4,2,2
+"University of Texas at Dallas, The","University of Texas at Dallas, The",Field,History,4,2,2
+Colorado State University,"University of Utah, The",Field,History,2,1,1
+Montana State University,"University of Utah, The",Field,History,2,1,1
+Auburn University,University of Virginia,Field,History,3,1,2
+Clark University,University of Virginia,Field,History,2,1,1
+Massachusetts Institute of Technology,University of Virginia,Field,History,2,1,1
+"Ohio State University, The",University of Virginia,Field,History,2,1,1
+Oklahoma State University,University of Virginia,Field,History,2,1,1
+Purdue University,University of Virginia,Field,History,2,1,1
+"University of Alabama, The",University of Virginia,Field,History,3,1,2
+University of Kentucky,University of Virginia,Field,History,2,1,1
+"University of Tennessee, The",University of Virginia,Field,History,2,1,1
+Virginia Commonwealth University,University of Virginia,Field,History,3,2,1
+Arizona State University,University of Wisconsin - Madison,Field,History,3,1,2
+"College of William & Mary, The",University of Wisconsin - Madison,Field,History,2,1,1
+Florida International University,University of Wisconsin - Madison,Field,History,3,1,2
+George Mason University,University of Wisconsin - Madison,Field,History,2,1,1
+Lehigh University,University of Wisconsin - Madison,Field,History,3,1,2
+Marquette University,University of Wisconsin - Madison,Field,History,3,1,2
+Michigan State University,University of Wisconsin - Madison,Field,History,2,1,1
+Northwestern University,University of Wisconsin - Madison,Field,History,5,1,4
+Oregon State University,University of Wisconsin - Madison,Field,History,2,1,1
+Princeton University,University of Wisconsin - Madison,Field,History,2,1,1
+Texas Christian University,University of Wisconsin - Madison,Field,History,2,1,1
+"University at Buffalo, State University of New York",University of Wisconsin - Madison,Field,History,3,1,2
+"University of Alabama, The",University of Wisconsin - Madison,Field,History,2,1,1
+"University of Arizona, The",University of Wisconsin - Madison,Field,History,2,1,1
+"University of Cincinnati, The",University of Wisconsin - Madison,Field,History,3,1,2
+University of Dayton,University of Wisconsin - Madison,Field,History,2,1,1
+University of Florida,University of Wisconsin - Madison,Field,History,6,4,2
+University of Illinois at Urbana-Champaign,University of Wisconsin - Madison,Field,History,4,1,2
+"University of Iowa, The",University of Wisconsin - Madison,Field,History,6,2,4
+"University of Maine, The",University of Wisconsin - Madison,Field,History,2,1,1
+"University of Maryland, College Park",University of Wisconsin - Madison,Field,History,3,1,2
+University of Michigan,University of Wisconsin - Madison,Field,History,2,1,1
+"University of Minnesota, Twin Cities",University of Wisconsin - Madison,Field,History,6,3,3
+University of Missouri - St. Louis,University of Wisconsin - Madison,Field,History,3,1,2
+University of Nebraska - Lincoln,University of Wisconsin - Madison,Field,History,3,1,2
+University of Notre Dame,University of Wisconsin - Madison,Field,History,2,1,1
+University of Oklahoma,University of Wisconsin - Madison,Field,History,2,1,1
+University of Pennsylvania,University of Wisconsin - Madison,Field,History,3,1,2
+University of South Carolina,University of Wisconsin - Madison,Field,History,2,1,1
+University of Southern California,University of Wisconsin - Madison,Field,History,2,1,1
+"University of Tennessee, The",University of Wisconsin - Madison,Field,History,2,1,1
+"University of Texas at Austin, The",University of Wisconsin - Madison,Field,History,4,3,1
+"University of Texas at Dallas, The",University of Wisconsin - Madison,Field,History,3,2,1
+University of Virginia,University of Wisconsin - Madison,Field,History,3,1,2
+Utah State University,University of Wisconsin - Madison,Field,History,2,1,1
+Western Michigan University,University of Wisconsin - Madison,Field,History,3,2,1
+Georgia Institute of Technology,Vanderbilt University,Field,History,2,1,1
+Middle Tennessee State University,Vanderbilt University,Field,History,4,2,2
+Virginia Polytechnic Institute and State University,Virginia Polytechnic Institute and State University,Field,History,3,1,1
+University of Pennsylvania,Washington University in St. Louis,Field,History,2,1,1
+Boston University,Yale University,Field,History,2,1,1
+Brown University,Yale University,Field,History,4,2,2
+City College (CUNY),Yale University,Field,History,3,2,1
+"College of William & Mary, The",Yale University,Field,History,2,1,1
+Columbia University,Yale University,Field,History,8,3,4
+Cornell University,Yale University,Field,History,7,2,5
+Dartmouth College,Yale University,Field,History,6,2,3
+Duke University,Yale University,Field,History,7,3,4
+Florida International University,Yale University,Field,History,2,1,1
+Florida State University,Yale University,Field,History,5,1,4
+Fordham University,Yale University,Field,History,4,1,2
+George Mason University,Yale University,Field,History,4,3,1
+George Washington University,Yale University,Field,History,4,2,2
+Harvard University,Yale University,Field,History,6,4,2
+Kansas State University,Yale University,Field,History,3,1,1
+Loyola University Chicago,Yale University,Field,History,3,1,2
+Miami University,Yale University,Field,History,3,1,2
+Michigan State University,Yale University,Field,History,4,1,3
+Mississippi State University,Yale University,Field,History,3,1,1
+Montana State University,Yale University,Field,History,2,1,1
+New York University,Yale University,Field,History,7,4,3
+North Carolina State University,Yale University,Field,History,5,2,2
+Northeastern University,Yale University,Field,History,3,2,1
+Northwestern University,Yale University,Field,History,7,1,4
+"Ohio State University, The",Yale University,Field,History,5,1,4
+"Pennsylvania State University, The",Yale University,Field,History,7,2,5
+Princeton University,Yale University,Field,History,12,6,6
+Rutgers  - Newark,Yale University,Field,History,2,1,1
+Rutgers - New Brunswick,Yale University,Field,History,5,3,2
+Sam Houston State University,Yale University,Field,History,2,1,1
+"Stony Brook University, State University of New York",Yale University,Field,History,6,4,2
+Temple University,Yale University,Field,History,2,1,1
+"University at Buffalo, State University of New York",Yale University,Field,History,2,1,1
+"University of Alabama, The",Yale University,Field,History,2,1,1
+"University of Arizona, The",Yale University,Field,History,3,1,2
+"University of California, Davis",Yale University,Field,History,3,2,1
+"University of California, Los Angeles",Yale University,Field,History,4,1,3
+"University of California, Riverside",Yale University,Field,History,4,3,1
+"University of California, San Diego",Yale University,Field,History,4,1,3
+"University of California, Santa Barbara",Yale University,Field,History,3,1,1
+"University of California, Santa Cruz",Yale University,Field,History,4,2,2
+"University of Chicago, The",Yale University,Field,History,9,6,3
+University of Colorado Boulder,Yale University,Field,History,4,3,1
+University of Connecticut,Yale University,Field,History,4,1,3
+University of Illinois at Urbana-Champaign,Yale University,Field,History,6,3,3
+University of Kentucky,Yale University,Field,History,4,1,2
+"University of Maryland, Baltimore County",Yale University,Field,History,2,1,1
+"University of Maryland, College Park",Yale University,Field,History,4,3,1
+University of Michigan,Yale University,Field,History,5,3,2
+University of New Hampshire,Yale University,Field,History,2,1,1
+University of North Carolina at Chapel Hill,Yale University,Field,History,5,2,2
+University of Notre Dame,Yale University,Field,History,3,1,2
+University of Oregon,Yale University,Field,History,4,2,2
+University of Pennsylvania,Yale University,Field,History,7,4,3
+University of South Carolina,Yale University,Field,History,2,1,1
+"University of Texas at Austin, The",Yale University,Field,History,11,3,7
+University of Virginia,Yale University,Field,History,7,2,5
+University of Wisconsin - Madison,Yale University,Field,History,5,2,3
+University of Wisconsin - Milwaukee,Yale University,Field,History,4,1,3
+Vanderbilt University,Yale University,Field,History,5,1,4
+Yale University,Yale University,Field,History,6,2,4

@@ -1,0 +1,123 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+Arizona State University,Arizona State University,Field,Astronomy,9,1,7
+California Institute of Technology,California Institute of Technology,Field,Astronomy,4,2,2
+Harvard University,California Institute of Technology,Field,Astronomy,5,1,4
+"University of California, Irvine",California Institute of Technology,Field,Astronomy,3,1,2
+"University of California, Los Angeles",California Institute of Technology,Field,Astronomy,10,3,6
+University of Washington,California Institute of Technology,Field,Astronomy,3,1,2
+Clemson University,Clemson University,Field,Astronomy,3,1,1
+Michigan State University,Cornell University,Field,Astronomy,2,1,1
+University of Pennsylvania,Cornell University,Field,Astronomy,2,1,1
+University of Rochester,Cornell University,Field,Astronomy,3,1,2
+University of Virginia,Cornell University,Field,Astronomy,3,1,2
+Arizona State University,Dartmouth College,Field,Astronomy,2,1,1
+George Mason University,George Mason University,Field,Astronomy,7,1,4
+Arizona State University,Harvard University,Field,Astronomy,2,1,1
+Harvard University,Harvard University,Field,Astronomy,4,1,3
+Michigan State University,Harvard University,Field,Astronomy,5,2,2
+"Pennsylvania State University, The",Harvard University,Field,Astronomy,2,1,1
+Princeton University,Harvard University,Field,Astronomy,2,1,1
+"Stony Brook University, State University of New York",Harvard University,Field,Astronomy,3,1,2
+"University of Arizona, The",Harvard University,Field,Astronomy,6,2,3
+"University of California, Los Angeles",Harvard University,Field,Astronomy,7,1,5
+"University of California, Santa Cruz",Harvard University,Field,Astronomy,3,1,2
+University of Colorado Boulder,Harvard University,Field,Astronomy,4,1,3
+University of North Carolina at Chapel Hill,Harvard University,Field,Astronomy,4,1,2
+University of Oklahoma,Harvard University,Field,Astronomy,2,1,1
+University of Pennsylvania,Harvard University,Field,Astronomy,10,2,7
+Cornell University,Indiana University - Bloomington,Field,Astronomy,3,1,1
+Louisiana State University,Louisiana State University,Field,Astronomy,2,1,1
+Arizona State University,Massachusetts Institute of Technology,Field,Astronomy,7,1,6
+Rutgers - New Brunswick,Massachusetts Institute of Technology,Field,Astronomy,5,1,4
+"University of Arizona, The",Massachusetts Institute of Technology,Field,Astronomy,2,1,1
+"University of California, Riverside",Massachusetts Institute of Technology,Field,Astronomy,3,1,2
+University of Kentucky,Massachusetts Institute of Technology,Field,Astronomy,3,1,2
+"University of New Mexico, The",Massachusetts Institute of Technology,Field,Astronomy,2,1,1
+University of Washington,Massachusetts Institute of Technology,Field,Astronomy,3,1,2
+Michigan State University,Michigan State University,Field,Astronomy,3,1,2
+Texas A&M University,Michigan State University,Field,Astronomy,2,1,1
+"University of California, Irvine",Michigan State University,Field,Astronomy,2,1,1
+University of Nebraska - Lincoln,Northwestern University,Field,Astronomy,2,1,1
+Georgia State University,"Ohio State University, The",Field,Astronomy,2,1,1
+Texas A&M University,"Ohio State University, The",Field,Astronomy,2,1,1
+Ball State University,Ohio University,Field,Astronomy,4,1,2
+"Binghamton University, State University of New York","Pennsylvania State University, The",Field,Astronomy,2,1,1
+Arizona State University,Princeton University,Field,Astronomy,3,1,2
+George Mason University,Princeton University,Field,Astronomy,2,1,1
+Johns Hopkins University,Princeton University,Field,Astronomy,4,1,3
+"Ohio State University, The",Princeton University,Field,Astronomy,3,1,2
+Rutgers - New Brunswick,Princeton University,Field,Astronomy,8,1,5
+"Stony Brook University, State University of New York",Princeton University,Field,Astronomy,5,1,4
+Texas A&M University,Princeton University,Field,Astronomy,4,1,3
+"University of California, Irvine",Princeton University,Field,Astronomy,5,1,2
+"University of California, Santa Cruz",Princeton University,Field,Astronomy,3,1,1
+"University of Minnesota, Twin Cities",Princeton University,Field,Astronomy,3,1,2
+University of Southern California,Princeton University,Field,Astronomy,2,1,1
+University of Washington,Princeton University,Field,Astronomy,3,1,2
+Rice University,Rice University,Field,Astronomy,4,1,3
+Louisiana State University,Rutgers - New Brunswick,Field,Astronomy,2,1,1
+Rutgers - New Brunswick,Rutgers - New Brunswick,Field,Astronomy,5,2,2
+"Stony Brook University, State University of New York",Rutgers - New Brunswick,Field,Astronomy,2,1,1
+Iowa State University,Stanford University,Field,Astronomy,2,1,1
+University of Washington,Stanford University,Field,Astronomy,2,1,1
+Vanderbilt University,"Stony Brook University, State University of New York",Field,Astronomy,4,1,2
+"University of Arizona, The","University of Arizona, The",Field,Astronomy,9,1,8
+University of Colorado Boulder,"University of Arizona, The",Field,Astronomy,3,1,2
+Arizona State University,"University of California, Berkeley",Field,Astronomy,4,1,3
+California Institute of Technology,"University of California, Berkeley",Field,Astronomy,2,1,1
+Dartmouth College,"University of California, Berkeley",Field,Astronomy,2,1,1
+Northwestern University,"University of California, Berkeley",Field,Astronomy,2,1,1
+Princeton University,"University of California, Berkeley",Field,Astronomy,3,1,2
+Rensselaer Polytechnic Institute,"University of California, Berkeley",Field,Astronomy,3,1,1
+"University of Arizona, The","University of California, Berkeley",Field,Astronomy,3,1,2
+"University of California, Los Angeles","University of California, Berkeley",Field,Astronomy,10,2,8
+"University of California, Santa Cruz","University of California, Berkeley",Field,Astronomy,10,1,8
+University of Colorado Boulder,"University of California, Berkeley",Field,Astronomy,4,1,3
+University of Michigan,"University of California, Berkeley",Field,Astronomy,3,1,2
+"University of Minnesota, Twin Cities","University of California, Berkeley",Field,Astronomy,9,1,6
+"University of Texas at Austin, The","University of California, Berkeley",Field,Astronomy,4,1,3
+University of Washington,"University of California, Berkeley",Field,Astronomy,5,1,4
+Washington State University,"University of California, Berkeley",Field,Astronomy,2,1,1
+Texas A&M University,"University of California, Irvine",Field,Astronomy,2,1,1
+Arizona State University,"University of California, Los Angeles",Field,Astronomy,3,1,2
+"University of California, Riverside","University of California, Los Angeles",Field,Astronomy,4,1,2
+"University of Iowa, The","University of California, Los Angeles",Field,Astronomy,3,1,2
+"University of Minnesota, Twin Cities","University of California, Los Angeles",Field,Astronomy,2,1,1
+University of Southern California,"University of California, Los Angeles",Field,Astronomy,3,1,2
+"University of Maryland, College Park","University of California, San Diego",Field,Astronomy,2,1,1
+"Ohio State University, The","University of California, Santa Cruz",Field,Astronomy,4,2,2
+"University of Arizona, The","University of California, Santa Cruz",Field,Astronomy,2,1,1
+Yale University,"University of California, Santa Cruz",Field,Astronomy,2,1,1
+Northwestern University,"University of Chicago, The",Field,Astronomy,5,1,3
+"University of California, Santa Cruz","University of Chicago, The",Field,Astronomy,2,1,1
+University of Rochester,"University of Chicago, The",Field,Astronomy,3,1,2
+Michigan State University,University of Colorado Boulder,Field,Astronomy,2,1,1
+University of Delaware,University of Colorado Boulder,Field,Astronomy,2,1,1
+University of Hawaii,University of Hawaii,Field,Astronomy,3,1,2
+Ohio University,University of Illinois at Urbana-Champaign,Field,Astronomy,3,1,2
+University of North Carolina at Chapel Hill,University of Illinois at Urbana-Champaign,Field,Astronomy,3,2,1
+George Mason University,"University of Maryland, College Park",Field,Astronomy,6,1,3
+Georgia State University,"University of Maryland, College Park",Field,Astronomy,2,1,1
+"University of Maryland, College Park","University of Maryland, College Park",Field,Astronomy,4,1,3
+Case Western Reserve University,University of Michigan,Field,Astronomy,2,1,1
+"University of Minnesota, Twin Cities",University of Michigan,Field,Astronomy,2,1,1
+"University of Nevada, Las Vegas",University of Michigan,Field,Astronomy,2,1,1
+"University of Mississippi, The","University of Mississippi, The",Field,Astronomy,3,1,2
+"University of Tennessee, The",University of Oregon,Field,Astronomy,2,1,1
+University of Pittsburgh,University of Pittsburgh,Field,Astronomy,3,1,2
+Michigan State University,University of Rochester,Field,Astronomy,3,1,2
+Arizona State University,University of Southern California,Field,Astronomy,3,1,2
+Michigan State University,"University of Texas at Austin, The",Field,Astronomy,4,1,2
+"University of Utah, The",University of Virginia,Field,Astronomy,2,1,1
+Rutgers - New Brunswick,University of Washington,Field,Astronomy,2,1,1
+"University of Minnesota, Twin Cities",University of Washington,Field,Astronomy,3,1,2
+University of North Carolina at Chapel Hill,University of Washington,Field,Astronomy,2,1,1
+University of Washington,University of Washington,Field,Astronomy,13,3,10
+"University of Iowa, The",University of Wisconsin - Madison,Field,Astronomy,5,1,4
+"University of Tennessee, The",Vanderbilt University,Field,Astronomy,2,1,1
+Vanderbilt University,Vanderbilt University,Field,Astronomy,2,1,1
+Indiana University - Bloomington,Yale University,Field,Astronomy,2,1,1
+Louisiana State University,Yale University,Field,Astronomy,2,1,1
+"University of Kansas, The",Yale University,Field,Astronomy,3,1,2
+"University of Tennessee, The",Yale University,Field,Astronomy,2,1,1
+Vanderbilt University,Yale University,Field,Astronomy,4,1,3

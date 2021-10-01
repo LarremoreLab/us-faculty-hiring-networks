@@ -1,0 +1,252 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+Arizona State University,Arizona State University,Field,"Education, General",14,8,5
+Clemson University,Auburn University,Field,"Education, General",2,1,1
+Barry University,Barry University,Field,"Education, General",9,5,3
+Lesley University,Boston College,Field,"Education, General",10,8,1
+Lesley University,Boston University,Field,"Education, General",12,8,4
+"University of California, Irvine",Boston University,Field,"Education, General",2,1,1
+Robert Morris University,"Catholic University of America, The",Field,"Education, General",2,1,1
+Colorado State University,Colorado State University,Field,"Education, General",9,7,2
+Arizona State University,Columbia University,Field,"Education, General",2,1,1
+"Catholic University of America, The",Columbia University,Field,"Education, General",2,1,1
+Stanford University,Columbia University,Field,"Education, General",3,2,1
+American University,Cornell University,Field,"Education, General",2,1,1
+University of Southern California,Cornell University,Field,"Education, General",3,1,2
+Clemson University,Emory University,Field,"Education, General",2,1,1
+Florida Atlantic University,Florida State University,Field,"Education, General",3,2,1
+"University of California, Davis",Florida State University,Field,"Education, General",2,1,1
+Gallaudet University,Gallaudet University,Field,"Education, General",3,2,1
+Regent University,George Washington University,Field,"Education, General",4,1,2
+Arizona State University,Harvard University,Field,"Education, General",4,3,1
+Boston University,Harvard University,Field,"Education, General",3,1,2
+Brandeis University,Harvard University,Field,"Education, General",2,1,1
+Drexel University,Harvard University,Field,"Education, General",2,1,1
+Harvard University,Harvard University,Field,"Education, General",19,9,8
+Lesley University,Harvard University,Field,"Education, General",9,5,4
+Northwestern University,Harvard University,Field,"Education, General",4,1,2
+Stanford University,Harvard University,Field,"Education, General",3,1,2
+Teachers College Columbia University,Harvard University,Field,"Education, General",4,2,2
+"University of California, Davis",Harvard University,Field,"Education, General",3,1,2
+University of Delaware,Harvard University,Field,"Education, General",3,2,1
+University of Massachusetts Lowell,Harvard University,Field,"Education, General",3,1,1
+University of Michigan,Harvard University,Field,"Education, General",5,4,1
+University of North Carolina at Chapel Hill,Harvard University,Field,"Education, General",3,1,1
+University of Pennsylvania,Harvard University,Field,"Education, General",5,2,3
+University of Southern California,Harvard University,Field,"Education, General",2,1,1
+University of Washington,Harvard University,Field,"Education, General",2,1,1
+Arizona State University,Indiana University - Bloomington,Field,"Education, General",3,1,1
+Ball State University,Indiana University - Bloomington,Field,"Education, General",4,2,2
+Clemson University,Indiana University - Bloomington,Field,"Education, General",3,2,1
+East Carolina University,Indiana University - Bloomington,Field,"Education, General",2,1,1
+Indiana University-Purdue University Indianapolis,Indiana University - Bloomington,Field,"Education, General",4,2,2
+University of Pennsylvania,Indiana University - Bloomington,Field,"Education, General",2,1,1
+Ball State University,Iowa State University,Field,"Education, General",2,1,1
+University of Delaware,Johns Hopkins University,Field,"Education, General",2,1,1
+North Dakota State University,Kent State University,Field,"Education, General",3,1,2
+Lesley University,Lesley University,Field,"Education, General",5,3,2
+Louisiana State University,Louisiana State University,Field,"Education, General",5,4,1
+University of Louisiana at Lafayette,Louisiana State University,Field,"Education, General",13,9,3
+Loyola University Chicago,Loyola University Chicago,Field,"Education, General",3,2,1
+American University,Michigan State University,Field,"Education, General",3,1,2
+University of Georgia,Michigan State University,Field,"Education, General",3,1,1
+University of North Carolina at Chapel Hill,Michigan State University,Field,"Education, General",3,1,1
+Virginia Polytechnic Institute and State University,Michigan State University,Field,"Education, General",3,1,1
+Montana State University,Montana State University,Field,"Education, General",4,2,1
+Lesley University,New York University,Field,"Education, General",2,1,1
+Clemson University,North Carolina State University,Field,"Education, General",2,1,1
+University of North Carolina at Chapel Hill,North Carolina State University,Field,"Education, General",4,3,1
+Northwestern University,Northwestern University,Field,"Education, General",10,7,3
+Stanford University,Northwestern University,Field,"Education, General",3,1,2
+Teachers College Columbia University,Northwestern University,Field,"Education, General",2,1,1
+University of Colorado Boulder,Northwestern University,Field,"Education, General",2,1,1
+University of Michigan,Northwestern University,Field,"Education, General",2,1,1
+Barry University,Nova Southeastern University,Field,"Education, General",2,1,1
+Indiana University-Purdue University Indianapolis,"Ohio State University, The",Field,"Education, General",3,1,2
+"Ohio State University, The","Ohio State University, The",Field,"Education, General",9,5,4
+"University of Cincinnati, The","Ohio State University, The",Field,"Education, General",5,4,1
+University of Colorado Denver,"Ohio State University, The",Field,"Education, General",3,2,1
+"University of Maine, The","Ohio State University, The",Field,"Education, General",3,1,2
+University of Rhode Island,"Ohio State University, The",Field,"Education, General",2,1,1
+"Ohio State University, The",Ohio University,Field,"Education, General",3,1,1
+Ohio University,Ohio University,Field,"Education, General",4,1,3
+North Dakota State University,Oklahoma State University,Field,"Education, General",4,1,3
+Oklahoma State University,Oklahoma State University,Field,"Education, General",8,4,3
+Regent University,Old Dominion University,Field,"Education, General",3,1,2
+Marywood University,"Pennsylvania State University, The",Field,"Education, General",3,2,1
+"University of Cincinnati, The","Pennsylvania State University, The",Field,"Education, General",3,1,2
+"University of Maine, The","Pennsylvania State University, The",Field,"Education, General",2,1,1
+University of New Hampshire,"Pennsylvania State University, The",Field,"Education, General",2,1,1
+Regent University,Regent University,Field,"Education, General",6,5,1
+Arizona State University,Rutgers - New Brunswick,Field,"Education, General",2,1,1
+Saint Louis University,Saint Louis University,Field,"Education, General",14,7,7
+Claremont Graduate University,Stanford University,Field,"Education, General",4,1,3
+Harvard University,Stanford University,Field,"Education, General",6,1,5
+Northwestern University,Stanford University,Field,"Education, General",5,4,1
+Stanford University,Stanford University,Field,"Education, General",16,8,8
+"University of California, Berkeley",Stanford University,Field,"Education, General",8,4,4
+"University of California, Davis",Stanford University,Field,"Education, General",9,3,4
+"University of California, Los Angeles",Stanford University,Field,"Education, General",7,4,3
+"University of California, Santa Barbara",Stanford University,Field,"Education, General",5,2,2
+"University of California, Santa Cruz",Stanford University,Field,"Education, General",5,2,3
+University of Colorado Boulder,Stanford University,Field,"Education, General",7,3,4
+University of Colorado Denver,Stanford University,Field,"Education, General",2,1,1
+"University of Maine, The",Stanford University,Field,"Education, General",3,1,2
+University of North Carolina at Chapel Hill,Stanford University,Field,"Education, General",2,1,1
+University of Pennsylvania,Stanford University,Field,"Education, General",4,3,1
+University of Southern California,Stanford University,Field,"Education, General",7,4,3
+University of Washington,Stanford University,Field,"Education, General",6,2,1
+American University,Syracuse University,Field,"Education, General",4,2,2
+"University of Maine, The",Syracuse University,Field,"Education, General",2,1,1
+University of Rhode Island,Syracuse University,Field,"Education, General",2,1,1
+University of Rochester,Syracuse University,Field,"Education, General",3,2,1
+University of Washington,Syracuse University,Field,"Education, General",2,1,1
+University of North Carolina at Chapel Hill,Temple University,Field,"Education, General",2,1,1
+University of Texas Rio Grande Valley,Texas A&M Kingsville,Field,"Education, General",2,1,1
+American University,Texas A&M University,Field,"Education, General",2,1,1
+Barry University,Texas A&M University,Field,"Education, General",2,1,1
+Colorado State University,Texas A&M University,Field,"Education, General",3,2,1
+Louisiana State University,Texas A&M University,Field,"Education, General",2,1,1
+Purdue University,Texas A&M University,Field,"Education, General",2,1,1
+Lesley University,Tufts University,Field,"Education, General",3,2,1
+University of Rochester,"University at Buffalo, State University of New York",Field,"Education, General",2,1,1
+"College of William & Mary, The","University of Alabama, The",Field,"Education, General",2,1,1
+University of Alaska Fairbanks,University of Alaska Fairbanks,Field,"Education, General",8,4,4
+Gallaudet University,"University of Arizona, The",Field,"Education, General",2,1,1
+University of Texas Rio Grande Valley,"University of Arizona, The",Field,"Education, General",2,1,1
+Northwestern University,"University of California, Berkeley",Field,"Education, General",4,2,2
+Stanford University,"University of California, Berkeley",Field,"Education, General",3,2,1
+"University of California, Davis","University of California, Berkeley",Field,"Education, General",4,2,2
+"University of California, Los Angeles","University of California, Berkeley",Field,"Education, General",8,1,6
+"University of California, Santa Barbara","University of California, Berkeley",Field,"Education, General",5,3,2
+"University of California, Santa Cruz","University of California, Berkeley",Field,"Education, General",6,4,2
+University of Colorado Boulder,"University of California, Berkeley",Field,"Education, General",7,3,3
+University of Washington,"University of California, Berkeley",Field,"Education, General",7,4,2
+Arizona State University,"University of California, Los Angeles",Field,"Education, General",4,2,2
+"Ohio State University, The","University of California, Los Angeles",Field,"Education, General",3,2,1
+Stanford University,"University of California, Los Angeles",Field,"Education, General",4,1,3
+"University of California, Berkeley","University of California, Los Angeles",Field,"Education, General",4,2,1
+"University of California, Davis","University of California, Los Angeles",Field,"Education, General",4,2,2
+"University of California, Los Angeles","University of California, Los Angeles",Field,"Education, General",14,6,7
+"University of California, Riverside","University of California, Los Angeles",Field,"Education, General",6,5,1
+"University of California, Santa Barbara","University of California, Los Angeles",Field,"Education, General",5,3,2
+University of Colorado Boulder,"University of California, Los Angeles",Field,"Education, General",3,1,1
+University of Colorado Denver,"University of California, Los Angeles",Field,"Education, General",2,1,1
+University of Michigan,"University of California, Los Angeles",Field,"Education, General",3,2,1
+University of Southern California,"University of California, Los Angeles",Field,"Education, General",18,9,4
+University of Washington,"University of California, Los Angeles",Field,"Education, General",2,1,1
+"University of California, Riverside","University of California, San Diego",Field,"Education, General",3,2,1
+"University of Nevada, Reno","University of California, Santa Barbara",Field,"Education, General",2,1,1
+University of Pennsylvania,"University of Chicago, The",Field,"Education, General",3,1,2
+"Ohio State University, The","University of Cincinnati, The",Field,"Education, General",2,1,1
+"University of Cincinnati, The","University of Cincinnati, The",Field,"Education, General",10,7,3
+Stanford University,University of Colorado Boulder,Field,"Education, General",2,1,1
+University of Colorado Boulder,University of Colorado Boulder,Field,"Education, General",6,3,2
+University of Colorado Denver,University of Colorado Boulder,Field,"Education, General",5,3,2
+University of Louisiana at Lafayette,University of Connecticut,Field,"Education, General",3,2,1
+"University of Cincinnati, The",University of Florida,Field,"Education, General",2,1,1
+"University of Nevada, Reno",University of Florida,Field,"Education, General",3,1,2
+Arizona State University,University of Georgia,Field,"Education, General",4,2,1
+Clemson University,University of Georgia,Field,"Education, General",4,2,2
+East Carolina University,University of Georgia,Field,"Education, General",3,2,1
+Louisiana State University,University of Georgia,Field,"Education, General",4,3,1
+Saint Louis University,University of Georgia,Field,"Education, General",3,1,2
+"University of Cincinnati, The",University of Georgia,Field,"Education, General",2,1,1
+University of Michigan,University of Georgia,Field,"Education, General",2,1,1
+"University of Nevada, Reno",University of Georgia,Field,"Education, General",3,1,2
+University of South Carolina,University of Georgia,Field,"Education, General",2,1,1
+Virginia Polytechnic Institute and State University,University of Georgia,Field,"Education, General",4,3,1
+University of Hawaii,University of Hawaii,Field,"Education, General",3,2,1
+Indiana University-Purdue University Indianapolis,University of Illinois at Chicago,Field,"Education, General",3,1,2
+Loyola University Chicago,University of Illinois at Chicago,Field,"Education, General",2,1,1
+Arizona State University,University of Illinois at Urbana-Champaign,Field,"Education, General",4,1,1
+Ball State University,University of Illinois at Urbana-Champaign,Field,"Education, General",2,1,1
+Clemson University,University of Illinois at Urbana-Champaign,Field,"Education, General",2,1,1
+"Ohio State University, The",University of Illinois at Urbana-Champaign,Field,"Education, General",2,1,1
+University of Alaska Fairbanks,University of Illinois at Urbana-Champaign,Field,"Education, General",2,1,1
+University of Delaware,University of Illinois at Urbana-Champaign,Field,"Education, General",2,1,1
+"University of Nevada, Reno",University of Illinois at Urbana-Champaign,Field,"Education, General",3,1,2
+University of Rochester,University of Illinois at Urbana-Champaign,Field,"Education, General",2,1,1
+University of Southern California,University of Illinois at Urbana-Champaign,Field,"Education, General",2,1,1
+"University of Vermont, The",University of Illinois at Urbana-Champaign,Field,"Education, General",3,2,1
+"University of Maine, The","University of Maine, The",Field,"Education, General",5,3,2
+American University,"University of Maryland, College Park",Field,"Education, General",2,1,1
+"Binghamton University, State University of New York","University of Maryland, College Park",Field,"Education, General",4,3,1
+Drexel University,"University of Maryland, College Park",Field,"Education, General",2,1,1
+Gallaudet University,"University of Maryland, College Park",Field,"Education, General",3,2,1
+Indiana University-Purdue University Indianapolis,"University of Maryland, College Park",Field,"Education, General",2,1,1
+Lehigh University,"University of Maryland, College Park",Field,"Education, General",2,1,1
+Loyola University Chicago,"University of Maryland, College Park",Field,"Education, General",2,1,1
+University of North Carolina at Chapel Hill,"University of Maryland, College Park",Field,"Education, General",2,1,1
+Virginia Polytechnic Institute and State University,"University of Maryland, College Park",Field,"Education, General",2,1,1
+Lesley University,University of Massachusetts Amherst,Field,"Education, General",7,5,2
+University of Massachusetts Lowell,University of Massachusetts Amherst,Field,"Education, General",2,1,1
+American University,University of Michigan,Field,"Education, General",2,1,1
+Arizona State University,University of Michigan,Field,"Education, General",6,5,1
+Harvard University,University of Michigan,Field,"Education, General",2,1,1
+Loyola University Chicago,University of Michigan,Field,"Education, General",2,1,1
+Northwestern University,University of Michigan,Field,"Education, General",4,1,1
+"Ohio State University, The",University of Michigan,Field,"Education, General",7,4,3
+"University of California, Irvine",University of Michigan,Field,"Education, General",4,2,2
+University of Michigan,University of Michigan,Field,"Education, General",9,4,5
+University of Pennsylvania,University of Michigan,Field,"Education, General",4,3,1
+University of Rochester,University of Michigan,Field,"Education, General",2,1,1
+University of Southern California,University of Michigan,Field,"Education, General",3,2,1
+Colorado State University,"University of Minnesota, Twin Cities",Field,"Education, General",3,1,2
+Saint Louis University,University of Missouri,Field,"Education, General",3,1,1
+"University of Cincinnati, The",University of Missouri,Field,"Education, General",2,1,1
+Purdue University,University of Nebraska - Lincoln,Field,"Education, General",2,1,1
+Virginia Polytechnic Institute and State University,University of Nebraska - Lincoln,Field,"Education, General",3,1,2
+"University of Nevada, Reno","University of Nevada, Reno",Field,"Education, General",6,1,2
+University of Texas Rio Grande Valley,"University of New Mexico, The",Field,"Education, General",2,1,1
+American University,University of North Carolina at Chapel Hill,Field,"Education, General",2,1,1
+Indiana University-Purdue University Indianapolis,University of North Carolina at Chapel Hill,Field,"Education, General",2,1,1
+University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill,Field,"Education, General",5,2,3
+University of Pennsylvania,University of North Carolina at Chapel Hill,Field,"Education, General",2,1,1
+University of South Carolina,University of North Carolina at Chapel Hill,Field,"Education, General",3,2,1
+North Dakota State University,"University of North Dakota, The",Field,"Education, General",4,3,1
+Stanford University,University of Pennsylvania,Field,"Education, General",3,2,1
+University of Delaware,University of Pennsylvania,Field,"Education, General",3,2,1
+University of Pennsylvania,University of Pennsylvania,Field,"Education, General",4,1,3
+"Ohio State University, The",University of Pittsburgh,Field,"Education, General",2,1,1
+Robert Morris University,University of Pittsburgh,Field,"Education, General",10,5,4
+"University of California, Berkeley",University of Pittsburgh,Field,"Education, General",2,1,1
+University of Rhode Island,University of Rhode Island,Field,"Education, General",3,2,1
+University of Rochester,University of Rochester,Field,"Education, General",15,8,5
+"University of Cincinnati, The",University of South Carolina,Field,"Education, General",2,1,1
+University of Southern California,University of Southern California,Field,"Education, General",19,11,7
+Louisiana State University,"University of Southern Mississippi, The",Field,"Education, General",2,1,1
+Indiana University-Purdue University Indianapolis,"University of Texas at Austin, The",Field,"Education, General",3,1,1
+"Ohio State University, The","University of Texas at Austin, The",Field,"Education, General",2,1,1
+University of North Carolina at Chapel Hill,"University of Texas at Austin, The",Field,"Education, General",2,1,1
+University of Texas Rio Grande Valley,"University of Texas at Austin, The",Field,"Education, General",4,2,2
+"University of Texas at Tyler, The","University of Texas at Austin, The",Field,"Education, General",2,1,1
+University of the Incarnate Word,"University of Texas at Austin, The",Field,"Education, General",6,5,1
+"University of Vermont, The","University of Vermont, The",Field,"Education, General",7,4,3
+Clemson University,University of Virginia,Field,"Education, General",3,2,1
+Regent University,University of Virginia,Field,"Education, General",2,1,1
+University of Delaware,University of Virginia,Field,"Education, General",2,1,1
+University of North Carolina at Chapel Hill,University of Virginia,Field,"Education, General",2,1,1
+Ohio University,University of Washington,Field,"Education, General",2,1,1
+University of Washington,University of Washington,Field,"Education, General",16,9,6
+Arizona State University,University of Wisconsin - Madison,Field,"Education, General",2,1,1
+Ball State University,University of Wisconsin - Madison,Field,"Education, General",2,1,1
+Loyola University Chicago,University of Wisconsin - Madison,Field,"Education, General",5,4,1
+"Ohio State University, The",University of Wisconsin - Madison,Field,"Education, General",3,1,2
+"University of Cincinnati, The",University of Wisconsin - Madison,Field,"Education, General",2,1,1
+University of Hawaii,University of Wisconsin - Madison,Field,"Education, General",3,1,2
+University of North Carolina at Chapel Hill,University of Wisconsin - Madison,Field,"Education, General",3,1,2
+University of Pennsylvania,University of Wisconsin - Madison,Field,"Education, General",3,2,1
+University of Rochester,University of Wisconsin - Madison,Field,"Education, General",6,4,2
+"University of Utah, The",University of Wisconsin - Madison,Field,"Education, General",2,1,1
+University of Washington,University of Wisconsin - Madison,Field,"Education, General",2,1,1
+Montana State University,University of Wyoming,Field,"Education, General",2,1,1
+University of Wyoming,University of Wyoming,Field,"Education, General",2,1,1
+Clemson University,Vanderbilt University,Field,"Education, General",3,2,1
+Lehigh University,Vanderbilt University,Field,"Education, General",3,2,1
+University of North Carolina at Chapel Hill,Vanderbilt University,Field,"Education, General",6,3,3
+"University of Texas at Tyler, The",Vanderbilt University,Field,"Education, General",2,1,1
+University of Washington,Vanderbilt University,Field,"Education, General",2,1,1
+Virginia Polytechnic Institute and State University,Virginia Polytechnic Institute and State University,Field,"Education, General",12,8,3
+"Ohio State University, The",Western Michigan University,Field,"Education, General",2,1,1
+Harvard University,Yale University,Field,"Education, General",4,3,1
+"University of California, Berkeley",Yale University,Field,"Education, General",2,1,1

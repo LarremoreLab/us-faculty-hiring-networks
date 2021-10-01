@@ -1,0 +1,82 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+Florida Institute of Technology,Air Force Institute of Technology,Field,Aerospace Engineering,2,1,1
+George Washington University,California Institute of Technology,Field,Aerospace Engineering,2,1,1
+"Ohio State University, The",California Institute of Technology,Field,Aerospace Engineering,2,1,1
+Princeton University,California Institute of Technology,Field,Aerospace Engineering,4,1,3
+Purdue University,California Institute of Technology,Field,Aerospace Engineering,3,1,1
+"University of California, Los Angeles",California Institute of Technology,Field,Aerospace Engineering,5,1,4
+University of Illinois at Urbana-Champaign,California Institute of Technology,Field,Aerospace Engineering,5,2,3
+University of Southern California,California Institute of Technology,Field,Aerospace Engineering,7,1,4
+Case Western Reserve University,Case Western Reserve University,Field,Aerospace Engineering,8,3,5
+Rensselaer Polytechnic Institute,Cornell University,Field,Aerospace Engineering,2,1,1
+"University of California, Los Angeles",Cornell University,Field,Aerospace Engineering,2,1,1
+University of Michigan,Cornell University,Field,Aerospace Engineering,2,1,1
+Georgia Institute of Technology,Georgia Institute of Technology,Field,Aerospace Engineering,10,3,6
+Rensselaer Polytechnic Institute,Georgia Institute of Technology,Field,Aerospace Engineering,2,1,1
+University of Oklahoma,Georgia Institute of Technology,Field,Aerospace Engineering,3,1,1
+Illinois Institute of Technology,Illinois Institute of Technology,Field,Aerospace Engineering,4,1,3
+Kansas State University,Kansas State University,Field,Aerospace Engineering,3,1,2
+Georgia Institute of Technology,Massachusetts Institute of Technology,Field,Aerospace Engineering,5,1,4
+Massachusetts Institute of Technology,Massachusetts Institute of Technology,Field,Aerospace Engineering,31,5,25
+"Ohio State University, The",Massachusetts Institute of Technology,Field,Aerospace Engineering,3,1,2
+"Pennsylvania State University, The",Massachusetts Institute of Technology,Field,Aerospace Engineering,2,1,1
+Purdue University,Massachusetts Institute of Technology,Field,Aerospace Engineering,2,1,1
+University of Colorado Boulder,Massachusetts Institute of Technology,Field,Aerospace Engineering,5,2,3
+University of Southern California,Massachusetts Institute of Technology,Field,Aerospace Engineering,4,1,3
+University of Colorado Boulder,Michigan State University,Field,Aerospace Engineering,2,1,1
+Mississippi State University,Mississippi State University,Field,Aerospace Engineering,6,2,3
+"Ohio State University, The","Ohio State University, The",Field,Aerospace Engineering,13,2,11
+University of Dayton,"Ohio State University, The",Field,Aerospace Engineering,2,1,1
+Purdue University,"Pennsylvania State University, The",Field,Aerospace Engineering,2,1,1
+"University at Buffalo, State University of New York","Pennsylvania State University, The",Field,Aerospace Engineering,4,1,1
+University of Colorado Boulder,"Pennsylvania State University, The",Field,Aerospace Engineering,3,1,1
+Cornell University,Princeton University,Field,Aerospace Engineering,5,1,3
+George Washington University,Princeton University,Field,Aerospace Engineering,3,1,2
+"University of California, San Diego",Princeton University,Field,Aerospace Engineering,2,1,1
+Purdue University,Purdue University,Field,Aerospace Engineering,18,1,15
+University of Florida,Purdue University,Field,Aerospace Engineering,2,1,1
+"University of Texas at Austin, The",Rice University,Field,Aerospace Engineering,3,1,2
+Southern Illinois University Carbondale,Southern Illinois University Carbondale,Field,Aerospace Engineering,3,1,2
+Cornell University,Stanford University,Field,Aerospace Engineering,6,2,4
+George Washington University,Stanford University,Field,Aerospace Engineering,3,1,2
+North Carolina State University,Stanford University,Field,Aerospace Engineering,3,1,2
+Purdue University,Stanford University,Field,Aerospace Engineering,4,1,3
+"University of California, San Diego",Stanford University,Field,Aerospace Engineering,3,1,2
+University of Colorado Boulder,Stanford University,Field,Aerospace Engineering,5,1,4
+University of Florida,Stanford University,Field,Aerospace Engineering,4,1,3
+"University of Minnesota, Twin Cities",Stanford University,Field,Aerospace Engineering,4,1,2
+University of Notre Dame,Stanford University,Field,Aerospace Engineering,4,1,1
+"University of Texas at Austin, The",Stanford University,Field,Aerospace Engineering,5,1,4
+University of Virginia,Stanford University,Field,Aerospace Engineering,3,2,1
+Virginia Polytechnic Institute and State University,Stanford University,Field,Aerospace Engineering,4,1,2
+Washington University in St. Louis,Stanford University,Field,Aerospace Engineering,3,1,2
+"University of Alabama in Huntsville, The","University of Alabama in Huntsville, The",Field,Aerospace Engineering,2,1,1
+"University of California, Los Angeles","University of California, Berkeley",Field,Aerospace Engineering,3,1,1
+University of Southern California,"University of California, Berkeley",Field,Aerospace Engineering,4,1,2
+"University of California, San Diego","University of California, Davis",Field,Aerospace Engineering,2,1,1
+"University of California, San Diego","University of California, Irvine",Field,Aerospace Engineering,2,1,1
+University of Notre Dame,"University of California, Irvine",Field,Aerospace Engineering,2,1,1
+University of Texas Arlington,"University of California, Los Angeles",Field,Aerospace Engineering,2,1,1
+New Mexico State University,University of Central Florida,Field,Aerospace Engineering,2,1,1
+University of Colorado Boulder,University of Colorado Boulder,Field,Aerospace Engineering,11,1,10
+University of Dayton,University of Dayton,Field,Aerospace Engineering,2,1,1
+Florida Institute of Technology,University of Florida,Field,Aerospace Engineering,2,1,1
+Missouri University of Science and Technology,University of Illinois at Urbana-Champaign,Field,Aerospace Engineering,4,1,3
+University of Illinois at Urbana-Champaign,University of Illinois at Urbana-Champaign,Field,Aerospace Engineering,3,1,1
+University of Miami,University of Illinois at Urbana-Champaign,Field,Aerospace Engineering,2,1,1
+"University of Kansas, The","University of Kansas, The",Field,Aerospace Engineering,4,1,3
+North Carolina State University,University of Michigan,Field,Aerospace Engineering,4,1,2
+Rensselaer Polytechnic Institute,University of Michigan,Field,Aerospace Engineering,5,1,2
+Rutgers - New Brunswick,University of Michigan,Field,Aerospace Engineering,3,2,1
+University of Michigan,University of Michigan,Field,Aerospace Engineering,3,1,2
+Western Michigan University,University of Michigan,Field,Aerospace Engineering,5,3,2
+Missouri University of Science and Technology,"University of Minnesota, Twin Cities",Field,Aerospace Engineering,4,1,1
+"University of North Dakota, The","University of North Dakota, The",Field,Aerospace Engineering,2,1,1
+University of Notre Dame,University of Notre Dame,Field,Aerospace Engineering,5,1,3
+Cornell University,University of Pennsylvania,Field,Aerospace Engineering,3,2,1
+University of Southern California,University of Southern California,Field,Aerospace Engineering,6,2,3
+"University of Tennessee, The","University of Tennessee, The",Field,Aerospace Engineering,12,1,10
+University of Virginia,University of Virginia,Field,Aerospace Engineering,10,1,9
+Texas A&M University,Virginia Polytechnic Institute and State University,Field,Aerospace Engineering,6,1,5
+West Virginia University,Virginia Polytechnic Institute and State University,Field,Aerospace Engineering,2,1,1
+Wichita State University,Wichita State University,Field,Aerospace Engineering,4,1,2

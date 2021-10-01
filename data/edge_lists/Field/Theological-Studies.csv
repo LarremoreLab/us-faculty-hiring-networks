@@ -1,0 +1,117 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+Andrews University,Andrews University,Field,Theological Studies,25,1,22
+Biola University,Biola University,Field,Theological Studies,10,3,3
+Boston College,Boston College,Field,Theological Studies,5,1,2
+Duquesne University,Boston College,Field,Theological Studies,4,2,2
+Graduate Theological Union,Boston College,Field,Theological Studies,4,1,2
+Loyola University Chicago,Boston College,Field,Theological Studies,3,2,1
+Marquette University,Boston College,Field,Theological Studies,2,1,1
+Calvin Theological Seminary,Calvin Theological Seminary,Field,Theological Studies,3,2,1
+Ave Maria University,"Catholic University of America, The",Field,Theological Studies,4,1,3
+"Catholic University of America, The","Catholic University of America, The",Field,Theological Studies,6,2,4
+Marquette University,"Catholic University of America, The",Field,Theological Studies,2,1,1
+Brite Divinity School,Claremont Graduate University,Field,Theological Studies,2,1,1
+Claremont School of Theology,Claremont Graduate University,Field,Theological Studies,2,1,1
+Claremont School of Theology,Claremont School of Theology,Field,Theological Studies,2,1,1
+Yale University,Claremont School of Theology,Field,Theological Studies,2,1,1
+"Catholic University of America, The",Columbia University,Field,Theological Studies,2,1,1
+Duke University,Columbia University,Field,Theological Studies,2,1,1
+Graduate Theological Union,Columbia University,Field,Theological Studies,3,2,1
+Drew University,Drew University,Field,Theological Studies,6,2,4
+Graduate Theological Union,Drew University,Field,Theological Studies,3,2,1
+Duke University,Duke University,Field,Theological Studies,11,4,4
+Fuller Theological Seminary,Duke University,Field,Theological Studies,7,1,3
+Georgetown University,Duke University,Field,Theological Studies,2,1,1
+Princeton Theological Seminary,Duke University,Field,Theological Studies,4,1,2
+Vanderbilt University,Duke University,Field,Theological Studies,5,1,3
+Yale University,Duke University,Field,Theological Studies,2,1,1
+Asbury Theological Seminary,Emory University,Field,Theological Studies,2,1,1
+Emory University,Emory University,Field,Theological Studies,5,2,3
+Lutheran School of Theology at Chicago,Emory University,Field,Theological Studies,2,1,1
+Princeton Theological Seminary,Emory University,Field,Theological Studies,4,1,3
+Wake Forest University,Emory University,Field,Theological Studies,6,5,1
+Biola University,Fuller Theological Seminary,Field,Theological Studies,8,2,6
+Fuller Theological Seminary,Fuller Theological Seminary,Field,Theological Studies,17,3,12
+Claremont School of Theology,Graduate Theological Union,Field,Theological Studies,3,1,2
+Graduate Theological Union,Graduate Theological Union,Field,Theological Studies,11,3,7
+Boston College,Harvard University,Field,Theological Studies,10,1,7
+Claremont School of Theology,Harvard University,Field,Theological Studies,3,1,2
+Duke University,Harvard University,Field,Theological Studies,2,1,1
+Emory University,Harvard University,Field,Theological Studies,5,2,3
+Fordham University,Harvard University,Field,Theological Studies,5,2,3
+Graduate Theological Union,Harvard University,Field,Theological Studies,2,1,1
+Harvard University,Harvard University,Field,Theological Studies,12,5,7
+Princeton Theological Seminary,Harvard University,Field,Theological Studies,4,2,2
+Yale University,Harvard University,Field,Theological Studies,5,1,4
+Loyola University Chicago,Loyola University Chicago,Field,Theological Studies,2,1,1
+Maharishi University of Management,Maharishi University of Management,Field,Theological Studies,5,2,3
+Loyola University Chicago,Marquette University,Field,Theological Studies,2,1,1
+Marquette University,Marquette University,Field,Theological Studies,6,1,5
+New Orleans Baptist Theological Seminary,New Orleans Baptist Theological Seminary,Field,Theological Studies,52,9,35
+Southwestern Baptist Theological Seminary,New Orleans Baptist Theological Seminary,Field,Theological Studies,3,1,2
+Brite Divinity School,Princeton Theological Seminary,Field,Theological Studies,2,1,1
+Drew University,Princeton Theological Seminary,Field,Theological Studies,4,2,2
+Duke University,Princeton Theological Seminary,Field,Theological Studies,3,2,1
+Emory University,Princeton Theological Seminary,Field,Theological Studies,5,1,4
+Princeton Theological Seminary,Princeton Theological Seminary,Field,Theological Studies,10,4,6
+Saint Louis University,Princeton Theological Seminary,Field,Theological Studies,2,1,1
+Southern Methodist University,Princeton Theological Seminary,Field,Theological Studies,3,2,1
+Yale University,Princeton Theological Seminary,Field,Theological Studies,2,1,1
+Princeton Theological Seminary,Princeton University,Field,Theological Studies,2,1,1
+Yale University,Princeton University,Field,Theological Studies,3,2,1
+Regent University,Regent University,Field,Theological Studies,2,1,1
+Southeastern Baptist Theological Seminary,Southeastern Baptist Theological Seminary,Field,Theological Studies,18,1,15
+Southern Methodist University,Southern Methodist University,Field,Theological Studies,5,1,4
+Southwestern Baptist Theological Seminary,Southwestern Baptist Theological Seminary,Field,Theological Studies,43,7,31
+Harvard University,Stanford University,Field,Theological Studies,2,1,1
+Saint Louis University,Stanford University,Field,Theological Studies,2,1,1
+Chicago Theological Seminary,Union Theological Seminary in the City of New York,Field,Theological Studies,2,1,1
+Emory University,Union Theological Seminary in the City of New York,Field,Theological Studies,2,1,1
+Graduate Theological Union,Union Theological Seminary in the City of New York,Field,Theological Studies,2,1,1
+Princeton Theological Seminary,Union Theological Seminary in the City of New York,Field,Theological Studies,3,2,1
+Union Theological Seminary in the City of New York,Union Theological Seminary in the City of New York,Field,Theological Studies,2,1,1
+Andrews University,"University of California, Berkeley",Field,Theological Studies,2,1,1
+Graduate Theological Union,"University of California, Berkeley",Field,Theological Studies,3,1,2
+Boston College,"University of Chicago, The",Field,Theological Studies,5,1,3
+Boston University,"University of Chicago, The",Field,Theological Studies,3,1,1
+Chicago Theological Seminary,"University of Chicago, The",Field,Theological Studies,4,1,2
+Emory University,"University of Chicago, The",Field,Theological Studies,3,1,2
+Fordham University,"University of Chicago, The",Field,Theological Studies,5,3,2
+Georgetown University,"University of Chicago, The",Field,Theological Studies,7,3,4
+Harvard University,"University of Chicago, The",Field,Theological Studies,3,1,2
+Loyola University Chicago,"University of Chicago, The",Field,Theological Studies,14,9,5
+Saint Louis University,"University of Chicago, The",Field,Theological Studies,2,1,1
+Vanderbilt University,"University of Chicago, The",Field,Theological Studies,3,1,2
+Asbury Theological Seminary,University of Kentucky,Field,Theological Studies,5,2,3
+New Orleans Baptist Theological Seminary,"University of New Orleans, The",Field,Theological Studies,3,2,1
+Dallas Theological Seminary,University of North Texas,Field,Theological Studies,5,1,2
+Southwestern Baptist Theological Seminary,University of North Texas,Field,Theological Studies,3,2,1
+Andrews University,University of Notre Dame,Field,Theological Studies,3,1,2
+Boston College,University of Notre Dame,Field,Theological Studies,8,1,6
+Graduate Theological Union,University of Notre Dame,Field,Theological Studies,3,1,2
+Loyola University Chicago,University of Notre Dame,Field,Theological Studies,3,1,2
+Marquette University,University of Notre Dame,Field,Theological Studies,7,2,5
+University of Notre Dame,University of Notre Dame,Field,Theological Studies,5,2,3
+Yale University,University of Notre Dame,Field,Theological Studies,3,1,2
+Fuller Theological Seminary,University of Southern California,Field,Theological Studies,3,1,2
+Dallas Theological Seminary,"University of Texas at Dallas, The",Field,Theological Studies,3,1,1
+Graduate Theological Union,University of Wisconsin - Madison,Field,Theological Studies,2,1,1
+Boston University,Vanderbilt University,Field,Theological Studies,2,1,1
+Brite Divinity School,Vanderbilt University,Field,Theological Studies,7,3,3
+Chicago Theological Seminary,Vanderbilt University,Field,Theological Studies,4,2,2
+Emory University,Vanderbilt University,Field,Theological Studies,3,2,1
+Fordham University,Vanderbilt University,Field,Theological Studies,2,1,1
+Graduate Theological Union,Vanderbilt University,Field,Theological Studies,2,1,1
+Southern Methodist University,Vanderbilt University,Field,Theological Studies,2,1,1
+Vanderbilt University,Vanderbilt University,Field,Theological Studies,9,2,6
+Boston College,Yale University,Field,Theological Studies,4,2,2
+Boston University,Yale University,Field,Theological Studies,2,1,1
+Duke University,Yale University,Field,Theological Studies,5,2,2
+Fordham University,Yale University,Field,Theological Studies,4,2,2
+Fuller Theological Seminary,Yale University,Field,Theological Studies,3,2,1
+Graduate Theological Union,Yale University,Field,Theological Studies,4,1,3
+Harvard University,Yale University,Field,Theological Studies,2,1,1
+Southern Methodist University,Yale University,Field,Theological Studies,4,1,3
+Union Theological Seminary in the City of New York,Yale University,Field,Theological Studies,3,2,1
+University of Notre Dame,Yale University,Field,Theological Studies,13,4,9
+Yale University,Yale University,Field,Theological Studies,9,4,5

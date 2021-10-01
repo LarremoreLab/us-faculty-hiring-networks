@@ -1,0 +1,223 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+"Pennsylvania State University, The",Boston College,Field,Philosophy,2,1,1
+Villanova University,Boston College,Field,Philosophy,3,1,2
+Boston University,Boston University,Field,Philosophy,4,2,2
+Old Dominion University,Boston University,Field,Philosophy,2,1,1
+University of Louisville,Boston University,Field,Philosophy,2,1,1
+Northwestern University,Brown University,Field,Philosophy,2,1,1
+"University at Buffalo, State University of New York",Brown University,Field,Philosophy,3,2,1
+University of Colorado Boulder,Brown University,Field,Philosophy,2,1,1
+"University of North Carolina at Greensboro, The",Brown University,Field,Philosophy,2,1,1
+Case Western Reserve University,Case Western Reserve University,Field,Philosophy,4,1,3
+Brooklyn College (CUNY),"City University of New York, The",Field,Philosophy,3,1,2
+Arizona State University,Columbia University,Field,Philosophy,3,2,1
+Boston University,Columbia University,Field,Philosophy,3,1,2
+"College of William & Mary, The",Columbia University,Field,Philosophy,2,1,1
+New York University,Columbia University,Field,Philosophy,2,1,1
+"University of California, Irvine",Columbia University,Field,Philosophy,2,1,1
+"College of William & Mary, The",Cornell University,Field,Philosophy,3,2,1
+Harvard University,Cornell University,Field,Philosophy,2,1,1
+University of Notre Dame,Cornell University,Field,Philosophy,2,1,1
+University of Southern California,Cornell University,Field,Philosophy,3,1,2
+University of Wisconsin - Madison,Cornell University,Field,Philosophy,2,1,1
+Kent State University,Emory University,Field,Philosophy,2,1,1
+Arizona State University,Harvard University,Field,Philosophy,3,1,1
+Baruch College (CUNY),Harvard University,Field,Philosophy,2,1,1
+Boston University,Harvard University,Field,Philosophy,13,4,8
+Cornell University,Harvard University,Field,Philosophy,3,1,2
+Georgetown University,Harvard University,Field,Philosophy,3,1,2
+Harvard University,Harvard University,Field,Philosophy,4,1,3
+Indiana University - Bloomington,Harvard University,Field,Philosophy,3,1,2
+Johns Hopkins University,Harvard University,Field,Philosophy,3,1,2
+Massachusetts Institute of Technology,Harvard University,Field,Philosophy,2,1,1
+New York University,Harvard University,Field,Philosophy,4,1,2
+Ohio University,Harvard University,Field,Philosophy,2,1,1
+"Stony Brook University, State University of New York",Harvard University,Field,Philosophy,2,1,1
+Temple University,Harvard University,Field,Philosophy,2,1,1
+Tufts University,Harvard University,Field,Philosophy,3,2,1
+"University of Arizona, The",Harvard University,Field,Philosophy,2,1,1
+"University of California, Berkeley",Harvard University,Field,Philosophy,6,2,3
+"University of California, Los Angeles",Harvard University,Field,Philosophy,5,3,2
+"University of California, Riverside",Harvard University,Field,Philosophy,3,1,2
+"University of Chicago, The",Harvard University,Field,Philosophy,5,1,4
+University of Illinois at Chicago,Harvard University,Field,Philosophy,3,1,2
+"University of Maryland, College Park",Harvard University,Field,Philosophy,2,1,1
+University of Massachusetts Amherst,Harvard University,Field,Philosophy,2,1,1
+"University of Minnesota, Twin Cities",Harvard University,Field,Philosophy,2,1,1
+University of Pennsylvania,Harvard University,Field,Philosophy,10,2,7
+University of Wisconsin - Madison,Harvard University,Field,Philosophy,2,1,1
+Utah State University,Harvard University,Field,Philosophy,2,1,1
+Yale University,Harvard University,Field,Philosophy,4,2,2
+Arizona State University,Indiana University - Bloomington,Field,Philosophy,3,2,1
+Ball State University,Indiana University - Bloomington,Field,Philosophy,3,1,1
+"College of William & Mary, The",Johns Hopkins University,Field,Philosophy,3,1,2
+Villanova University,Marquette University,Field,Philosophy,2,1,1
+Brown University,Massachusetts Institute of Technology,Field,Philosophy,2,1,1
+Cornell University,Massachusetts Institute of Technology,Field,Philosophy,3,1,2
+Dartmouth College,Massachusetts Institute of Technology,Field,Philosophy,2,1,1
+Harvard University,Massachusetts Institute of Technology,Field,Philosophy,5,2,2
+Massachusetts Institute of Technology,Massachusetts Institute of Technology,Field,Philosophy,9,2,6
+Princeton University,Massachusetts Institute of Technology,Field,Philosophy,4,3,1
+University of Massachusetts Amherst,Massachusetts Institute of Technology,Field,Philosophy,2,1,1
+University of Michigan,Massachusetts Institute of Technology,Field,Philosophy,4,2,2
+"University of Missouri - Kansas City, The",Massachusetts Institute of Technology,Field,Philosophy,2,1,1
+University of Southern California,Massachusetts Institute of Technology,Field,Philosophy,3,1,2
+"Stony Brook University, State University of New York","New School, The",Field,Philosophy,2,1,1
+Vanderbilt University,"New School, The",Field,Philosophy,2,1,1
+Drexel University,New York University,Field,Philosophy,2,1,1
+"University of Alabama at Birmingham, The",New York University,Field,Philosophy,2,1,1
+University of Pennsylvania,New York University,Field,Philosophy,2,1,1
+University of Pittsburgh,New York University,Field,Philosophy,3,1,2
+DePaul University,Northwestern University,Field,Philosophy,2,1,1
+"Stony Brook University, State University of New York",Northwestern University,Field,Philosophy,2,1,1
+University of Colorado Boulder,Northwestern University,Field,Philosophy,3,1,2
+University of Pennsylvania,Northwestern University,Field,Philosophy,2,1,1
+Vanderbilt University,Northwestern University,Field,Philosophy,2,1,1
+Arizona State University,Princeton University,Field,Philosophy,3,1,1
+Bowling Green State University,Princeton University,Field,Philosophy,2,1,1
+Columbia University,Princeton University,Field,Philosophy,5,3,2
+Duke University,Princeton University,Field,Philosophy,2,1,1
+Georgetown University,Princeton University,Field,Philosophy,2,1,1
+New York University,Princeton University,Field,Philosophy,7,2,4
+"Ohio State University, The",Princeton University,Field,Philosophy,3,1,2
+Princeton University,Princeton University,Field,Philosophy,5,1,4
+University of Colorado Boulder,Princeton University,Field,Philosophy,4,1,3
+University of Massachusetts Amherst,Princeton University,Field,Philosophy,2,1,1
+University of Nebraska - Lincoln,Princeton University,Field,Philosophy,2,1,1
+University of Pennsylvania,Princeton University,Field,Philosophy,2,1,1
+University of Pittsburgh,Princeton University,Field,Philosophy,5,1,4
+Virginia Polytechnic Institute and State University,Princeton University,Field,Philosophy,3,1,2
+Washington University in St. Louis,Princeton University,Field,Philosophy,2,1,1
+Yale University,Princeton University,Field,Philosophy,2,1,1
+Utah State University,Purdue University,Field,Philosophy,3,2,1
+Cornell University,Rutgers - New Brunswick,Field,Philosophy,2,1,1
+Northern Illinois University,Rutgers - New Brunswick,Field,Philosophy,2,1,1
+Rutgers - New Brunswick,Rutgers - New Brunswick,Field,Philosophy,2,1,1
+"University of California, San Diego",Rutgers - New Brunswick,Field,Philosophy,3,1,2
+University of Colorado Boulder,Rutgers - New Brunswick,Field,Philosophy,2,1,1
+University of Massachusetts Amherst,Rutgers - New Brunswick,Field,Philosophy,2,1,1
+University of Oklahoma,Rutgers - New Brunswick,Field,Philosophy,3,1,2
+University of Pennsylvania,Rutgers - New Brunswick,Field,Philosophy,2,1,1
+University of Southern California,Rutgers - New Brunswick,Field,Philosophy,3,1,2
+"University of North Dakota, The",Southern Illinois University Carbondale,Field,Philosophy,2,1,1
+University of Notre Dame,Stanford University,Field,Philosophy,2,1,1
+Emory University,"Stony Brook University, State University of New York",Field,Philosophy,2,1,1
+John Jay College of Criminal Justice (CUNY),"Stony Brook University, State University of New York",Field,Philosophy,2,1,1
+Michigan State University,"Stony Brook University, State University of New York",Field,Philosophy,3,1,2
+"Pennsylvania State University, The","Stony Brook University, State University of New York",Field,Philosophy,2,1,1
+University of Connecticut,Syracuse University,Field,Philosophy,3,1,2
+Drexel University,Temple University,Field,Philosophy,4,1,3
+University of Louisiana at Lafayette,Tulane University,Field,Philosophy,2,1,1
+"University of Southern Mississippi, The",Tulane University,Field,Philosophy,2,1,1
+Arizona State University,"University of Arizona, The",Field,Philosophy,2,1,1
+"Binghamton University, State University of New York","University of Arizona, The",Field,Philosophy,2,1,1
+"College of William & Mary, The","University of Arizona, The",Field,Philosophy,2,1,1
+University of Notre Dame,"University of Arizona, The",Field,Philosophy,2,1,1
+Brandeis University,"University of California, Berkeley",Field,Philosophy,2,1,1
+Columbia University,"University of California, Berkeley",Field,Philosophy,3,2,1
+Massachusetts Institute of Technology,"University of California, Berkeley",Field,Philosophy,3,1,2
+Stanford University,"University of California, Berkeley",Field,Philosophy,2,1,1
+Syracuse University,"University of California, Berkeley",Field,Philosophy,4,1,3
+"University of California, Santa Cruz","University of California, Berkeley",Field,Philosophy,2,1,1
+"University of Chicago, The","University of California, Berkeley",Field,Philosophy,2,1,1
+University of Pennsylvania,"University of California, Berkeley",Field,Philosophy,2,1,1
+University of Pittsburgh,"University of California, Berkeley",Field,Philosophy,3,1,2
+"College of William & Mary, The","University of California, Davis",Field,Philosophy,2,1,1
+Kansas State University,"University of California, Irvine",Field,Philosophy,2,1,1
+"University of California, Irvine","University of California, Irvine",Field,Philosophy,2,1,1
+University of Miami,"University of California, Irvine",Field,Philosophy,2,1,1
+"University of Utah, The","University of California, Irvine",Field,Philosophy,2,1,1
+Claremont Graduate University,"University of California, Los Angeles",Field,Philosophy,3,2,1
+"College of William & Mary, The","University of California, Los Angeles",Field,Philosophy,2,1,1
+Cornell University,"University of California, Los Angeles",Field,Philosophy,2,1,1
+"Ohio State University, The","University of California, Los Angeles",Field,Philosophy,2,1,1
+"University of California, San Diego","University of California, Los Angeles",Field,Philosophy,2,1,1
+University of Connecticut,"University of California, Los Angeles",Field,Philosophy,2,1,1
+"University of Kansas, The","University of California, Los Angeles",Field,Philosophy,2,1,1
+University of North Carolina at Chapel Hill,"University of California, Los Angeles",Field,Philosophy,3,1,2
+University of Pennsylvania,"University of California, Los Angeles",Field,Philosophy,2,1,1
+"University of Tennessee, The","University of California, Los Angeles",Field,Philosophy,2,1,1
+"University of Texas at Austin, The","University of California, Los Angeles",Field,Philosophy,3,1,2
+Claremont Graduate University,"University of California, San Diego",Field,Philosophy,2,1,1
+Florida International University,"University of California, San Diego",Field,Philosophy,2,1,1
+Loyola University Chicago,"University of California, San Diego",Field,Philosophy,3,2,1
+"University of Kansas, The","University of California, San Diego",Field,Philosophy,2,1,1
+"University of Maryland, Baltimore County","University of California, San Diego",Field,Philosophy,2,1,1
+"University of New Mexico, The","University of California, San Diego",Field,Philosophy,2,1,1
+Washington University in St. Louis,"University of California, San Diego",Field,Philosophy,2,1,1
+Arizona State University,"University of Chicago, The",Field,Philosophy,6,2,4
+Auburn University,"University of Chicago, The",Field,Philosophy,3,1,2
+Clemson University,"University of Chicago, The",Field,Philosophy,2,1,1
+Columbia University,"University of Chicago, The",Field,Philosophy,3,1,2
+Northwestern University,"University of Chicago, The",Field,Philosophy,2,1,1
+University of Illinois at Chicago,"University of Chicago, The",Field,Philosophy,5,2,3
+Marquette University,University of Colorado Boulder,Field,Philosophy,2,1,1
+University of Colorado Boulder,University of Colorado Boulder,Field,Philosophy,4,2,2
+"College of William & Mary, The",University of Connecticut,Field,Philosophy,2,1,1
+University of Dallas,University of Dallas,Field,Philosophy,2,1,1
+Iowa State University,University of Florida,Field,Philosophy,2,1,1
+"College of William & Mary, The",University of Georgia,Field,Philosophy,2,1,1
+Arizona State University,University of Illinois at Urbana-Champaign,Field,Philosophy,3,1,2
+Utah State University,"University of Iowa, The",Field,Philosophy,3,1,1
+Claremont Graduate University,University of Michigan,Field,Philosophy,3,1,2
+Colorado State University,University of Michigan,Field,Philosophy,4,1,3
+Montana State University,University of Michigan,Field,Philosophy,2,1,1
+"Ohio State University, The",University of Michigan,Field,Philosophy,2,1,1
+Stanford University,University of Michigan,Field,Philosophy,2,1,1
+"University of Arizona, The",University of Michigan,Field,Philosophy,2,1,1
+University of Pennsylvania,University of Michigan,Field,Philosophy,2,1,1
+University of Wisconsin - Milwaukee,University of Michigan,Field,Philosophy,3,1,2
+Fordham University,"University of Minnesota, Twin Cities",Field,Philosophy,2,1,1
+Mississippi State University,"University of Minnesota, Twin Cities",Field,Philosophy,2,1,1
+Georgetown University,University of North Carolina at Chapel Hill,Field,Philosophy,2,1,1
+University of Missouri,University of North Carolina at Chapel Hill,Field,Philosophy,2,1,1
+Boston University,University of Notre Dame,Field,Philosophy,2,1,1
+Kansas State University,University of Notre Dame,Field,Philosophy,2,1,1
+University of Notre Dame,University of Notre Dame,Field,Philosophy,3,1,2
+University of Virginia,University of Notre Dame,Field,Philosophy,2,1,1
+Arizona State University,University of Pennsylvania,Field,Philosophy,3,2,1
+Boston University,University of Pennsylvania,Field,Philosophy,2,1,1
+Massachusetts Institute of Technology,University of Pennsylvania,Field,Philosophy,3,1,2
+Texas State University,University of Pennsylvania,Field,Philosophy,2,1,1
+University of Pennsylvania,University of Pennsylvania,Field,Philosophy,7,3,4
+Virginia Polytechnic Institute and State University,University of Pennsylvania,Field,Philosophy,2,1,1
+Georgetown University,University of Pittsburgh,Field,Philosophy,5,2,3
+Purdue University,University of Pittsburgh,Field,Philosophy,3,1,2
+Rutgers - New Brunswick,University of Pittsburgh,Field,Philosophy,2,1,1
+Syracuse University,University of Pittsburgh,Field,Philosophy,3,1,1
+"University of California, Irvine",University of Pittsburgh,Field,Philosophy,3,1,2
+"University of Chicago, The",University of Pittsburgh,Field,Philosophy,8,1,7
+University of Connecticut,University of Pittsburgh,Field,Philosophy,4,1,3
+University of Illinois at Urbana-Champaign,University of Pittsburgh,Field,Philosophy,2,1,1
+"University of Kansas, The",University of Pittsburgh,Field,Philosophy,2,1,1
+University of Michigan,University of Pittsburgh,Field,Philosophy,3,1,2
+"University of Montana, Missoula",University of Pittsburgh,Field,Philosophy,3,1,2
+University of New Hampshire,University of Pittsburgh,Field,Philosophy,2,1,1
+University of Pittsburgh,University of Pittsburgh,Field,Philosophy,2,1,1
+University of South Carolina,University of Pittsburgh,Field,Philosophy,3,2,1
+"University of Utah, The",University of Pittsburgh,Field,Philosophy,3,1,2
+Georgia State University,"University of Texas at Austin, The",Field,Philosophy,2,1,1
+"University of Tennessee, The","University of Texas at Austin, The",Field,Philosophy,2,1,1
+Montana State University,"University of Utah, The",Field,Philosophy,2,1,1
+"College of William & Mary, The",University of Virginia,Field,Philosophy,3,2,1
+"College of William & Mary, The",University of Washington,Field,Philosophy,5,1,3
+University of Washington,University of Washington,Field,Philosophy,5,4,1
+Utah State University,University of Washington,Field,Philosophy,3,1,2
+Arizona State University,University of Wisconsin - Madison,Field,Philosophy,3,1,2
+"College of William & Mary, The",University of Wisconsin - Madison,Field,Philosophy,8,1,6
+Northeastern University,University of Wisconsin - Madison,Field,Philosophy,4,1,3
+University of Connecticut,University of Wisconsin - Madison,Field,Philosophy,2,1,1
+University of Missouri,University of Wisconsin - Madison,Field,Philosophy,2,1,1
+University of North Carolina Charlotte,Vanderbilt University,Field,Philosophy,4,1,2
+George Washington University,Yale University,Field,Philosophy,2,1,1
+Loyola University Chicago,Yale University,Field,Philosophy,2,1,1
+Montana State University,Yale University,Field,Philosophy,2,1,1
+Purdue University,Yale University,Field,Philosophy,3,2,1
+Rice University,Yale University,Field,Philosophy,2,1,1
+"University of California, Santa Cruz",Yale University,Field,Philosophy,3,1,2
+University of Georgia,Yale University,Field,Philosophy,2,1,1
+University of Kentucky,Yale University,Field,Philosophy,2,1,1
+University of Louisville,Yale University,Field,Philosophy,2,1,1
+University of Michigan,Yale University,Field,Philosophy,4,2,2
+University of Pennsylvania,Yale University,Field,Philosophy,4,2,2
+"University of Texas at Austin, The",Yale University,Field,Philosophy,3,1,2

@@ -1,0 +1,303 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+Arizona State University,Arizona State University,Field,Computer Science,6,1,3
+Syracuse University,Arizona State University,Field,Computer Science,3,1,1
+Indiana University - Bloomington,"Binghamton University, State University of New York",Field,Computer Science,3,1,2
+Brandeis University,Brown University,Field,Computer Science,2,1,1
+University of Illinois at Chicago,Brown University,Field,Computer Science,2,1,1
+Carnegie Mellon University,Carnegie Mellon University,Field,Computer Science,14,3,10
+Columbia University,Carnegie Mellon University,Field,Computer Science,3,1,1
+Drexel University,Carnegie Mellon University,Field,Computer Science,2,1,1
+Georgia Institute of Technology,Carnegie Mellon University,Field,Computer Science,5,1,3
+Massachusetts Institute of Technology,Carnegie Mellon University,Field,Computer Science,5,1,4
+Northeastern University,Carnegie Mellon University,Field,Computer Science,2,1,1
+Northwestern University,Carnegie Mellon University,Field,Computer Science,4,1,2
+Oregon State University,Carnegie Mellon University,Field,Computer Science,5,2,2
+Princeton University,Carnegie Mellon University,Field,Computer Science,3,1,2
+Stanford University,Carnegie Mellon University,Field,Computer Science,7,2,5
+"Stony Brook University, State University of New York",Carnegie Mellon University,Field,Computer Science,6,1,3
+University of Central Florida,Carnegie Mellon University,Field,Computer Science,2,1,1
+University of Connecticut,Carnegie Mellon University,Field,Computer Science,2,1,1
+"University of Maryland, College Park",Carnegie Mellon University,Field,Computer Science,2,1,1
+University of Michigan,Carnegie Mellon University,Field,Computer Science,8,1,7
+"University of Minnesota, Twin Cities",Carnegie Mellon University,Field,Computer Science,5,2,1
+University of North Carolina Charlotte,Carnegie Mellon University,Field,Computer Science,3,1,2
+University of Southern California,Carnegie Mellon University,Field,Computer Science,13,1,10
+University of Washington,Carnegie Mellon University,Field,Computer Science,7,1,6
+University of Wisconsin - Madison,Carnegie Mellon University,Field,Computer Science,7,1,5
+City College (CUNY),"City University of New York, The",Field,Computer Science,4,1,3
+George Mason University,"College of William & Mary, The",Field,Computer Science,3,1,1
+Utah State University,Colorado State University,Field,Computer Science,2,1,1
+Rutgers  - Newark,Columbia University,Field,Computer Science,3,1,1
+"University of California, Irvine",Columbia University,Field,Computer Science,2,1,1
+University of Pennsylvania,Columbia University,Field,Computer Science,2,1,1
+Yale University,Columbia University,Field,Computer Science,3,1,2
+Dartmouth College,Cornell University,Field,Computer Science,2,1,1
+Emory University,Cornell University,Field,Computer Science,3,1,1
+Harvard University,Cornell University,Field,Computer Science,2,1,1
+Indiana University - Bloomington,Cornell University,Field,Computer Science,2,1,1
+Lehman College (CUNY),Cornell University,Field,Computer Science,3,1,2
+"Stony Brook University, State University of New York",Cornell University,Field,Computer Science,3,1,1
+University of Central Florida,Cornell University,Field,Computer Science,2,1,1
+"University of Chicago, The",Cornell University,Field,Computer Science,3,1,2
+University of Colorado Boulder,Cornell University,Field,Computer Science,3,1,1
+University of Pennsylvania,Cornell University,Field,Computer Science,3,1,2
+"University of Texas at Austin, The",Cornell University,Field,Computer Science,4,1,1
+University of Washington,Cornell University,Field,Computer Science,2,1,1
+University of Wisconsin - Madison,Cornell University,Field,Computer Science,4,1,3
+Yale University,Cornell University,Field,Computer Science,3,2,1
+Drexel University,Drexel University,Field,Computer Science,2,1,1
+Florida A&M University,Florida A&M University,Field,Computer Science,2,1,1
+Florida Atlantic University,Florida Atlantic University,Field,Computer Science,4,1,1
+Florida International University,Florida International University,Field,Computer Science,2,1,1
+Florida A&M University,Florida State University,Field,Computer Science,16,5,9
+"Catholic University of America, The",George Washington University,Field,Computer Science,3,1,1
+Howard University,George Washington University,Field,Computer Science,3,1,1
+Clemson University,Georgia Institute of Technology,Field,Computer Science,5,3,2
+Georgia Institute of Technology,Georgia Institute of Technology,Field,Computer Science,3,2,1
+Texas A&M University,Georgia Institute of Technology,Field,Computer Science,5,1,2
+University of Central Florida,Georgia Institute of Technology,Field,Computer Science,3,1,1
+University of Georgia,Georgia Institute of Technology,Field,Computer Science,4,2,1
+"University of Maryland, Baltimore County",Georgia Institute of Technology,Field,Computer Science,2,1,1
+University of North Carolina Charlotte,Georgia Institute of Technology,Field,Computer Science,6,1,4
+Virginia Polytechnic Institute and State University,Georgia Institute of Technology,Field,Computer Science,6,1,5
+Wright State University,Georgia Institute of Technology,Field,Computer Science,3,1,1
+Cornell University,Harvard University,Field,Computer Science,2,1,1
+Drexel University,Harvard University,Field,Computer Science,2,1,1
+Northeastern University,Harvard University,Field,Computer Science,6,1,5
+University of Massachusetts Boston,Harvard University,Field,Computer Science,2,1,1
+Indiana University - Bloomington,Indiana University - Bloomington,Field,Computer Science,8,2,5
+Worcester Polytechnic Institute,Indiana University - Bloomington,Field,Computer Science,2,1,1
+Kansas State University,Iowa State University,Field,Computer Science,4,2,2
+Purdue University,Iowa State University,Field,Computer Science,3,1,2
+University of North Texas,Iowa State University,Field,Computer Science,3,1,2
+Northeastern University,Johns Hopkins University,Field,Computer Science,3,1,2
+Purdue University,Johns Hopkins University,Field,Computer Science,2,1,1
+Kent State University,Kent State University,Field,Computer Science,3,2,1
+"University of Akron, The",Kent State University,Field,Computer Science,3,1,2
+Boston University,Massachusetts Institute of Technology,Field,Computer Science,7,3,4
+Brown University,Massachusetts Institute of Technology,Field,Computer Science,9,2,7
+Carnegie Mellon University,Massachusetts Institute of Technology,Field,Computer Science,21,5,15
+Clemson University,Massachusetts Institute of Technology,Field,Computer Science,4,1,2
+Columbia University,Massachusetts Institute of Technology,Field,Computer Science,6,1,4
+Cornell University,Massachusetts Institute of Technology,Field,Computer Science,7,2,5
+Dartmouth College,Massachusetts Institute of Technology,Field,Computer Science,3,1,2
+Harvard University,Massachusetts Institute of Technology,Field,Computer Science,7,1,5
+Indiana University - Bloomington,Massachusetts Institute of Technology,Field,Computer Science,3,1,2
+Massachusetts Institute of Technology,Massachusetts Institute of Technology,Field,Computer Science,59,7,52
+New York University,Massachusetts Institute of Technology,Field,Computer Science,7,1,5
+Northeastern University,Massachusetts Institute of Technology,Field,Computer Science,9,1,7
+Northwestern University,Massachusetts Institute of Technology,Field,Computer Science,8,1,6
+"Pennsylvania State University, The",Massachusetts Institute of Technology,Field,Computer Science,3,1,2
+Princeton University,Massachusetts Institute of Technology,Field,Computer Science,5,2,2
+Purdue University,Massachusetts Institute of Technology,Field,Computer Science,4,1,3
+"University of California, Berkeley",Massachusetts Institute of Technology,Field,Computer Science,16,2,13
+"University of California, Los Angeles",Massachusetts Institute of Technology,Field,Computer Science,4,1,3
+"University of California, San Diego",Massachusetts Institute of Technology,Field,Computer Science,8,2,6
+University of Colorado Boulder,Massachusetts Institute of Technology,Field,Computer Science,3,1,1
+University of Illinois at Chicago,Massachusetts Institute of Technology,Field,Computer Science,4,1,2
+University of Illinois at Urbana-Champaign,Massachusetts Institute of Technology,Field,Computer Science,6,1,3
+"University of Maryland, College Park",Massachusetts Institute of Technology,Field,Computer Science,3,1,2
+University of Massachusetts Lowell,Massachusetts Institute of Technology,Field,Computer Science,3,2,1
+University of Michigan,Massachusetts Institute of Technology,Field,Computer Science,18,1,17
+University of Southern California,Massachusetts Institute of Technology,Field,Computer Science,8,1,6
+"University of Tennessee, The",Massachusetts Institute of Technology,Field,Computer Science,2,1,1
+"University of Texas at Austin, The",Massachusetts Institute of Technology,Field,Computer Science,7,1,6
+"University of Texas at San Antonio, The",Massachusetts Institute of Technology,Field,Computer Science,2,1,1
+University of Washington,Massachusetts Institute of Technology,Field,Computer Science,12,2,8
+Wesleyan University,Massachusetts Institute of Technology,Field,Computer Science,2,1,1
+Worcester Polytechnic Institute,Massachusetts Institute of Technology,Field,Computer Science,4,1,3
+Mississippi State University,Mississippi State University,Field,Computer Science,11,1,6
+West Virginia University,Mississippi State University,Field,Computer Science,2,1,1
+"University of Kansas, The",Missouri University of Science and Technology,Field,Computer Science,2,1,1
+New Mexico State University,New Mexico State University,Field,Computer Science,3,1,2
+Brooklyn College (CUNY),New York University,Field,Computer Science,10,1,8
+City College (CUNY),New York University,Field,Computer Science,3,1,2
+Lehman College (CUNY),New York University,Field,Computer Science,3,2,1
+New York University,New York University,Field,Computer Science,11,1,10
+Stevens Institute of Technology,New York University,Field,Computer Science,2,1,1
+University of Miami,New York University,Field,Computer Science,2,1,1
+"University of Texas at El Paso, The",New York University,Field,Computer Science,2,1,1
+Emory University,North Carolina State University,Field,Computer Science,2,1,1
+North Carolina State University,North Carolina State University,Field,Computer Science,5,2,2
+Rochester Institute of Technology,North Carolina State University,Field,Computer Science,3,1,2
+Arizona State University,Northwestern University,Field,Computer Science,2,1,1
+Illinois Institute of Technology,Northwestern University,Field,Computer Science,2,1,1
+Marquette University,Northwestern University,Field,Computer Science,2,1,1
+University of Colorado Boulder,Northwestern University,Field,Computer Science,2,1,1
+University of Texas Arlington,Northwestern University,Field,Computer Science,2,1,1
+Nova Southeastern University,Nova Southeastern University,Field,Computer Science,9,3,6
+Drexel University,"Ohio State University, The",Field,Computer Science,3,1,2
+Miami University,"Ohio State University, The",Field,Computer Science,2,1,1
+"Ohio State University, The","Ohio State University, The",Field,Computer Science,3,1,2
+Purdue University,"Ohio State University, The",Field,Computer Science,4,1,3
+"University of Maryland, Baltimore County","Ohio State University, The",Field,Computer Science,2,1,1
+Oregon State University,Oregon State University,Field,Computer Science,5,1,3
+"Pennsylvania State University, The","Pennsylvania State University, The",Field,Computer Science,3,1,1
+Purdue University,"Pennsylvania State University, The",Field,Computer Science,2,1,1
+Princeton University,Princeton University,Field,Computer Science,5,1,3
+South Dakota School of Mines & Technology,Princeton University,Field,Computer Science,2,1,1
+Syracuse University,Princeton University,Field,Computer Science,2,1,1
+Tufts University,Princeton University,Field,Computer Science,2,1,1
+"University of Maryland, Baltimore County",Princeton University,Field,Computer Science,2,1,1
+University of Michigan,Princeton University,Field,Computer Science,10,1,6
+University of Pennsylvania,Princeton University,Field,Computer Science,3,2,1
+"University of Texas at Austin, The",Princeton University,Field,Computer Science,2,1,1
+Marquette University,Purdue University,Field,Computer Science,3,1,1
+Michigan Technological University,Purdue University,Field,Computer Science,2,1,1
+Purdue University,Purdue University,Field,Computer Science,32,10,20
+"University at Buffalo, State University of New York",Purdue University,Field,Computer Science,5,1,3
+University of Notre Dame,Purdue University,Field,Computer Science,3,1,2
+"College of William & Mary, The",Rice University,Field,Computer Science,3,1,1
+"University of Utah, The",Rice University,Field,Computer Science,2,1,1
+Drexel University,Rutgers - New Brunswick,Field,Computer Science,4,3,1
+University of Massachusetts Amherst,Rutgers - New Brunswick,Field,Computer Science,2,1,1
+Johns Hopkins University,Stanford University,Field,Computer Science,3,1,1
+Massachusetts Institute of Technology,Stanford University,Field,Computer Science,30,2,21
+New York University,Stanford University,Field,Computer Science,5,2,3
+Princeton University,Stanford University,Field,Computer Science,7,3,3
+Rice University,Stanford University,Field,Computer Science,4,2,2
+Stanford University,Stanford University,Field,Computer Science,8,1,6
+Tufts University,Stanford University,Field,Computer Science,2,1,1
+"University of California, Irvine",Stanford University,Field,Computer Science,8,1,5
+"University of California, Riverside",Stanford University,Field,Computer Science,2,1,1
+"University of California, San Diego",Stanford University,Field,Computer Science,10,1,7
+"University of California, Santa Cruz",Stanford University,Field,Computer Science,8,1,7
+University of Illinois at Urbana-Champaign,Stanford University,Field,Computer Science,6,1,4
+University of Michigan,Stanford University,Field,Computer Science,7,2,3
+"University of Texas at Austin, The",Stanford University,Field,Computer Science,5,1,2
+University of Washington,Stanford University,Field,Computer Science,8,1,7
+New York University,"Stony Brook University, State University of New York",Field,Computer Science,2,1,1
+Syracuse University,Syracuse University,Field,Computer Science,7,1,6
+"University of Utah, The",Syracuse University,Field,Computer Science,2,1,1
+Mississippi State University,Texas A&M University,Field,Computer Science,3,1,2
+New Mexico State University,Texas A&M University,Field,Computer Science,2,1,1
+Texas A&M University,Texas A&M University,Field,Computer Science,2,1,1
+University of Texas Rio Grande Valley,Tufts University,Field,Computer Science,2,1,1
+Rochester Institute of Technology,"University at Buffalo, State University of New York",Field,Computer Science,2,1,1
+"University at Buffalo, State University of New York","University at Buffalo, State University of New York",Field,Computer Science,2,1,1
+Carnegie Mellon University,"University of California, Berkeley",Field,Computer Science,11,1,9
+Georgia Institute of Technology,"University of California, Berkeley",Field,Computer Science,4,1,3
+Harvard University,"University of California, Berkeley",Field,Computer Science,5,2,2
+Illinois Institute of Technology,"University of California, Berkeley",Field,Computer Science,2,1,1
+Massachusetts Institute of Technology,"University of California, Berkeley",Field,Computer Science,22,2,15
+New York University,"University of California, Berkeley",Field,Computer Science,3,1,1
+Princeton University,"University of California, Berkeley",Field,Computer Science,3,1,2
+"Stony Brook University, State University of New York","University of California, Berkeley",Field,Computer Science,3,1,2
+"University of California, Berkeley","University of California, Berkeley",Field,Computer Science,28,4,19
+"University of California, Davis","University of California, Berkeley",Field,Computer Science,4,1,1
+"University of California, Irvine","University of California, Berkeley",Field,Computer Science,8,1,4
+"University of California, San Diego","University of California, Berkeley",Field,Computer Science,11,1,9
+University of Illinois at Urbana-Champaign,"University of California, Berkeley",Field,Computer Science,6,1,5
+"University of Maryland, Baltimore County","University of California, Berkeley",Field,Computer Science,2,1,1
+University of Massachusetts Amherst,"University of California, Berkeley",Field,Computer Science,4,1,1
+University of Michigan,"University of California, Berkeley",Field,Computer Science,18,2,10
+University of North Carolina at Chapel Hill,"University of California, Berkeley",Field,Computer Science,7,1,5
+University of Southern California,"University of California, Berkeley",Field,Computer Science,3,1,2
+"University of Texas at El Paso, The","University of California, Berkeley",Field,Computer Science,2,1,1
+University of Washington,"University of California, Berkeley",Field,Computer Science,10,2,8
+University of Wisconsin - Madison,"University of California, Berkeley",Field,Computer Science,7,1,5
+Indiana University - Bloomington,"University of California, Irvine",Field,Computer Science,4,1,3
+"University of Texas at Austin, The","University of California, Irvine",Field,Computer Science,2,1,1
+Northwestern University,"University of California, Los Angeles",Field,Computer Science,3,1,2
+"University of California, Irvine","University of California, Los Angeles",Field,Computer Science,7,2,4
+University of Colorado Boulder,"University of California, Los Angeles",Field,Computer Science,2,1,1
+University of Southern California,"University of California, Los Angeles",Field,Computer Science,7,2,4
+Washington University in St. Louis,"University of California, Los Angeles",Field,Computer Science,2,1,1
+"University of California, Santa Cruz","University of California, San Diego",Field,Computer Science,4,1,3
+"University at Albany, State University of New York","University of California, Santa Barbara",Field,Computer Science,2,1,1
+University of Florida,"University of California, Santa Barbara",Field,Computer Science,2,1,1
+University of Southern California,"University of California, Santa Barbara",Field,Computer Science,2,1,1
+Lehman College (CUNY),"University of Chicago, The",Field,Computer Science,2,1,1
+Purdue University,"University of Cincinnati, The",Field,Computer Science,2,1,1
+Colorado School of Mines,University of Colorado Boulder,Field,Computer Science,2,1,1
+University of Colorado Boulder,University of Colorado Boulder,Field,Computer Science,6,2,4
+Boston University,University of Illinois at Urbana-Champaign,Field,Computer Science,2,1,1
+Indiana University - Bloomington,University of Illinois at Urbana-Champaign,Field,Computer Science,3,1,1
+Kansas State University,University of Illinois at Urbana-Champaign,Field,Computer Science,2,1,1
+Michigan State University,University of Illinois at Urbana-Champaign,Field,Computer Science,3,1,1
+North Carolina State University,University of Illinois at Urbana-Champaign,Field,Computer Science,6,1,2
+Saint Louis University,University of Illinois at Urbana-Champaign,Field,Computer Science,3,1,2
+South Dakota School of Mines & Technology,University of Illinois at Urbana-Champaign,Field,Computer Science,2,1,1
+Texas A&M University,University of Illinois at Urbana-Champaign,Field,Computer Science,7,1,5
+"University of California, Irvine",University of Illinois at Urbana-Champaign,Field,Computer Science,3,1,2
+University of Illinois at Chicago,University of Illinois at Urbana-Champaign,Field,Computer Science,3,1,2
+University of Illinois at Urbana-Champaign,University of Illinois at Urbana-Champaign,Field,Computer Science,3,1,2
+University of North Carolina Charlotte,University of Illinois at Urbana-Champaign,Field,Computer Science,3,1,2
+Vanderbilt University,University of Illinois at Urbana-Champaign,Field,Computer Science,4,1,1
+Washington State University,University of Illinois at Urbana-Champaign,Field,Computer Science,2,1,1
+"University of Maine, The","University of Maine, The",Field,Computer Science,2,1,1
+"University of Maryland, Baltimore County","University of Maryland, Baltimore County",Field,Computer Science,4,1,3
+Drexel University,"University of Maryland, College Park",Field,Computer Science,3,2,1
+George Mason University,"University of Maryland, College Park",Field,Computer Science,5,1,4
+Worcester Polytechnic Institute,"University of Maryland, College Park",Field,Computer Science,2,1,1
+Colorado State University,University of Massachusetts Amherst,Field,Computer Science,4,1,2
+Fordham University,University of Massachusetts Amherst,Field,Computer Science,3,1,2
+Northeastern University,University of Massachusetts Amherst,Field,Computer Science,4,1,3
+Purdue University,University of Massachusetts Amherst,Field,Computer Science,3,1,2
+"Stony Brook University, State University of New York",University of Massachusetts Amherst,Field,Computer Science,2,1,1
+University of Massachusetts Amherst,University of Massachusetts Amherst,Field,Computer Science,4,1,2
+"University of Tulsa, The",University of Massachusetts Amherst,Field,Computer Science,2,1,1
+Florida A&M University,University of Miami,Field,Computer Science,3,1,2
+Arizona State University,University of Michigan,Field,Computer Science,4,1,2
+University of Illinois at Chicago,University of Michigan,Field,Computer Science,5,2,3
+University of Michigan,University of Michigan,Field,Computer Science,13,1,8
+Wayne State University,University of Michigan,Field,Computer Science,3,1,1
+Florida Atlantic University,"University of Minnesota, Twin Cities",Field,Computer Science,2,1,1
+South Dakota School of Mines & Technology,"University of Minnesota, Twin Cities",Field,Computer Science,2,1,1
+University of Louisville,University of Missouri,Field,Computer Science,2,1,1
+University of Missouri,University of Missouri,Field,Computer Science,7,2,5
+University of Arkansas,University of North Carolina at Chapel Hill,Field,Computer Science,2,1,1
+"University of Maryland, Baltimore County",University of North Carolina at Chapel Hill,Field,Computer Science,2,1,1
+"University of Minnesota, Twin Cities",University of North Carolina at Chapel Hill,Field,Computer Science,3,1,2
+University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill,Field,Computer Science,6,1,4
+Columbia University,University of Pennsylvania,Field,Computer Science,4,1,3
+Cornell University,University of Pennsylvania,Field,Computer Science,3,1,2
+George Mason University,University of Pennsylvania,Field,Computer Science,3,1,2
+Rutgers University-Camden,University of Pennsylvania,Field,Computer Science,2,1,1
+University of Illinois at Urbana-Champaign,University of Pennsylvania,Field,Computer Science,2,1,1
+University of Southern California,University of Pennsylvania,Field,Computer Science,5,1,2
+University of Wisconsin - Milwaukee,University of Pennsylvania,Field,Computer Science,2,1,1
+Michigan Technological University,University of Pittsburgh,Field,Computer Science,2,1,1
+"University at Albany, State University of New York",University of Pittsburgh,Field,Computer Science,2,1,1
+Vanderbilt University,University of Rochester,Field,Computer Science,2,1,1
+"University of South Dakota, The","University of South Dakota, The",Field,Computer Science,2,1,1
+University of Central Florida,University of Southern California,Field,Computer Science,3,1,1
+University of Michigan,University of Southern California,Field,Computer Science,5,1,2
+"University of Nevada, Reno",University of Southern California,Field,Computer Science,3,1,2
+"University of Tennessee, The","University of Tennessee, The",Field,Computer Science,8,1,3
+University of Central Florida,University of Texas Arlington,Field,Computer Science,2,1,1
+Texas State University,"University of Texas at Austin, The",Field,Computer Science,7,1,3
+"University of California, Irvine","University of Texas at Austin, The",Field,Computer Science,3,1,2
+University of Massachusetts Amherst,"University of Texas at Austin, The",Field,Computer Science,6,1,5
+University of North Carolina at Chapel Hill,"University of Texas at Austin, The",Field,Computer Science,5,1,4
+University of Washington,"University of Texas at Austin, The",Field,Computer Science,3,2,1
+"University of Tulsa, The","University of Tulsa, The",Field,Computer Science,4,1,3
+"University of Utah, The","University of Utah, The",Field,Computer Science,6,1,5
+Florida Atlantic University,University of Virginia,Field,Computer Science,2,1,1
+George Mason University,University of Virginia,Field,Computer Science,2,1,1
+Iowa State University,University of Washington,Field,Computer Science,2,1,1
+Northwestern University,University of Washington,Field,Computer Science,3,1,2
+University of Colorado Boulder,University of Washington,Field,Computer Science,3,1,2
+University of Washington,University of Washington,Field,Computer Science,8,1,5
+Washington State University,University of Washington,Field,Computer Science,3,1,1
+Carnegie Mellon University,University of Wisconsin - Madison,Field,Computer Science,2,1,1
+Drexel University,University of Wisconsin - Madison,Field,Computer Science,2,1,1
+Rutgers - New Brunswick,University of Wisconsin - Madison,Field,Computer Science,3,1,2
+South Dakota School of Mines & Technology,University of Wisconsin - Madison,Field,Computer Science,3,1,2
+"University of California, Davis",University of Wisconsin - Madison,Field,Computer Science,3,1,2
+University of Florida,University of Wisconsin - Madison,Field,Computer Science,2,1,1
+University of Illinois at Urbana-Champaign,University of Wisconsin - Madison,Field,Computer Science,6,2,3
+University of Kentucky,University of Wisconsin - Madison,Field,Computer Science,2,1,1
+University of Michigan,University of Wisconsin - Madison,Field,Computer Science,4,2,2
+South Dakota School of Mines & Technology,Utah State University,Field,Computer Science,3,2,1
+Clemson University,Vanderbilt University,Field,Computer Science,2,1,1
+"College of William & Mary, The",Vanderbilt University,Field,Computer Science,2,1,1
+Vanderbilt University,Vanderbilt University,Field,Computer Science,21,3,16
+Auburn University,Virginia Polytechnic Institute and State University,Field,Computer Science,2,1,1
+"University of Texas at El Paso, The",Virginia Polytechnic Institute and State University,Field,Computer Science,2,1,1
+Oregon State University,Washington University in St. Louis,Field,Computer Science,2,1,1
+West Virginia University,West Virginia University,Field,Computer Science,6,1,2
+Western Michigan University,Western Michigan University,Field,Computer Science,2,1,1
+Wichita State University,Wichita State University,Field,Computer Science,3,1,1
+Miami University,Wright State University,Field,Computer Science,2,1,1
+University of Colorado Boulder,Yale University,Field,Computer Science,3,1,2

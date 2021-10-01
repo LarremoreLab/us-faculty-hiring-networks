@@ -1,0 +1,120 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+Boston University,Columbia University,Field,Classics and Classical Languages,2,1,1
+Johns Hopkins University,Columbia University,Field,Classics and Classical Languages,2,1,1
+New York University,Columbia University,Field,Classics and Classical Languages,5,1,3
+Queens College (CUNY),Columbia University,Field,Classics and Classical Languages,5,1,2
+"University of Chicago, The",Columbia University,Field,Classics and Classical Languages,2,1,1
+Loyola University Chicago,Cornell University,Field,Classics and Classical Languages,2,1,1
+Miami University,Cornell University,Field,Classics and Classical Languages,3,2,1
+"Ohio State University, The",Cornell University,Field,Classics and Classical Languages,2,1,1
+Queens College (CUNY),Cornell University,Field,Classics and Classical Languages,4,1,2
+Texas A&M University,Emory University,Field,Classics and Classical Languages,4,2,2
+George Mason University,George Mason University,Field,Classics and Classical Languages,2,1,1
+George Mason University,Georgetown University,Field,Classics and Classical Languages,3,2,1
+Boston University,Harvard University,Field,Classics and Classical Languages,4,1,3
+Brigham Young University,Harvard University,Field,Classics and Classical Languages,3,1,2
+Columbia University,Harvard University,Field,Classics and Classical Languages,4,2,2
+Miami University,Harvard University,Field,Classics and Classical Languages,2,1,1
+Northwestern University,Harvard University,Field,Classics and Classical Languages,3,1,2
+Rutgers - New Brunswick,Harvard University,Field,Classics and Classical Languages,4,2,1
+Tufts University,Harvard University,Field,Classics and Classical Languages,3,1,2
+"University of California, Berkeley",Harvard University,Field,Classics and Classical Languages,2,1,1
+"University of California, Los Angeles",Harvard University,Field,Classics and Classical Languages,3,2,1
+"University of Chicago, The",Harvard University,Field,Classics and Classical Languages,3,1,2
+"University of Cincinnati, The",Harvard University,Field,Classics and Classical Languages,3,2,1
+University of Colorado Boulder,Harvard University,Field,Classics and Classical Languages,4,2,2
+University of Michigan,Harvard University,Field,Classics and Classical Languages,3,1,2
+"University of Montana, Missoula",Harvard University,Field,Classics and Classical Languages,2,1,1
+University of Nebraska - Lincoln,Harvard University,Field,Classics and Classical Languages,2,1,1
+University of Washington,Harvard University,Field,Classics and Classical Languages,3,2,1
+Yale University,Harvard University,Field,Classics and Classical Languages,4,2,2
+Ball State University,Indiana University - Bloomington,Field,Classics and Classical Languages,4,2,2
+"University of Alabama, The",Indiana University - Bloomington,Field,Classics and Classical Languages,4,2,2
+University of Connecticut,Indiana University - Bloomington,Field,Classics and Classical Languages,3,2,1
+University of Kentucky,Indiana University - Bloomington,Field,Classics and Classical Languages,4,1,2
+University of Louisville,Indiana University - Bloomington,Field,Classics and Classical Languages,2,1,1
+University of Missouri,Indiana University - Bloomington,Field,Classics and Classical Languages,2,1,1
+"Pennsylvania State University, The",Johns Hopkins University,Field,Classics and Classical Languages,2,1,1
+Brigham Young University,New York University,Field,Classics and Classical Languages,2,1,1
+"University of Alabama, The",New York University,Field,Classics and Classical Languages,3,2,1
+Kent State University,"Ohio State University, The",Field,Classics and Classical Languages,3,2,1
+Duke University,Princeton University,Field,Classics and Classical Languages,4,2,2
+"University at Buffalo, State University of New York",Princeton University,Field,Classics and Classical Languages,3,2,1
+"University of California, Santa Barbara",Princeton University,Field,Classics and Classical Languages,2,1,1
+University of Michigan,Princeton University,Field,Classics and Classical Languages,3,1,2
+University of North Carolina at Chapel Hill,Princeton University,Field,Classics and Classical Languages,2,1,1
+Washington University in St. Louis,Princeton University,Field,Classics and Classical Languages,2,1,1
+Yale University,Princeton University,Field,Classics and Classical Languages,2,1,1
+Ball State University,Purdue University,Field,Classics and Classical Languages,3,1,1
+Texas Tech University,Purdue University,Field,Classics and Classical Languages,2,1,1
+"University of Montana, Missoula",Rutgers - New Brunswick,Field,Classics and Classical Languages,2,1,1
+Saint Louis University,Saint Louis University,Field,Classics and Classical Languages,2,1,1
+George Mason University,Stanford University,Field,Classics and Classical Languages,2,1,1
+"Ohio State University, The",Stanford University,Field,Classics and Classical Languages,2,1,1
+"University of Arizona, The",Stanford University,Field,Classics and Classical Languages,2,1,1
+University of Nebraska - Lincoln,Stanford University,Field,Classics and Classical Languages,2,1,1
+University of Southern California,Stanford University,Field,Classics and Classical Languages,2,1,1
+University of Connecticut,"Stony Brook University, State University of New York",Field,Classics and Classical Languages,2,1,1
+Brigham Young University,"University of California, Berkeley",Field,Classics and Classical Languages,4,1,3
+George Mason University,"University of California, Berkeley",Field,Classics and Classical Languages,2,1,1
+Harvard University,"University of California, Berkeley",Field,Classics and Classical Languages,2,1,1
+Indiana University - Bloomington,"University of California, Berkeley",Field,Classics and Classical Languages,3,2,1
+Princeton University,"University of California, Berkeley",Field,Classics and Classical Languages,2,1,1
+Queens College (CUNY),"University of California, Berkeley",Field,Classics and Classical Languages,2,1,1
+"University of California, Los Angeles","University of California, Berkeley",Field,Classics and Classical Languages,2,1,1
+University of Colorado Boulder,"University of California, Berkeley",Field,Classics and Classical Languages,2,1,1
+University of Connecticut,"University of California, Berkeley",Field,Classics and Classical Languages,2,1,1
+University of Michigan,"University of California, Berkeley",Field,Classics and Classical Languages,3,1,2
+University of Oregon,"University of California, Berkeley",Field,Classics and Classical Languages,2,1,1
+University of Pennsylvania,"University of California, Berkeley",Field,Classics and Classical Languages,2,1,1
+"University of Texas at Austin, The","University of California, Berkeley",Field,Classics and Classical Languages,3,1,2
+University of Hawaii,"University of California, Los Angeles",Field,Classics and Classical Languages,2,1,1
+University of North Carolina at Chapel Hill,"University of California, Los Angeles",Field,Classics and Classical Languages,2,1,1
+Howard University,"University of Chicago, The",Field,Classics and Classical Languages,2,1,1
+"Ohio State University, The","University of Chicago, The",Field,Classics and Classical Languages,2,1,1
+University of Florida,"University of Chicago, The",Field,Classics and Classical Languages,2,1,1
+University of Rochester,"University of Chicago, The",Field,Classics and Classical Languages,3,1,2
+Brigham Young University,University of Illinois at Urbana-Champaign,Field,Classics and Classical Languages,2,1,1
+George Mason University,University of Illinois at Urbana-Champaign,Field,Classics and Classical Languages,2,1,1
+"University of Alabama, The",University of Illinois at Urbana-Champaign,Field,Classics and Classical Languages,3,2,1
+Wayne State University,University of Illinois at Urbana-Champaign,Field,Classics and Classical Languages,2,1,1
+Kent State University,"University of Iowa, The",Field,Classics and Classical Languages,2,1,1
+University of Oklahoma,"University of Iowa, The",Field,Classics and Classical Languages,3,1,2
+Brown University,University of Michigan,Field,Classics and Classical Languages,2,1,1
+Emory University,University of Michigan,Field,Classics and Classical Languages,2,1,1
+Kent State University,University of Michigan,Field,Classics and Classical Languages,2,1,1
+University of Georgia,University of Michigan,Field,Classics and Classical Languages,2,1,1
+"University of Iowa, The",University of Michigan,Field,Classics and Classical Languages,2,1,1
+University of Kentucky,University of Michigan,Field,Classics and Classical Languages,5,1,3
+"University of Mississippi, The",University of Michigan,Field,Classics and Classical Languages,2,1,1
+"University of Montana, Missoula",University of Michigan,Field,Classics and Classical Languages,2,1,1
+University of North Carolina at Chapel Hill,University of Michigan,Field,Classics and Classical Languages,2,1,1
+"University of Tennessee, The",University of Michigan,Field,Classics and Classical Languages,2,1,1
+"University of Montana, Missoula","University of Minnesota, Twin Cities",Field,Classics and Classical Languages,2,1,1
+Wayne State University,"University of Minnesota, Twin Cities",Field,Classics and Classical Languages,3,1,2
+Ball State University,University of North Carolina at Chapel Hill,Field,Classics and Classical Languages,2,1,1
+"University of Alabama, The",University of North Carolina at Chapel Hill,Field,Classics and Classical Languages,2,1,1
+University of Pennsylvania,University of North Carolina at Chapel Hill,Field,Classics and Classical Languages,2,1,1
+"University of Alabama, The",University of Oregon,Field,Classics and Classical Languages,2,1,1
+Miami University,University of Pennsylvania,Field,Classics and Classical Languages,2,1,1
+Texas Tech University,University of Pennsylvania,Field,Classics and Classical Languages,2,1,1
+"University of California, Los Angeles",University of Pennsylvania,Field,Classics and Classical Languages,2,1,1
+University of Nebraska - Lincoln,University of Pennsylvania,Field,Classics and Classical Languages,2,1,1
+Wayne State University,University of Pennsylvania,Field,Classics and Classical Languages,4,3,1
+Texas Tech University,"University of Texas at Austin, The",Field,Classics and Classical Languages,2,1,1
+University of Colorado Boulder,"University of Texas at Austin, The",Field,Classics and Classical Languages,2,1,1
+University of Connecticut,"University of Texas at Austin, The",Field,Classics and Classical Languages,2,1,1
+Texas Tech University,University of Washington,Field,Classics and Classical Languages,2,1,1
+University of Kentucky,University of Washington,Field,Classics and Classical Languages,2,1,1
+"University of Maine, The",University of Washington,Field,Classics and Classical Languages,2,1,1
+Kent State University,University of Wisconsin - Madison,Field,Classics and Classical Languages,2,1,1
+Texas Tech University,University of Wisconsin - Madison,Field,Classics and Classical Languages,2,1,1
+University of Kentucky,University of Wisconsin - Madison,Field,Classics and Classical Languages,3,2,1
+Saint Louis University,Washington University in St. Louis,Field,Classics and Classical Languages,4,2,2
+Cornell University,Yale University,Field,Classics and Classical Languages,2,1,1
+George Mason University,Yale University,Field,Classics and Classical Languages,3,2,1
+Kent State University,Yale University,Field,Classics and Classical Languages,2,1,1
+Loyola University Chicago,Yale University,Field,Classics and Classical Languages,2,1,1
+Texas A&M University,Yale University,Field,Classics and Classical Languages,2,1,1
+"University of California, Los Angeles",Yale University,Field,Classics and Classical Languages,2,1,1
+"University of Texas at Austin, The",Yale University,Field,Classics and Classical Languages,5,1,3

@@ -1,0 +1,328 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+George Mason University,American University,Field,Anthropology,3,2,1
+University of Arkansas,Arizona State University,Field,Anthropology,2,1,1
+University of Colorado Denver,Arizona State University,Field,Anthropology,3,1,1
+"University of Texas at El Paso, The",Arizona State University,Field,Anthropology,2,1,1
+Kansas State University,"Binghamton University, State University of New York",Field,Anthropology,2,1,1
+"University of Tennessee, The","Binghamton University, State University of New York",Field,Anthropology,2,1,1
+"University of Maryland, Baltimore County",Case Western Reserve University,Field,Anthropology,2,1,1
+Brooklyn College (CUNY),"City University of New York, The",Field,Anthropology,2,1,1
+City College (CUNY),"City University of New York, The",Field,Anthropology,8,3,5
+John Jay College of Criminal Justice (CUNY),"City University of New York, The",Field,Anthropology,6,4,1
+"University of Maryland, College Park","City University of New York, The",Field,Anthropology,2,1,1
+Baruch College (CUNY),Columbia University,Field,Anthropology,2,1,1
+Boston University,Columbia University,Field,Anthropology,2,1,1
+City College (CUNY),Columbia University,Field,Anthropology,11,5,6
+Columbia University,Columbia University,Field,Anthropology,8,3,5
+Emory University,Columbia University,Field,Anthropology,2,1,1
+Florida International University,Columbia University,Field,Anthropology,2,1,1
+George Washington University,Columbia University,Field,Anthropology,2,1,1
+John Jay College of Criminal Justice (CUNY),Columbia University,Field,Anthropology,4,1,3
+Princeton University,Columbia University,Field,Anthropology,4,2,2
+University of Southern California,Columbia University,Field,Anthropology,3,1,2
+Columbia University,Cornell University,Field,Anthropology,2,1,1
+Cornell University,Cornell University,Field,Anthropology,2,1,1
+Kansas State University,Cornell University,Field,Anthropology,2,1,1
+Yale University,Cornell University,Field,Anthropology,2,1,1
+Duke University,Duke University,Field,Anthropology,2,1,1
+University of Colorado Boulder,Duke University,Field,Anthropology,3,1,1
+"University of Texas at Austin, The",Duke University,Field,Anthropology,2,1,1
+Washington University in St. Louis,Duke University,Field,Anthropology,3,1,2
+Duke University,Emory University,Field,Anthropology,2,1,1
+Georgia State University,Emory University,Field,Anthropology,2,1,1
+University of Louisiana at Lafayette,Florida State University,Field,Anthropology,2,1,1
+George Washington University,George Washington University,Field,Anthropology,3,2,1
+Boston University,Harvard University,Field,Anthropology,5,1,3
+Brown University,Harvard University,Field,Anthropology,5,3,2
+Columbia University,Harvard University,Field,Anthropology,5,2,3
+Duke University,Harvard University,Field,Anthropology,2,1,1
+Emory University,Harvard University,Field,Anthropology,2,1,1
+Lehigh University,Harvard University,Field,Anthropology,2,1,1
+Michigan State University,Harvard University,Field,Anthropology,2,1,1
+New York University,Harvard University,Field,Anthropology,3,2,1
+Northeastern University,Harvard University,Field,Anthropology,2,1,1
+Northwestern University,Harvard University,Field,Anthropology,2,1,1
+Princeton University,Harvard University,Field,Anthropology,8,3,5
+Stanford University,Harvard University,Field,Anthropology,6,2,4
+"University of California, Davis",Harvard University,Field,Anthropology,2,1,1
+"University of California, Irvine",Harvard University,Field,Anthropology,4,1,3
+"University of California, Santa Cruz",Harvard University,Field,Anthropology,3,2,1
+University of Florida,Harvard University,Field,Anthropology,2,1,1
+University of Michigan,Harvard University,Field,Anthropology,6,4,2
+"University of Minnesota, Twin Cities",Harvard University,Field,Anthropology,4,1,3
+University of North Carolina at Chapel Hill,Harvard University,Field,Anthropology,2,1,1
+University of South Florida,Harvard University,Field,Anthropology,2,1,1
+"University of Vermont, The",Harvard University,Field,Anthropology,2,1,1
+University of Wisconsin - Milwaukee,Harvard University,Field,Anthropology,8,3,5
+Washington University in St. Louis,Harvard University,Field,Anthropology,6,1,4
+Howard University,Howard University,Field,Anthropology,4,2,2
+Clemson University,Indiana University - Bloomington,Field,Anthropology,2,1,1
+Indiana University - Bloomington,Indiana University - Bloomington,Field,Anthropology,9,1,7
+Michigan State University,Indiana University - Bloomington,Field,Anthropology,3,1,2
+Montana State University,Indiana University - Bloomington,Field,Anthropology,2,1,1
+North Carolina State University,Indiana University - Bloomington,Field,Anthropology,3,2,1
+Texas Tech University,Indiana University - Bloomington,Field,Anthropology,2,1,1
+University of Illinois at Urbana-Champaign,Indiana University - Bloomington,Field,Anthropology,2,1,1
+Kent State University,Kent State University,Field,Anthropology,2,1,1
+University of Louisiana at Lafayette,Louisiana State University,Field,Anthropology,6,4,2
+"University of Texas at Tyler, The",Louisiana State University,Field,Anthropology,2,1,1
+Michigan State University,Michigan State University,Field,Anthropology,6,3,3
+"University of California, Los Angeles",Michigan State University,Field,Anthropology,2,1,1
+University of South Carolina,Michigan State University,Field,Anthropology,2,1,1
+West Virginia University,Michigan State University,Field,Anthropology,2,1,1
+Columbia University,New York University,Field,Anthropology,4,2,2
+George Mason University,New York University,Field,Anthropology,2,1,1
+Massachusetts Institute of Technology,New York University,Field,Anthropology,2,1,1
+Temple University,New York University,Field,Anthropology,3,1,2
+University of Colorado Boulder,New York University,Field,Anthropology,2,1,1
+University of Florida,New York University,Field,Anthropology,2,1,1
+University of Michigan,New York University,Field,Anthropology,3,2,1
+University of Oklahoma,New York University,Field,Anthropology,2,1,1
+North Carolina State University,Northwestern University,Field,Anthropology,2,1,1
+"Pennsylvania State University, The",Northwestern University,Field,Anthropology,2,1,1
+Rutgers - New Brunswick,Northwestern University,Field,Anthropology,2,1,1
+Ohio University,"Ohio State University, The",Field,Anthropology,3,1,2
+University of Dayton,"Ohio State University, The",Field,Anthropology,2,1,1
+University of Texas Rio Grande Valley,Oklahoma State University,Field,Anthropology,2,1,1
+Case Western Reserve University,"Pennsylvania State University, The",Field,Anthropology,2,1,1
+Montana State University,"Pennsylvania State University, The",Field,Anthropology,4,2,2
+Ohio University,"Pennsylvania State University, The",Field,Anthropology,3,1,1
+Southern Illinois University Carbondale,"Pennsylvania State University, The",Field,Anthropology,2,1,1
+"University at Albany, State University of New York","Pennsylvania State University, The",Field,Anthropology,2,1,1
+"University of Cincinnati, The","Pennsylvania State University, The",Field,Anthropology,3,2,1
+University of Michigan,"Pennsylvania State University, The",Field,Anthropology,2,1,1
+University of Washington,"Pennsylvania State University, The",Field,Anthropology,3,1,2
+George Washington University,Rutgers - New Brunswick,Field,Anthropology,2,1,1
+Colorado State University,Southern Methodist University,Field,Anthropology,2,1,1
+University of North Texas,Southern Methodist University,Field,Anthropology,2,1,1
+Columbia University,Stanford University,Field,Anthropology,2,1,1
+Cornell University,Stanford University,Field,Anthropology,2,1,1
+Duke University,Stanford University,Field,Anthropology,4,3,1
+Massachusetts Institute of Technology,Stanford University,Field,Anthropology,3,2,1
+"University of California, Davis",Stanford University,Field,Anthropology,5,3,2
+"University of California, Irvine",Stanford University,Field,Anthropology,6,2,4
+"University of California, Los Angeles",Stanford University,Field,Anthropology,4,2,2
+University of North Carolina at Chapel Hill,Stanford University,Field,Anthropology,2,1,1
+"University of Texas at Austin, The",Stanford University,Field,Anthropology,4,2,1
+"University of Texas at San Antonio, The",Stanford University,Field,Anthropology,2,1,1
+University of Virginia,Stanford University,Field,Anthropology,2,1,1
+Duke University,"Stony Brook University, State University of New York",Field,Anthropology,3,1,2
+George Washington University,"Stony Brook University, State University of New York",Field,Anthropology,2,1,1
+Northern Illinois University,"Stony Brook University, State University of New York",Field,Anthropology,2,1,1
+University of Illinois at Urbana-Champaign,"Stony Brook University, State University of New York",Field,Anthropology,2,1,1
+George Mason University,Syracuse University,Field,Anthropology,2,1,1
+University of South Florida,"University at Buffalo, State University of New York",Field,Anthropology,2,1,1
+University of Alaska Fairbanks,University of Alaska Fairbanks,Field,Anthropology,2,1,1
+"Binghamton University, State University of New York","University of Arizona, The",Field,Anthropology,2,1,1
+Miami University,"University of Arizona, The",Field,Anthropology,2,1,1
+New Mexico State University,"University of Arizona, The",Field,Anthropology,3,1,2
+"Ohio State University, The","University of Arizona, The",Field,Anthropology,2,1,1
+Rutgers - New Brunswick,"University of Arizona, The",Field,Anthropology,2,1,1
+Southern Illinois University Carbondale,"University of Arizona, The",Field,Anthropology,2,1,1
+Southern Methodist University,"University of Arizona, The",Field,Anthropology,3,1,1
+Texas State University,"University of Arizona, The",Field,Anthropology,2,1,1
+"University of Arizona, The","University of Arizona, The",Field,Anthropology,7,3,4
+"University of Iowa, The","University of Arizona, The",Field,Anthropology,2,1,1
+University of Louisville,"University of Arizona, The",Field,Anthropology,2,1,1
+"University of Montana, Missoula","University of Arizona, The",Field,Anthropology,4,1,2
+"University of New Mexico, The","University of Arizona, The",Field,Anthropology,4,1,3
+University of Oklahoma,"University of Arizona, The",Field,Anthropology,3,1,2
+"University of Texas at Austin, The","University of Arizona, The",Field,Anthropology,2,1,1
+University of Wyoming,"University of Arizona, The",Field,Anthropology,2,1,1
+Columbia University,"University of California, Berkeley",Field,Anthropology,4,2,1
+George Mason University,"University of California, Berkeley",Field,Anthropology,2,1,1
+Indiana University - Bloomington,"University of California, Berkeley",Field,Anthropology,10,6,4
+Michigan State University,"University of California, Berkeley",Field,Anthropology,2,1,1
+Northeastern University,"University of California, Berkeley",Field,Anthropology,3,2,1
+Princeton University,"University of California, Berkeley",Field,Anthropology,7,3,4
+Rutgers - New Brunswick,"University of California, Berkeley",Field,Anthropology,2,1,1
+"University of Arizona, The","University of California, Berkeley",Field,Anthropology,5,2,3
+"University of California, Berkeley","University of California, Berkeley",Field,Anthropology,2,1,1
+"University of California, Davis","University of California, Berkeley",Field,Anthropology,2,1,1
+"University of California, Riverside","University of California, Berkeley",Field,Anthropology,2,1,1
+"University of California, San Francisco","University of California, Berkeley",Field,Anthropology,3,2,1
+"University of California, Santa Cruz","University of California, Berkeley",Field,Anthropology,7,3,3
+"University of Chicago, The","University of California, Berkeley",Field,Anthropology,6,3,3
+University of Florida,"University of California, Berkeley",Field,Anthropology,2,1,1
+University of Louisville,"University of California, Berkeley",Field,Anthropology,2,1,1
+University of Michigan,"University of California, Berkeley",Field,Anthropology,2,1,1
+University of Notre Dame,"University of California, Berkeley",Field,Anthropology,2,1,1
+University of Pittsburgh,"University of California, Berkeley",Field,Anthropology,2,1,1
+"University of Texas at Austin, The","University of California, Berkeley",Field,Anthropology,2,1,1
+University of Wisconsin - Madison,"University of California, Berkeley",Field,Anthropology,3,1,2
+Yale University,"University of California, Berkeley",Field,Anthropology,3,1,1
+"Pennsylvania State University, The","University of California, Davis",Field,Anthropology,2,1,1
+"University of California, Los Angeles","University of California, Davis",Field,Anthropology,2,1,1
+University of Pennsylvania,"University of California, Davis",Field,Anthropology,2,1,1
+"University of Texas at Austin, The","University of California, Davis",Field,Anthropology,4,2,1
+Yale University,"University of California, Davis",Field,Anthropology,2,1,1
+Boston University,"University of California, Los Angeles",Field,Anthropology,4,2,2
+Indiana University - Bloomington,"University of California, Los Angeles",Field,Anthropology,3,2,1
+Kansas State University,"University of California, Los Angeles",Field,Anthropology,3,2,1
+Southern Methodist University,"University of California, Los Angeles",Field,Anthropology,2,1,1
+Temple University,"University of California, Los Angeles",Field,Anthropology,2,1,1
+"University of California, Davis","University of California, Los Angeles",Field,Anthropology,2,1,1
+"University of California, Santa Barbara","University of California, Los Angeles",Field,Anthropology,2,1,1
+University of North Carolina at Chapel Hill,"University of California, Los Angeles",Field,Anthropology,2,1,1
+University of South Carolina,"University of California, Los Angeles",Field,Anthropology,2,1,1
+University of Washington,"University of California, Los Angeles",Field,Anthropology,2,1,1
+"University of Alabama, The","University of California, San Diego",Field,Anthropology,2,1,1
+"University of California, San Francisco","University of California, San Francisco",Field,Anthropology,6,5,1
+Purdue University,"University of California, Santa Barbara",Field,Anthropology,3,1,2
+University of Dayton,"University of California, Santa Barbara",Field,Anthropology,2,1,1
+University of Oregon,"University of California, Santa Barbara",Field,Anthropology,3,1,2
+University of Wyoming,"University of California, Santa Barbara",Field,Anthropology,2,1,1
+Boston University,"University of Chicago, The",Field,Anthropology,2,1,1
+Brandeis University,"University of Chicago, The",Field,Anthropology,4,3,1
+"College of William & Mary, The","University of Chicago, The",Field,Anthropology,2,1,1
+Columbia University,"University of Chicago, The",Field,Anthropology,7,3,3
+Dartmouth College,"University of Chicago, The",Field,Anthropology,4,1,3
+Duke University,"University of Chicago, The",Field,Anthropology,5,2,1
+Emory University,"University of Chicago, The",Field,Anthropology,3,1,2
+George Mason University,"University of Chicago, The",Field,Anthropology,3,1,2
+Indiana University - Bloomington,"University of Chicago, The",Field,Anthropology,9,5,4
+Michigan State University,"University of Chicago, The",Field,Anthropology,3,2,1
+New York University,"University of Chicago, The",Field,Anthropology,3,2,1
+Northeastern University,"University of Chicago, The",Field,Anthropology,2,1,1
+Princeton University,"University of Chicago, The",Field,Anthropology,2,1,1
+Tufts University,"University of Chicago, The",Field,Anthropology,2,1,1
+"University of Arizona, The","University of Chicago, The",Field,Anthropology,2,1,1
+"University of California, Berkeley","University of Chicago, The",Field,Anthropology,4,1,3
+"University of California, Los Angeles","University of Chicago, The",Field,Anthropology,4,2,2
+"University of Chicago, The","University of Chicago, The",Field,Anthropology,2,1,1
+University of Colorado Boulder,"University of Chicago, The",Field,Anthropology,2,1,1
+University of Illinois at Urbana-Champaign,"University of Chicago, The",Field,Anthropology,3,1,2
+University of Michigan,"University of Chicago, The",Field,Anthropology,10,2,7
+"University of Minnesota, Twin Cities","University of Chicago, The",Field,Anthropology,4,1,2
+"University of New Mexico, The","University of Chicago, The",Field,Anthropology,4,2,2
+University of North Carolina at Chapel Hill,"University of Chicago, The",Field,Anthropology,2,1,1
+University of Rochester,"University of Chicago, The",Field,Anthropology,4,1,3
+"University of Texas at Austin, The","University of Chicago, The",Field,Anthropology,8,3,4
+"University of Vermont, The","University of Chicago, The",Field,Anthropology,2,1,1
+University of Virginia,"University of Chicago, The",Field,Anthropology,5,2,3
+University of Wisconsin - Madison,"University of Chicago, The",Field,Anthropology,4,3,1
+Vanderbilt University,"University of Chicago, The",Field,Anthropology,2,1,1
+Washington University in St. Louis,"University of Chicago, The",Field,Anthropology,3,1,2
+University of Colorado Boulder,University of Colorado Boulder,Field,Anthropology,5,1,3
+Rutgers University-Camden,University of Delaware,Field,Anthropology,2,1,1
+University of Central Florida,University of Florida,Field,Anthropology,2,1,1
+University of Florida,University of Florida,Field,Anthropology,4,1,3
+University of South Florida,University of Florida,Field,Anthropology,2,1,1
+Washington State University,University of Florida,Field,Anthropology,2,1,1
+"University of Maryland, College Park",University of Georgia,Field,Anthropology,2,1,1
+University of South Florida,University of Georgia,Field,Anthropology,2,1,1
+Indiana University - Bloomington,University of Illinois at Urbana-Champaign,Field,Anthropology,3,2,1
+North Dakota State University,University of Illinois at Urbana-Champaign,Field,Anthropology,3,1,2
+Northern Illinois University,University of Illinois at Urbana-Champaign,Field,Anthropology,4,2,2
+"University at Albany, State University of New York",University of Illinois at Urbana-Champaign,Field,Anthropology,2,1,1
+University of Colorado Boulder,University of Illinois at Urbana-Champaign,Field,Anthropology,3,1,1
+Kansas State University,"University of Kansas, The",Field,Anthropology,3,2,1
+University of Georgia,University of Kentucky,Field,Anthropology,2,1,1
+Florida International University,"University of Maryland, College Park",Field,Anthropology,2,1,1
+Indiana University-Purdue University Indianapolis,University of Massachusetts Amherst,Field,Anthropology,2,1,1
+University of Massachusetts Amherst,University of Massachusetts Amherst,Field,Anthropology,5,1,4
+"Binghamton University, State University of New York",University of Michigan,Field,Anthropology,2,1,1
+Boston University,University of Michigan,Field,Anthropology,6,2,4
+City College (CUNY),University of Michigan,Field,Anthropology,4,1,3
+Columbia University,University of Michigan,Field,Anthropology,2,1,1
+Cornell University,University of Michigan,Field,Anthropology,2,1,1
+Dartmouth College,University of Michigan,Field,Anthropology,3,1,2
+Indiana University - Bloomington,University of Michigan,Field,Anthropology,3,2,1
+Northwestern University,University of Michigan,Field,Anthropology,2,1,1
+"Pennsylvania State University, The",University of Michigan,Field,Anthropology,3,1,2
+Purdue University,University of Michigan,Field,Anthropology,2,1,1
+"University of Arizona, The",University of Michigan,Field,Anthropology,3,1,2
+"University of California, Los Angeles",University of Michigan,Field,Anthropology,3,1,1
+University of Delaware,University of Michigan,Field,Anthropology,2,1,1
+University of Illinois at Chicago,University of Michigan,Field,Anthropology,2,1,1
+University of Illinois at Urbana-Champaign,University of Michigan,Field,Anthropology,2,1,1
+University of Michigan,University of Michigan,Field,Anthropology,4,3,1
+"University of New Mexico, The",University of Michigan,Field,Anthropology,4,1,3
+University of North Carolina at Chapel Hill,University of Michigan,Field,Anthropology,2,1,1
+"University of Southern Mississippi, The",University of Michigan,Field,Anthropology,3,2,1
+"University of Tennessee, The",University of Michigan,Field,Anthropology,3,1,2
+University of Texas Arlington,University of Michigan,Field,Anthropology,3,1,1
+"University of Texas at Austin, The",University of Michigan,Field,Anthropology,2,1,1
+"University of Utah, The",University of Michigan,Field,Anthropology,2,1,1
+University of Virginia,University of Michigan,Field,Anthropology,3,1,2
+University of Wisconsin - Milwaukee,University of Michigan,Field,Anthropology,2,1,1
+University of Wyoming,University of Michigan,Field,Anthropology,3,1,2
+Wayne State University,University of Michigan,Field,Anthropology,4,3,1
+Western Michigan University,University of Michigan,Field,Anthropology,2,1,1
+North Dakota State University,"University of Minnesota, Twin Cities",Field,Anthropology,2,1,1
+University of Oklahoma,"University of Minnesota, Twin Cities",Field,Anthropology,2,1,1
+University of Rhode Island,"University of Minnesota, Twin Cities",Field,Anthropology,3,1,2
+"University of Mississippi, The",University of Missouri,Field,Anthropology,3,1,2
+Washington State University,University of Missouri,Field,Anthropology,2,1,1
+"University of Arizona, The","University of New Mexico, The",Field,Anthropology,4,2,2
+University of Missouri,"University of New Mexico, The",Field,Anthropology,4,2,2
+"University of New Mexico, The","University of New Mexico, The",Field,Anthropology,2,1,1
+University of Oklahoma,"University of New Mexico, The",Field,Anthropology,3,1,1
+"University of Utah, The","University of New Mexico, The",Field,Anthropology,3,2,1
+"University of Arizona, The",University of North Carolina at Chapel Hill,Field,Anthropology,2,1,1
+"University of California, Santa Barbara",University of North Carolina at Chapel Hill,Field,Anthropology,2,1,1
+University of Colorado Boulder,University of North Carolina at Chapel Hill,Field,Anthropology,2,1,1
+"University of Tennessee, The",University of North Carolina at Chapel Hill,Field,Anthropology,2,1,1
+North Dakota State University,University of Notre Dame,Field,Anthropology,3,1,2
+University of Nebraska - Lincoln,University of Oklahoma,Field,Anthropology,2,1,1
+University of Delaware,University of Oregon,Field,Anthropology,2,1,1
+University of Idaho,University of Oregon,Field,Anthropology,3,2,1
+Ball State University,University of Pennsylvania,Field,Anthropology,2,1,1
+University of Central Florida,University of Pennsylvania,Field,Anthropology,3,1,2
+University of Colorado Boulder,University of Pennsylvania,Field,Anthropology,4,1,2
+University of Michigan,University of Pennsylvania,Field,Anthropology,3,1,2
+University of Nebraska - Lincoln,University of Pennsylvania,Field,Anthropology,2,1,1
+"University of Nevada, Las Vegas",University of Pennsylvania,Field,Anthropology,2,1,1
+University of North Carolina at Chapel Hill,University of Pennsylvania,Field,Anthropology,2,1,1
+University of Oregon,University of Pennsylvania,Field,Anthropology,2,1,1
+University of Virginia,University of Pennsylvania,Field,Anthropology,2,1,1
+Washington State University,University of Pennsylvania,Field,Anthropology,2,1,1
+"Binghamton University, State University of New York",University of Pittsburgh,Field,Anthropology,2,1,1
+John Jay College of Criminal Justice (CUNY),University of Pittsburgh,Field,Anthropology,2,1,1
+North Carolina State University,"University of Tennessee, The",Field,Anthropology,2,1,1
+Texas State University,"University of Tennessee, The",Field,Anthropology,3,1,2
+University of South Florida,"University of Tennessee, The",Field,Anthropology,2,1,1
+Indiana University - Bloomington,"University of Texas at Austin, The",Field,Anthropology,3,1,2
+Michigan State University,"University of Texas at Austin, The",Field,Anthropology,2,1,1
+North Carolina State University,"University of Texas at Austin, The",Field,Anthropology,3,2,1
+Oregon State University,"University of Texas at Austin, The",Field,Anthropology,2,1,1
+Texas A&M University,"University of Texas at Austin, The",Field,Anthropology,4,1,3
+Texas State University,"University of Texas at Austin, The",Field,Anthropology,3,1,1
+Texas Tech University,"University of Texas at Austin, The",Field,Anthropology,3,1,2
+"University at Albany, State University of New York","University of Texas at Austin, The",Field,Anthropology,2,1,1
+"University of Arizona, The","University of Texas at Austin, The",Field,Anthropology,2,1,1
+"University of California, Santa Cruz","University of Texas at Austin, The",Field,Anthropology,2,1,1
+University of Colorado Boulder,"University of Texas at Austin, The",Field,Anthropology,4,2,2
+University of Illinois at Urbana-Champaign,"University of Texas at Austin, The",Field,Anthropology,3,2,1
+"University of Mississippi, The","University of Texas at Austin, The",Field,Anthropology,3,2,1
+"University of Texas at Austin, The","University of Texas at Austin, The",Field,Anthropology,3,1,2
+Utah State University,"University of Texas at Austin, The",Field,Anthropology,2,1,1
+"University of Utah, The","University of Utah, The",Field,Anthropology,3,1,2
+Utah State University,"University of Utah, The",Field,Anthropology,6,2,4
+University of Illinois at Urbana-Champaign,University of Virginia,Field,Anthropology,2,1,1
+"Binghamton University, State University of New York",University of Washington,Field,Anthropology,2,1,1
+North Carolina State University,University of Washington,Field,Anthropology,2,1,1
+Ohio University,University of Washington,Field,Anthropology,3,1,2
+"University of Kansas, The",University of Washington,Field,Anthropology,2,1,1
+University of Missouri,University of Washington,Field,Anthropology,2,1,1
+"University of Utah, The",University of Washington,Field,Anthropology,3,2,1
+University of Washington,University of Washington,Field,Anthropology,3,2,1
+North Carolina State University,University of Wisconsin - Madison,Field,Anthropology,3,2,1
+"Ohio State University, The",University of Wisconsin - Madison,Field,Anthropology,2,1,1
+"University at Buffalo, State University of New York",University of Wisconsin - Madison,Field,Anthropology,2,1,1
+University of New Hampshire,University of Wisconsin - Madison,Field,Anthropology,2,1,1
+University of Wisconsin - Madison,University of Wisconsin - Madison,Field,Anthropology,2,1,1
+Michigan State University,University of Wisconsin - Milwaukee,Field,Anthropology,2,1,1
+University of Central Florida,Vanderbilt University,Field,Anthropology,2,1,1
+Vanderbilt University,Vanderbilt University,Field,Anthropology,2,1,1
+North Carolina State University,Washington State University,Field,Anthropology,3,1,2
+University of Idaho,Washington State University,Field,Anthropology,6,3,3
+University of Illinois at Urbana-Champaign,Washington University in St. Louis,Field,Anthropology,2,1,1
+"University of Toledo, The",Wayne State University,Field,Anthropology,2,1,1
+City College (CUNY),Yale University,Field,Anthropology,3,2,1
+George Washington University,Yale University,Field,Anthropology,2,1,1
+Indiana University - Bloomington,Yale University,Field,Anthropology,2,1,1
+Princeton University,Yale University,Field,Anthropology,4,3,1
+"University at Albany, State University of New York",Yale University,Field,Anthropology,2,1,1
+"University of California, Berkeley",Yale University,Field,Anthropology,3,1,2
+Washington University in St. Louis,Yale University,Field,Anthropology,2,1,1

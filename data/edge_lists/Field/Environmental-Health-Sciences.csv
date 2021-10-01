@@ -1,0 +1,69 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+Boston University,Boston University,Field,Environmental Health Sciences,5,4,1
+Case Western Reserve University,Case Western Reserve University,Field,Environmental Health Sciences,13,5,4
+Kent State University,Case Western Reserve University,Field,Environmental Health Sciences,3,2,1
+New York University,"City University of New York, The",Field,Environmental Health Sciences,2,1,1
+Colorado State University,Colorado State University,Field,Environmental Health Sciences,12,5,7
+University of Colorado Denver,Colorado State University,Field,Environmental Health Sciences,4,1,3
+Columbia University,Columbia University,Field,Environmental Health Sciences,5,2,2
+University of Massachusetts Amherst,Columbia University,Field,Environmental Health Sciences,2,1,1
+New York University,Cornell University,Field,Environmental Health Sciences,3,2,1
+Emory University,Emory University,Field,Environmental Health Sciences,6,1,5
+Boston University,Harvard University,Field,Environmental Health Sciences,7,4,3
+Columbia University,Harvard University,Field,Environmental Health Sciences,3,1,1
+Emory University,Harvard University,Field,Environmental Health Sciences,5,2,2
+Harvard University,Harvard University,Field,Environmental Health Sciences,6,1,5
+Johns Hopkins University,Harvard University,Field,Environmental Health Sciences,3,1,2
+New York University,Harvard University,Field,Environmental Health Sciences,2,1,1
+University of Massachusetts Lowell,Harvard University,Field,Environmental Health Sciences,5,2,3
+University of Michigan,Harvard University,Field,Environmental Health Sciences,5,1,2
+Columbia University,Johns Hopkins University,Field,Environmental Health Sciences,3,1,2
+George Washington University,Johns Hopkins University,Field,Environmental Health Sciences,4,2,2
+Johns Hopkins University,Johns Hopkins University,Field,Environmental Health Sciences,21,10,10
+New York University,Johns Hopkins University,Field,Environmental Health Sciences,2,1,1
+University of Washington,Michigan State University,Field,Environmental Health Sciences,2,1,1
+"University of Montana, Missoula",Montana State University,Field,Environmental Health Sciences,2,1,1
+Johns Hopkins University,New York University,Field,Environmental Health Sciences,2,1,1
+New York University,New York University,Field,Environmental Health Sciences,9,2,5
+Old Dominion University,Old Dominion University,Field,Environmental Health Sciences,3,2,1
+University of Pittsburgh,"Pennsylvania State University, The",Field,Environmental Health Sciences,2,1,1
+"University at Albany, State University of New York",Rensselaer Polytechnic Institute,Field,Environmental Health Sciences,2,1,1
+Colorado State University,Texas A&M University,Field,Environmental Health Sciences,3,2,1
+East Carolina University,Texas A&M University,Field,Environmental Health Sciences,3,1,1
+Texas A&M University,Texas A&M University,Field,Environmental Health Sciences,5,1,3
+Texas Tech University,Texas Tech University,Field,Environmental Health Sciences,3,2,1
+Harvard University,Tufts University,Field,Environmental Health Sciences,2,1,1
+Tufts University,Tufts University,Field,Environmental Health Sciences,4,1,3
+Tulane University,Tulane University,Field,Environmental Health Sciences,5,1,4
+Kent State University,"University of Akron, The",Field,Environmental Health Sciences,3,2,1
+East Carolina University,"University of Alabama, The",Field,Environmental Health Sciences,2,1,1
+"University of Cincinnati, The","University of Cincinnati, The",Field,Environmental Health Sciences,10,3,5
+Harvard University,University of Connecticut,Field,Environmental Health Sciences,2,1,1
+"University of Montana, Missoula",University of Delaware,Field,Environmental Health Sciences,2,1,1
+University of Illinois at Chicago,University of Illinois at Chicago,Field,Environmental Health Sciences,11,3,8
+"University of Iowa, The","University of Iowa, The",Field,Environmental Health Sciences,8,2,5
+University of Massachusetts Amherst,University of Massachusetts Amherst,Field,Environmental Health Sciences,2,1,1
+University of Massachusetts Lowell,University of Massachusetts Lowell,Field,Environmental Health Sciences,5,3,2
+University of Michigan,University of Michigan,Field,Environmental Health Sciences,10,8,2
+University of Washington,University of Michigan,Field,Environmental Health Sciences,2,1,1
+"University of Minnesota, Twin Cities","University of Minnesota, Twin Cities",Field,Environmental Health Sciences,5,3,2
+"University of Montana, Missoula","University of Montana, Missoula",Field,Environmental Health Sciences,6,1,4
+"University of Nevada, Las Vegas","University of Nevada, Reno",Field,Environmental Health Sciences,2,1,1
+Colorado State University,"University of New Mexico, The",Field,Environmental Health Sciences,4,1,1
+Drexel University,University of North Carolina at Chapel Hill,Field,Environmental Health Sciences,3,1,1
+East Carolina University,University of North Carolina at Chapel Hill,Field,Environmental Health Sciences,2,1,1
+Johns Hopkins University,University of North Carolina at Chapel Hill,Field,Environmental Health Sciences,9,4,3
+Kent State University,University of North Carolina at Chapel Hill,Field,Environmental Health Sciences,3,1,2
+University of Colorado Denver,University of North Carolina at Chapel Hill,Field,Environmental Health Sciences,2,1,1
+"University of Iowa, The",University of North Carolina at Chapel Hill,Field,Environmental Health Sciences,2,1,1
+University of Michigan,University of North Carolina at Chapel Hill,Field,Environmental Health Sciences,2,1,1
+East Carolina University,"University of North Carolina at Greensboro, The",Field,Environmental Health Sciences,2,1,1
+University of Oklahoma,University of Oklahoma,Field,Environmental Health Sciences,4,1,3
+Case Western Reserve University,University of Pittsburgh,Field,Environmental Health Sciences,2,1,1
+Kent State University,University of Pittsburgh,Field,Environmental Health Sciences,2,1,1
+University of Rochester,University of Rochester,Field,Environmental Health Sciences,7,3,4
+"University of Nevada, Las Vegas",University of South Carolina,Field,Environmental Health Sciences,2,1,1
+University of South Florida,University of South Florida,Field,Environmental Health Sciences,4,2,2
+"University of Montana, Missoula","University of Texas Health Science Center at Houston, The",Field,Environmental Health Sciences,2,1,1
+University of Washington,University of Washington,Field,Environmental Health Sciences,8,3,4
+"University at Albany, State University of New York",Yale University,Field,Environmental Health Sciences,2,1,1

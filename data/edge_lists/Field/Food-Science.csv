@@ -1,0 +1,82 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+Alabama A&M University,Alabama A&M University,Field,Food Science,7,2,1
+Clemson University,Clemson University,Field,Food Science,5,1,4
+Colorado State University,Colorado State University,Field,Food Science,9,5,4
+University of Kentucky,Colorado State University,Field,Food Science,2,1,1
+Cornell University,Cornell University,Field,Food Science,11,2,8
+Iowa State University,Cornell University,Field,Food Science,3,2,1
+Michigan State University,Cornell University,Field,Food Science,2,1,1
+University of Delaware,Cornell University,Field,Food Science,3,1,1
+University of Massachusetts Amherst,Cornell University,Field,Food Science,2,1,1
+University of Wisconsin - Madison,Cornell University,Field,Food Science,2,1,1
+Virginia Polytechnic Institute and State University,Cornell University,Field,Food Science,3,1,2
+Florida A&M University,Florida State University,Field,Food Science,4,2,1
+Iowa State University,Iowa State University,Field,Food Science,7,2,3
+University of Nebraska - Lincoln,Iowa State University,Field,Food Science,4,2,2
+University of Florida,Kansas State University,Field,Food Science,2,1,1
+University of Kentucky,Kansas State University,Field,Food Science,3,1,2
+Rutgers - New Brunswick,Massachusetts Institute of Technology,Field,Food Science,2,1,1
+Alabama A&M University,Michigan State University,Field,Food Science,2,1,1
+Clemson University,Michigan State University,Field,Food Science,2,1,1
+Iowa State University,Michigan State University,Field,Food Science,2,1,1
+Michigan State University,Michigan State University,Field,Food Science,7,3,4
+University of Illinois at Urbana-Champaign,Michigan State University,Field,Food Science,3,1,2
+Alabama A&M University,Mississippi State University,Field,Food Science,2,1,1
+Mississippi State University,Mississippi State University,Field,Food Science,7,3,2
+Clemson University,North Carolina State University,Field,Food Science,2,1,1
+North Carolina State University,North Carolina State University,Field,Food Science,7,1,5
+University of Florida,North Carolina State University,Field,Food Science,3,1,2
+Texas Tech University,Oklahoma State University,Field,Food Science,5,3,2
+University of Kentucky,Oklahoma State University,Field,Food Science,3,2,1
+Oregon State University,Oregon State University,Field,Food Science,4,2,1
+"University of Vermont, The",Oregon State University,Field,Food Science,2,1,1
+New York University,"Pennsylvania State University, The",Field,Food Science,3,1,1
+Purdue University,"Pennsylvania State University, The",Field,Food Science,3,1,1
+Iowa State University,Purdue University,Field,Food Science,2,1,1
+Michigan State University,Purdue University,Field,Food Science,4,1,2
+Purdue University,Purdue University,Field,Food Science,9,6,2
+Virginia Polytechnic Institute and State University,Purdue University,Field,Food Science,2,1,1
+South Dakota State University,South Dakota State University,Field,Food Science,3,2,1
+Texas A&M University,Texas A&M University,Field,Food Science,3,2,1
+Texas Tech University,Texas A&M University,Field,Food Science,3,1,1
+Texas Woman's University,Texas A&M University,Field,Food Science,2,1,1
+Texas Tech University,Texas Tech University,Field,Food Science,6,1,5
+Mississippi State University,"University of Alabama, The",Field,Food Science,2,1,1
+"University of Minnesota, Twin Cities","University of Arizona, The",Field,Food Science,2,1,1
+"University of Tennessee, The",University of Arkansas,Field,Food Science,2,1,1
+"University of California, Davis","University of California, Berkeley",Field,Food Science,2,1,1
+University of Florida,"University of California, Berkeley",Field,Food Science,2,1,1
+Purdue University,"University of California, Davis",Field,Food Science,3,1,2
+Texas A&M University,"University of California, Davis",Field,Food Science,2,1,1
+"University of California, Davis","University of California, Davis",Field,Food Science,4,1,3
+University of Florida,"University of California, Davis",Field,Food Science,6,2,4
+University of Illinois at Urbana-Champaign,"University of California, Davis",Field,Food Science,5,1,3
+Florida A&M University,University of Florida,Field,Food Science,9,1,5
+University of Florida,University of Florida,Field,Food Science,8,2,5
+University of Georgia,University of Georgia,Field,Food Science,7,4,2
+University of Kentucky,University of Georgia,Field,Food Science,2,1,1
+"University of Tennessee, The",University of Georgia,Field,Food Science,2,1,1
+Michigan State University,University of Illinois at Urbana-Champaign,Field,Food Science,5,2,2
+University of Maryland Eastern Shore,University of Illinois at Urbana-Champaign,Field,Food Science,2,1,1
+University of Kentucky,University of Kentucky,Field,Food Science,11,7,4
+"University of Maine, The","University of Maine, The",Field,Food Science,4,2,2
+"Ohio State University, The",University of Massachusetts Amherst,Field,Food Science,2,1,1
+Rutgers - New Brunswick,University of Massachusetts Amherst,Field,Food Science,2,1,1
+University of Massachusetts Amherst,University of Massachusetts Amherst,Field,Food Science,2,1,1
+"University of Minnesota, Twin Cities","University of Minnesota, Twin Cities",Field,Food Science,6,4,1
+University of Nebraska - Lincoln,University of Nebraska - Lincoln,Field,Food Science,3,1,2
+Southern Illinois University Carbondale,"University of Tennessee, The",Field,Food Science,3,1,1
+University of Florida,"University of Tennessee, The",Field,Food Science,2,1,1
+University of Georgia,"University of Tennessee, The",Field,Food Science,2,1,1
+"University of Tennessee, The","University of Tennessee, The",Field,Food Science,4,2,1
+Virginia Polytechnic Institute and State University,"University of Tennessee, The",Field,Food Science,2,1,1
+Iowa State University,University of Wisconsin - Madison,Field,Food Science,5,1,3
+University of Florida,University of Wisconsin - Madison,Field,Food Science,3,1,2
+University of Georgia,University of Wisconsin - Madison,Field,Food Science,5,1,3
+"University of Minnesota, Twin Cities",University of Wisconsin - Madison,Field,Food Science,4,1,3
+Utah State University,Utah State University,Field,Food Science,7,5,2
+Florida A&M University,Virginia Polytechnic Institute and State University,Field,Food Science,2,1,1
+Southern Illinois University Carbondale,Virginia Polytechnic Institute and State University,Field,Food Science,2,1,1
+Texas A&M University,Virginia Polytechnic Institute and State University,Field,Food Science,2,1,1
+Virginia Polytechnic Institute and State University,Virginia Polytechnic Institute and State University,Field,Food Science,8,4,4
+Wayne State University,Wayne State University,Field,Food Science,3,1,1

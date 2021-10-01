@@ -1,0 +1,184 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+Florida Institute of Technology,Air Force Institute of Technology,Field,Civil Engineering,2,1,1
+Arizona State University,Arizona State University,Field,Civil Engineering,12,3,8
+Clemson University,Arizona State University,Field,Civil Engineering,3,1,2
+Johns Hopkins University,California Institute of Technology,Field,Civil Engineering,2,1,1
+Purdue University,California Institute of Technology,Field,Civil Engineering,4,1,3
+Syracuse University,California Institute of Technology,Field,Civil Engineering,2,1,1
+University of Illinois at Urbana-Champaign,California Institute of Technology,Field,Civil Engineering,2,1,1
+University of Michigan,California Institute of Technology,Field,Civil Engineering,4,1,3
+Washington State University,California Institute of Technology,Field,Civil Engineering,3,1,2
+Carnegie Mellon University,Carnegie Mellon University,Field,Civil Engineering,5,1,3
+Drexel University,Carnegie Mellon University,Field,Civil Engineering,2,1,1
+"University of Texas at Austin, The",Carnegie Mellon University,Field,Civil Engineering,3,1,2
+Virginia Polytechnic Institute and State University,Clemson University,Field,Civil Engineering,3,1,2
+Colorado School of Mines,Colorado School of Mines,Field,Civil Engineering,4,1,3
+University of Colorado Boulder,Columbia University,Field,Civil Engineering,2,1,1
+"University of California, Davis",Cornell University,Field,Civil Engineering,2,1,1
+"University of California, Irvine",Cornell University,Field,Civil Engineering,2,1,1
+University of Illinois at Urbana-Champaign,Cornell University,Field,Civil Engineering,3,1,2
+University of New Hampshire,Cornell University,Field,Civil Engineering,2,1,1
+"University of Tennessee, The",Cornell University,Field,Civil Engineering,2,1,1
+Arizona State University,Georgia Institute of Technology,Field,Civil Engineering,3,2,1
+Clemson University,Georgia Institute of Technology,Field,Civil Engineering,2,1,1
+Georgia Institute of Technology,Georgia Institute of Technology,Field,Civil Engineering,5,1,2
+Tennessee Technological University,Georgia Institute of Technology,Field,Civil Engineering,2,1,1
+Texas A&M University,Georgia Institute of Technology,Field,Civil Engineering,4,1,2
+University of Nebraska - Lincoln,Georgia Institute of Technology,Field,Civil Engineering,2,1,1
+Virginia Polytechnic Institute and State University,Georgia Institute of Technology,Field,Civil Engineering,3,1,1
+Massachusetts Institute of Technology,Harvard University,Field,Civil Engineering,3,1,2
+Tufts University,Harvard University,Field,Civil Engineering,3,1,2
+University of Southern California,Harvard University,Field,Civil Engineering,2,1,1
+George Mason University,Johns Hopkins University,Field,Civil Engineering,2,1,1
+University of Massachusetts Amherst,Johns Hopkins University,Field,Civil Engineering,3,1,2
+Louisiana State University,Louisiana State University,Field,Civil Engineering,4,1,3
+"University of New Orleans, The",Louisiana State University,Field,Civil Engineering,3,1,2
+Carnegie Mellon University,Massachusetts Institute of Technology,Field,Civil Engineering,3,1,1
+George Washington University,Massachusetts Institute of Technology,Field,Civil Engineering,3,1,1
+Massachusetts Institute of Technology,Massachusetts Institute of Technology,Field,Civil Engineering,13,3,10
+North Carolina State University,Massachusetts Institute of Technology,Field,Civil Engineering,3,1,1
+Northwestern University,Massachusetts Institute of Technology,Field,Civil Engineering,3,2,1
+"Ohio State University, The",Massachusetts Institute of Technology,Field,Civil Engineering,3,1,1
+Purdue University,Massachusetts Institute of Technology,Field,Civil Engineering,4,1,3
+"University of California, Berkeley",Massachusetts Institute of Technology,Field,Civil Engineering,3,1,2
+"University of California, Los Angeles",Massachusetts Institute of Technology,Field,Civil Engineering,3,1,2
+University of Illinois at Urbana-Champaign,Massachusetts Institute of Technology,Field,Civil Engineering,2,1,1
+"University of Maryland, College Park",Massachusetts Institute of Technology,Field,Civil Engineering,3,1,2
+"University of Vermont, The",Massachusetts Institute of Technology,Field,Civil Engineering,2,1,1
+University of Washington,Massachusetts Institute of Technology,Field,Civil Engineering,4,1,3
+Michigan State University,Michigan State University,Field,Civil Engineering,5,1,3
+University of North Carolina Charlotte,Michigan State University,Field,Civil Engineering,2,1,1
+"University of Missouri - Kansas City, The",Missouri University of Science and Technology,Field,Civil Engineering,2,1,1
+Montana State University,Montana State University,Field,Civil Engineering,7,4,3
+North Carolina State University,North Carolina State University,Field,Civil Engineering,10,2,8
+University of North Carolina Charlotte,North Carolina State University,Field,Civil Engineering,3,1,2
+Columbia University,Northwestern University,Field,Civil Engineering,3,1,2
+Michigan State University,Northwestern University,Field,Civil Engineering,2,1,1
+University of Colorado Boulder,Northwestern University,Field,Civil Engineering,5,2,2
+University of Illinois at Urbana-Champaign,Northwestern University,Field,Civil Engineering,2,1,1
+University of Pittsburgh,Northwestern University,Field,Civil Engineering,3,1,2
+University of South Carolina,Northwestern University,Field,Civil Engineering,4,1,3
+University of Washington,Northwestern University,Field,Civil Engineering,3,1,1
+Oregon State University,Oregon State University,Field,Civil Engineering,3,1,2
+Johns Hopkins University,Princeton University,Field,Civil Engineering,2,1,1
+Lehigh University,Princeton University,Field,Civil Engineering,2,1,1
+University of Washington,Princeton University,Field,Civil Engineering,2,1,1
+Colorado State University,Purdue University,Field,Civil Engineering,2,1,1
+Iowa State University,Purdue University,Field,Civil Engineering,7,1,5
+North Carolina State University,Purdue University,Field,Civil Engineering,4,1,3
+Oregon State University,Purdue University,Field,Civil Engineering,3,1,2
+"Pennsylvania State University, The",Purdue University,Field,Civil Engineering,4,2,2
+Purdue University,Purdue University,Field,Civil Engineering,9,1,8
+University of Kentucky,Purdue University,Field,Civil Engineering,2,1,1
+West Virginia University,Purdue University,Field,Civil Engineering,5,1,2
+Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,Field,Civil Engineering,2,1,1
+Carnegie Mellon University,Stanford University,Field,Civil Engineering,3,2,1
+Colorado School of Mines,Stanford University,Field,Civil Engineering,2,1,1
+Massachusetts Institute of Technology,Stanford University,Field,Civil Engineering,3,1,2
+Northeastern University,Stanford University,Field,Civil Engineering,3,1,2
+Stanford University,Stanford University,Field,Civil Engineering,9,1,8
+Texas A&M University,Stanford University,Field,Civil Engineering,2,1,1
+"University of California, Berkeley",Stanford University,Field,Civil Engineering,7,3,4
+"University of California, Davis",Stanford University,Field,Civil Engineering,3,1,1
+"University of California, Irvine",Stanford University,Field,Civil Engineering,2,1,1
+University of Colorado Boulder,Stanford University,Field,Civil Engineering,10,3,6
+University of Idaho,Stanford University,Field,Civil Engineering,2,1,1
+University of Notre Dame,Stanford University,Field,Civil Engineering,2,1,1
+University of South Florida,Stanford University,Field,Civil Engineering,2,1,1
+Virginia Polytechnic Institute and State University,Stanford University,Field,Civil Engineering,2,1,1
+Kansas State University,Texas A&M University,Field,Civil Engineering,4,2,2
+Texas A&M Kingsville,Texas A&M University,Field,Civil Engineering,3,1,2
+University of Arkansas,Texas A&M University,Field,Civil Engineering,2,1,1
+Texas Tech University,Texas Tech University,Field,Civil Engineering,6,2,4
+Colorado School of Mines,"University of Arizona, The",Field,Civil Engineering,2,1,1
+Arizona State University,"University of California, Berkeley",Field,Civil Engineering,5,2,3
+California Institute of Technology,"University of California, Berkeley",Field,Civil Engineering,3,1,2
+Cornell University,"University of California, Berkeley",Field,Civil Engineering,3,1,1
+Georgia Institute of Technology,"University of California, Berkeley",Field,Civil Engineering,5,2,3
+Oregon State University,"University of California, Berkeley",Field,Civil Engineering,8,1,7
+Purdue University,"University of California, Berkeley",Field,Civil Engineering,4,2,2
+Texas A&M University,"University of California, Berkeley",Field,Civil Engineering,3,2,1
+"University of California, Berkeley","University of California, Berkeley",Field,Civil Engineering,15,1,13
+"University of California, Irvine","University of California, Berkeley",Field,Civil Engineering,2,1,1
+"University of California, Los Angeles","University of California, Berkeley",Field,Civil Engineering,5,1,2
+University of Colorado Boulder,"University of California, Berkeley",Field,Civil Engineering,3,1,2
+University of Idaho,"University of California, Berkeley",Field,Civil Engineering,2,1,1
+University of Massachusetts Amherst,"University of California, Berkeley",Field,Civil Engineering,4,2,1
+University of Michigan,"University of California, Berkeley",Field,Civil Engineering,4,1,2
+"University of Nevada, Reno","University of California, Berkeley",Field,Civil Engineering,5,1,4
+"University of Texas at Austin, The","University of California, Berkeley",Field,Civil Engineering,11,2,9
+University of Washington,"University of California, Berkeley",Field,Civil Engineering,9,3,6
+University of Wisconsin - Madison,"University of California, Berkeley",Field,Civil Engineering,4,3,1
+"University of California, Davis","University of California, Davis",Field,Civil Engineering,3,2,1
+University of Colorado Boulder,"University of California, Davis",Field,Civil Engineering,2,1,1
+University of Washington,"University of California, Davis",Field,Civil Engineering,2,1,1
+Utah State University,"University of California, Davis",Field,Civil Engineering,3,1,1
+Iowa State University,"University of California, Irvine",Field,Civil Engineering,3,2,1
+University of Massachusetts Amherst,"University of California, Irvine",Field,Civil Engineering,2,1,1
+"University of California, Irvine","University of California, Los Angeles",Field,Civil Engineering,4,1,2
+University of Massachusetts Amherst,"University of California, Los Angeles",Field,Civil Engineering,2,1,1
+University of Southern California,"University of California, Los Angeles",Field,Civil Engineering,3,1,2
+University of Nebraska - Lincoln,"University of California, San Diego",Field,Civil Engineering,2,1,1
+"University of Cincinnati, The","University of Cincinnati, The",Field,Civil Engineering,7,1,5
+Iowa State University,University of Colorado Boulder,Field,Civil Engineering,4,2,2
+University of Colorado Boulder,University of Colorado Boulder,Field,Civil Engineering,7,1,5
+Washington State University,University of Colorado Boulder,Field,Civil Engineering,2,1,1
+Florida Institute of Technology,University of Florida,Field,Civil Engineering,2,1,1
+University of Florida,University of Florida,Field,Civil Engineering,8,2,6
+Drexel University,University of Illinois at Urbana-Champaign,Field,Civil Engineering,3,1,1
+Oregon State University,University of Illinois at Urbana-Champaign,Field,Civil Engineering,3,1,2
+"Pennsylvania State University, The",University of Illinois at Urbana-Champaign,Field,Civil Engineering,5,1,1
+Texas Tech University,University of Illinois at Urbana-Champaign,Field,Civil Engineering,3,1,1
+"University at Buffalo, State University of New York",University of Illinois at Urbana-Champaign,Field,Civil Engineering,4,1,2
+University of Colorado Denver,University of Illinois at Urbana-Champaign,Field,Civil Engineering,4,1,2
+University of Connecticut,University of Illinois at Urbana-Champaign,Field,Civil Engineering,2,1,1
+University of Hawaii,University of Illinois at Urbana-Champaign,Field,Civil Engineering,2,1,1
+University of Michigan,University of Illinois at Urbana-Champaign,Field,Civil Engineering,5,2,3
+"University of Minnesota, Twin Cities",University of Illinois at Urbana-Champaign,Field,Civil Engineering,5,3,2
+"University of Texas at Austin, The",University of Illinois at Urbana-Champaign,Field,Civil Engineering,7,2,5
+Howard University,"University of Maryland, College Park",Field,Civil Engineering,2,1,1
+"Pennsylvania State University, The","University of Maryland, College Park",Field,Civil Engineering,2,1,1
+University of Oklahoma,University of Massachusetts Amherst,Field,Civil Engineering,2,1,1
+Rice University,University of Michigan,Field,Civil Engineering,2,1,1
+Texas A&M University,University of Michigan,Field,Civil Engineering,3,1,2
+"University of California, Davis",University of Michigan,Field,Civil Engineering,4,1,3
+University of Virginia,University of Michigan,Field,Civil Engineering,3,1,2
+Wayne State University,University of Michigan,Field,Civil Engineering,2,1,1
+Michigan Technological University,"University of Minnesota, Twin Cities",Field,Civil Engineering,2,1,1
+"University of Iowa, The","University of Minnesota, Twin Cities",Field,Civil Engineering,3,1,2
+"University of Minnesota, Twin Cities","University of Minnesota, Twin Cities",Field,Civil Engineering,9,2,7
+University of New Hampshire,University of New Hampshire,Field,Civil Engineering,3,2,1
+Virginia Polytechnic Institute and State University,University of North Carolina at Chapel Hill,Field,Civil Engineering,3,1,2
+University of Pittsburgh,University of Pittsburgh,Field,Civil Engineering,6,1,5
+Clemson University,"University of Texas at Austin, The",Field,Civil Engineering,2,1,1
+Colorado State University,"University of Texas at Austin, The",Field,Civil Engineering,3,1,2
+George Mason University,"University of Texas at Austin, The",Field,Civil Engineering,2,1,1
+North Carolina State University,"University of Texas at Austin, The",Field,Civil Engineering,4,1,3
+"Ohio State University, The","University of Texas at Austin, The",Field,Civil Engineering,2,1,1
+Oklahoma State University,"University of Texas at Austin, The",Field,Civil Engineering,6,1,5
+Portland State University,"University of Texas at Austin, The",Field,Civil Engineering,3,1,2
+Stanford University,"University of Texas at Austin, The",Field,Civil Engineering,2,1,1
+University of Central Florida,"University of Texas at Austin, The",Field,Civil Engineering,3,1,1
+University of Illinois at Urbana-Champaign,"University of Texas at Austin, The",Field,Civil Engineering,3,1,1
+"University of Maryland, College Park","University of Texas at Austin, The",Field,Civil Engineering,3,1,1
+University of Missouri,"University of Texas at Austin, The",Field,Civil Engineering,4,1,3
+University of Nebraska - Lincoln,"University of Texas at Austin, The",Field,Civil Engineering,2,1,1
+"University of Nevada, Las Vegas","University of Texas at Austin, The",Field,Civil Engineering,5,1,1
+University of Texas Arlington,"University of Texas at Austin, The",Field,Civil Engineering,3,1,2
+University of Wyoming,"University of Texas at Austin, The",Field,Civil Engineering,3,1,2
+Virginia Polytechnic Institute and State University,"University of Texas at Austin, The",Field,Civil Engineering,3,2,1
+Tennessee Technological University,"University of Utah, The",Field,Civil Engineering,2,1,1
+"University of Vermont, The","University of Vermont, The",Field,Civil Engineering,3,1,2
+Oregon State University,University of Washington,Field,Civil Engineering,3,1,2
+University of Illinois at Urbana-Champaign,University of Washington,Field,Civil Engineering,2,1,1
+University of Wyoming,University of Washington,Field,Civil Engineering,2,1,1
+Washington State University,University of Washington,Field,Civil Engineering,3,1,1
+Michigan State University,University of Wisconsin - Madison,Field,Civil Engineering,3,1,2
+North Carolina State University,University of Wisconsin - Madison,Field,Civil Engineering,2,1,1
+Utah State University,Utah State University,Field,Civil Engineering,12,1,11
+Vanderbilt University,Vanderbilt University,Field,Civil Engineering,5,2,2
+Colorado State University,Virginia Polytechnic Institute and State University,Field,Civil Engineering,2,1,1
+University of Michigan,Virginia Polytechnic Institute and State University,Field,Civil Engineering,3,2,1
+Utah State University,Virginia Polytechnic Institute and State University,Field,Civil Engineering,4,1,3
+Washington State University,Washington State University,Field,Civil Engineering,8,1,5
+University of Pittsburgh,Yale University,Field,Civil Engineering,2,1,1

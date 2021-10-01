@@ -1,0 +1,258 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+Arizona State University,Arizona State University,Field,Biochemistry,5,1,3
+"University at Buffalo, State University of New York",Baylor College of Medicine,Field,Biochemistry,2,1,1
+Boston University,Boston University,Field,Biochemistry,14,3,9
+University of Massachusetts Medical School,Boston University,Field,Biochemistry,4,1,2
+"University of Texas Medical Branch, The",Boston University,Field,Biochemistry,2,1,1
+Brigham Young University,Brigham Young University,Field,Biochemistry,3,1,2
+Brown University,Brown University,Field,Biochemistry,2,1,1
+"University of California, Los Angeles",California Institute of Technology,Field,Biochemistry,4,1,3
+University of Colorado Boulder,California Institute of Technology,Field,Biochemistry,4,1,3
+University of Southern California,California Institute of Technology,Field,Biochemistry,4,1,3
+"University of Texas at Austin, The",California Institute of Technology,Field,Biochemistry,3,1,2
+University of Wisconsin - Madison,California Institute of Technology,Field,Biochemistry,2,1,1
+Georgetown University,"City University of New York, The",Field,Biochemistry,3,1,1
+"University of Southern Mississippi, The",Clemson University,Field,Biochemistry,2,1,1
+Georgia Institute of Technology,Columbia University,Field,Biochemistry,2,1,1
+Rutgers - New Brunswick,Columbia University,Field,Biochemistry,2,1,1
+University of Delaware,Columbia University,Field,Biochemistry,6,2,4
+Miami University,Cornell University,Field,Biochemistry,3,1,2
+"Ohio State University, The",Cornell University,Field,Biochemistry,2,1,1
+SUNY Upstate Medical University,Cornell University,Field,Biochemistry,2,1,1
+"University of California, San Diego",Cornell University,Field,Biochemistry,2,1,1
+"University of Minnesota, Twin Cities",Cornell University,Field,Biochemistry,3,1,2
+University of North Carolina at Chapel Hill,Cornell University,Field,Biochemistry,3,1,2
+University of Rochester,Cornell University,Field,Biochemistry,3,1,1
+"University of Texas at Austin, The",Cornell University,Field,Biochemistry,2,1,1
+University of Virginia,Cornell University,Field,Biochemistry,2,1,1
+Rutgers - New Brunswick,Dartmouth College,Field,Biochemistry,2,1,1
+University of Missouri,Duke University,Field,Biochemistry,2,1,1
+University of North Carolina at Chapel Hill,Duke University,Field,Biochemistry,3,1,2
+University of South Carolina,Emory University,Field,Biochemistry,2,1,1
+Georgetown University,Georgetown University,Field,Biochemistry,2,1,1
+"University at Buffalo, State University of New York",Georgetown University,Field,Biochemistry,2,1,1
+Boston University,Harvard University,Field,Biochemistry,3,2,1
+Brandeis University,Harvard University,Field,Biochemistry,2,1,1
+Brown University,Harvard University,Field,Biochemistry,6,3,3
+Columbia University,Harvard University,Field,Biochemistry,3,1,2
+Dartmouth College,Harvard University,Field,Biochemistry,4,1,3
+Duke University,Harvard University,Field,Biochemistry,4,1,2
+Harvard University,Harvard University,Field,Biochemistry,14,2,12
+Northwestern University,Harvard University,Field,Biochemistry,3,1,2
+Rutgers - New Brunswick,Harvard University,Field,Biochemistry,3,1,2
+"University of California, San Francisco",Harvard University,Field,Biochemistry,4,1,3
+"University of California, Santa Barbara",Harvard University,Field,Biochemistry,2,1,1
+University of Delaware,Harvard University,Field,Biochemistry,3,1,2
+University of Massachusetts Amherst,Harvard University,Field,Biochemistry,2,1,1
+University of Michigan,Harvard University,Field,Biochemistry,3,1,1
+University of Notre Dame,Harvard University,Field,Biochemistry,2,1,1
+University of Pennsylvania,Harvard University,Field,Biochemistry,2,1,1
+University of South Carolina,Harvard University,Field,Biochemistry,2,1,1
+"University of Tennessee, The",Harvard University,Field,Biochemistry,3,1,1
+"University of Texas at Austin, The",Harvard University,Field,Biochemistry,6,1,5
+Yale University,Harvard University,Field,Biochemistry,3,1,1
+Medical University of South Carolina,Iowa State University,Field,Biochemistry,2,1,1
+Georgia Institute of Technology,Johns Hopkins University,Field,Biochemistry,2,1,1
+Johns Hopkins University,Johns Hopkins University,Field,Biochemistry,7,3,3
+Kansas State University,Johns Hopkins University,Field,Biochemistry,2,1,1
+Texas State University,Johns Hopkins University,Field,Biochemistry,2,1,1
+Tulane University,Johns Hopkins University,Field,Biochemistry,2,1,1
+"University of California, San Diego",Johns Hopkins University,Field,Biochemistry,2,1,1
+University of Georgia,Johns Hopkins University,Field,Biochemistry,4,1,3
+"University of Iowa, The",Johns Hopkins University,Field,Biochemistry,2,1,1
+University of Kentucky,Johns Hopkins University,Field,Biochemistry,3,1,2
+University of Washington,Johns Hopkins University,Field,Biochemistry,2,1,1
+Boston University,Massachusetts Institute of Technology,Field,Biochemistry,3,1,2
+Montana State University,Massachusetts Institute of Technology,Field,Biochemistry,2,1,1
+Northwestern University,Massachusetts Institute of Technology,Field,Biochemistry,5,1,4
+"Ohio State University, The",Massachusetts Institute of Technology,Field,Biochemistry,4,1,2
+"Pennsylvania State University, The",Massachusetts Institute of Technology,Field,Biochemistry,2,1,1
+"University of California, Los Angeles",Massachusetts Institute of Technology,Field,Biochemistry,4,2,2
+"University of California, San Diego",Massachusetts Institute of Technology,Field,Biochemistry,4,1,3
+"University of California, San Francisco",Massachusetts Institute of Technology,Field,Biochemistry,2,1,1
+University of Colorado Boulder,Massachusetts Institute of Technology,Field,Biochemistry,8,1,7
+University of Denver,Massachusetts Institute of Technology,Field,Biochemistry,2,1,1
+University of Massachusetts Medical School,Massachusetts Institute of Technology,Field,Biochemistry,2,1,1
+University of South Carolina,Massachusetts Institute of Technology,Field,Biochemistry,4,1,3
+"University of Utah, The",Massachusetts Institute of Technology,Field,Biochemistry,2,1,1
+University of Wisconsin - Madison,Massachusetts Institute of Technology,Field,Biochemistry,2,1,1
+Michigan State University,Michigan State University,Field,Biochemistry,9,3,5
+Ohio University,Michigan State University,Field,Biochemistry,3,2,1
+University of Colorado Boulder,Michigan State University,Field,Biochemistry,2,1,1
+University of Missouri,Michigan State University,Field,Biochemistry,3,1,1
+"University of Nevada, Reno",Michigan State University,Field,Biochemistry,2,1,1
+University of Oklahoma,Michigan State University,Field,Biochemistry,2,1,1
+Mississippi State University,Mississippi State University,Field,Biochemistry,9,2,6
+"University of Montana, Missoula",Montana State University,Field,Biochemistry,6,1,4
+"University of New Mexico, The",New Mexico State University,Field,Biochemistry,2,1,1
+Weill Medical College of Cornell University,New York University,Field,Biochemistry,2,1,1
+Georgia Institute of Technology,Northwestern University,Field,Biochemistry,2,1,1
+Northwestern University,Northwestern University,Field,Biochemistry,3,1,2
+University of South Carolina,Northwestern University,Field,Biochemistry,2,1,1
+"University at Buffalo, State University of New York","Ohio State University, The",Field,Biochemistry,3,1,2
+University of Notre Dame,"Ohio State University, The",Field,Biochemistry,2,1,1
+Oklahoma State University,Oklahoma State University,Field,Biochemistry,2,1,1
+Oregon Health & Science University,Oregon Health & Science University,Field,Biochemistry,5,1,3
+Oregon State University,Oregon State University,Field,Biochemistry,3,1,2
+Saint Louis University,"Pennsylvania State University, The",Field,Biochemistry,2,1,1
+"University of California, Los Angeles",Princeton University,Field,Biochemistry,3,1,2
+University of Houston,Princeton University,Field,Biochemistry,2,1,1
+"University of Montana, Missoula",Princeton University,Field,Biochemistry,3,1,2
+"University of Texas Health Science Center at Houston, The",Princeton University,Field,Biochemistry,2,1,1
+Miami University,Purdue University,Field,Biochemistry,3,1,1
+North Dakota State University,Purdue University,Field,Biochemistry,3,1,2
+"Ohio State University, The",Purdue University,Field,Biochemistry,3,1,1
+University of Michigan,Purdue University,Field,Biochemistry,2,1,1
+"University of Texas at Austin, The",Purdue University,Field,Biochemistry,4,2,2
+Vanderbilt University,Purdue University,Field,Biochemistry,2,1,1
+Virginia Polytechnic Institute and State University,Purdue University,Field,Biochemistry,3,1,2
+University of Houston,Rice University,Field,Biochemistry,3,2,1
+University of Missouri,Saint Louis University,Field,Biochemistry,2,1,1
+Stanford University,Stanford University,Field,Biochemistry,6,1,4
+"University of California, Irvine",Stanford University,Field,Biochemistry,2,1,1
+"University of California, San Francisco",Stanford University,Field,Biochemistry,2,1,1
+"University of Cincinnati, The",Stanford University,Field,Biochemistry,2,1,1
+"University of Iowa, The",Stanford University,Field,Biochemistry,2,1,1
+"University of Kansas, The",Stanford University,Field,Biochemistry,3,2,1
+"University of Maryland, College Park",Stanford University,Field,Biochemistry,3,1,2
+University of Notre Dame,Stanford University,Field,Biochemistry,3,1,1
+"University of Texas at Austin, The",Stanford University,Field,Biochemistry,11,1,10
+Stevens Institute of Technology,Stevens Institute of Technology,Field,Biochemistry,3,2,1
+Rutgers - New Brunswick,"Stony Brook University, State University of New York",Field,Biochemistry,2,1,1
+Michigan State University,Texas A&M University,Field,Biochemistry,2,1,1
+Arizona State University,Texas Tech University,Field,Biochemistry,2,1,1
+Boston University,Thomas Jefferson University,Field,Biochemistry,2,1,1
+"University at Buffalo, State University of New York",Tufts University,Field,Biochemistry,2,1,1
+Virginia Commonwealth University,Tulane University,Field,Biochemistry,2,1,1
+"University at Buffalo, State University of New York","University at Buffalo, State University of New York",Field,Biochemistry,32,13,17
+"University of Alabama at Birmingham, The","University of Alabama at Birmingham, The",Field,Biochemistry,4,1,2
+University of Alaska Fairbanks,University of Alaska Fairbanks,Field,Biochemistry,3,1,1
+Purdue University,"University of Arizona, The",Field,Biochemistry,2,1,1
+Georgia Institute of Technology,"University of California, Berkeley",Field,Biochemistry,6,3,3
+"Pennsylvania State University, The","University of California, Berkeley",Field,Biochemistry,3,1,2
+San Diego State University,"University of California, Berkeley",Field,Biochemistry,3,1,2
+Southern Illinois University Carbondale,"University of California, Berkeley",Field,Biochemistry,2,1,1
+"University of California, Irvine","University of California, Berkeley",Field,Biochemistry,4,2,1
+"University of California, Los Angeles","University of California, Berkeley",Field,Biochemistry,6,1,3
+"University of California, San Diego","University of California, Berkeley",Field,Biochemistry,6,1,5
+"University of Chicago, The","University of California, Berkeley",Field,Biochemistry,2,1,1
+University of Colorado Boulder,"University of California, Berkeley",Field,Biochemistry,7,3,4
+"University of Maryland, College Park","University of California, Berkeley",Field,Biochemistry,3,1,2
+University of Southern California,"University of California, Berkeley",Field,Biochemistry,3,1,2
+"University of Texas at Austin, The","University of California, Berkeley",Field,Biochemistry,3,2,1
+"University of Toledo, The","University of California, Berkeley",Field,Biochemistry,2,1,1
+University of Washington,"University of California, Berkeley",Field,Biochemistry,2,1,1
+George Mason University,"University of California, Davis",Field,Biochemistry,3,1,2
+Michigan State University,"University of California, Davis",Field,Biochemistry,3,1,1
+"University of Toledo, The","University of California, Davis",Field,Biochemistry,2,1,1
+University of Delaware,"University of California, Irvine",Field,Biochemistry,3,1,2
+Michigan State University,"University of California, Los Angeles",Field,Biochemistry,5,2,3
+Oregon Health & Science University,"University of California, Los Angeles",Field,Biochemistry,2,1,1
+"University of California, Los Angeles","University of California, Los Angeles",Field,Biochemistry,7,3,3
+"University of California, Santa Barbara","University of California, Los Angeles",Field,Biochemistry,2,1,1
+"University of Texas at Austin, The","University of California, Los Angeles",Field,Biochemistry,2,1,1
+Arizona State University,"University of California, San Diego",Field,Biochemistry,3,1,2
+"University of California, Irvine","University of California, San Diego",Field,Biochemistry,5,1,4
+University of North Carolina at Chapel Hill,"University of California, San Diego",Field,Biochemistry,4,2,1
+"University of Texas at Austin, The","University of California, San Diego",Field,Biochemistry,2,1,1
+University of Wisconsin - Madison,"University of California, San Diego",Field,Biochemistry,5,1,4
+"University of California, San Diego","University of California, San Francisco",Field,Biochemistry,3,1,1
+"University of California, San Francisco","University of California, San Francisco",Field,Biochemistry,9,1,6
+University of Massachusetts Medical School,"University of California, San Francisco",Field,Biochemistry,4,1,3
+"University of Utah, The","University of California, San Francisco",Field,Biochemistry,3,1,2
+Yale University,"University of California, San Francisco",Field,Biochemistry,2,1,1
+"University of California, Irvine","University of Chicago, The",Field,Biochemistry,3,1,1
+"University of Kansas, The","University of Chicago, The",Field,Biochemistry,2,1,1
+"University of Minnesota, Twin Cities","University of Chicago, The",Field,Biochemistry,2,1,1
+"University of Texas Medical Branch, The","University of Chicago, The",Field,Biochemistry,3,1,2
+Vanderbilt University,"University of Cincinnati, The",Field,Biochemistry,2,1,1
+University of Colorado Boulder,University of Colorado Boulder,Field,Biochemistry,10,2,6
+"University of Utah, The",University of Colorado Boulder,Field,Biochemistry,2,1,1
+"University of Montana, Missoula",University of Delaware,Field,Biochemistry,2,1,1
+University of Georgia,University of Georgia,Field,Biochemistry,3,1,2
+Ohio University,University of Houston,Field,Biochemistry,2,1,1
+University of Houston,University of Houston,Field,Biochemistry,3,1,2
+University of Arkansas for Medical Sciences,University of Illinois at Chicago,Field,Biochemistry,2,1,1
+Georgia Institute of Technology,University of Illinois at Urbana-Champaign,Field,Biochemistry,2,1,1
+Michigan State University,University of Illinois at Urbana-Champaign,Field,Biochemistry,2,1,1
+"Ohio State University, The",University of Illinois at Urbana-Champaign,Field,Biochemistry,4,1,3
+Rush University,University of Illinois at Urbana-Champaign,Field,Biochemistry,3,1,2
+Texas A&M University,University of Illinois at Urbana-Champaign,Field,Biochemistry,3,2,1
+University of Arkansas,University of Illinois at Urbana-Champaign,Field,Biochemistry,2,1,1
+University of Illinois at Urbana-Champaign,University of Illinois at Urbana-Champaign,Field,Biochemistry,2,1,1
+"University of Maryland, College Park",University of Illinois at Urbana-Champaign,Field,Biochemistry,3,1,2
+University of Notre Dame,University of Illinois at Urbana-Champaign,Field,Biochemistry,3,1,1
+University of Oklahoma,University of Illinois at Urbana-Champaign,Field,Biochemistry,2,1,1
+"University of Tennessee, The",University of Illinois at Urbana-Champaign,Field,Biochemistry,2,1,1
+"University of Montana, Missoula","University of Iowa, The",Field,Biochemistry,2,1,1
+Southern Illinois University Carbondale,"University of Maryland Baltimore, The",Field,Biochemistry,2,1,1
+Florida International University,University of Miami,Field,Biochemistry,2,1,1
+Brigham Young University,University of Michigan,Field,Biochemistry,3,1,2
+Louisiana State University School of Medicine in New Orleans,University of Michigan,Field,Biochemistry,2,1,1
+Ohio University,University of Michigan,Field,Biochemistry,2,1,1
+University of Michigan,University of Michigan,Field,Biochemistry,4,1,3
+"University of Toledo, The",University of Michigan,Field,Biochemistry,3,1,1
+University of Wisconsin - Madison,University of Michigan,Field,Biochemistry,3,2,1
+Vanderbilt University,University of Michigan,Field,Biochemistry,4,1,3
+Washington University in St. Louis,University of Michigan,Field,Biochemistry,2,1,1
+Wayne State University,University of Michigan,Field,Biochemistry,3,1,2
+University of Nebraska - Lincoln,"University of Minnesota, Twin Cities",Field,Biochemistry,3,1,2
+University of Missouri,University of Missouri,Field,Biochemistry,2,1,1
+University of Rochester,University of Missouri,Field,Biochemistry,2,1,1
+"University of Montana, Missoula","University of Montana, Missoula",Field,Biochemistry,13,2,10
+University of Nebraska Medical Center,University of Nebraska - Lincoln,Field,Biochemistry,2,1,1
+"University of Arizona, The",University of North Carolina at Chapel Hill,Field,Biochemistry,2,1,1
+"University of Texas at Austin, The",University of North Carolina at Chapel Hill,Field,Biochemistry,3,1,2
+"University of North Dakota, The","University of North Dakota, The",Field,Biochemistry,6,3,2
+University of South Carolina,University of Notre Dame,Field,Biochemistry,3,1,2
+University of Denver,University of Oregon,Field,Biochemistry,2,1,1
+Thomas Jefferson University,University of Pennsylvania,Field,Biochemistry,2,1,1
+"University of Arizona, The",University of Pennsylvania,Field,Biochemistry,2,1,1
+"University of Montana, Missoula",University of Pennsylvania,Field,Biochemistry,2,1,1
+Indiana University - Bloomington,University of Pittsburgh,Field,Biochemistry,3,1,2
+University of Colorado Boulder,University of Pittsburgh,Field,Biochemistry,3,1,2
+University of Southern California,University of Southern California,Field,Biochemistry,3,1,2
+Texas State University,"University of Southern Mississippi, The",Field,Biochemistry,2,1,1
+Mississippi State University,"University of Tennessee, The",Field,Biochemistry,2,1,1
+"University of Montana, Missoula","University of Texas Health Science Center at Houston, The",Field,Biochemistry,2,1,1
+"University of Texas Health Science Center at San Antonio, The","University of Texas Health Science Center at San Antonio, The",Field,Biochemistry,4,1,3
+"University of Texas Medical Branch, The","University of Texas Medical Branch, The",Field,Biochemistry,7,1,5
+"University of Chicago, The","University of Texas Southwestern Medical Center at Dallas, The",Field,Biochemistry,2,1,1
+Auburn University,"University of Texas at Austin, The",Field,Biochemistry,4,1,3
+"University of Arizona, The","University of Texas at Austin, The",Field,Biochemistry,2,1,1
+University of Houston,"University of Texas at Austin, The",Field,Biochemistry,3,1,2
+University of Oklahoma,"University of Texas at Austin, The",Field,Biochemistry,3,1,2
+University of South Carolina,"University of Texas at Austin, The",Field,Biochemistry,2,1,1
+"University of Montana, Missoula","University of Utah, The",Field,Biochemistry,2,1,1
+University of Nebraska - Lincoln,"University of Vermont, The",Field,Biochemistry,2,1,1
+"University of Vermont, The","University of Vermont, The",Field,Biochemistry,4,1,3
+"University of Texas Southwestern Medical Center at Dallas, The",University of Virginia,Field,Biochemistry,2,1,1
+"University of California, Irvine",University of Washington,Field,Biochemistry,2,1,1
+"University of Montana, Missoula",University of Washington,Field,Biochemistry,6,1,3
+University of Washington,University of Washington,Field,Biochemistry,3,1,2
+Baylor College of Medicine,University of Wisconsin - Madison,Field,Biochemistry,2,1,1
+Indiana University-Purdue University Indianapolis,University of Wisconsin - Madison,Field,Biochemistry,4,2,1
+Iowa State University,University of Wisconsin - Madison,Field,Biochemistry,3,1,2
+Michigan State University,University of Wisconsin - Madison,Field,Biochemistry,4,1,2
+Montana State University,University of Wisconsin - Madison,Field,Biochemistry,3,1,2
+"Ohio State University, The",University of Wisconsin - Madison,Field,Biochemistry,5,2,3
+"Pennsylvania State University, The",University of Wisconsin - Madison,Field,Biochemistry,4,2,2
+"University at Buffalo, State University of New York",University of Wisconsin - Madison,Field,Biochemistry,3,1,2
+"University of California, Los Angeles",University of Wisconsin - Madison,Field,Biochemistry,2,1,1
+University of Michigan,University of Wisconsin - Madison,Field,Biochemistry,2,1,1
+University of Missouri,University of Wisconsin - Madison,Field,Biochemistry,6,1,5
+University of Rochester,University of Wisconsin - Madison,Field,Biochemistry,3,1,2
+University of Wisconsin - Madison,University of Wisconsin - Madison,Field,Biochemistry,6,3,3
+Vanderbilt University,Vanderbilt University,Field,Biochemistry,9,2,4
+Virginia Commonwealth University,Virginia Commonwealth University,Field,Biochemistry,4,3,1
+Ohio University,Virginia Polytechnic Institute and State University,Field,Biochemistry,2,1,1
+Wake Forest University,Wake Forest University,Field,Biochemistry,4,1,2
+Harvard University,Yale University,Field,Biochemistry,4,2,2
+Michigan State University,Yale University,Field,Biochemistry,2,1,1
+University of Colorado Boulder,Yale University,Field,Biochemistry,7,2,3
+University of Massachusetts Amherst,Yale University,Field,Biochemistry,5,2,2
+University of Massachusetts Medical School,Yale University,Field,Biochemistry,3,1,2
+University of Southern California,Yale University,Field,Biochemistry,2,1,1
+"University of Texas Southwestern Medical Center at Dallas, The",Yale University,Field,Biochemistry,2,1,1
+"University of Texas at Austin, The",Yale University,Field,Biochemistry,5,1,4
+University of Washington,Yale University,Field,Biochemistry,2,1,1

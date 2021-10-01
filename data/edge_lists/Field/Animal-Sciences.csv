@@ -1,0 +1,136 @@
+InstitutionName,DegreeInstitutionName,TaxonomyLevel,TaxonomyValue,TotalFaculty,FemaleFaculty,MaleFaculty
+Alabama A&M University,Alabama A&M University,Field,Animal Sciences,7,2,1
+Auburn University,Auburn University,Field,Animal Sciences,7,2,4
+University of Georgia,Auburn University,Field,Animal Sciences,4,2,1
+Clemson University,Clemson University,Field,Animal Sciences,3,1,1
+Colorado State University,Colorado State University,Field,Animal Sciences,8,1,7
+Kansas State University,Colorado State University,Field,Animal Sciences,3,2,1
+New Mexico State University,Colorado State University,Field,Animal Sciences,5,1,4
+"Ohio State University, The",Colorado State University,Field,Animal Sciences,3,1,2
+Oklahoma State University,Colorado State University,Field,Animal Sciences,3,1,2
+Texas A&M University,Colorado State University,Field,Animal Sciences,2,1,1
+"University of Arizona, The",Colorado State University,Field,Animal Sciences,5,1,4
+University of Kentucky,Colorado State University,Field,Animal Sciences,2,1,1
+Cornell University,Cornell University,Field,Animal Sciences,6,2,3
+North Carolina State University,Cornell University,Field,Animal Sciences,2,1,1
+Purdue University,Cornell University,Field,Animal Sciences,2,1,1
+"University of California, Davis",Cornell University,Field,Animal Sciences,5,2,3
+University of Illinois at Urbana-Champaign,Cornell University,Field,Animal Sciences,2,1,1
+University of Pennsylvania,Cornell University,Field,Animal Sciences,4,2,1
+Iowa State University,Iowa State University,Field,Animal Sciences,12,1,11
+Kansas State University,Iowa State University,Field,Animal Sciences,4,2,1
+North Dakota State University,Iowa State University,Field,Animal Sciences,7,2,4
+"Ohio State University, The",Iowa State University,Field,Animal Sciences,2,1,1
+Purdue University,Iowa State University,Field,Animal Sciences,3,1,2
+University of Nebraska - Lincoln,Iowa State University,Field,Animal Sciences,4,1,2
+Virginia Polytechnic Institute and State University,Iowa State University,Field,Animal Sciences,2,1,1
+Iowa State University,Kansas State University,Field,Animal Sciences,2,1,1
+Kansas State University,Kansas State University,Field,Animal Sciences,15,3,10
+University of Nebraska - Lincoln,Kansas State University,Field,Animal Sciences,3,1,2
+Louisiana State University,Louisiana State University,Field,Animal Sciences,7,3,4
+Alabama A&M University,Michigan State University,Field,Animal Sciences,2,1,1
+Michigan State University,Michigan State University,Field,Animal Sciences,9,2,5
+Purdue University,Michigan State University,Field,Animal Sciences,3,2,1
+University of Florida,Michigan State University,Field,Animal Sciences,2,1,1
+University of Missouri,Michigan State University,Field,Animal Sciences,2,1,1
+Washington State University,Michigan State University,Field,Animal Sciences,2,1,1
+Alabama A&M University,Mississippi State University,Field,Animal Sciences,2,1,1
+Mississippi State University,Mississippi State University,Field,Animal Sciences,2,1,1
+Montana State University,New Mexico State University,Field,Animal Sciences,4,1,1
+New Mexico State University,New Mexico State University,Field,Animal Sciences,4,1,3
+Iowa State University,North Carolina State University,Field,Animal Sciences,2,1,1
+New Mexico State University,North Carolina State University,Field,Animal Sciences,2,1,1
+North Carolina State University,North Carolina State University,Field,Animal Sciences,10,1,9
+Purdue University,North Carolina State University,Field,Animal Sciences,3,2,1
+University of Arkansas,North Carolina State University,Field,Animal Sciences,3,1,2
+Cornell University,"Ohio State University, The",Field,Animal Sciences,2,1,1
+Virginia Polytechnic Institute and State University,"Ohio State University, The",Field,Animal Sciences,2,1,1
+Clemson University,Oklahoma State University,Field,Animal Sciences,2,1,1
+Kansas State University,Oklahoma State University,Field,Animal Sciences,3,1,1
+New Mexico State University,Oklahoma State University,Field,Animal Sciences,2,1,1
+Oklahoma State University,Oklahoma State University,Field,Animal Sciences,6,1,4
+Texas Tech University,Oklahoma State University,Field,Animal Sciences,5,3,2
+University of Kentucky,Oklahoma State University,Field,Animal Sciences,2,1,1
+"University of Tennessee, The",Oklahoma State University,Field,Animal Sciences,2,1,1
+Utah State University,Oregon State University,Field,Animal Sciences,4,2,2
+"Ohio State University, The",Purdue University,Field,Animal Sciences,2,1,1
+Purdue University,Purdue University,Field,Animal Sciences,6,2,3
+South Dakota State University,Purdue University,Field,Animal Sciences,2,1,1
+South Dakota State University,South Dakota State University,Field,Animal Sciences,5,3,2
+Colorado State University,Texas A&M University,Field,Animal Sciences,7,1,5
+Kansas State University,Texas A&M University,Field,Animal Sciences,2,1,1
+Michigan State University,Texas A&M University,Field,Animal Sciences,2,1,1
+Mississippi State University,Texas A&M University,Field,Animal Sciences,4,1,2
+North Carolina State University,Texas A&M University,Field,Animal Sciences,2,1,1
+North Dakota State University,Texas A&M University,Field,Animal Sciences,3,2,1
+Texas A&M Kingsville,Texas A&M University,Field,Animal Sciences,5,2,3
+Texas A&M University,Texas A&M University,Field,Animal Sciences,22,5,15
+Texas Tech University,Texas A&M University,Field,Animal Sciences,3,1,1
+University of Florida,Texas A&M University,Field,Animal Sciences,5,1,4
+University of Missouri,Texas A&M University,Field,Animal Sciences,6,2,4
+Washington State University,Texas A&M University,Field,Animal Sciences,3,2,1
+Oklahoma State University,Texas Tech University,Field,Animal Sciences,2,1,1
+Texas Tech University,Texas Tech University,Field,Animal Sciences,6,1,5
+North Carolina State University,"University of Arizona, The",Field,Animal Sciences,2,1,1
+Rutgers - New Brunswick,"University of Arizona, The",Field,Animal Sciences,2,1,1
+"University of Arizona, The","University of Arizona, The",Field,Animal Sciences,5,1,1
+North Carolina State University,"University of California, Davis",Field,Animal Sciences,2,1,1
+Purdue University,"University of California, Davis",Field,Animal Sciences,2,1,1
+Texas A&M University,"University of California, Davis",Field,Animal Sciences,2,1,1
+"University of California, Davis","University of California, Davis",Field,Animal Sciences,4,2,2
+University of Nebraska - Lincoln,"University of California, Davis",Field,Animal Sciences,2,1,1
+University of Illinois at Urbana-Champaign,"University of Chicago, The",Field,Animal Sciences,3,1,2
+University of Connecticut,University of Connecticut,Field,Animal Sciences,4,2,1
+Oregon State University,University of Florida,Field,Animal Sciences,2,1,1
+Texas A&M University,University of Florida,Field,Animal Sciences,4,2,2
+University of Florida,University of Florida,Field,Animal Sciences,5,1,3
+University of Georgia,University of Florida,Field,Animal Sciences,3,1,1
+University of Missouri,University of Florida,Field,Animal Sciences,4,1,3
+Auburn University,University of Georgia,Field,Animal Sciences,5,2,3
+Clemson University,University of Georgia,Field,Animal Sciences,2,1,1
+Mississippi State University,University of Georgia,Field,Animal Sciences,2,1,1
+University of Georgia,University of Georgia,Field,Animal Sciences,8,1,6
+"University of Maine, The",University of Idaho,Field,Animal Sciences,2,1,1
+Utah State University,University of Idaho,Field,Animal Sciences,2,1,1
+Iowa State University,University of Illinois at Urbana-Champaign,Field,Animal Sciences,6,2,4
+Purdue University,University of Illinois at Urbana-Champaign,Field,Animal Sciences,3,1,2
+South Dakota State University,University of Illinois at Urbana-Champaign,Field,Animal Sciences,3,1,2
+University of Illinois at Urbana-Champaign,University of Illinois at Urbana-Champaign,Field,Animal Sciences,17,3,13
+University of Nebraska - Lincoln,University of Illinois at Urbana-Champaign,Field,Animal Sciences,3,1,2
+University of Georgia,University of Kentucky,Field,Animal Sciences,2,1,1
+University of Illinois at Urbana-Champaign,University of Kentucky,Field,Animal Sciences,2,1,1
+University of Kentucky,University of Kentucky,Field,Animal Sciences,7,3,4
+Virginia Polytechnic Institute and State University,"University of Maryland, College Park",Field,Animal Sciences,3,1,2
+University of Massachusetts Amherst,University of Massachusetts Amherst,Field,Animal Sciences,3,2,1
+Kansas State University,"University of Minnesota, Twin Cities",Field,Animal Sciences,2,1,1
+University of Idaho,"University of Minnesota, Twin Cities",Field,Animal Sciences,2,1,1
+"University of Minnesota, Twin Cities","University of Minnesota, Twin Cities",Field,Animal Sciences,9,5,3
+Auburn University,University of Missouri,Field,Animal Sciences,2,1,1
+Kansas State University,University of Missouri,Field,Animal Sciences,2,1,1
+Michigan State University,University of Missouri,Field,Animal Sciences,2,1,1
+North Dakota State University,University of Missouri,Field,Animal Sciences,2,1,1
+Oklahoma State University,University of Missouri,Field,Animal Sciences,2,1,1
+South Dakota State University,University of Missouri,Field,Animal Sciences,2,1,1
+University of Wyoming,University of Missouri,Field,Animal Sciences,3,1,2
+Virginia Polytechnic Institute and State University,University of Missouri,Field,Animal Sciences,2,1,1
+Iowa State University,University of Nebraska - Lincoln,Field,Animal Sciences,4,1,3
+Oklahoma State University,University of Nebraska - Lincoln,Field,Animal Sciences,2,1,1
+University of Nebraska - Lincoln,University of Nebraska - Lincoln,Field,Animal Sciences,12,3,8
+Virginia Polytechnic Institute and State University,University of Nebraska - Lincoln,Field,Animal Sciences,2,1,1
+University of Pennsylvania,University of Pennsylvania,Field,Animal Sciences,3,1,2
+Southern Illinois University Carbondale,"University of Tennessee, The",Field,Animal Sciences,3,1,1
+"University of Tennessee, The","University of Tennessee, The",Field,Animal Sciences,3,1,1
+University of Pennsylvania,"University of Texas Southwestern Medical Center at Dallas, The",Field,Animal Sciences,2,1,1
+Clemson University,University of Wisconsin - Madison,Field,Animal Sciences,3,1,2
+Iowa State University,University of Wisconsin - Madison,Field,Animal Sciences,7,1,5
+University of Florida,University of Wisconsin - Madison,Field,Animal Sciences,5,1,3
+West Virginia University,University of Wisconsin - Madison,Field,Animal Sciences,5,1,2
+University of Wyoming,University of Wyoming,Field,Animal Sciences,2,1,1
+Michigan State University,Virginia Polytechnic Institute and State University,Field,Animal Sciences,2,1,1
+"Ohio State University, The",Virginia Polytechnic Institute and State University,Field,Animal Sciences,2,1,1
+Southern Illinois University Carbondale,Virginia Polytechnic Institute and State University,Field,Animal Sciences,2,1,1
+"University of Tennessee, The",Virginia Polytechnic Institute and State University,Field,Animal Sciences,4,1,3
+Virginia Polytechnic Institute and State University,Virginia Polytechnic Institute and State University,Field,Animal Sciences,8,4,4
+West Virginia University,Virginia Polytechnic Institute and State University,Field,Animal Sciences,3,1,2
+"Pennsylvania State University, The",West Virginia University,Field,Animal Sciences,2,1,1
+"University of Tennessee, The",West Virginia University,Field,Animal Sciences,2,1,1
