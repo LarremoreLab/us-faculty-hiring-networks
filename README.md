@@ -74,21 +74,25 @@ df = df[
 ]
 ```
 
-# ranks
+# institution stats
 
-The csv containing the ranks of institutions in the faculty hiring networks has the following columns:
+The csv containing university-level information can be found at `data/institution-stats.csv`, and has the following columns:
 
-- `Rank`: Integer. The ordinal rank of the institution `InstitutionName` within the subscope `TaxonomyValue` at the scope of `TaxonomyLevel`. An `OrdinalRank` of 0 indicates the highest prestige.
-- `InstitutionId`: Integer. A unique identifer for the institution that employed the faculty.
-- `InstitutionName`: String. The name of the institution that employed the facutly.
 - `TaxonomyValue`: String. The subscope of the faculty hiring network that this edge is a part of.
 - `TaxonomyLevel`: String. The scope of the faculty hiring network that this edge is a part of.
+- `InstitutionId`: Integer. A unique identifer for the institution that employed the faculty.
+- `InstitutionName`: String. The name of the institution that employed the facutly.
+- `NonAttritionEvents`: Integer. the number of faculty who graduated from the institution who did not leave the institution (across all years)
+- `AttritionEvents`: Integer. the number of faculty who graduated from the institution who left the institution (across all years)
+- `ProductionRank`: Integer. the ordinal rank of the institution, in terms of how many faculty they produced
+- `PrestigeRank`: Float. the SpringRank of the institution, scaled from 0-1. A rank of 0 indicates high prestige; a rank of 1 indicates low prestige.
+- `OrdinalPrestigeRank`: Integer. the ordinal version of `PrestigeRank`.
 
 Institutions that did not met our criteria for inclusion in a given faculty hiring network are not ranked, though it is possible that they nonetheless have a program within the bounds of that particular faculty hiring network. For more information on our inclusion criteria for rankings, see the supplement.
 
 For example, for a row with this information:
 
-- `Rank`: 0
+- `OrdinalPrestigeRank`: 0
 - `InstitutionId`: 1
 - `InstitutionName`: "Puma University"
 - `TaxonomyValue`: "Felinology"
@@ -109,24 +113,62 @@ df = df[
   (df['TaxonomyValue'] == 'Academia')
 ]
 
-df = df.sort_values(by=['Rank'])
+df = df.sort_values(by=['OrdinalPrestigeRank'])
 print(df.head())
 ```
+# yearly stats
 
-# Miscellaneous stats
+The csv containing stats computed for multiple years can be found at `data/yearly-stats.csv`, and has the following columns:
 
-The csv containing the miscellaneous stats on the faculty hiring networks has the following columns:
-
-- `GiniCoefficient`: Float. The [Gini coefficient](https://en.wikipedia.org/wiki/Gini_coefficient) of faculty production within the subscope `TaxonomyValue` at the scope of `TaxonomyLevel`. Values range from 0 to 1. A value of 0 indicates maximum equality (production is equally distributed across producers). A value of 1 indicates that a single producer produces everything.
-- `FractionWomen`: Float. The fraction of women faculty within the subscope `TaxonomyValue` at the scope of `TaxonomyLevel`.
-- `PercentUpHierarchyHires`: Float. The fraction of faculty who are employed at an institution that is more prestigious than the institution they received their degree at, within the subscope `TaxonomyValue` at the scope of `TaxonomyLevel`.
-- `PercentSelfHires`: Float. The fraction of faculty who are employed at the institution they received their degree at, within the subscope `TaxonomyValue` at the scope of `TaxonomyLevel`.
-- `PercentDownHierarchyHires`: Float. The fraction of faculty who are employed at an institution that is less prestigious than the institution they received their degree at, within the subscope `TaxonomyValue` at the scope of `TaxonomyLevel`.
-- `PercentNonUSPhD`: Float. The fraction of faculty who received their degree from an institution outside the U.S., within the subscope `TaxonomyValue` at the scope of `TaxonomyLevel`.
-- `PercentUSPhDInField`: Float. The fraction of faculty who received their degree from an institution that employs faculty in the subscope `TaxonomyValue` at the scope of `TaxonomyLevel`, within the subscope `TaxonomyValue` at the scope of `TaxonomyLevel`. Note: this is an *upper bound* on the number of faculty who were trained in-field. For example, a faculty member employed in Aerospace Engineering who earned their degree in Mechanical Engineering from an institution that also has an Aerospace Engineering department would be considered to work in-field.
-- `PercentUSPhDOutOfField`: Float. The fraction of faculty who received their degree from an institution that does not employ faculty in the subscope `TaxonomyValue` at the scope of `TaxonomyLevel`, within the subscope `TaxonomyValue` at the scope of `TaxonomyLevel`. Note: this is an *lower bound* on the number of faculty who were trained out of field. For example, a faculty member employed in Biology is considered to have been trained out of field *only* if the institution they received their does not have a Biology department; whether that faculty member's degree is in Biology or not is (unfortunately) not considered.
 - `TaxonomyValue`: String. The subscope of the faculty hiring network that this edge is a part of.
 - `TaxonomyLevel`: String. The scope of the faculty hiring network that this edge is a part of.
+- `Year`: Integer. The year of the stat.
+- `GiniCoefficient`: Float. The Gini coefficient for that year.
+- `FractionWomen`: Float. The fraction of women in that year.
+
+# academia/domain/field-level stats
+
+The csv containing the miscellaneous stats at the academia/domain/field-level has the following columns:
+
+- `TaxonomyValue`: String. The subscope of the faculty hiring network that this edge is a part of.
+- `TaxonomyLevel`: String. The scope of the faculty hiring network that this edge is a part of.
+- `NoDoctorate`: Integer. The count of faculty without a doctorate.
+- `Doctorate (US)`: Integer. The count of faculty with a US doctorate.
+- `Doctorate (Non-US)`: Integer. The count of faculty with a non-US doctorate.
+- `Doctorate (Canada/UK)`: Integer. The count of faculty with a doctorate from Canada/the UK.
+- `Doctorate (Africa)`: Integer. The count of faculty with a doctorate from Africa.
+- `Doctorate (Asia)`: Integer. The count of faculty with a doctorate from Asia.
+- `Doctorate (Europe)`: Integer. The count of faculty with a doctorate from Europe.
+- `Doctorate (North America)`: Integer. The count of faculty with a doctorate from North America.
+- `Doctorate (Oceania)`: Integer. The count of faculty with a doctorate from Oceania.
+- `Doctorate (South America)`: Integer. The count of faculty with a doctorate from South America.
+- `NonAttritionEvents (US)`: Integer. The count of faculty who did not leave academia in a given year, across all years, for faculty with a US doctorate.
+- `AttritionEvents (US)`: Integer. The count of faculty who left academia in a given year, across all years.
+- `NonAttritionEvents (Canada/UK)`: Same as `NonAttritionEvents (US)`, but for faculty with a doctorate from Canada/UK
+- `AttritionEvents (Canada/UK)`: Same as `AttritionEvents (US)`, but for faculty with a doctorate from Canada/UK
+- `NonAttritionEvents (non US/Canada/UK)`: Same as `NonAttritionEvents (US)`, but for faculty with a doctorate from somewhere other than the US/Canada/UK
+- `AttritionEvents (non US/Canada/UK)`: Same as `AttritionEvents (US)`, but for faculty with a doctorate from somewhere other than the US/Canada/UK
+- `NewFaculty`: Integer. The count of facutly who started within the sample frame and earned their doctorate within 3 years of their first year in the dataset.
+- `ExistingFaculty`: Integer. The count of faculty who started before the sample frame or earned their doctorate more than 3 years before their first year in the dataset.
+- `GiniCoefficient`: Float. The Gini coefficient.
+- `GiniCoefficient (NewFaculty)`: Float. The Gini coefficient for new faculty.
+- `GiniCoefficient (ExistingFaculty)`: Float. The Gini coefficient for existing faculty.
+- `Men`: Integer. The number of men in the dataset.
+- `Women`: Integer. The number of women in the dataset.
+- `FractionWomen`: Float. The fraction of women in the dataset.
+- `FractionWomen (new faculty)`: Float. The fraction of women among new faculty.
+- `FractionWomen (existing faculty)`: Float. The fraction of women among existing faculty.
+- `SelfHires`: Integer. The number of faculty who were self-hired.
+- `SelfHires (Men)`: Integer. The number of men who were self-hired.
+- `SelfHires (Women)`: Integer. The number of women who were self-hired.
+- `NonAttritionEvents (non-self-hires)`: Same as `NonAttritionEvents (US)`, but for faculty who were not self-hired.
+- `AttritionEvents (non-self-hires)`: Same as `AttritionEvents (US)`, but for faculty who were not self-hired.
+- `NonAttritionEvents (self-hires)`: Same as `NonAttritionEvents (US)`, but for faculty who were self-hired.
+- `AttritionEvents (self-hires)`: Same as `AttritionEvents (US)`, but for faculty who were self-hired.
+- `FractionUpHierarchyHires`: Float. The fraction of faculty who are employed at an institution that is more prestigious than the institution they received their degree at, within the subscope `TaxonomyValue` at the scope of `TaxonomyLevel`.
+- `FractionDownHierarchyHires`: Float. The fraction of faculty who are employed at an institution that is less prestigious than the institution they received their degree at, within the subscope `TaxonomyValue` at the scope of `TaxonomyLevel`.
+- `FractionUpHierarchyHires (null model)`: Float. The fraction of faculty expected by the null model to be employed at an institution that is less prestigious than the institution they received their degree at, within the subscope `TaxonomyValue` at the scope of `TaxonomyLevel`.
+- `NullModelMoreHierarchicalThanEmpiricalCount`: Integer. The number of times a null model was more hierarchical than the empirical data. 1000 trials were run.
 
 If you wanted to get statistics for, say, the domain of Humanities, you would do something like this (assuming your working directory is the root of this repostory):
 

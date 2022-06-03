@@ -1,0 +1,1161 @@
+TaxonomyLevel,TaxonomyValue,Year,GiniCoefficient,FractionFemale
+Academia,Academia,2011,0.767,0.3116553936750878
+Academia,Academia,2012,0.767,0.3151162475244838
+Academia,Academia,2013,0.768,0.3208512501990763
+Academia,Academia,2014,0.767,0.3257563850687622
+Academia,Academia,2015,0.766,0.3307704255980118
+Academia,Academia,2016,0.765,0.3353835802516154
+Academia,Academia,2017,0.765,0.3401988056589911
+Academia,Academia,2018,0.765,0.3458549222797927
+Academia,Academia,2019,0.765,0.3518473859900745
+Academia,Academia,2020,0.764,0.357002841362577
+Field,Accounting,2011,0.516,0.2621848739495798
+Field,Accounting,2012,0.519,0.2712418300653594
+Field,Accounting,2013,0.509,0.2867469879518072
+Field,Accounting,2014,0.502,0.2954186413902053
+Field,Accounting,2015,0.501,0.3000767459708365
+Field,Accounting,2016,0.494,0.3023952095808383
+Field,Accounting,2017,0.492,0.3016800584368151
+Field,Accounting,2018,0.502,0.3047550432276657
+Field,Accounting,2019,0.484,0.2975265017667844
+Field,Accounting,2020,0.495,0.3034825870646766
+Field,Aerospace Engineering,2011,0.636,0.0928917609046849
+Field,Aerospace Engineering,2012,0.634,0.0929866036249014
+Field,Aerospace Engineering,2013,0.635,0.0929133858267716
+Field,Aerospace Engineering,2014,0.636,0.1062015503875969
+Field,Aerospace Engineering,2015,0.643,0.1106128550074738
+Field,Aerospace Engineering,2016,0.638,0.1170520231213872
+Field,Aerospace Engineering,2017,0.646,0.1230661040787623
+Field,Aerospace Engineering,2018,0.656,0.1244725738396624
+Field,Aerospace Engineering,2019,0.649,0.1267409470752089
+Field,Aerospace Engineering,2020,0.651,0.1325385694249649
+Field,Agricultural Economics,2011,0.579,0.1604729729729729
+Field,Agricultural Economics,2012,0.588,0.1638513513513513
+Field,Agricultural Economics,2013,0.606,0.1694078947368421
+Field,Agricultural Economics,2014,0.61,0.1781045751633987
+Field,Agricultural Economics,2015,0.609,0.1840390879478827
+Field,Agricultural Economics,2016,0.611,0.1897106109324758
+Field,Agricultural Economics,2017,0.599,0.2067851373182552
+Field,Agricultural Economics,2018,0.604,0.2046204620462046
+Field,Agricultural Economics,2019,0.6,0.2124789207419898
+Field,Agricultural Economics,2020,0.6,0.2281879194630872
+Field,Agricultural Engineering,2011,0.591,0.152744630071599
+Field,Agricultural Engineering,2012,0.593,0.1587916343919442
+Field,Agricultural Engineering,2013,0.578,0.1707498144023756
+Field,Agricultural Engineering,2014,0.577,0.1798715203426124
+Field,Agricultural Engineering,2015,0.583,0.1860304287690179
+Field,Agricultural Engineering,2016,0.583,0.1935266351989211
+Field,Agricultural Engineering,2017,0.581,0.1937984496124031
+Field,Agricultural Engineering,2018,0.583,0.1991065730695596
+Field,Agricultural Engineering,2019,0.583,0.2148337595907928
+Field,Agricultural Engineering,2020,0.58,0.2222934016655989
+Field,Agronomy,2011,0.6,0.1477079796264855
+Field,Agronomy,2012,0.611,0.1499148211243611
+Field,Agronomy,2013,0.605,0.1641791044776119
+Field,Agronomy,2014,0.606,0.1615008156606851
+Field,Agronomy,2015,0.614,0.1613924050632911
+Field,Agronomy,2016,0.613,0.1661442006269592
+Field,Agronomy,2017,0.603,0.1774960380348653
+Field,Agronomy,2018,0.592,0.1888
+Field,Agronomy,2019,0.598,0.1916932907348242
+Field,Agronomy,2020,0.595,0.1983739837398374
+Field,Anatomy,2011,0.442,0.2794577685088634
+Field,Anatomy,2012,0.451,0.2768595041322314
+Field,Anatomy,2013,0.462,0.2855711422845691
+Field,Anatomy,2014,0.474,0.2953419226957383
+Field,Anatomy,2015,0.483,0.3008937437934458
+Field,Anatomy,2016,0.471,0.3087378640776699
+Field,Anatomy,2017,0.477,0.3084200567644276
+Field,Anatomy,2018,0.474,0.3245531514581373
+Field,Anatomy,2019,0.472,0.3276026743075453
+Field,Anatomy,2020,0.466,0.3367633302151543
+Field,Animal Sciences,2011,0.625,0.2168316831683168
+Field,Animal Sciences,2012,0.626,0.2239841427155599
+Field,Animal Sciences,2013,0.618,0.2396135265700483
+Field,Animal Sciences,2014,0.621,0.2439496611810261
+Field,Animal Sciences,2015,0.614,0.2533206831119544
+Field,Animal Sciences,2016,0.621,0.2680608365019011
+Field,Animal Sciences,2017,0.64,0.2773109243697479
+Field,Animal Sciences,2018,0.641,0.2857142857142857
+Field,Animal Sciences,2019,0.643,0.2976653696498054
+Field,Animal Sciences,2020,0.639,0.3113300492610837
+Field,Anthropology,2011,0.626,0.4420910319963947
+Field,Anthropology,2012,0.621,0.4451812555260831
+Field,Anthropology,2013,0.622,0.4495726495726496
+Field,Anthropology,2014,0.619,0.4554455445544554
+Field,Anthropology,2015,0.62,0.4651260504201681
+Field,Anthropology,2016,0.619,0.4683860232945091
+Field,Anthropology,2017,0.616,0.4747390396659707
+Field,Anthropology,2018,0.616,0.4841571609632446
+Field,Anthropology,2019,0.617,0.4931330472103004
+Field,Anthropology,2020,0.621,0.4980426272292301
+Field,Architecture,2011,0.623,0.2605156037991858
+Field,Architecture,2012,0.62,0.2701111837802485
+Field,Architecture,2013,0.613,0.2789948453608247
+Field,Architecture,2014,0.607,0.2874598070739549
+Field,Architecture,2015,0.62,0.289864428663654
+Field,Architecture,2016,0.619,0.2958280657395701
+Field,Architecture,2017,0.624,0.3035043804755944
+Field,Architecture,2018,0.63,0.3063402385436283
+Field,Architecture,2019,0.626,0.3185560481317289
+Field,Architecture,2020,0.627,0.3249678249678249
+Field,Art History and Criticism,2011,0.667,0.4650229357798165
+Field,Art History and Criticism,2012,0.667,0.4701576576576576
+Field,Art History and Criticism,2013,0.669,0.4743169398907104
+Field,Art History and Criticism,2014,0.681,0.4779005524861878
+Field,Art History and Criticism,2015,0.675,0.4838001098297638
+Field,Art History and Criticism,2016,0.685,0.4864265927977839
+Field,Art History and Criticism,2017,0.679,0.4916294642857143
+Field,Art History and Criticism,2018,0.676,0.5
+Field,Art History and Criticism,2019,0.673,0.5109983079526227
+Field,Art History and Criticism,2020,0.672,0.5149942329873126
+Field,Asian Languages,2011,0.577,0.4132492113564668
+Field,Asian Languages,2012,0.594,0.4071856287425149
+Field,Asian Languages,2013,0.591,0.4096385542168674
+Field,Asian Languages,2014,0.594,0.4112426035502958
+Field,Asian Languages,2015,0.6,0.4142857142857143
+Field,Asian Languages,2016,0.602,0.4143646408839779
+Field,Asian Languages,2017,0.586,0.4143646408839779
+Field,Asian Languages,2018,0.594,0.4131054131054131
+Field,Asian Languages,2019,0.618,0.4180327868852459
+Field,Asian Languages,2020,0.614,0.4245810055865922
+Field,Asian Studies,2011,0.595,0.4005037783375315
+Field,Asian Studies,2012,0.616,0.3919239904988123
+Field,Asian Studies,2013,0.619,0.3899521531100478
+Field,Asian Studies,2014,0.617,0.3855140186915888
+Field,Asian Studies,2015,0.625,0.3887640449438202
+Field,Asian Studies,2016,0.624,0.3852813852813853
+Field,Asian Studies,2017,0.626,0.3837719298245614
+Field,Asian Studies,2018,0.631,0.3911111111111111
+Field,Asian Studies,2019,0.626,0.3864628820960699
+Field,Asian Studies,2020,0.625,0.3938053097345133
+Field,Astronomy,2011,0.651,0.1317790167257982
+Field,Astronomy,2012,0.659,0.1324828263002944
+Field,Astronomy,2013,0.669,0.1367924528301886
+Field,Astronomy,2014,0.669,0.1444600280504908
+Field,Astronomy,2015,0.668,0.1487488415199258
+Field,Astronomy,2016,0.672,0.1562355122855818
+Field,Astronomy,2017,0.674,0.160351201478743
+Field,Astronomy,2018,0.672,0.1656640444238778
+Field,Astronomy,2019,0.671,0.1755689735253135
+Field,Astronomy,2020,0.665,0.1759776536312849
+Field,Atmospheric Sciences and Meteorology,2011,0.59,0.1796116504854369
+Field,Atmospheric Sciences and Meteorology,2012,0.591,0.1898584905660377
+Field,Atmospheric Sciences and Meteorology,2013,0.596,0.1971830985915492
+Field,Atmospheric Sciences and Meteorology,2014,0.592,0.2077185017026106
+Field,Atmospheric Sciences and Meteorology,2015,0.596,0.2140391254315305
+Field,Atmospheric Sciences and Meteorology,2016,0.591,0.2184971098265896
+Field,Atmospheric Sciences and Meteorology,2017,0.594,0.2232451093210586
+Field,Atmospheric Sciences and Meteorology,2018,0.585,0.2395348837209302
+Field,Atmospheric Sciences and Meteorology,2019,0.582,0.2550415183867141
+Field,Atmospheric Sciences and Meteorology,2020,0.589,0.2627218934911242
+Field,Biochemistry,2011,0.638,0.2119760479041916
+Field,Biochemistry,2012,0.637,0.2164678498690718
+Field,Biochemistry,2013,0.639,0.2225979149056072
+Field,Biochemistry,2014,0.637,0.2268156424581005
+Field,Biochemistry,2015,0.64,0.2321275989746511
+Field,Biochemistry,2016,0.639,0.2392331203111975
+Field,Biochemistry,2017,0.635,0.2434210526315789
+Field,Biochemistry,2018,0.629,0.2486517172864036
+Field,Biochemistry,2019,0.628,0.2561772223800057
+Field,Biochemistry,2020,0.625,0.2606580829756795
+Field,Biological Sciences,2011,0.631,0.2722159730033746
+Field,Biological Sciences,2012,0.634,0.275022143489814
+Field,Biological Sciences,2013,0.635,0.2875664187035069
+Field,Biological Sciences,2014,0.635,0.2968227424749164
+Field,Biological Sciences,2015,0.629,0.2993366500829187
+Field,Biological Sciences,2016,0.627,0.3035423452768729
+Field,Biological Sciences,2017,0.625,0.3122199592668024
+Field,Biological Sciences,2018,0.631,0.3205771643663739
+Field,Biological Sciences,2019,0.627,0.3302266468968439
+Field,Biological Sciences,2020,0.625,0.3378927121179739
+Field,Biomedical Engineering,2011,0.561,0.1572052401746725
+Field,Biomedical Engineering,2012,0.567,0.1582809224318658
+Field,Biomedical Engineering,2013,0.559,0.1719500480307396
+Field,Biomedical Engineering,2014,0.577,0.1744604316546762
+Field,Biomedical Engineering,2015,0.584,0.1884816753926701
+Field,Biomedical Engineering,2016,0.585,0.1951013513513513
+Field,Biomedical Engineering,2017,0.585,0.1953376205787781
+Field,Biomedical Engineering,2018,0.578,0.2126436781609195
+Field,Biomedical Engineering,2019,0.584,0.2231139646869984
+Field,Biomedical Engineering,2020,0.588,0.2281988590057049
+Field,Biophysics,2011,0.502,0.2009626955475331
+Field,Biophysics,2012,0.504,0.2034682080924855
+Field,Biophysics,2013,0.499,0.2083805209513023
+Field,Biophysics,2014,0.509,0.2115812917594654
+Field,Biophysics,2015,0.502,0.2094907407407407
+Field,Biophysics,2016,0.503,0.2146892655367231
+Field,Biophysics,2017,0.517,0.2126696832579185
+Field,Biophysics,2018,0.508,0.2327188940092165
+Field,Biophysics,2019,0.512,0.2390300230946882
+Field,Biophysics,2020,0.511,0.2502923976608187
+Field,Biostatistics,2011,0.622,0.3813333333333333
+Field,Biostatistics,2012,0.621,0.37890625
+Field,Biostatistics,2013,0.634,0.3783454987834549
+Field,Biostatistics,2014,0.634,0.3812865497076023
+Field,Biostatistics,2015,0.628,0.392814371257485
+Field,Biostatistics,2016,0.626,0.4011834319526627
+Field,Biostatistics,2017,0.627,0.3969375736160188
+Field,Biostatistics,2018,0.636,0.4102564102564102
+Field,Biostatistics,2019,0.63,0.4194630872483221
+Field,Biostatistics,2020,0.627,0.4150943396226415
+Field,Business Administration,2011,0.617,0.2133142448103078
+Field,Business Administration,2012,0.616,0.2101998621640248
+Field,Business Administration,2013,0.607,0.2144808743169398
+Field,Business Administration,2014,0.603,0.2245448415374241
+Field,Business Administration,2015,0.612,0.2392717815344603
+Field,Business Administration,2016,0.62,0.2419047619047619
+Field,Business Administration,2017,0.616,0.2428748451053283
+Field,Business Administration,2018,0.618,0.2447724477244772
+Field,Business Administration,2019,0.627,0.2523076923076923
+Field,Business Administration,2020,0.63,0.2575107296137339
+Field,Cell Biology,2011,0.565,0.2778874629812438
+Field,Cell Biology,2012,0.563,0.2810679611650485
+Field,Cell Biology,2013,0.571,0.2841015992474129
+Field,Cell Biology,2014,0.572,0.2893636785880167
+Field,Cell Biology,2015,0.577,0.3025949953660797
+Field,Cell Biology,2016,0.58,0.3096309630963096
+Field,Cell Biology,2017,0.575,0.311219946571683
+Field,Cell Biology,2018,0.579,0.3173249551166966
+Field,Cell Biology,2019,0.57,0.3304387568555759
+Field,Cell Biology,2020,0.573,0.3368566176470588
+Field,Chemical Engineering,2011,0.629,0.1391891891891891
+Field,Chemical Engineering,2012,0.627,0.1498371335504886
+Field,Chemical Engineering,2013,0.625,0.1551939924906132
+Field,Chemical Engineering,2014,0.636,0.1575135787567893
+Field,Chemical Engineering,2015,0.647,0.1597387173396674
+Field,Chemical Engineering,2016,0.654,0.1678004535147392
+Field,Chemical Engineering,2017,0.647,0.170610897083104
+Field,Chemical Engineering,2018,0.656,0.1773584905660377
+Field,Chemical Engineering,2019,0.654,0.1883360085607276
+Field,Chemical Engineering,2020,0.653,0.1938444924406047
+Field,Chemistry,2011,0.672,0.1680883090817862
+Field,Chemistry,2012,0.675,0.1724562700172456
+Field,Chemistry,2013,0.683,0.1761336515513126
+Field,Chemistry,2014,0.685,0.1813459268004722
+Field,Chemistry,2015,0.677,0.1862036821253787
+Field,Chemistry,2016,0.679,0.1924056494558925
+Field,Chemistry,2017,0.678,0.2
+Field,Chemistry,2018,0.678,0.204367816091954
+Field,Chemistry,2019,0.675,0.21125116713352
+Field,Chemistry,2020,0.678,0.2159358793022159
+Field,Civil Engineering,2011,0.638,0.1530852567121997
+Field,Civil Engineering,2012,0.638,0.1576535288725939
+Field,Civil Engineering,2013,0.636,0.1616926503340757
+Field,Civil Engineering,2014,0.637,0.1686021505376344
+Field,Civil Engineering,2015,0.639,0.1755407653910149
+Field,Civil Engineering,2016,0.648,0.1839870602507076
+Field,Civil Engineering,2017,0.649,0.1924920127795527
+Field,Civil Engineering,2018,0.651,0.2006420545746388
+Field,Civil Engineering,2019,0.649,0.2042113627334127
+Field,Civil Engineering,2020,0.645,0.212620578778135
+Field,Classics and Classical Languages,2011,0.626,0.4052287581699346
+Field,Classics and Classical Languages,2012,0.627,0.4057507987220447
+Field,Classics and Classical Languages,2013,0.632,0.4146341463414634
+Field,Classics and Classical Languages,2014,0.63,0.4296066252587991
+Field,Classics and Classical Languages,2015,0.623,0.4364919354838709
+Field,Classics and Classical Languages,2016,0.627,0.4428997020854022
+Field,Classics and Classical Languages,2017,0.633,0.4498997995991984
+Field,Classics and Classical Languages,2018,0.623,0.4489795918367347
+Field,Classics and Classical Languages,2019,0.616,0.446786090621707
+Field,Classics and Classical Languages,2020,0.613,0.4559748427672956
+Field,Communication Disorders and Sciences,2011,0.501,0.5664621676891616
+Field,Communication Disorders and Sciences,2012,0.51,0.578
+Field,Communication Disorders and Sciences,2013,0.526,0.5792682926829268
+Field,Communication Disorders and Sciences,2014,0.527,0.5763747454175153
+Field,Communication Disorders and Sciences,2015,0.527,0.5843373493975904
+Field,Communication Disorders and Sciences,2016,0.53,0.6015325670498084
+Field,Communication Disorders and Sciences,2017,0.534,0.615678776290631
+Field,Communication Disorders and Sciences,2018,0.522,0.6247619047619047
+Field,Communication Disorders and Sciences,2019,0.518,0.6444866920152091
+Field,Communication Disorders and Sciences,2020,0.518,0.6526717557251909
+Field,Comparative Literature,2011,0.568,0.4589473684210526
+Field,Comparative Literature,2012,0.56,0.4595744680851064
+Field,Comparative Literature,2013,0.566,0.4656964656964657
+Field,Comparative Literature,2014,0.563,0.4669421487603306
+Field,Comparative Literature,2015,0.569,0.4767676767676768
+Field,Comparative Literature,2016,0.576,0.4798387096774194
+Field,Comparative Literature,2017,0.572,0.4910179640718562
+Field,Comparative Literature,2018,0.579,0.494949494949495
+Field,Comparative Literature,2019,0.586,0.5051546391752577
+Field,Comparative Literature,2020,0.579,0.5116772823779193
+Field,Computer Engineering,2011,0.635,0.1076647778109156
+Field,Computer Engineering,2012,0.637,0.1110149942329873
+Field,Computer Engineering,2013,0.64,0.108375778155065
+Field,Computer Engineering,2014,0.641,0.1143016448285475
+Field,Computer Engineering,2015,0.642,0.1186765108012031
+Field,Computer Engineering,2016,0.635,0.1239293361884368
+Field,Computer Engineering,2017,0.641,0.1288311688311688
+Field,Computer Engineering,2018,0.645,0.1309062742060418
+Field,Computer Engineering,2019,0.648,0.137011137011137
+Field,Computer Engineering,2020,0.645,0.139426800929512
+Field,Computer Science,2011,0.663,0.1454934474458411
+Field,Computer Science,2012,0.661,0.1472602739726027
+Field,Computer Science,2013,0.662,0.1456764476759283
+Field,Computer Science,2014,0.657,0.1494252873563218
+Field,Computer Science,2015,0.661,0.1544593921275535
+Field,Computer Science,2016,0.66,0.1533787068546427
+Field,Computer Science,2017,0.666,0.1584531950011789
+Field,Computer Science,2018,0.664,0.161022805805114
+Field,Computer Science,2019,0.664,0.1662906137184115
+Field,Computer Science,2020,0.668,0.1721074838996224
+Field,Counselor Education,2011,0.494,0.5042492917847026
+Field,Counselor Education,2012,0.496,0.5145502645502645
+Field,Counselor Education,2013,0.508,0.5155440414507773
+Field,Counselor Education,2014,0.503,0.5190839694656488
+Field,Counselor Education,2015,0.509,0.5295629820051414
+Field,Counselor Education,2016,0.505,0.5350877192982456
+Field,Counselor Education,2017,0.504,0.5331664580725908
+Field,Counselor Education,2018,0.513,0.5535248041775457
+Field,Counselor Education,2019,0.505,0.5636363636363636
+Field,Counselor Education,2020,0.507,0.5557011795543906
+Field,Criminal Justice and Criminology,2011,0.517,0.3641881638846737
+Field,Criminal Justice and Criminology,2012,0.527,0.374251497005988
+Field,Criminal Justice and Criminology,2013,0.544,0.3988269794721407
+Field,Criminal Justice and Criminology,2014,0.541,0.3914956011730205
+Field,Criminal Justice and Criminology,2015,0.545,0.3807471264367816
+Field,Criminal Justice and Criminology,2016,0.559,0.3769559032716927
+Field,Criminal Justice and Criminology,2017,0.557,0.3839662447257383
+Field,Criminal Justice and Criminology,2018,0.553,0.3952513966480447
+Field,Criminal Justice and Criminology,2019,0.566,0.4093959731543624
+Field,Criminal Justice and Criminology,2020,0.561,0.4264507422402159
+Field,Curriculum and Instruction,2011,0.584,0.6254826254826255
+Field,Curriculum and Instruction,2012,0.586,0.6244541484716157
+Field,Curriculum and Instruction,2013,0.586,0.6260978670012547
+Field,Curriculum and Instruction,2014,0.587,0.6253071253071253
+Field,Curriculum and Instruction,2015,0.578,0.6298136645962733
+Field,Curriculum and Instruction,2016,0.575,0.6342821782178217
+Field,Curriculum and Instruction,2017,0.578,0.6361951822112415
+Field,Curriculum and Instruction,2018,0.584,0.6436271401395054
+Field,Curriculum and Instruction,2019,0.59,0.6379746835443038
+Field,Curriculum and Instruction,2020,0.594,0.6429479034307497
+Field,Ecology,2011,0.567,0.2687585266030013
+Field,Ecology,2012,0.573,0.2769028871391076
+Field,Ecology,2013,0.571,0.2810126582278481
+Field,Ecology,2014,0.579,0.3014705882352941
+Field,Ecology,2015,0.568,0.305352798053528
+Field,Ecology,2016,0.563,0.3196622436670687
+Field,Ecology,2017,0.561,0.3254994124559342
+Field,Ecology,2018,0.571,0.3337278106508876
+Field,Ecology,2019,0.572,0.3518957345971564
+Field,Ecology,2020,0.577,0.3627797408716137
+Field,Economics,2011,0.657,0.1636125654450261
+Field,Economics,2012,0.65,0.17
+Field,Economics,2013,0.653,0.1714655451310255
+Field,Economics,2014,0.655,0.176489226869455
+Field,Economics,2015,0.665,0.1799813490829966
+Field,Economics,2016,0.661,0.1820121951219512
+Field,Economics,2017,0.665,0.1877781073865322
+Field,Economics,2018,0.671,0.1949202598936798
+Field,Economics,2019,0.679,0.1981796829125073
+Field,Economics,2020,0.681,0.203244837758112
+Field,Education,2011,0.58,0.5692695214105793
+Field,Education,2012,0.576,0.5712037765538945
+Field,Education,2013,0.58,0.5703479576399395
+Field,Education,2014,0.579,0.5768094534711965
+Field,Education,2015,0.579,0.5767543859649122
+Field,Education,2016,0.585,0.5767575322812052
+Field,Education,2017,0.582,0.5757142857142857
+Field,Education,2018,0.59,0.5774446823697359
+Field,Education,2019,0.587,0.578021978021978
+Field,Education,2020,0.587,0.5753323485967504
+Field,Education Administration,2011,0.56,0.4989473684210526
+Field,Education Administration,2012,0.554,0.5099111414900889
+Field,Education Administration,2013,0.564,0.5106970324361628
+Field,Education Administration,2014,0.561,0.5126452494873548
+Field,Education Administration,2015,0.565,0.5123796423658872
+Field,Education Administration,2016,0.58,0.5100806451612904
+Field,Education Administration,2017,0.582,0.5246995994659546
+Field,Education Administration,2018,0.587,0.532258064516129
+Field,Education Administration,2019,0.583,0.5332419465387251
+Field,Education Administration,2020,0.588,0.5284831846259437
+Field,Educational Psychology,2011,0.554,0.4955156950672645
+Field,Educational Psychology,2012,0.541,0.5044052863436124
+Field,Educational Psychology,2013,0.547,0.5139484978540773
+Field,Educational Psychology,2014,0.549,0.5191709844559586
+Field,Educational Psychology,2015,0.552,0.5276595744680851
+Field,Educational Psychology,2016,0.545,0.5282426778242678
+Field,Educational Psychology,2017,0.543,0.5382198952879581
+Field,Educational Psychology,2018,0.553,0.5439739413680782
+Field,Educational Psychology,2019,0.553,0.5570032573289903
+Field,Educational Psychology,2020,0.545,0.5527747551686616
+Field,Electrical Engineering,2011,0.653,0.1073521576984549
+Field,Electrical Engineering,2012,0.66,0.1102504518461141
+Field,Electrical Engineering,2013,0.656,0.1068702290076335
+Field,Electrical Engineering,2014,0.654,0.1119817997977755
+Field,Electrical Engineering,2015,0.659,0.115289460663038
+Field,Electrical Engineering,2016,0.652,0.119533527696793
+Field,Electrical Engineering,2017,0.656,0.1247904191616766
+Field,Electrical Engineering,2018,0.656,0.1283460803059273
+Field,Electrical Engineering,2019,0.657,0.1343175217812197
+Field,Electrical Engineering,2020,0.657,0.1365735115431348
+Field,English Language and Literature,2011,0.636,0.4701386420191966
+Field,English Language and Literature,2012,0.637,0.4700688680911178
+Field,English Language and Literature,2013,0.638,0.4733275412684622
+Field,English Language and Literature,2014,0.643,0.4754069968825771
+Field,English Language and Literature,2015,0.64,0.4774204584331166
+Field,English Language and Literature,2016,0.638,0.4807659134034845
+Field,English Language and Literature,2017,0.634,0.4897391304347826
+Field,English Language and Literature,2018,0.633,0.4931924041562164
+Field,English Language and Literature,2019,0.633,0.4997255260750228
+Field,English Language and Literature,2020,0.627,0.5028687766055895
+Field,Entomology,2011,0.545,0.1946624803767661
+Field,Entomology,2012,0.545,0.1964856230031949
+Field,Entomology,2013,0.573,0.2021116138763197
+Field,Entomology,2014,0.583,0.2015384615384615
+Field,Entomology,2015,0.592,0.2111801242236025
+Field,Entomology,2016,0.588,0.2202380952380952
+Field,Entomology,2017,0.585,0.2215657311669128
+Field,Entomology,2018,0.581,0.2352941176470588
+Field,Entomology,2019,0.581,0.257716049382716
+Field,Entomology,2020,0.586,0.2700156985871271
+Field,Environmental Engineering,2011,0.628,0.1611617312072893
+Field,Environmental Engineering,2012,0.628,0.1644518272425249
+Field,Environmental Engineering,2013,0.632,0.1704180064308681
+Field,Environmental Engineering,2014,0.636,0.1738453554748313
+Field,Environmental Engineering,2015,0.635,0.1817726589884827
+Field,Environmental Engineering,2016,0.633,0.1916342412451362
+Field,Environmental Engineering,2017,0.638,0.2012518054886856
+Field,Environmental Engineering,2018,0.641,0.2064796905222437
+Field,Environmental Engineering,2019,0.643,0.2106024096385542
+Field,Environmental Engineering,2020,0.643,0.2194051682106289
+Field,Environmental Health Sciences,2011,0.452,0.2819383259911894
+Field,Environmental Health Sciences,2012,0.47,0.3085106382978723
+Field,Environmental Health Sciences,2013,0.464,0.3313008130081301
+Field,Environmental Health Sciences,2014,0.477,0.3346456692913386
+Field,Environmental Health Sciences,2015,0.475,0.337890625
+Field,Environmental Health Sciences,2016,0.496,0.3525046382189239
+Field,Environmental Health Sciences,2017,0.501,0.3665413533834586
+Field,Environmental Health Sciences,2018,0.497,0.3793103448275862
+Field,Environmental Health Sciences,2019,0.5,0.4007707129094412
+Field,Environmental Health Sciences,2020,0.502,0.4126679462571977
+Field,Environmental Sciences,2011,0.575,0.2089136490250696
+Field,Environmental Sciences,2012,0.577,0.2226027397260274
+Field,Environmental Sciences,2013,0.578,0.2332225913621262
+Field,Environmental Sciences,2014,0.57,0.2419882275997384
+Field,Environmental Sciences,2015,0.57,0.2490494296577946
+Field,Environmental Sciences,2016,0.568,0.2636695018226002
+Field,Environmental Sciences,2017,0.57,0.2714285714285714
+Field,Environmental Sciences,2018,0.568,0.2804428044280442
+Field,Environmental Sciences,2019,0.554,0.2863327149041434
+Field,Environmental Sciences,2020,0.557,0.2911392405063291
+Field,Epidemiology,2011,0.657,0.4778280542986425
+Field,Epidemiology,2012,0.654,0.4819277108433735
+Field,Epidemiology,2013,0.664,0.4827875734676742
+Field,Epidemiology,2014,0.655,0.4902597402597403
+Field,Epidemiology,2015,0.655,0.4948124501197127
+Field,Epidemiology,2016,0.659,0.5054263565891473
+Field,Epidemiology,2017,0.653,0.5144230769230769
+Field,Epidemiology,2018,0.665,0.5217391304347826
+Field,Epidemiology,2019,0.666,0.5256
+Field,Epidemiology,2020,0.667,0.5238467552775606
+Field,Evolutionary Biology,2011,0.562,0.2747440273037542
+Field,Evolutionary Biology,2012,0.576,0.2767710049423393
+Field,Evolutionary Biology,2013,0.574,0.2788461538461538
+Field,Evolutionary Biology,2014,0.573,0.2993827160493827
+Field,Evolutionary Biology,2015,0.57,0.3036253776435045
+Field,Evolutionary Biology,2016,0.574,0.3218045112781955
+Field,Evolutionary Biology,2017,0.578,0.3224852071005917
+Field,Evolutionary Biology,2018,0.581,0.3338278931750741
+Field,Evolutionary Biology,2019,0.572,0.3522561863173217
+Field,Evolutionary Biology,2020,0.583,0.3653846153846153
+Field,"Exercise Science, Kinesiology, Rehab, Health",2011,0.599,0.4550236717517096
+Field,"Exercise Science, Kinesiology, Rehab, Health",2012,0.613,0.463
+Field,"Exercise Science, Kinesiology, Rehab, Health",2013,0.605,0.4699663623258049
+Field,"Exercise Science, Kinesiology, Rehab, Health",2014,0.61,0.4738805970149253
+Field,"Exercise Science, Kinesiology, Rehab, Health",2015,0.605,0.4728506787330316
+Field,"Exercise Science, Kinesiology, Rehab, Health",2016,0.608,0.4720357941834452
+Field,"Exercise Science, Kinesiology, Rehab, Health",2017,0.605,0.4717563989408649
+Field,"Exercise Science, Kinesiology, Rehab, Health",2018,0.609,0.4836629406706793
+Field,"Exercise Science, Kinesiology, Rehab, Health",2019,0.606,0.4903442485306465
+Field,"Exercise Science, Kinesiology, Rehab, Health",2020,0.609,0.4924874791318864
+Field,Finance,2011,0.565,0.1597757533286615
+Field,Finance,2012,0.564,0.1601941747572815
+Field,Finance,2013,0.57,0.1681850035038542
+Field,Finance,2014,0.568,0.1686661961891319
+Field,Finance,2015,0.577,0.1737024221453287
+Field,Finance,2016,0.57,0.1763085399449036
+Field,Finance,2017,0.573,0.1835486063902107
+Field,Finance,2018,0.569,0.1830417227456258
+Field,Finance,2019,0.573,0.1888157894736842
+Field,Finance,2020,0.564,0.1930527722110888
+Field,Food Science,2011,0.581,0.3646677471636953
+Field,Food Science,2012,0.578,0.3809523809523809
+Field,Food Science,2013,0.588,0.3855606758832565
+Field,Food Science,2014,0.588,0.3870967741935484
+Field,Food Science,2015,0.588,0.4
+Field,Food Science,2016,0.585,0.3923303834808259
+Field,Food Science,2017,0.589,0.4028776978417266
+Field,Food Science,2018,0.601,0.40625
+Field,Food Science,2019,0.6,0.4109985528219971
+Field,Food Science,2020,0.597,0.4202049780380673
+Field,Forestry and Forest Resources,2011,0.584,0.1772665764546684
+Field,Forestry and Forest Resources,2012,0.586,0.176158940397351
+Field,Forestry and Forest Resources,2013,0.589,0.1807838179519595
+Field,Forestry and Forest Resources,2014,0.588,0.1893564356435643
+Field,Forestry and Forest Resources,2015,0.599,0.2054794520547945
+Field,Forestry and Forest Resources,2016,0.606,0.2145454545454545
+Field,Forestry and Forest Resources,2017,0.6,0.2215269086357947
+Field,Forestry and Forest Resources,2018,0.597,0.228287841191067
+Field,Forestry and Forest Resources,2019,0.594,0.240648379052369
+Field,Forestry and Forest Resources,2020,0.587,0.2468030690537084
+Field,French Language and Literature,2011,0.576,0.5164410058027079
+Field,French Language and Literature,2012,0.574,0.5216572504708098
+Field,French Language and Literature,2013,0.569,0.522140221402214
+Field,French Language and Literature,2014,0.569,0.5211786372007366
+Field,French Language and Literature,2015,0.571,0.5306122448979592
+Field,French Language and Literature,2016,0.561,0.5158878504672897
+Field,French Language and Literature,2017,0.58,0.5226415094339623
+Field,French Language and Literature,2018,0.571,0.5223300970873787
+Field,French Language and Literature,2019,0.573,0.5168316831683168
+Field,French Language and Literature,2020,0.564,0.5295315682281059
+Field,Gender Studies,2011,0.467,0.8721804511278195
+Field,Gender Studies,2012,0.473,0.8709677419354839
+Field,Gender Studies,2013,0.475,0.8611111111111112
+Field,Gender Studies,2014,0.483,0.8561643835616438
+Field,Gender Studies,2015,0.491,0.847682119205298
+Field,Gender Studies,2016,0.482,0.8547297297297297
+Field,Gender Studies,2017,0.497,0.8463949843260188
+Field,Gender Studies,2018,0.506,0.8338461538461538
+Field,Gender Studies,2019,0.511,0.824773413897281
+Field,Gender Studies,2020,0.522,0.8240469208211144
+Field,Genetics,2011,0.512,0.2912087912087912
+Field,Genetics,2012,0.516,0.3178036605657238
+Field,Genetics,2013,0.522,0.3170731707317073
+Field,Genetics,2014,0.528,0.3245749613601236
+Field,Genetics,2015,0.529,0.3097345132743362
+Field,Genetics,2016,0.538,0.3124087591240876
+Field,Genetics,2017,0.542,0.3223880597014925
+Field,Genetics,2018,0.54,0.3328380386329866
+Field,Genetics,2019,0.541,0.338048090523338
+Field,Genetics,2020,0.542,0.3454545454545454
+Field,Geography,2011,0.58,0.2602131438721137
+Field,Geography,2012,0.585,0.26
+Field,Geography,2013,0.582,0.2769230769230769
+Field,Geography,2014,0.579,0.2915282392026578
+Field,Geography,2015,0.584,0.2952691680261011
+Field,Geography,2016,0.593,0.2978554408260524
+Field,Geography,2017,0.598,0.3057982525814138
+Field,Geography,2018,0.59,0.3123486682808716
+Field,Geography,2019,0.589,0.3273905996758509
+Field,Geography,2020,0.579,0.3368678629690049
+Field,Geology,2011,0.602,0.1881950384944397
+Field,Geology,2012,0.609,0.195193929173693
+Field,Geology,2013,0.601,0.2005649717514124
+Field,Geology,2014,0.604,0.2122752150117279
+Field,Geology,2015,0.603,0.2243316543975203
+Field,Geology,2016,0.595,0.2282442748091603
+Field,Geology,2017,0.592,0.2378419452887538
+Field,Geology,2018,0.598,0.2516178149980967
+Field,Geology,2019,0.595,0.2617680826636051
+Field,Geology,2020,0.599,0.2685113016367887
+Field,Germanic Languages and Literatures,2011,0.528,0.4
+Field,Germanic Languages and Literatures,2012,0.525,0.414519906323185
+Field,Germanic Languages and Literatures,2013,0.517,0.4318706697459584
+Field,Germanic Languages and Literatures,2014,0.513,0.4295454545454545
+Field,Germanic Languages and Literatures,2015,0.502,0.4331065759637188
+Field,Germanic Languages and Literatures,2016,0.525,0.4473684210526316
+Field,Germanic Languages and Literatures,2017,0.516,0.4681318681318681
+Field,Germanic Languages and Literatures,2018,0.516,0.4701986754966887
+Field,Germanic Languages and Literatures,2019,0.519,0.4709821428571428
+Field,Germanic Languages and Literatures,2020,0.525,0.4776785714285714
+Field,"Health, Physical Education, Recreation",2011,0.541,0.408695652173913
+Field,"Health, Physical Education, Recreation",2012,0.543,0.4051724137931034
+Field,"Health, Physical Education, Recreation",2013,0.545,0.4079601990049751
+Field,"Health, Physical Education, Recreation",2014,0.547,0.4006568144499179
+Field,"Health, Physical Education, Recreation",2015,0.55,0.4110236220472441
+Field,"Health, Physical Education, Recreation",2016,0.549,0.4062992125984252
+Field,"Health, Physical Education, Recreation",2017,0.534,0.4096
+Field,"Health, Physical Education, Recreation",2018,0.534,0.4031496062992126
+Field,"Health, Physical Education, Recreation",2019,0.538,0.4107424960505529
+Field,"Health, Physical Education, Recreation",2020,0.542,0.4201277955271565
+Field,History,2011,0.722,0.3547169811320754
+Field,History,2012,0.723,0.3609671848013817
+Field,History,2013,0.724,0.3732590529247911
+Field,History,2014,0.724,0.3776978417266187
+Field,History,2015,0.727,0.3837062051498522
+Field,History,2016,0.727,0.3897089835512442
+Field,History,2017,0.732,0.3962939566224468
+Field,History,2018,0.731,0.401541095890411
+Field,History,2019,0.733,0.40699935191186
+Field,History,2020,0.726,0.4106120651695288
+Field,Horticulture,2011,0.607,0.1992337164750957
+Field,Horticulture,2012,0.598,0.1984435797665369
+Field,Horticulture,2013,0.585,0.2030651340996168
+Field,Horticulture,2014,0.576,0.2103250478011472
+Field,Horticulture,2015,0.581,0.2207293666026871
+Field,Horticulture,2016,0.581,0.2180451127819548
+Field,Horticulture,2017,0.583,0.2242990654205607
+Field,Horticulture,2018,0.586,0.2211538461538461
+Field,Horticulture,2019,0.587,0.218503937007874
+Field,Horticulture,2020,0.582,0.2202020202020202
+Field,Human Development and Family Sciences,2011,0.558,0.5743801652892562
+Field,Human Development and Family Sciences,2012,0.564,0.5678889990089198
+Field,Human Development and Family Sciences,2013,0.563,0.570877531340405
+Field,Human Development and Family Sciences,2014,0.559,0.5811068702290076
+Field,Human Development and Family Sciences,2015,0.559,0.5926622765757291
+Field,Human Development and Family Sciences,2016,0.558,0.6010928961748634
+Field,Human Development and Family Sciences,2017,0.562,0.6079646017699115
+Field,Human Development and Family Sciences,2018,0.564,0.6116152450090744
+Field,Human Development and Family Sciences,2019,0.568,0.6059782608695652
+Field,Human Development and Family Sciences,2020,0.571,0.6035447761194029
+Field,Immunology,2011,0.517,0.2863913337846987
+Field,Immunology,2012,0.514,0.2883064516129032
+Field,Immunology,2013,0.517,0.3013972055888224
+Field,Immunology,2014,0.509,0.3035019455252918
+Field,Immunology,2015,0.508,0.3095081967213114
+Field,Immunology,2016,0.52,0.3166047087980173
+Field,Immunology,2017,0.519,0.3188319427890345
+Field,Immunology,2018,0.517,0.3269575612671846
+Field,Immunology,2019,0.517,0.3341599504029758
+Field,Immunology,2020,0.516,0.3425076452599388
+Field,Industrial Engineering,2011,0.59,0.1478149100257069
+Field,Industrial Engineering,2012,0.592,0.1562099871959026
+Field,Industrial Engineering,2013,0.587,0.1547029702970297
+Field,Industrial Engineering,2014,0.596,0.1580838323353293
+Field,Industrial Engineering,2015,0.601,0.1645274212368728
+Field,Industrial Engineering,2016,0.606,0.1728395061728395
+Field,Industrial Engineering,2017,0.61,0.1786108048511576
+Field,Industrial Engineering,2018,0.612,0.1869565217391304
+Field,Industrial Engineering,2019,0.614,0.1962922573609596
+Field,Industrial Engineering,2020,0.621,0.1997828447339848
+Field,Information Science,2011,0.567,0.3758212877792378
+Field,Information Science,2012,0.566,0.3715046604527297
+Field,Information Science,2013,0.572,0.3725743855109961
+Field,Information Science,2014,0.573,0.3751617076326002
+Field,Information Science,2015,0.572,0.3717948717948718
+Field,Information Science,2016,0.581,0.3657635467980296
+Field,Information Science,2017,0.574,0.3668280871670702
+Field,Information Science,2018,0.571,0.3679012345679012
+Field,Information Science,2019,0.589,0.3802145411203814
+Field,Information Science,2020,0.579,0.3793103448275862
+Field,Information Technology,2011,0.488,0.216260162601626
+Field,Information Technology,2012,0.489,0.2185970636215334
+Field,Information Technology,2013,0.492,0.2232704402515723
+Field,Information Technology,2014,0.493,0.2256493506493506
+Field,Information Technology,2015,0.504,0.2265023112480739
+Field,Information Technology,2016,0.517,0.2213740458015267
+Field,Information Technology,2017,0.518,0.2087745839636914
+Field,Information Technology,2018,0.511,0.217391304347826
+Field,Information Technology,2019,0.508,0.2341678939617084
+Field,Information Technology,2020,0.513,0.2337858220211161
+Field,International Affairs,2011,0.618,0.25669099756691
+Field,International Affairs,2012,0.611,0.2621015348288075
+Field,International Affairs,2013,0.61,0.2659090909090909
+Field,International Affairs,2014,0.616,0.2745535714285714
+Field,International Affairs,2015,0.624,0.2850877192982456
+Field,International Affairs,2016,0.631,0.2803030303030303
+Field,International Affairs,2017,0.635,0.2945652173913043
+Field,International Affairs,2018,0.63,0.2968236582694414
+Field,International Affairs,2019,0.632,0.3034557235421166
+Field,International Affairs,2020,0.615,0.3101123595505618
+Field,Linguistics,2011,0.602,0.4551820728291316
+Field,Linguistics,2012,0.601,0.4534412955465587
+Field,Linguistics,2013,0.601,0.4578947368421052
+Field,Linguistics,2014,0.598,0.4539473684210526
+Field,Linguistics,2015,0.595,0.453715775749674
+Field,Linguistics,2016,0.587,0.4654731457800511
+Field,Linguistics,2017,0.573,0.4565499351491569
+Field,Linguistics,2018,0.571,0.4649006622516556
+Field,Linguistics,2019,0.579,0.4651773981603154
+Field,Linguistics,2020,0.588,0.4634464751958224
+Field,Management,2011,0.612,0.247564935064935
+Field,Management,2012,0.621,0.2526062550120289
+Field,Management,2013,0.608,0.2593787817668415
+Field,Management,2014,0.608,0.261519805982215
+Field,Management,2015,0.612,0.2623664424218441
+Field,Management,2016,0.609,0.2635239567233385
+Field,Management,2017,0.615,0.2715956242927197
+Field,Management,2018,0.611,0.274420372481946
+Field,Management,2019,0.618,0.2750759878419453
+Field,Management,2020,0.612,0.2773467804499612
+Field,Management Information Systems,2011,0.506,0.1827814569536424
+Field,Management Information Systems,2012,0.509,0.1841059602649006
+Field,Management Information Systems,2013,0.51,0.1884057971014492
+Field,Management Information Systems,2014,0.517,0.1935064935064935
+Field,Management Information Systems,2015,0.526,0.1992433795712484
+Field,Management Information Systems,2016,0.525,0.2140221402214022
+Field,Management Information Systems,2017,0.537,0.2150537634408602
+Field,Management Information Systems,2018,0.537,0.2124105011933174
+Field,Management Information Systems,2019,0.543,0.2228506787330317
+Field,Management Information Systems,2020,0.541,0.2135355892648774
+Field,Marine Sciences,2011,0.551,0.1910739191073919
+Field,Marine Sciences,2012,0.541,0.1939058171745152
+Field,Marine Sciences,2013,0.542,0.1997264021887825
+Field,Marine Sciences,2014,0.55,0.2069425901201602
+Field,Marine Sciences,2015,0.548,0.2072678331090175
+Field,Marine Sciences,2016,0.549,0.2232496697490092
+Field,Marine Sciences,2017,0.561,0.2335403726708074
+Field,Marine Sciences,2018,0.568,0.2424607961399276
+Field,Marine Sciences,2019,0.563,0.2593984962406015
+Field,Marine Sciences,2020,0.566,0.2678571428571428
+Field,Marketing,2011,0.507,0.2764811490125673
+Field,Marketing,2012,0.519,0.2835689045936396
+Field,Marketing,2013,0.515,0.2836206896551724
+Field,Marketing,2014,0.512,0.2837723024638912
+Field,Marketing,2015,0.521,0.2840236686390532
+Field,Marketing,2016,0.502,0.2952853598014888
+Field,Marketing,2017,0.521,0.3078175895765472
+Field,Marketing,2018,0.502,0.3107890499194847
+Field,Marketing,2019,0.506,0.3137715179968701
+Field,Marketing,2020,0.505,0.3125
+Field,Materials Engineering,2011,0.604,0.1310008136696501
+Field,Materials Engineering,2012,0.609,0.1376075058639562
+Field,Materials Engineering,2013,0.606,0.1489686783804431
+Field,Materials Engineering,2014,0.61,0.1502276176024279
+Field,Materials Engineering,2015,0.609,0.154434250764526
+Field,Materials Engineering,2016,0.619,0.1616011860637509
+Field,Materials Engineering,2017,0.625,0.168244719592134
+Field,Materials Engineering,2018,0.622,0.1765134938001459
+Field,Materials Engineering,2019,0.615,0.1804087385482734
+Field,Materials Engineering,2020,0.62,0.1852117731514716
+Field,Mathematics,2011,0.681,0.1453009068425391
+Field,Mathematics,2012,0.681,0.1490188062142273
+Field,Mathematics,2013,0.68,0.1503361173355062
+Field,Mathematics,2014,0.675,0.1553712320453166
+Field,Mathematics,2015,0.677,0.1587682463507298
+Field,Mathematics,2016,0.677,0.161648177496038
+Field,Mathematics,2017,0.675,0.167551622418879
+Field,Mathematics,2018,0.676,0.1718287630696389
+Field,Mathematics,2019,0.677,0.1757024139295607
+Field,Mathematics,2020,0.672,0.1791193464833632
+Field,Mechanical Engineering,2011,0.644,0.0930550803968525
+Field,Mechanical Engineering,2012,0.645,0.0936454849498327
+Field,Mechanical Engineering,2013,0.651,0.0994798439531859
+Field,Mechanical Engineering,2014,0.656,0.1063218390804597
+Field,Mechanical Engineering,2015,0.665,0.110939907550077
+Field,Mechanical Engineering,2016,0.671,0.1148126115407495
+Field,Mechanical Engineering,2017,0.683,0.1178002894356005
+Field,Mechanical Engineering,2018,0.686,0.1257242178447277
+Field,Mechanical Engineering,2019,0.689,0.1298550724637681
+Field,Mechanical Engineering,2020,0.691,0.1338537149465163
+Field,Microbiology,2011,0.546,0.2715654952076677
+Field,Microbiology,2012,0.55,0.2717099373321396
+Field,Microbiology,2013,0.547,0.2863514719000892
+Field,Microbiology,2014,0.543,0.2919254658385093
+Field,Microbiology,2015,0.544,0.2995126273814798
+Field,Microbiology,2016,0.541,0.3049915397631134
+Field,Microbiology,2017,0.536,0.3083645443196005
+Field,Microbiology,2018,0.536,0.3181434599156118
+Field,Microbiology,2019,0.534,0.3235039028620988
+Field,Microbiology,2020,0.536,0.3306174957118353
+Field,Molecular Biology,2011,0.593,0.2442442442442442
+Field,Molecular Biology,2012,0.594,0.2461841457410142
+Field,Molecular Biology,2013,0.598,0.2546494992846924
+Field,Molecular Biology,2014,0.594,0.2621452621452621
+Field,Molecular Biology,2015,0.594,0.2744116174261392
+Field,Molecular Biology,2016,0.602,0.2792176039119804
+Field,Molecular Biology,2017,0.593,0.2819656488549618
+Field,Molecular Biology,2018,0.59,0.2834410740924913
+Field,Molecular Biology,2019,0.582,0.2991538078646092
+Field,Molecular Biology,2020,0.589,0.3064755313890262
+Field,Music,2011,0.64,0.2742428452347874
+Field,Music,2012,0.636,0.2837910608508346
+Field,Music,2013,0.634,0.2808391608391608
+Field,Music,2014,0.626,0.281790716836034
+Field,Music,2015,0.632,0.284896401308615
+Field,Music,2016,0.632,0.2899376186601573
+Field,Music,2017,0.632,0.2950079660116835
+Field,Music,2018,0.636,0.2999191592562651
+Field,Music,2019,0.637,0.3043828986286636
+Field,Music,2020,0.647,0.307103825136612
+Field,Natural Resources,2011,0.573,0.1995332555425904
+Field,Natural Resources,2012,0.567,0.2060185185185185
+Field,Natural Resources,2013,0.577,0.2136563876651982
+Field,Natural Resources,2014,0.572,0.2194046306504961
+Field,Natural Resources,2015,0.58,0.2339743589743589
+Field,Natural Resources,2016,0.589,0.2414131501472031
+Field,Natural Resources,2017,0.591,0.251434034416826
+Field,Natural Resources,2018,0.587,0.2587412587412587
+Field,Natural Resources,2019,0.58,0.2701894317048853
+Field,Natural Resources,2020,0.573,0.2752752752752753
+Field,Near and Middle Eastern Languages and Cultures,2011,0.585,0.2980132450331126
+Field,Near and Middle Eastern Languages and Cultures,2012,0.583,0.3037542662116041
+Field,Near and Middle Eastern Languages and Cultures,2013,0.581,0.310580204778157
+Field,Near and Middle Eastern Languages and Cultures,2014,0.578,0.3097643097643097
+Field,Near and Middle Eastern Languages and Cultures,2015,0.578,0.3203883495145631
+Field,Near and Middle Eastern Languages and Cultures,2016,0.58,0.321656050955414
+Field,Near and Middle Eastern Languages and Cultures,2017,0.578,0.340764331210191
+Field,Near and Middle Eastern Languages and Cultures,2018,0.571,0.3596214511041009
+Field,Near and Middle Eastern Languages and Cultures,2019,0.571,0.3514376996805112
+Field,Near and Middle Eastern Languages and Cultures,2020,0.561,0.3555555555555555
+Field,Neuroscience,2011,0.551,0.2805369127516778
+Field,Neuroscience,2012,0.55,0.2855288773523686
+Field,Neuroscience,2013,0.558,0.2972453555413196
+Field,Neuroscience,2014,0.548,0.3028938906752411
+Field,Neuroscience,2015,0.557,0.3037323037323037
+Field,Neuroscience,2016,0.565,0.3077844311377245
+Field,Neuroscience,2017,0.567,0.3061728395061728
+Field,Neuroscience,2018,0.561,0.3155015197568389
+Field,Neuroscience,2019,0.569,0.3223192019950124
+Field,Neuroscience,2020,0.567,0.3298969072164948
+Field,Nursing,2011,0.599,0.9191489361702128
+Field,Nursing,2012,0.59,0.9144363341443632
+Field,Nursing,2013,0.588,0.911470361816782
+Field,Nursing,2014,0.575,0.9091246290801188
+Field,Nursing,2015,0.573,0.907427735089645
+Field,Nursing,2016,0.587,0.9010380622837372
+Field,Nursing,2017,0.589,0.8983572895277208
+Field,Nursing,2018,0.586,0.8879809329247531
+Field,Nursing,2019,0.593,0.8796266495011265
+Field,Nursing,2020,0.603,0.8743872549019608
+Field,Nutrition Sciences,2011,0.545,0.5560488346281909
+Field,Nutrition Sciences,2012,0.557,0.5617615467239527
+Field,Nutrition Sciences,2013,0.553,0.5633367662203913
+Field,Nutrition Sciences,2014,0.558,0.5644670050761421
+Field,Nutrition Sciences,2015,0.555,0.5594262295081968
+Field,Nutrition Sciences,2016,0.572,0.5489236790606654
+Field,Nutrition Sciences,2017,0.562,0.5516252390057361
+Field,Nutrition Sciences,2018,0.555,0.5503952569169961
+Field,Nutrition Sciences,2019,0.554,0.5492957746478874
+Field,Nutrition Sciences,2020,0.56,0.5595595595595596
+Field,Operations Research,2011,0.534,0.163751987281399
+Field,Operations Research,2012,0.54,0.1652892561983471
+Field,Operations Research,2013,0.544,0.1677631578947368
+Field,Operations Research,2014,0.544,0.1639610389610389
+Field,Operations Research,2015,0.549,0.1717990275526742
+Field,Operations Research,2016,0.556,0.181959564541213
+Field,Operations Research,2017,0.558,0.1933534743202417
+Field,Operations Research,2018,0.56,0.1904047976011994
+Field,Operations Research,2019,0.562,0.1957831325301204
+Field,Operations Research,2020,0.554,0.18910741301059
+Field,Pathology,2011,0.498,0.3453177257525083
+Field,Pathology,2012,0.504,0.3446191051995163
+Field,Pathology,2013,0.504,0.3464285714285714
+Field,Pathology,2014,0.506,0.3566009104704097
+Field,Pathology,2015,0.513,0.3595591030026606
+Field,Pathology,2016,0.514,0.3633644859813084
+Field,Pathology,2017,0.517,0.3735653461680859
+Field,Pathology,2018,0.512,0.3891971883092859
+Field,Pathology,2019,0.512,0.3901960784313725
+Field,Pathology,2020,0.516,0.3945631067961165
+Field,Pharmaceutical Sciences,2011,0.561,0.2426636568848758
+Field,Pharmaceutical Sciences,2012,0.557,0.2440347071583514
+Field,Pharmaceutical Sciences,2013,0.561,0.2586206896551724
+Field,Pharmaceutical Sciences,2014,0.568,0.2825880114176974
+Field,Pharmaceutical Sciences,2015,0.571,0.2963302752293578
+Field,Pharmaceutical Sciences,2016,0.557,0.3043095866314864
+Field,Pharmaceutical Sciences,2017,0.557,0.3076263924592973
+Field,Pharmaceutical Sciences,2018,0.551,0.3134328358208955
+Field,Pharmaceutical Sciences,2019,0.552,0.3141025641025641
+Field,Pharmaceutical Sciences,2020,0.547,0.3100558659217877
+Field,Pharmacology,2011,0.506,0.2423230974632843
+Field,Pharmacology,2012,0.511,0.2448717948717948
+Field,Pharmacology,2013,0.504,0.2554697554697555
+Field,Pharmacology,2014,0.508,0.2576142131979695
+Field,Pharmacology,2015,0.508,0.2567049808429119
+Field,Pharmacology,2016,0.512,0.2622850122850123
+Field,Pharmacology,2017,0.507,0.2773159144893111
+Field,Pharmacology,2018,0.505,0.2820823244552058
+Field,Pharmacology,2019,0.498,0.2773266708307308
+Field,Pharmacology,2020,0.499,0.2749376558603491
+Field,Pharmacy,2011,0.568,0.362116991643454
+Field,Pharmacy,2012,0.563,0.3717201166180758
+Field,Pharmacy,2013,0.577,0.3868808567603748
+Field,Pharmacy,2014,0.574,0.40153452685422
+Field,Pharmacy,2015,0.571,0.4207858048162231
+Field,Pharmacy,2016,0.563,0.4240102171136654
+Field,Pharmacy,2017,0.567,0.4400977995110024
+Field,Pharmacy,2018,0.559,0.45125
+Field,Pharmacy,2019,0.586,0.4793756967670011
+Field,Pharmacy,2020,0.564,0.4656084656084656
+Field,Philosophy,2011,0.609,0.2483660130718954
+Field,Philosophy,2012,0.608,0.2495446265938069
+Field,Philosophy,2013,0.61,0.2537045352492142
+Field,Philosophy,2014,0.618,0.2602558447287164
+Field,Philosophy,2015,0.621,0.2656112576956904
+Field,Philosophy,2016,0.621,0.2731239092495637
+Field,Philosophy,2017,0.624,0.2796498905908096
+Field,Philosophy,2018,0.631,0.2860252503265128
+Field,Philosophy,2019,0.64,0.2934782608695652
+Field,Philosophy,2020,0.639,0.3015734265734265
+Field,Physics,2011,0.703,0.1176201372997711
+Field,Physics,2012,0.708,0.1180276662204373
+Field,Physics,2013,0.707,0.1216186972516771
+Field,Physics,2014,0.708,0.1279548904792886
+Field,Physics,2015,0.713,0.1325042881646655
+Field,Physics,2016,0.71,0.1361422824475968
+Field,Physics,2017,0.713,0.1398233809924306
+Field,Physics,2018,0.71,0.1458466794789664
+Field,Physics,2019,0.706,0.1521739130434782
+Field,Physics,2020,0.707,0.1539284949689573
+Field,Physiology,2011,0.521,0.2422709387296233
+Field,Physiology,2012,0.522,0.2427556041552761
+Field,Physiology,2013,0.521,0.2494541484716157
+Field,Physiology,2014,0.513,0.2491803278688524
+Field,Physiology,2015,0.513,0.2568245125348189
+Field,Physiology,2016,0.509,0.2618121178432462
+Field,Physiology,2017,0.502,0.2645444566410538
+Field,Physiology,2018,0.508,0.2764182424916574
+Field,Physiology,2019,0.502,0.2844294547498595
+Field,Physiology,2020,0.509,0.2933630786391523
+Field,Plant Pathology,2011,0.589,0.188034188034188
+Field,Plant Pathology,2012,0.595,0.1931623931623931
+Field,Plant Pathology,2013,0.589,0.2190635451505016
+Field,Plant Pathology,2014,0.588,0.2240527182866556
+Field,Plant Pathology,2015,0.589,0.2288961038961039
+Field,Plant Pathology,2016,0.591,0.237012987012987
+Field,Plant Pathology,2017,0.583,0.2411003236245954
+Field,Plant Pathology,2018,0.577,0.2508196721311475
+Field,Plant Pathology,2019,0.579,0.2558922558922559
+Field,Plant Pathology,2020,0.566,0.2478031634446397
+Field,Plant Sciences,2011,0.571,0.1904761904761904
+Field,Plant Sciences,2012,0.579,0.1910519951632406
+Field,Plant Sciences,2013,0.585,0.200238379022646
+Field,Plant Sciences,2014,0.587,0.203883495145631
+Field,Plant Sciences,2015,0.58,0.2169249106078665
+Field,Plant Sciences,2016,0.58,0.2285714285714285
+Field,Plant Sciences,2017,0.588,0.2255369928400954
+Field,Plant Sciences,2018,0.583,0.241126070991432
+Field,Plant Sciences,2019,0.581,0.2490421455938697
+Field,Plant Sciences,2020,0.586,0.2617534942820839
+Field,Political Science,2011,0.663,0.27408328154133
+Field,Political Science,2012,0.666,0.2778621317947161
+Field,Political Science,2013,0.678,0.285416045332538
+Field,Political Science,2014,0.683,0.2923481308411215
+Field,Political Science,2015,0.68,0.2970325554595217
+Field,Political Science,2016,0.679,0.3005387014459881
+Field,Political Science,2017,0.675,0.305955405023991
+Field,Political Science,2018,0.673,0.3166433566433566
+Field,Political Science,2019,0.674,0.3239397321428571
+Field,Political Science,2020,0.671,0.3280987100392596
+Field,Psychology,2011,0.602,0.4037427831972924
+Field,Psychology,2012,0.601,0.4065700483091787
+Field,Psychology,2013,0.599,0.4133686801742094
+Field,Psychology,2014,0.599,0.4174286247434223
+Field,Psychology,2015,0.597,0.4245317664340801
+Field,Psychology,2016,0.598,0.4318830242510699
+Field,Psychology,2017,0.598,0.4357002325165444
+Field,Psychology,2018,0.59,0.4427815294761817
+Field,Psychology,2019,0.59,0.4529616724738676
+Field,Psychology,2020,0.592,0.4628955983994179
+Field,Public Health,2011,0.639,0.4824229313142239
+Field,Public Health,2012,0.636,0.4855549923973644
+Field,Public Health,2013,0.636,0.487229862475442
+Field,Public Health,2014,0.639,0.4971014492753623
+Field,Public Health,2015,0.645,0.5035528185693984
+Field,Public Health,2016,0.659,0.5085201793721973
+Field,Public Health,2017,0.652,0.5228178998670802
+Field,Public Health,2018,0.658,0.5225778167470407
+Field,Public Health,2019,0.66,0.5327760668719753
+Field,Public Health,2020,0.655,0.5397236614853195
+Field,Religious Studies,2011,0.647,0.3086303939962476
+Field,Religious Studies,2012,0.639,0.2981818181818181
+Field,Religious Studies,2013,0.641,0.2985739750445633
+Field,Religious Studies,2014,0.641,0.2943800178412132
+Field,Religious Studies,2015,0.645,0.2993744414655943
+Field,Religious Studies,2016,0.652,0.3089285714285714
+Field,Religious Studies,2017,0.653,0.3170080142475512
+Field,Religious Studies,2018,0.652,0.3256021409455843
+Field,Religious Studies,2019,0.653,0.328278322925959
+Field,Religious Studies,2020,0.646,0.3274418604651162
+Field,Slavic Languages and Literatures,2011,0.575,0.4380952380952381
+Field,Slavic Languages and Literatures,2012,0.577,0.4554140127388535
+Field,Slavic Languages and Literatures,2013,0.568,0.4615384615384615
+Field,Slavic Languages and Literatures,2014,0.548,0.4752475247524752
+Field,Slavic Languages and Literatures,2015,0.543,0.487012987012987
+Field,Slavic Languages and Literatures,2016,0.557,0.4952076677316294
+Field,Slavic Languages and Literatures,2017,0.553,0.5172413793103449
+Field,Slavic Languages and Literatures,2018,0.559,0.5047619047619047
+Field,Slavic Languages and Literatures,2019,0.551,0.5143769968051118
+Field,Slavic Languages and Literatures,2020,0.546,0.517799352750809
+Field,Social Work,2011,0.635,0.6083437110834371
+Field,Social Work,2012,0.632,0.6160493827160494
+Field,Social Work,2013,0.626,0.6234158117079058
+Field,Social Work,2014,0.633,0.6275780789628757
+Field,Social Work,2015,0.633,0.6320046216060081
+Field,Social Work,2016,0.634,0.6423231742380678
+Field,Social Work,2017,0.633,0.6459874786568014
+Field,Social Work,2018,0.636,0.6500838457238681
+Field,Social Work,2019,0.637,0.6534090909090909
+Field,Social Work,2020,0.639,0.6567335243553009
+Field,Sociology,2011,0.623,0.4438291139240506
+Field,Sociology,2012,0.618,0.4475009686168152
+Field,Sociology,2013,0.613,0.4511307014181678
+Field,Sociology,2014,0.62,0.455024463680843
+Field,Sociology,2015,0.617,0.4648568240981777
+Field,Sociology,2016,0.63,0.4699453551912568
+Field,Sociology,2017,0.624,0.479090242112986
+Field,Sociology,2018,0.627,0.4844743733632622
+Field,Sociology,2019,0.623,0.4969947407963936
+Field,Sociology,2020,0.63,0.4973544973544973
+Field,Soil Science,2011,0.559,0.1611893583724569
+Field,Soil Science,2012,0.556,0.1648351648351648
+Field,Soil Science,2013,0.552,0.1734539969834087
+Field,Soil Science,2014,0.547,0.1857585139318885
+Field,Soil Science,2015,0.552,0.1852986217457886
+Field,Soil Science,2016,0.554,0.203076923076923
+Field,Soil Science,2017,0.566,0.199697428139183
+Field,Soil Science,2018,0.561,0.2130365659777424
+Field,Soil Science,2019,0.56,0.215748031496063
+Field,Soil Science,2020,0.55,0.2203947368421052
+Field,Spanish Language and Literature,2011,0.513,0.4668508287292817
+Field,Spanish Language and Literature,2012,0.517,0.4778523489932886
+Field,Spanish Language and Literature,2013,0.531,0.4880952380952381
+Field,Spanish Language and Literature,2014,0.53,0.4901703800786369
+Field,Spanish Language and Literature,2015,0.521,0.4940711462450592
+Field,Spanish Language and Literature,2016,0.516,0.499339498018494
+Field,Spanish Language and Literature,2017,0.513,0.5065274151436031
+Field,Spanish Language and Literature,2018,0.512,0.5
+Field,Spanish Language and Literature,2019,0.528,0.5047489823609227
+Field,Spanish Language and Literature,2020,0.52,0.5149456521739131
+Field,Special Education,2011,0.489,0.5871559633027523
+Field,Special Education,2012,0.5,0.6013864818024264
+Field,Special Education,2013,0.513,0.6151079136690647
+Field,Special Education,2014,0.511,0.6267361111111112
+Field,Special Education,2015,0.508,0.6236933797909407
+Field,Special Education,2016,0.509,0.6206293706293706
+Field,Special Education,2017,0.505,0.6136752136752137
+Field,Special Education,2018,0.52,0.6144366197183099
+Field,Special Education,2019,0.515,0.6273504273504273
+Field,Special Education,2020,0.513,0.6155172413793103
+Field,Speech and Hearing Sciences,2011,0.514,0.5924170616113744
+Field,Speech and Hearing Sciences,2012,0.519,0.5949074074074074
+Field,Speech and Hearing Sciences,2013,0.503,0.5864332603938731
+Field,Speech and Hearing Sciences,2014,0.501,0.5947136563876652
+Field,Speech and Hearing Sciences,2015,0.516,0.6124721603563474
+Field,Speech and Hearing Sciences,2016,0.505,0.6272321428571429
+Field,Speech and Hearing Sciences,2017,0.502,0.6328828828828829
+Field,Speech and Hearing Sciences,2018,0.495,0.6319444444444444
+Field,Speech and Hearing Sciences,2019,0.488,0.628175519630485
+Field,Speech and Hearing Sciences,2020,0.501,0.6444954128440367
+Field,Statistics,2011,0.583,0.1847094801223241
+Field,Statistics,2012,0.588,0.1909638554216867
+Field,Statistics,2013,0.595,0.1901658767772512
+Field,Statistics,2014,0.594,0.1967213114754098
+Field,Statistics,2015,0.6,0.20600115406809
+Field,Statistics,2016,0.603,0.2127780946948089
+Field,Statistics,2017,0.602,0.2182539682539682
+Field,Statistics,2018,0.598,0.2235563178959405
+Field,Statistics,2019,0.607,0.2229965156794425
+Field,Statistics,2020,0.608,0.2299528301886792
+Field,Systems Engineering,2011,0.523,0.1368948247078464
+Field,Systems Engineering,2012,0.533,0.1442622950819672
+Field,Systems Engineering,2013,0.537,0.1461038961038961
+Field,Systems Engineering,2014,0.541,0.1542130365659777
+Field,Systems Engineering,2015,0.529,0.1580594679186228
+Field,Systems Engineering,2016,0.527,0.1676923076923077
+Field,Systems Engineering,2017,0.535,0.1679389312977099
+Field,Systems Engineering,2018,0.542,0.1730474732006125
+Field,Systems Engineering,2019,0.561,0.1826625386996904
+Field,Systems Engineering,2020,0.574,0.1905487804878048
+Field,"Theatre Literature, History and Criticism",2011,0.512,0.4424184261036468
+Field,"Theatre Literature, History and Criticism",2012,0.512,0.4372093023255814
+Field,"Theatre Literature, History and Criticism",2013,0.516,0.438305709023941
+Field,"Theatre Literature, History and Criticism",2014,0.511,0.4369287020109689
+Field,"Theatre Literature, History and Criticism",2015,0.501,0.4392439243924392
+Field,"Theatre Literature, History and Criticism",2016,0.512,0.4485294117647059
+Field,"Theatre Literature, History and Criticism",2017,0.511,0.4556159420289855
+Field,"Theatre Literature, History and Criticism",2018,0.509,0.4561717352415027
+Field,"Theatre Literature, History and Criticism",2019,0.514,0.4626462646264626
+Field,"Theatre Literature, History and Criticism",2020,0.507,0.4703703703703704
+Field,Theological Studies,2011,0.637,0.2443868739205526
+Field,Theological Studies,2012,0.641,0.234375
+Field,Theological Studies,2013,0.649,0.2374278647980214
+Field,Theological Studies,2014,0.645,0.2391125718981101
+Field,Theological Studies,2015,0.647,0.2412645590682196
+Field,Theological Studies,2016,0.647,0.240506329113924
+Field,Theological Studies,2017,0.645,0.2432432432432432
+Field,Theological Studies,2018,0.646,0.2493723849372384
+Field,Theological Studies,2019,0.649,0.2533557046979866
+Field,Theological Studies,2020,0.647,0.2556521739130434
+Field,Urban and Regional Planning,2011,0.563,0.3185550082101806
+Field,Urban and Regional Planning,2012,0.562,0.3322784810126582
+Field,Urban and Regional Planning,2013,0.571,0.3328173374613003
+Field,Urban and Regional Planning,2014,0.572,0.3462732919254658
+Field,Urban and Regional Planning,2015,0.571,0.3523076923076923
+Field,Urban and Regional Planning,2016,0.582,0.3471810089020771
+Field,Urban and Regional Planning,2017,0.571,0.3656821378340366
+Field,Urban and Regional Planning,2018,0.582,0.3868715083798882
+Field,Urban and Regional Planning,2019,0.593,0.3852573018080668
+Field,Urban and Regional Planning,2020,0.585,0.3977433004231311
+Field,Veterinary Medical Sciences,2011,0.724,0.3168261114237479
+Field,Veterinary Medical Sciences,2012,0.718,0.3152173913043478
+Field,Veterinary Medical Sciences,2013,0.72,0.3340494092373791
+Field,Veterinary Medical Sciences,2014,0.714,0.3378088077336197
+Field,Veterinary Medical Sciences,2015,0.713,0.3568464730290456
+Field,Veterinary Medical Sciences,2016,0.714,0.369401107196779
+Field,Veterinary Medical Sciences,2017,0.709,0.381592039800995
+Field,Veterinary Medical Sciences,2018,0.707,0.3929471032745592
+Field,Veterinary Medical Sciences,2019,0.704,0.4007056451612903
+Field,Veterinary Medical Sciences,2020,0.7,0.4137931034482758
+Domain,Applied Sciences,2011,0.705,0.2452843518191451
+Domain,Applied Sciences,2012,0.709,0.25006993006993
+Domain,Applied Sciences,2013,0.706,0.2574771531431736
+Domain,Applied Sciences,2014,0.707,0.2626861555432984
+Domain,Applied Sciences,2015,0.709,0.2673582858692704
+Domain,Applied Sciences,2016,0.708,0.2717420212765957
+Domain,Applied Sciences,2017,0.708,0.2786757038581856
+Domain,Applied Sciences,2018,0.709,0.283657917019475
+Domain,Applied Sciences,2019,0.711,0.2873772517396111
+Domain,Applied Sciences,2020,0.712,0.2924149726991645
+Domain,Education,2011,0.64,0.5538746007732392
+Domain,Education,2012,0.645,0.5585975024015369
+Domain,Education,2013,0.657,0.5613560401082286
+Domain,Education,2014,0.653,0.565
+Domain,Education,2015,0.652,0.5708438287153652
+Domain,Education,2016,0.656,0.5720030935808198
+Domain,Education,2017,0.657,0.575925925925926
+Domain,Education,2018,0.664,0.5822450248756219
+Domain,Education,2019,0.665,0.584656500550228
+Domain,Education,2020,0.665,0.5847186700767263
+Domain,Engineering,2011,0.714,0.1252599125259912
+Domain,Engineering,2012,0.716,0.128025254296738
+Domain,Engineering,2013,0.716,0.1314795743220048
+Domain,Engineering,2014,0.713,0.1376982787715153
+Domain,Engineering,2015,0.712,0.14281948197456
+Domain,Engineering,2016,0.716,0.1484825201690357
+Domain,Engineering,2017,0.721,0.1543619954875909
+Domain,Engineering,2018,0.722,0.1600425611816986
+Domain,Engineering,2019,0.72,0.1659779614325069
+Domain,Engineering,2020,0.723,0.1708653482806398
+Domain,Humanities,2011,0.751,0.3877734388499153
+Domain,Humanities,2012,0.752,0.3893802311002677
+Domain,Humanities,2013,0.756,0.394802063098667
+Domain,Humanities,2014,0.76,0.3973582645727974
+Domain,Humanities,2015,0.761,0.4022058580721857
+Domain,Humanities,2016,0.764,0.406333498268184
+Domain,Humanities,2017,0.766,0.4118074357789077
+Domain,Humanities,2018,0.767,0.4155167229108891
+Domain,Humanities,2019,0.766,0.4200445133877385
+Domain,Humanities,2020,0.764,0.4248555901151861
+Domain,Mathematics and Computing,2011,0.704,0.1549295774647887
+Domain,Mathematics and Computing,2012,0.703,0.1574943724287821
+Domain,Mathematics and Computing,2013,0.708,0.1575799401886358
+Domain,Mathematics and Computing,2014,0.706,0.1612903225806451
+Domain,Mathematics and Computing,2015,0.71,0.1641190067854746
+Domain,Mathematics and Computing,2016,0.71,0.1669110101158188
+Domain,Mathematics and Computing,2017,0.71,0.1723865594485927
+Domain,Mathematics and Computing,2018,0.706,0.1754912468738835
+Domain,Mathematics and Computing,2019,0.71,0.1812486651954153
+Domain,Mathematics and Computing,2020,0.71,0.1845716317099182
+Domain,Medicine and Health,2011,0.67,0.4595696274528391
+Domain,Medicine and Health,2012,0.667,0.4634874007435626
+Domain,Medicine and Health,2013,0.67,0.4711683028212611
+Domain,Medicine and Health,2014,0.668,0.4762275578628596
+Domain,Medicine and Health,2015,0.668,0.4829052559959176
+Domain,Medicine and Health,2016,0.668,0.488251725271114
+Domain,Medicine and Health,2017,0.665,0.4919139645831649
+Domain,Medicine and Health,2018,0.665,0.4982759320108718
+Domain,Medicine and Health,2019,0.671,0.5051900319075892
+Domain,Medicine and Health,2020,0.672,0.5108883790202472
+Domain,Natural Sciences,2011,0.71,0.2223402727925341
+Domain,Natural Sciences,2012,0.712,0.2255288233157291
+Domain,Natural Sciences,2013,0.709,0.2321896882688512
+Domain,Natural Sciences,2014,0.71,0.2389980588720185
+Domain,Natural Sciences,2015,0.713,0.2447482052504702
+Domain,Natural Sciences,2016,0.71,0.2509456448520649
+Domain,Natural Sciences,2017,0.713,0.2559335038363171
+Domain,Natural Sciences,2018,0.714,0.2649639003182982
+Domain,Natural Sciences,2019,0.713,0.2727058020836067
+Domain,Natural Sciences,2020,0.713,0.2777954004758128
+Domain,Social Sciences,2011,0.722,0.3462191589251823
+Domain,Social Sciences,2012,0.722,0.3511893156560733
+Domain,Social Sciences,2013,0.719,0.3580010530850605
+Domain,Social Sciences,2014,0.72,0.3624078624078624
+Domain,Social Sciences,2015,0.721,0.3680309528249114
+Domain,Social Sciences,2016,0.721,0.3715512515987575
+Domain,Social Sciences,2017,0.722,0.3774082151944747
+Domain,Social Sciences,2018,0.714,0.3832890030266899
+Domain,Social Sciences,2019,0.718,0.3919166896045509
+Domain,Social Sciences,2020,0.718,0.3983530385977826
